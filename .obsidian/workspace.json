@@ -147,14 +147,18 @@
             "id": "14e01cd019e4ea72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -310,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 911.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,6 +334,8 @@
   },
   "active": "13a8ba90d3b911ec",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-10 23.41.16.excalidraw.md",
+    "Excalidraw",
     "HFY Power Armor/Ch 1 - 10/10.md",
     "HFY Power Armor/Ch 1 - 10/5.md",
     "HFY Power Armor/Ch 1 - 10/9.md",
@@ -358,7 +364,6 @@
     "Theory D&D/Events/MK Ultra.md",
     "Theory D&D/Concepts/Entities/Human Related/Professions and Lifestyles/Scientists.md",
     "Theory D&D/Concepts/Entities/Human Related/Human.md",
-    "Theory D&D/Realms/Hyper Reality.md",
     "Theory D&D/Theories/Untitled",
     "Theory D&D/Characters/Untitled.canvas",
     "Theory D&D/Characters/Medieval",
@@ -366,7 +371,6 @@
     "Theory D&D/Characters/19th century",
     "Theory D&D/Characters/The 20th century",
     "Theory D&D/Characters/Ancient Era/Untitled",
-    "2026-03-09.html",
     "Untitled.canvas"
   ]
 }
