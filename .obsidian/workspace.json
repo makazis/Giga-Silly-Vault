@@ -147,14 +147,12 @@
             "id": "14e01cd019e4ea72",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Excalidraw/Drawing 2026-03-10 23.41.16.excalidraw.md"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-10 23.41.16.excalidraw"
             }
           }
         ],
@@ -314,7 +312,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 911.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,45 +331,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "13a8ba90d3b911ec",
+  "active": "14e01cd019e4ea72",
   "lastOpenFiles": [
-    "total.txt",
-    "Compiler.py",
-    "Excalidraw/Drawing 2026-03-10 23.41.16.excalidraw.md",
-    "Excalidraw",
-    "HFY Power Armor/Ch 1 - 10/10.md",
-    "HFY Power Armor/Ch 1 - 10/5.md",
-    "HFY Power Armor/Ch 1 - 10/9.md",
-    "HFY Power Armor/Ch 1 - 10/8.md",
-    "HFY Power Armor/Ch 1 - 10/7.md",
-    "HFY Power Armor/Ch 1 - 10/6.md",
-    "HFY Power Armor/Ch 1 - 10/4.md",
-    "HFY Power Armor/Ch 1 - 10/3.md",
-    "HFY Power Armor/Ch 1 - 10/2.md",
-    "HFY Power Armor/Ch 1 - 10/1.md",
-    "HFY Power Armor/Ch 1 - 10",
-    "HFY Power Armor",
-    "Theory D&D/Theories/Useless/Prolepsis.md",
-    "Theory D&D/Theories/Eggless Travel.md",
-    "Theory D&D/Concepts/Religions/Theosophy.md",
-    "Theory D&D/Concepts/Religions",
-    "Theory D&D/Theories/Spiritual/OLFMA.md",
-    "Theory D&D/Concepts/Entities/Cryptids/Archons.md",
-    "Theory D&D/Theories/Spiritual/Archontic Genetic Engineered Entities.md",
-    "Theory D&D/Things/Locations/Structures/The Sphynx.md",
-    "Theory D&D/Things/Locations/Structures/The Pyramids.md",
-    "Theory D&D/Concepts/Entities/Human Related/Races/Ancient Egyptians.md",
-    "Theory D&D/Theories/Sphynx Water Erosion Hypothesis Implications.md",
-    "Theory D&D/Theories/Locational/Eilean Mor Island.md",
-    "Theory D&D/Theories/Useless/Santiago Interference.md",
-    "Theory D&D/Events/MK Ultra.md",
-    "Theory D&D/Concepts/Entities/Human Related/Professions and Lifestyles/Scientists.md",
-    "Theory D&D/Theories/Untitled",
+    "HFY Power Armor/Ch 11 - 20/11.md",
+    "HFY Power Armor/Ch 11 - 20/12.md",
+    "HFY Power Armor/Ch 161 - 170/170.md",
+    "HFY Power Armor/Ch 161 - 170/169.md",
+    "HFY Power Armor/Ch 161 - 170/168.md",
+    "HFY Power Armor/Ch 161 - 170/167.md",
+    "HFY Power Armor/Ch 161 - 170/166.md",
+    "HFY Power Armor/Ch 161 - 170/165.md",
+    "HFY Power Armor/Ch 161 - 170/164.md",
+    "HFY Power Armor/Ch 161 - 170/163.md",
+    "HFY Power Armor/Ch 161 - 170/162.md",
+    "HFY Power Armor/Ch 161 - 170/161.md",
+    "HFY Power Armor/Ch 151 - 160/160.md",
+    "HFY Power Armor/Ch 151 - 160/159.md",
+    "HFY Power Armor/Ch 151 - 160/158.md",
+    "HFY Power Armor/Ch 151 - 160/157.md",
+    "HFY Power Armor/Ch 151 - 160/156.md",
+    "HFY Power Armor/Ch 151 - 160/155.md",
+    "HFY Power Armor/Ch 151 - 160/154.md",
+    "HFY Power Armor/Ch 151 - 160/153.md",
+    "HFY Power Armor/Ch 151 - 160/152.md",
+    "HFY Power Armor/Ch 151 - 160/151.md",
+    "HFY Power Armor/Ch 141 - 150/150.md",
+    "HFY Power Armor/Ch 141 - 150/149.md",
+    "HFY Power Armor/Ch 141 - 150/148.md",
+    "HFY Power Armor/Ch 141 - 150/147.md",
+    "HFY Power Armor/Ch 161 - 170",
+    "HFY Power Armor/Ch 151 - 160",
+    "HFY Power Armor/Ch 141 - 150",
+    "HFY Power Armor/Ch 131 - 140",
+    "HFY Power Armor/Ch 121 - 130",
+    "HFY Power Armor/Ch 111 - 120",
+    "HFY Power Armor/Ch 101 - 110",
+    "HFY Power Armor/Ch 91 - 100",
+    "HFY Power Armor/Ch 81 - 90",
+    "HFY Power Armor/Ch 71 - 80",
     "Theory D&D/Characters/Untitled.canvas",
-    "Theory D&D/Characters/Medieval",
-    "Theory D&D/Things/Items",
-    "Theory D&D/Characters/19th century",
-    "Theory D&D/Characters/The 20th century",
     "Untitled.canvas"
   ]
 }
