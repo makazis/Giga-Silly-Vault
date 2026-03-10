@@ -1,0 +1,6 @@
+#Theory 
+# Explanation:
+If you flip your depression into a positive emotion, then you just committed a form of spiritual alchemy, translating the negative forces into positive forces. You can do a lot of tomfoolery with that.
+
+# Interpretation:
+Can be achieved via [[Pattern Manipulation]]. Not much else to it. It’s just another example of pattern manipulators being able to turn [[Negative Energy]] into a positive one. The deeper implications that this has is that when looking at things like [[Theory D&D/Theories/Souls n shit/Forced Soul Removal]], that could mean that a strong enough pattern manipulator could turn an attempt of [[Soul]] removal into a more powerful defense, as well as them being able to merge another soul as a defense for their own, as a response to a negative [[Emotion]]. It also means that you can reverse the effects of events such as [[Theory D&D/Things/Magic/Spells/Virus 23|Virus 23]], and in some scenarios, even gain spiritual entities from the [[Hyper Reality]] as familiars, or allies in battle. There is of course an entity in the hyper reality immune to this, which is bad even if you flip it, just bad in a different manner, so you still can’t stay in hyper reality forever, but you can get some cool stuff with this.

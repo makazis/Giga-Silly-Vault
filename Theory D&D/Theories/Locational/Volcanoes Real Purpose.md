@@ -1,0 +1,2 @@
+#Theory 
+[[Volcano|Volcanoes]] are an amalgamation of [[Heat|Thermal]] and [[Nuclear]] Energy. The Nuclear Power plants from [[The Great Cycle|the previous cycle]] are the volcanic rocks beneath us, that become the volcanoes that we stand upon.  The volcanoes are some of the last remaining remnants of this old world. 

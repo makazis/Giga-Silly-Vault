@@ -1,0 +1,2 @@
+#Theory 
+This relates to [[Cuneiform Language]], as well as Relearned intelligence. [[Human|People]] thousands and thousands of years ago decided to store knowledge like that, and only recently did the humanity begin to relearn all of that old knowledge. This applies to [[The Great Cycle]], because the first people who wrote in the language learned that from [[The Before]],

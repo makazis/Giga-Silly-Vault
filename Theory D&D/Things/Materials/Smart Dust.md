@@ -1,0 +1,2 @@
+#Thing 
+Smart dust is a powder, or a dust, that is made up of very microscopic [[nanomachines]], that whenever exposed to different environments like lights or temperature, they can move or interact with each other differently, forming different structures. 

@@ -1,0 +1,7 @@
+#Theory 
+Very close to [[Regurgitation Rituals]]. There was another idea of [[Death]]. The idea was that the [[Body]] and the [[Soul]] were a lot more connected than so far we have thought. The [[Body]] and the [[Soul]] is interlinked in such a way that the [[Soul]] leaves remnants of itself in the body, allowing minor [[Magic]] to be cast with the [[Corpse]], and those can be used in rituals. 
+The [[Ancient Egyptians]] believed their bodies needed to be mummified after [[Death]], and to have their [[Organ]]s harvested. The body after death needs to be burned or buried in order for the soul to pass on safely (and to not get bullied in [[Spiritual Plane]] for what they did in the body. )
+So the question here becomes: What if a [[Human]] [[Cannibal|eats the body]]? The remnants of the soul are attached to you, after they are removed from the body. 
+If you ate a bunch of people's bodies, you could not only gain their power, but their souls would extend your own lifespan. This is one of the ways that the [[Elitist]]s can achieve [[Immortallity]]. This is also how [[Vampire]]s function.  
+
+[[Theory D&D/Concepts/Things one can do/Regenerative Death Consumption|Regenerative Death Consumption]]

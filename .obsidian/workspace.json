@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "c7d7343995a8c908",
+    "type": "split",
+    "children": [
+      {
+        "id": "415ec9d225ae9bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8370a35cfa75fd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Items/The Life Elixir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Life Elixir"
+            }
+          },
+          {
+            "id": "3b2d5fa577231c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Historical/Phantom Time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phantom Time"
+            }
+          },
+          {
+            "id": "bdbceb6ef84a4afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Characters/Medieval/Otto III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Otto III"
+            }
+          },
+          {
+            "id": "46e796f36f0402ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Locations/Countries/Florida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Florida"
+            }
+          },
+          {
+            "id": "2b3422e932cff526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Medical/Null Compliance Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Null Compliance Security"
+            }
+          },
+          {
+            "id": "2d310ab612977ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phlogiston Theory Resurfacing"
+            }
+          },
+          {
+            "id": "a3a12ccbb7a30aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Santiago Interference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Santiago Interference"
+            }
+          },
+          {
+            "id": "9c5a3fd4b8f45cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Concepts/Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Life"
+            }
+          },
+          {
+            "id": "af5cc5cba625480f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scientists"
+            }
+          },
+          {
+            "id": "de57df1cfade3cd5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "14e01cd019e4ea72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b623efc7400dd493",
+    "type": "split",
+    "children": [
+      {
+        "id": "12cdee6e604f61a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0a423964efb6c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ebcfb9113846e9e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Concept",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15b75084987de06f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "995e9833d2a1e3e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bd37940eae350a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7c48b283dddab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "62058d545ed1e8b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6e949e1bea3cb45b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c1607d3248e77f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2520ecdd1af16c62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "13a8ba90d3b911ec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "13a8ba90d3b911ec",
+  "lastOpenFiles": [
+    "HFY Power Armor/Ch 1 - 10/10.md",
+    "HFY Power Armor/Ch 1 - 10/5.md",
+    "HFY Power Armor/Ch 1 - 10/9.md",
+    "HFY Power Armor/Ch 1 - 10/8.md",
+    "HFY Power Armor/Ch 1 - 10/7.md",
+    "HFY Power Armor/Ch 1 - 10/6.md",
+    "HFY Power Armor/Ch 1 - 10/4.md",
+    "HFY Power Armor/Ch 1 - 10/3.md",
+    "HFY Power Armor/Ch 1 - 10/2.md",
+    "HFY Power Armor/Ch 1 - 10/1.md",
+    "HFY Power Armor/Ch 1 - 10",
+    "HFY Power Armor",
+    "Theory D&D/Theories/Useless/Prolepsis.md",
+    "Theory D&D/Theories/Eggless Travel.md",
+    "Theory D&D/Concepts/Religions/Theosophy.md",
+    "Theory D&D/Concepts/Religions",
+    "Theory D&D/Theories/Spiritual/OLFMA.md",
+    "Theory D&D/Concepts/Entities/Cryptids/Archons.md",
+    "Theory D&D/Theories/Spiritual/Archontic Genetic Engineered Entities.md",
+    "Theory D&D/Things/Locations/Structures/The Sphynx.md",
+    "Theory D&D/Things/Locations/Structures/The Pyramids.md",
+    "Theory D&D/Concepts/Entities/Human Related/Races/Ancient Egyptians.md",
+    "Theory D&D/Theories/Sphynx Water Erosion Hypothesis Implications.md",
+    "Theory D&D/Theories/Locational/Eilean Mor Island.md",
+    "Theory D&D/Theories/Useless/Santiago Interference.md",
+    "Theory D&D/Events/MK Ultra.md",
+    "Theory D&D/Concepts/Entities/Human Related/Professions and Lifestyles/Scientists.md",
+    "Theory D&D/Concepts/Entities/Human Related/Human.md",
+    "Theory D&D/Realms/Hyper Reality.md",
+    "Theory D&D/Theories/Untitled",
+    "Theory D&D/Characters/Untitled.canvas",
+    "Theory D&D/Characters/Medieval",
+    "Theory D&D/Things/Items",
+    "Theory D&D/Characters/19th century",
+    "Theory D&D/Characters/The 20th century",
+    "Theory D&D/Characters/Ancient Era/Untitled",
+    "2026-03-09.html",
+    "Untitled.canvas"
+  ]
+}

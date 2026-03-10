@@ -1,0 +1,2 @@
+#Theory 
+Anything that can burn, contains a particle known as plogiston. If you're a creature that is capable of combusting, you are filled with plogiston. When you're lying on the floor, burned up and dead, you have no more phlogiston. maybe in the future we will discover an element that [[Fire]] uses as a propellent.

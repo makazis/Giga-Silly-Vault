@@ -1,0 +1,2 @@
+#Concept 
+If there is a creature that does not like the light, and prefers the darkness, then as [[The Sun]] goes up, it goes deeper under[[Water|water]], and as the sun goes down, it goes closer to the surface. 

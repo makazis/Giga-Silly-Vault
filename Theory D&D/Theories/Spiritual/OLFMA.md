@@ -1,0 +1,2 @@
+#Theory 
+There is a book about [[Theosophy]] on the amazon book store. The book was written by a man named Rudolph Steiner, who was one of the earliest porponents of theosophy. The readers of the book have left reviews of how great Theosophy works, and how they understand the world, etc. 

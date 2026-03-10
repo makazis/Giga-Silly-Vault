@@ -1,0 +1,5 @@
+#Theory
+The modern understanding of history ever since the death of [[Jesus]] is mostly wrong. The timeline is a bit scuffed. This is because of the [[The Catholic Church|Holy Roman]] emperor [[Otto III]], and the [[Saint|Pope]] Sylvester III, put together an idea to justify their placement of power, as they'd be a thousand years after the death of Christ, which makes them sound very favourable over the [[God|divine]] fight over [[Europe]].  This means that [[Charlemagne]] never existed. [[Otto III]] made these characters up in order to justify their placement in history. The years of 614 AD to years 911 AD were made up. The gregorian calendar was pushed to follow this new narrative. 
+[[Isaac Newton]] doing the math on [[Eclipse]]s, and realising there's about a 300 year gap in history of when these eclipses took place. 
+And no large structures were built in the 300 years of time. 
+Nothing happened, lmao. 

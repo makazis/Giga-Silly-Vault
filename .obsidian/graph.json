@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Theory D&D/Concepts\" ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Theory D&D/Theories\"",
+      "color": {
+        "a": 1,
+        "rgb": 3342336
+      }
+    },
+    {
+      "query": "path:\"Theory D&D/Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:\"Theory D&D/Things\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12058624
+      }
+    },
+    {
+      "query": "path:\"Theory D&D/Cults\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048000
+      }
+    },
+    {
+      "query": "path:\"Theory D&D/Realms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14074880
+      }
+    },
+    {
+      "query": "path:\"Theory D&D/Events\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9405184
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.562283737024221,
+  "repelStrength": 12.6989619377163,
+  "linkStrength": 1,
+  "linkDistance": 158,
+  "scale": 0.32133638605030174,
+  "close": true
+}

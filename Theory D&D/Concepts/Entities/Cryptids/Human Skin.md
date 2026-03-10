@@ -1,0 +1,2 @@
+#Cryptid #Entity #Race 
+The [[Human Skin]] is an [[Alien]] entity that merged with the early [[Human]]s to form a symbiotic relationship. Since it is a separate entity, it can hold a [[Soul]], and it's soul can be expended in small amounts in order to cast spells,, by using it as [[Mana]]. It is also a [[Cryptid]].

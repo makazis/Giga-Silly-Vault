@@ -1,0 +1,3 @@
+#Theory 
+Prolepsis is a concept within literary works, that is alluding to, or describing an event, before it actually happens. In literature, this is seen in phrases like "He was a dead man, as soon as he came through the door." which implies to us that that character is going to die, even if he hasn't died yet. There are several points of this "foreshadowing" existing in reality. From things like describing which nations will rise, which will fall, and which will take over, to art, only recently discovered, very close to modern art. 
+Either there are inevitable conclusions that all civilizations reach. [[Encorrings]]. This could be related to [[The Great Cycle]]. At some point someone started a trend, and all societies did that afterwards. 

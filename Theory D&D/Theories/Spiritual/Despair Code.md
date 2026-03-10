@@ -1,0 +1,6 @@
+#Theory 
+# Explanation
+A sort of anti life equation. There are ideas that a person can be infiltrated by a certain line or codes. A [[Theory D&D/Things/Magic/Spells/Despair Code|Despair Code]] is a universal code for every person on earth that can “Activate them”, which can evoke feelings of [[Depression]] or [[Death]], It could be an image, or even a thought. There are some images that invoke a weird sense of feeling on you. There are some images that give you the indescribable feeling. It could be a sequence of images that let you transcend from your body. References to this in Lovecraft writing, which means that the despair code is a trip mine left by an ancient entity to take over [[Human]]kind. This also proves that we live in a simulation. The despair code just lets you escape [[The Simulation]]. It is a way to break the system, or a way to break out of it. There are random super brain melting images that will transcend you from [[Human Realm]] on the web.
+[[Ascension]]
+# Interpretation
+Not really much for me to add onto this, as [[Theory D&D/Theories/Spiritual/Virus 23|Virus 23]] already explains most of it, The escape from the simulation really doesn’t mean that much right now. There are some fun use cases for this, but currently, just another version of [[Theory D&D/Things/Magic/Spells/Virus 23|Virus 23]].

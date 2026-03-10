@@ -1,0 +1,2 @@
+#Theory
+in 1997, there was an experiment in a [[Florida]] prison system to find a long term sedation for very violent inmates. After 40 days the subjects suffered from a permanent sense of total compliance, basically turning them into vegetables. This went on for 10 years, and this was conducted on 845 inmates. Most of which are still alive, and still existing within the justice system, of mentally ill patients to this day. 

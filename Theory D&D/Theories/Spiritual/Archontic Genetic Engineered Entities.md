@@ -1,0 +1,4 @@
+#Theory 
+This is related to [[Archons]]. 
+There is a system within the people, called the gallbladder meridian, which is in your ears, in the middle of your brain, and then zigzags all the way down, ending in your 4th toe, which is the control of your [[Body]]. 
+Archons have developed parasites, that look like jellyfish, that they implant into people through their [[Ear]]s. The jellyfish go to their gallbadder meridian, and start out by suggesting things to people, and then it begins to control tiny muscle movements, and then it takes over the [[Human]] host. This is so that the Archons can one day create a [[Zombie]] army. There was a group of people, called the "[[Star]] People" who, during [[The Orion Wars]]. learned how to reach into someone's gallbladder meridian, and pull out the demon parasite, to keep them from being the zombie army. 

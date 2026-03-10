@@ -1,0 +1,2 @@
+#Theory 
+this is the concept that [[The Earth]] exists within itself, and [[Gravity]] is actually the centrifugal force, as the earth spins around it's axis. This would mean that digging down can actually get you outside of the earth, which means that [[Hollow Earth]] is on the outside of the earth. 

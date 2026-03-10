@@ -1,0 +1,2 @@
+#Character
+A [[The Catholic Church|Holy Roman]] Emperor that thought of 200 years of history, and invented several characters, such as [[Charlemagne]], in order to claim the throne of power in the 1000 AC.

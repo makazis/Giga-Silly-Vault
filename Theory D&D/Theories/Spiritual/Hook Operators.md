@@ -1,0 +1,4 @@
+#Theory 
+Comes from a book known as "Operators and Things." 
+This book was written by a woman named Barbara O'Brian, who was writing about her experience with [[Schizophrenia]]. She wrote a book about how she saw [[Human|people]] and existence. 
+There is a small part of the population known as [[Hook Operator]]s who have the ability to spread their core charisma, essence, or [[Soul]] in order to see the world the way that they want them to see it. They can also manipulate the [[Soulless]]. This would mean that the hook operators are each capable of weaving a small cult of people around them, usually the [[Soulless]] ones in order to aid them in a goal of some sort. 
