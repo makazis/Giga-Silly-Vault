@@ -137,26 +137,28 @@
             "id": "de57df1cfade3cd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HFY Power Armor/Ch 31 - 40/31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31"
             }
           },
           {
             "id": "14e01cd019e4ea72",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-10 23.41.16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-10 23.41.16.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -312,8 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,34 +332,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "14e01cd019e4ea72",
+  "active": "de57df1cfade3cd5",
   "lastOpenFiles": [
-    "HFY Power Armor/Ch 11 - 20/11.md",
+    "HFY Power Armor/Ch 21 - 30/30.md",
+    "HFY Power Armor/Ch 21 - 30/29.md",
+    "HFY Power Armor/Ch 21 - 30/28.md",
+    "HFY Power Armor/Ch 21 - 30/27.md",
+    "HFY Power Armor/Ch 21 - 30/26.md",
+    "HFY Power Armor/Ch 21 - 30/25.md",
+    "HFY Power Armor/Ch 21 - 30/24.md",
+    "HFY Power Armor/Ch 21 - 30/23.md",
+    "HFY Power Armor/Ch 21 - 30/22.md",
+    "HFY Power Armor/Ch 21 - 30/21.md",
+    "HFY Power Armor/Ch 11 - 20/20.md",
+    "HFY Power Armor/Ch 11 - 20/19.md",
+    "HFY Power Armor/Ch 11 - 20/18.md",
+    "HFY Power Armor/Ch 11 - 20/17.md",
+    "HFY Power Armor/Ch 11 - 20/16.md",
+    "HFY Power Armor/Ch 11 - 20/15.md",
+    "HFY Power Armor/Ch 11 - 20/14.md",
+    "HFY Power Armor/Ch 11 - 20/13.md",
     "HFY Power Armor/Ch 11 - 20/12.md",
+    "HFY Power Armor/Ch 11 - 20/11.md",
+    "Excalidraw/Drawing 2026-03-10 23.41.16.excalidraw.md",
     "HFY Power Armor/Ch 161 - 170/170.md",
     "HFY Power Armor/Ch 161 - 170/169.md",
     "HFY Power Armor/Ch 161 - 170/168.md",
     "HFY Power Armor/Ch 161 - 170/167.md",
     "HFY Power Armor/Ch 161 - 170/166.md",
-    "HFY Power Armor/Ch 161 - 170/165.md",
-    "HFY Power Armor/Ch 161 - 170/164.md",
-    "HFY Power Armor/Ch 161 - 170/163.md",
-    "HFY Power Armor/Ch 161 - 170/162.md",
-    "HFY Power Armor/Ch 161 - 170/161.md",
-    "HFY Power Armor/Ch 151 - 160/160.md",
-    "HFY Power Armor/Ch 151 - 160/159.md",
-    "HFY Power Armor/Ch 151 - 160/158.md",
-    "HFY Power Armor/Ch 151 - 160/157.md",
-    "HFY Power Armor/Ch 151 - 160/156.md",
-    "HFY Power Armor/Ch 151 - 160/155.md",
-    "HFY Power Armor/Ch 151 - 160/154.md",
-    "HFY Power Armor/Ch 151 - 160/153.md",
-    "HFY Power Armor/Ch 151 - 160/152.md",
-    "HFY Power Armor/Ch 151 - 160/151.md",
-    "HFY Power Armor/Ch 141 - 150/150.md",
-    "HFY Power Armor/Ch 141 - 150/149.md",
-    "HFY Power Armor/Ch 141 - 150/148.md",
-    "HFY Power Armor/Ch 141 - 150/147.md",
     "HFY Power Armor/Ch 161 - 170",
     "HFY Power Armor/Ch 151 - 160",
     "HFY Power Armor/Ch 141 - 150",
