@@ -6,3 +6,4 @@ Approximately 2 days after the retreat, and evacuation of the nearby city, [[The
 Esero Khuga was caught in the reactor meltdown, causing his skin, bones, and other muscles to melt down, while rapidly healing, causing him to undergo extreme [[Mutation]]s, and absorbing the biomass in the area around his house. By the end of the earthquake, a whole city block, and then some was covered in a mass of flesh that was once the [[Body]] of [[Esero Khuga]]. Cancerous tumors, extra sets of eyes and teeth, bones where bones shouldn't be, extremities as high as buildings, as buildings themselves got converted into a part of Esero's new body. 
 
 Esero is now known as [[RAB-Khuga]], a [[Cryptid]] and the only remaining inhabitant of the chinese village. 
+
