@@ -1,2 +1,2 @@
 #Realm 
-You can get here if you die the correct way.
+You can get here if you [[Death|die]] the correct way.

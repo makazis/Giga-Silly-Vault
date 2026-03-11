@@ -1,2 +1,2 @@
 #Concept #Human 
-A corpse is a dead human
+A corpse is a dead [[Human]]

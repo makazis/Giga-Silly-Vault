@@ -9,4 +9,4 @@ Whenever it emerges from it's hiding spot near the bottom of the ocean, a small 
 The only specimen has been discovered by only a seperate few cults:
 - [[The Government]] has redacted all of the accounts of the entity from public records that they could. 
 - [[Illuminati]] has set their interests on eliminating this entity in case it ever tries to attack a human vessel, and one of their autonomous submarines, "[[The Pequod]]" is perpetually monitoring the area where the creature was last spotted, with a mobile [[Nuke|Nuclear Missile]], ready to end the beast for good when they finally spot it again.
-- [[Cloned/Theory D&D/Theories/Historical/Paleolithic Deep State|Paleolithic Deep State]] has had several encounters with the Ses-Syquamlich, and due to species preservation purposes for [[The Great Cycle|The Next Great Cycle]], they have granted the creature ageless [[Immortallity]]. 
+- [[Paleolithic Deep State]] has had several encounters with the Ses-Syquamlich, and due to species preservation purposes for [[The Great Cycle|The Next Great Cycle]], they have granted the creature ageless [[Immortallity]]. 
