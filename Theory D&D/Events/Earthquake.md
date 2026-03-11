@@ -1,0 +1,2 @@
+#Event 
+An Earthquake is created when seismic [[Vibrations]] travel through the ground, causing parts of [[The Earth]] to split open, [[Mountain]]s to form, and holes to open in the ground, as well as extreme shaking. 

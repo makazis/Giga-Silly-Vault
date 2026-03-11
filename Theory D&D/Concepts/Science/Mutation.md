@@ -1,0 +1,2 @@
+#Concept #Medicine 
+A mutation is when an organism develops a change in some aspect, often leading to the [[Death]] of the organism, but sometimes letting the organism be superior to other organisms of it's kind, causing the mutated version to take over the ecosystem as the new standard. This is how evolution works. 
