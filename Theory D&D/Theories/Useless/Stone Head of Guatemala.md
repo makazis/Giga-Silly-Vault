@@ -1,4 +1,4 @@
-
+#Theory
 ![[Pasted image 20260311104202.png]]
 Referencing ^ image, that was taken in the 1950s, within Guatemala. 
 In the middle of a completely uninhabited jungle in Guatemala, there is a stone statue of a head. The artwork doesn't match any known societies of faces, or artworks around the area of any of the history. 

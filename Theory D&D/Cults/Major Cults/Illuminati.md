@@ -8,6 +8,9 @@
 
 The elder members of the [[Illuminati]] are just souls [[Possession|Possesing]] mortals, in order to achieve [[Immortallity]], which means they have to consume some people each year, to take their bodies, which explains some of the [[Missing Person]] cases around the world. 
 
+The [[Illuminati]] take these drastic measures in order to protect the world, as they are actually the good guys, as they are fighting against [[The Government]], and keeping them in check. 
+
+Also the [[Illuminati]] is founded in [[France]].
   
 
 # Related Theories:

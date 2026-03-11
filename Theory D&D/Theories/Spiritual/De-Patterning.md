@@ -1,0 +1,4 @@
+#Theory 
+Closely related to Psychic driving, which is a concept that if you make a person listen to the same sounds, words and noises over and over, you can begin to work their personality backwards. This is all from the idea that the personality is built up over and over as a person grows and develops. You can unlearn learnt behaviour. This has been replicated in the [[MK Ultra]] experiments.
+De-Patterning is that, but with Electroshock therapy, and with [[Drugs]]. This isn't only trying to reset someone's personality, it's also trying to dig all the way down to their subconscious. The idea is to let a speaker speak to the lowest level of a persons psyche. 
+There are very subtle tones and messages hidden in the media we consume, in order to keep us docile, and to chip away at our higher order of thinking. 
