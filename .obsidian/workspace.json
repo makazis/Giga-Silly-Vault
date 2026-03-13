@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Characters/Modern/Esero Khuga.md",
+                "file": "Theory D&D/Concepts/Entities/Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esero Khuga"
+              "title": "Fire"
             }
           },
           {
@@ -314,7 +314,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,37 +334,37 @@
       "random-note:Open random note": false
     }
   },
-  "active": "de57df1cfade3cd5",
+  "active": "0c0a423964efb6c5",
   "lastOpenFiles": [
-    "Theory D&D/Cults/Major Cults/Paleolithic Deep State.md",
-    "Theory D&D/Concepts/Entities/Cryptids/Ses-Syquamlich.md",
-    "HFY Power Armor/Ch 1 - 10/7.md",
-    "HFY Power Armor/Ch 1 - 10/6.md",
-    "HFY Power Armor/Ch 1 - 10/5.md",
-    "HFY Power Armor/Ch 1 - 10/4.md",
-    "HFY Power Armor/Ch 1 - 10/3.md",
-    "HFY Power Armor/Ch 1 - 10/2.md",
-    "HFY Power Armor/Ch 1 - 10/1.md",
-    "Theory D&D/Concepts/Entities/Human Related/Corpse.md",
-    "Theory D&D/Concepts/Things one can do/Death.md",
-    "Theory D&D/Realms/Valhalla.md",
-    "Theory D&D/Realms/Heaven.md",
-    "Theory D&D/Realms/Spiritual Plane.md",
-    "Theory D&D/Characters/Modern/Esero Khuga.md",
-    "HFY Power Armor/Ch 31 - 40/31.md",
+    "Theory D&D/Theories/Fire is alive..md",
+    "Theory D&D/Theories/Political/Deep Soy.md",
+    "Theory D&D/Theories/Useless/Real Meaning of Hybrid RPG.md",
+    "Theory D&D/Theories/Spiritual/Mathacker.md",
+    "Theory D&D/Theories/Locational/Moai Statues were Rapa Nuians.md",
+    "Theory D&D/Theories/Historical/JFK Shot Himself.md",
+    "Theory D&D/Theories/Locational/Tesseract Earth or Universe.md",
+    "Theory D&D/Theories/Political/War is fake.md",
+    "Theory D&D/Concepts/Entities/Cryptids/Demolotion Elves.md",
+    "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
+    "Theory D&D/Concepts/Entities/Fire.md",
+    "Theory D&D/Things/Medicine/Diseases/Rabies.md",
     "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
+    "Theory D&D/Theories/Philosophical/Time and History moves in Reverse.md",
+    "Theory D&D/Things/Magic/Spells/Virus 23.md",
+    "Theory D&D/Things/Materials/Methane.md",
+    "HFY Power Armor/Ch 161 - 170/170.md",
+    "Theory D&D/Theories/Souls n shit/Oil and Resources from Humans.md",
+    "Theory D&D/Cults/Major Cults/The Government.md",
+    "Theory D&D/Cults/Major Cults/Big Pharma.md",
+    "Theory D&D/Concepts/Entities/Human Related/Human.md",
+    "Theory D&D/Concepts/Things one can do/Death.md",
+    "Theory D&D/Concepts/Immortallity.md",
+    "Theory D&D/Concepts/Entities/Gods/God.md",
+    "Theory D&D/Things/Materials/Blood.md",
+    "Theory D&D/Concepts/Entities/Gods/The God.md",
     "Theory D&D/Concepts/Spiritualism and Soul",
-    "Theory D&D/Things/Weapons/The Pequod.md",
-    "Theory D&D/Things/Weapons/The Pequod Specifications.md",
-    "Theory D&D/Things/Weapons/Nuke.md",
     "Theory D&D/Things/Weapons",
-    "Theory D&D/Things/Untitled.md",
-    "Theory D&D/Things/Science/Loveshack.md",
     "Theory D&D/Things/Science",
-    "Theory D&D/Things/Medicine/Vaccine.md",
-    "Theory D&D/Things/Locations/Countries/Russia.md",
-    "Theory D&D/Theories/Useless/The Phone Mafia.md",
-    "Theory D&D/Theories/Useless/Stone Head of Guatemala.md",
     "Theory D&D/Theories/Useless/Pasted image 20260311104202.png",
     "Theory D&D/Concepts/Science",
     "Theory D&D/Characters/Modern",

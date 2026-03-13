@@ -1,0 +1,2 @@
+#Theory 
+These are the easter island statues. Once the first settlers arrived to the easter island, the statues were already there. This was to commemorate the Rapa Nuians, or the original founders of the island itself. These founders died, and were set in their place as the statues. These statues are the literal fossilized remains of [[Giant]]s. And the easter island statues were frozen giants. 
