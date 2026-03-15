@@ -4,174 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7838de8fc2243b",
-        "type": "split",
+        "id": "415ec9d225ae9bd8",
+        "type": "tabs",
         "children": [
           {
-            "id": "28572e2e14d46785",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "14e01cd019e4ea72",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
+            "id": "8370a35cfa75fd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Items/The Life Elixir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Life Elixir"
+            }
           },
           {
-            "id": "415ec9d225ae9bd8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8370a35cfa75fd18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Things/Items/The Life Elixir.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Life Elixir"
-                }
+            "id": "3b2d5fa577231c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Historical/Phantom Time.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "3b2d5fa577231c02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Theories/Historical/Phantom Time.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Phantom Time"
-                }
+              "icon": "lucide-file",
+              "title": "Phantom Time"
+            }
+          },
+          {
+            "id": "bdbceb6ef84a4afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Characters/Medieval/Otto III.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "bdbceb6ef84a4afe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Characters/Medieval/Otto III.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Otto III"
-                }
+              "icon": "lucide-file",
+              "title": "Otto III"
+            }
+          },
+          {
+            "id": "46e796f36f0402ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Locations/Countries/Florida.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "46e796f36f0402ea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Things/Locations/Countries/Florida.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Florida"
-                }
+              "icon": "lucide-file",
+              "title": "Florida"
+            }
+          },
+          {
+            "id": "2b3422e932cff526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Medical/Null Compliance Security.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "2b3422e932cff526",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Theories/Medical/Null Compliance Security.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Null Compliance Security"
-                }
+              "icon": "lucide-file",
+              "title": "Null Compliance Security"
+            }
+          },
+          {
+            "id": "2d310ab612977ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "2d310ab612977ebf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Phlogiston Theory Resurfacing"
-                }
+              "icon": "lucide-file",
+              "title": "Phlogiston Theory Resurfacing"
+            }
+          },
+          {
+            "id": "a3a12ccbb7a30aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Theories/Santiago Interference.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "a3a12ccbb7a30aa2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Theories/Santiago Interference.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Santiago Interference"
-                }
+              "icon": "lucide-file",
+              "title": "Santiago Interference"
+            }
+          },
+          {
+            "id": "9c5a3fd4b8f45cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Concepts/Life.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "9c5a3fd4b8f45cee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Concepts/Life.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Life"
-                }
+              "icon": "lucide-file",
+              "title": "Life"
+            }
+          },
+          {
+            "id": "af5cc5cba625480f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientists.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "af5cc5cba625480f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Scientists.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Scientists"
-                }
+              "icon": "lucide-file",
+              "title": "Scientists"
+            }
+          },
+          {
+            "id": "de57df1cfade3cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Antartica Preservation.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "de57df1cfade3cd5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Theory D&D/Antartica Preservation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Antartica Preservation"
-                }
-              }
-            ],
-            "currentTab": 9
+              "icon": "lucide-file",
+              "title": "Antartica Preservation"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,8 +325,8 @@
   },
   "active": "de57df1cfade3cd5",
   "lastOpenFiles": [
-    "Theory D&D/Concepts/Entities/Fire.md",
     "Theory D&D/Antartica Preservation.md",
+    "Theory D&D/Concepts/Entities/Fire.md",
     "Theory D&D/Theories/Fire is alive..md",
     "Theory D&D/Theories/Political/Deep Soy.md",
     "Theory D&D/Theories/Useless/Real Meaning of Hybrid RPG.md",
