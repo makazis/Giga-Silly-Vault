@@ -8,7 +8,8 @@ Players start with:
 Stats: Standart Array, +2 to any ability of their choice, and +1 to any ability of their choice.
 Money: 100 Euros
 Proficiencies: 2 skill proficiencies. Proficiency with simple weapons. 
-
+Hit dice: 1d8 (scales with constitution)
+Soul hit dice: 1d6 (scales with wisdom)
 
 ## Thread abilities:
 
@@ -32,6 +33,7 @@ Tier I
 - Gun Training: You gain a gun proficiency. 
 - Bow Training: You gain proficiency with longbows and crossbows. 
 - Advanced Weapon Training: You gain proficiency with four martial weapons of your choice. 
+- Healthy: Increase your hit dice to 1d10.
 Tier II
 - Mighty: You fain +2 to any one ability of your choice. 
 - Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -41,6 +43,7 @@ Tier II
 - Weaponsmith: You can take one hour to create a simple weapon out of materials specifically gathered for the cause, worth at least 20 euros, as well as a toolbox. You can create a martial weapon within 10 hours, and by using materials worth at least 100 euros. You still need a toolbox.
 - Expert I: You gain expertise in one skill of your choice. 
 - Tumbler: Your training allows you to move through hostile creatures' spaces without penalty. Their square is not difficult terrain for you.
+- Healthy II: Increase your hit dice to 1d12
 
 Tier III
 - Built Different: You gain +1 to all abilities. 
@@ -57,7 +60,6 @@ Tier III
 Tier IV
 - Action Surge: On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again.
 - Evasion: When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
-- 
 
 Tier V
 - Rapid Strike: If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
