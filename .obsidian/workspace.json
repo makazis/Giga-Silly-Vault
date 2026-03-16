@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Character Creation/Main.md",
+                "file": "Theory D&D/Random Encounters/Food Rolls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Food Rolls"
             }
           }
         ],
@@ -325,8 +325,10 @@
   },
   "active": "de57df1cfade3cd5",
   "lastOpenFiles": [
-    "Theory D&D/Theories/Antartica Preservation.md",
     "Theory D&D/Character Creation/Main.md",
+    "Theory D&D/Random Encounters/Food Rolls.md",
+    "Theory D&D/Random Encounters",
+    "Theory D&D/Theories/Antartica Preservation.md",
     "Theory D&D/Character Creation",
     "Theory D&D/Concepts/Entities/Fire.md",
     "Theory D&D/Theories/Fire is alive..md",
@@ -351,7 +353,6 @@
     "Theory D&D/Concepts/Entities/Human Related/Human.md",
     "Theory D&D/Concepts/Things one can do/Death.md",
     "Theory D&D/Concepts/Immortallity.md",
-    "Theory D&D/Concepts/Entities/Gods/God.md",
     "Theory D&D/Concepts/Spiritualism and Soul",
     "Theory D&D/Things/Weapons",
     "Theory D&D/Things/Science",
@@ -361,7 +362,6 @@
     "HFY Power Armor/Random Homebrew/Dieties",
     "HFY Power Armor/Random Homebrew",
     "HFY Power Armor/Ch 161 - 170",
-    "HFY Power Armor/Ch 151 - 160",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]

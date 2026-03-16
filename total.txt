@@ -1,4 +1,126 @@
 
+File: Theory D&D\Character Creation\Main.md
+
+When creating a character, the players will be able to choose several abilities made from pre-existing concepts, in order to put together one character build. 
+
+Players will start with 5 Threads of Fate, and will be able to earn more as game goes on, and will be able to spend them at different times to unlock new abilities. 
+
+Players can also take curses at the beginning in order to attain more Threads in exchange. Players can also not spend their Threads, to keep them in the campaign. 
+
+Players start with:
+Stats: Standart Array, +2 to any ability of their choice, and +1 to any ability of their choice.
+Money: 100 Euros
+Proficiencies: 2 skill proficiencies. Proficiency with simple weapons. 
+
+
+## Thread abilities:
+
+Tier I
+- Standard Education: You gain proficiency in two skills of your choice, and one language of your choice. You also start with 100 more Euros.  
+- Multilingual: You can read, write and speak two additional languages. (Can be taken multiple times)
+- Keen Sight: You have advantage on Perception checks that rely on sight.
+- Healthy I: You can use your bonus action to regain 1d8+CON hit points. You cannot use this ability again until you finish a long rest. 
+- Backflip: As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking opportunity attacks. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- Resourceful Presence: You can pick up any amount of objects within 5ft of you as a bonus action. 
+- Think Fast, Chucklenuts! : You can throw a light item you're holding as a bonus action. It counts as an improvised weapon. 
+- Trash Bin Basketball enthusiast: You gain proficiency with improvised weapons.
+- The Pen is Mightier Than The Sword: You gain a +2 damage bonus to improvised weapons. 
+- Wealthy: You start with 200 extra Euros. (Can be taken multiple times)
+- Mighty Punch: Your unarmed strike die increases by one tier (1->1d4->1d6->1d8->1d10->1d12). (Can be taken multiple times)
+- First in Battle: You have advantage on initiative rolls.  
+- Lightly Armored: You gain proficiency with light armor.
+- Athlete: You gain a climbing speed equal to your walking speed. 
+- Swimmer: You gain a swimming speed equal to your walking speed.
+- Medium Armor Training: You gain proficiency with medium armor and shields. Can only be taken if you have proficiency with light armor. 
+- Gun Training: You gain a gun proficiency. 
+- Bow Training: You gain proficiency with longbows and crossbows. 
+- Advanced Weapon Training: You gain proficiency with four martial weapons of your choice. 
+Tier II
+- Mighty: You fain +2 to any one ability of your choice. 
+- Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.
+- Defense: You gain a +1 bonus to your AC
+- Healthy II: You can use your bonus action to regain 1d10+CON hit points. You cannot use this ability again until you finish a short rest. 
+- Dueling: When you are wielding a melee weapon in one hand, and no other weapons, you gain a +2 bonus to damage rolls with that weapon. 
+- Weaponsmith: You can take one hour to create a simple weapon out of materials specifically gathered for the cause, worth at least 20 euros, as well as a toolbox. You can create a martial weapon within 10 hours, and by using materials worth at least 100 euros. You still need a toolbox.
+- Expert I: You gain expertise in one skill of your choice. 
+- Tumbler: Your training allows you to move through hostile creatures' spaces without penalty. Their square is not difficult terrain for you.
+
+Tier III
+- Built Different: You gain +1 to all abilities. 
+- Cunning Action: You can use your bonus action to Dodge, Disengage or Dash. 
+- Bulky Defense: While you aren't wearing armor and not wearing a shield, your AC equals 10 + your Dexterity modifier + your Constitution modifier. 
+- Instinctive Defense: While you aren't wearing armor and not wearing a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+- Expert II: You gain expertise in two skills of your choice. 
+- Improved Critical: Your weapon attacks score a critical hit on a 19 or a 20. 
+- Fighting Spirit: As a bonus action on your turn, you can give yourself advantage on all weapon attack rolls until the end of the current turn. When you do so, you also gain 5 temporary hit points. You can use this feature three times. You regain all expended uses of it when you finish a long rest.
+- Dual Wielder: You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand. You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light. You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+- Mobile: Your speed increases by 10 feet. When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn. When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+- Savage Attacker: Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total. (The _Savage Attacker_ feat).
+
+Tier IV
+- Action Surge: On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again.
+- Evasion: When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+- 
+
+Tier V
+- Rapid Strike: If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
+- Extra Attack: You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Tier -I 
+- Poor: You start with 5 Euros. You can't gain any more with any trait. 
+- Slow I: Your speed is reduced by 10 feet. 
+- Unlucky: You must reroll the first natural 20 you roll on a skill check, attack roll or saving throw each long rest. 
+- Frail I: Your hit point maximum is reduced by 1 every level. 
+- Illiterate: You cannot read or write any language. You can still speak languages you would normally know. You have disadvantage on all Intelligence Ability checks. 
+- Anathema: Choose one creature type (e.g., undead, fiends, beasts). You have disadvantage on all attack rolls and saving throws against creatures of that type.
+
+Tier -II
+- Slow II: Your speed is reduced by 15 feet.
+- Weak: All your abilities are reduced by one. 
+- Frail II: Your hit point maximum is reduced by 2 every level. 
+
+Tier -III
+- Forever Linked to a Chair: You start in a wheelchair. Your movement speed becomes 5 feet when outside of the wheelchair, and you are automatically prone. It costs a full action to mount your wheelchair when you're not in it. While you're in the wheelchair, your movement speed becomes 10 feet, and can't be increased by any means. You have disadvantage on melee attack rolls with heavy weapons with. You can't move while holding a two-handed weapon. 
+- Early Grave: When you fall below 0 hit points, you do not roll death saving throws. You die instantly. 
+- Sickly Victorian Child: Your hit dice becomes a d1. 
+# Starting Equipment Shop:
+
+Weapons: 
+Dagger: 15 Euros
+Any Simple Weapon: 50 Euros
+Any Martial Weapon: 250 Euros
+
+Rations: 
+1 day for 1 person: 5 euros
+Flavours: 
+- **Turkey & Swiss on Rye:** Wrapped tightly in deli paper, slightly pressed. A classic. Come with a tiny packet of mustard.
+- Tuna Salad Kit: A small can of tuna, a separate packet of mayonnaise, and a sleeve of crackers. Requires assembly. Smells exactly as you'd expect.
+- **Protein Bar (Chocolate Peanut Butter):** Tastes like health food trying to be candy. Slightly chalky, but it'll keep you going.
+- **Veggie Wrap:** Hummus, shredded carrot, spinach, and bell peppers in a sun-dried tomato tortilla. Gets a little soggy by day two, but still good.
+- **Hardboiled Eggs & Salt Packet:** Two eggs, pre-peeled and a little sweaty in their baggie. A single salt packet from a fast food restaurant.
+- **Peanut Butter & Banana Sandwich:** On wheat bread. The banana has definitely browned slightly, but it's still delicious.
+
+- **Honey Bun (Glazed):** Individually wrapped, impossibly sweet, and leaves a film of sugar on your fingers. A classic.
+- **Spicy Nacho Cheese Doritos:** The bag is crushed. You will be eating crumbs by the end. Worth it.
+- **Beef Jerky (Teriyaki):** Aggressively salty, aggressively chewy. Could double as a weapon in a pinch.
+- **Hostess Fruit Pie (Cherry):** That weird, unnaturally red filling. The crust is a little crumbly. It's perfect.
+- **Gas Station Sushi:** A terrible idea. A truly terrible idea. Why did you buy this? It's been in the roller case for hours. (Con save to keep it down).
+- **Taquitos (Microwaved, Now Cold):** Wrapped in a thin napkin. The grease has soaked through. You knew what you were getting into.
+
+- **Freeze-Dried Ice Cream Sandwich:** A neapolitan brick of impossible crunch. It's not _good_, but it's _interesting_.
+- **Backpacker's Pantry Pad Thai:** Just add boiling water. Surprisingly serviceable. The peanut packet is crucial.
+- **Clif Bar (Cool Mint Chocolate):** Tastes like a healthier version of a Thin Mint. Acceptable.
+- **Trail Mix (The Good Kind):** M&Ms, peanuts, raisins, and those little yogurt-covered pretzels. Everyone picks out the M&Ms first.
+- **Instant Oatmeal Packets (Variety Pack):** You have Maple & Brown Sugar, Apples & Cinnamon, and the one nobody wants: Plain.
+- **Dried Mango Slices:** Chewy, tart, sweet. Feels fancy, even though it's just dried fruit.
+
+- **Mom's Frozen Enchiladas (Thawed):** Wrapped in foil with a sticky note that says "Don't forget to heat through!" You have no way to heat them. You eat them cold. They're still good.
+- **Gas Station Pizza Slices:** From the spinning rack under the heat lamp. You bought two yesterday. They're room temperature now. The pepperoni has that slight shine.
+- **Grandma's Oatmeal Cookies:** In a tin. Slightly too much cinnamon. They're falling apart a little. They're perfect.
+- **The Last Bag of Chips From Your Apartment:** Barbecue. The bag is almost empty, just crumbs and that one perfect small chip at the bottom.
+- **A Candy Bar You've Been Saving:** A York Peppermint Pattie. It's a little melted and re-hardened. Still good.
+- **"Emergency" Instant Ramen:** The cheap square kind. You crunched it up in the package and are eating it raw, shaking the seasoning packet in. You are a gremlin and you know it.
+
 File: Theory D&D\Characters\19th century\Louis Pasteur.md
 
 #Character 
@@ -36,6 +158,19 @@ File: Theory D&D\Characters\Medieval\Otto III.md
 
 #Character
 A [[The Catholic Church|Holy Roman]] Emperor that thought of 200 years of history, and invented several characters, such as [[Charlemagne]], in order to claim the throne of power in the 1000 AC.
+
+File: Theory D&D\Characters\Modern\Esero Khuga.md
+
+#Character 
+A man, who created a [[Vibrations|Vibrational]] generator using a [[Nuclear]] engine in his backyard, in such a tone, that his body would get rapidly healed from any and all ailments in a radius around his house. This was thanks to the [[Dr Emoto's Water Experiments]], that he could achieve this. He was encountered by members of [[The Government]] of [[China]] after reports of [[Earthquake]]s reached them. They couldn't apprehend him, as at the time he had perfected his system to work with minimal vibrations. Any shot fired at him would regrow his body after a second, and even prolonged fire didn't seem to matter. Sadly, the continuous pain, and the ample adrenaline in his veins, as well as his madness, inherited from his achievement, caused him to beat 13 members of the [[The MSS]] in hand to hand combat with his fists, before they were forced to retreat from the location. 
+
+Approximately 2 days after the retreat, and evacuation of the nearby city, [[The MSS]] dropped an anti tank shell on the nuclear engine in the backyard, causing it to detonate, and release radiation, as well as raw bits of Uranium in the area, causing the nearby city to be subjected to a massive localized earthquake, that ranked a 8.6 on the Richter Scale. 
+
+Esero Khuga was caught in the reactor meltdown, causing his skin, bones, and other muscles to melt down, while rapidly healing, causing him to undergo extreme [[Mutation]]s, and absorbing the biomass in the area around his house. By the end of the earthquake, a whole city block, and then some was covered in a mass of flesh that was once the [[Body]] of [[Esero Khuga]]. Cancerous tumors, extra sets of eyes and teeth, bones where bones shouldn't be, extremities as high as buildings, as buildings themselves got converted into a part of Esero's new body. 
+
+Esero is now known as [[RAB-Khuga]], a [[Cryptid]] and the only remaining inhabitant of the chinese village. 
+
+
 
 File: Theory D&D\Concepts\Cognitohazard.md
 
@@ -79,6 +214,12 @@ File: Theory D&D\Concepts\Entities\Cannibal.md
 #Concept 
 A cannibal is a creature that eats other creatures of it's own race. 
 
+File: Theory D&D\Concepts\Entities\Fire.md
+
+#Concept #Thing 
+When something burns very hot, it catches fire.
+Fire is also [[Life|Alive]], and there are several spirits living within fire, that take different forms based on different circumstances. 
+
 File: Theory D&D\Concepts\Entities\Hivemind.md
 
 #Concept #Entity 
@@ -95,6 +236,18 @@ File: Theory D&D\Concepts\Entities\Cryptids\Archons.md
 #Entity #Cryptid #Concept 
 [[Demon]]s in the religion of [[Gnosticism]]. 
 
+File: Theory D&D\Concepts\Entities\Cryptids\Demolotion Elves.md
+
+#Cryptid #Entity #Race
+
+By description, they match Trolls and [[Elf]]s. 
+Short stumpy creatures that don't have human proportions. Or impossibly skinny creatures dancing across whatever building just collapsed.
+
+Before and after disasters, people have seen these creatures show up.
+The most famous examples of this being [[9/11]], and the silver bridge incident, after which both of them several people reported seeing tiny creatures crawling across the rubble. 
+
+These are evil [[Demon]]s that are summoned by the parties that needed the disaster to happen. 
+
 File: Theory D&D\Concepts\Entities\Cryptids\Human Skin.md
 
 #Cryptid #Entity #Race 
@@ -105,6 +258,60 @@ File: Theory D&D\Concepts\Entities\Cryptids\Hyper Beast.md
 #Entity #Race #God #Cryptid 
 A beast that inhabits the [[Hyper Reality]].
 These beasts tend to be [[Cognitohazard]]s or [[Memetic Hazard]]s.
+
+File: Theory D&D\Concepts\Entities\Cryptids\RAB-Khuga.md
+
+#Entity #Concept #Character #Cryptid 
+## Things to Note:
+
+- Formerly [[Esero Khuga]], a backyard scientist who achieved regenerative[[Immortallity]] through [[Vibrations|vibrational]] healing based on [[Dr Emoto's Water Experiments]].
+    
+- His original device was a [[Nuclear]]-powered vibrational generator, finely tuned to a frequency that caused rapid cellular regeneration in Esero's organism. 
+    
+- When [[The MSS]] destroyed his generator with an anti-tank shell, the resulting meltdown occurred simultaneously with his active regeneration. His body entered a state of **forced mitosis feedback loop**: cells destroyed by radiation would regenerate, only to be destroyed again, faster and faster, until the very concept of "[[Esero Khuga]]" became a continuous process rather than a discrete entity.
+    
+- The 8.6 magnitude [[Earthquake]] caused by the detonation was caused by his flesh growing faster than sound, and pushing against the earth, as well as the residual energy after the meltdown.
+    
+- Over approximately 47 minutes, his biomass expanded to consume:
+    
+    - His house and backyard (origin point)
+        
+    - 14 residential blocks
+        
+    - 3 schools (all evacuated)
+        
+    - 2 factories
+        
+    - 1 hospital (evacuation incomplete—see [[Missing Person]] files, Changsha Province, 2023)
+        
+    - The first 47 first responders who did not retreat in time
+        
+- The resulting entity is approximately **2.3 kilometers in diameter** at its widest point, though its shape is irregular and **still growing**, albeit at a slowed rate of approximately 1.2 meters per month.
+
+- The Entity has several major arteries in it, perpetually causing a humming tune to emerge from each set of vocal cords, that keeps healing the entity, preventing any physical damage. 
+
+- [[The Government]] of [[China]] has forbidden any further interaction or action against the entity, In a fear of accelerating it's development, or other unexpected mutations.
+	- The usage of [[Nuke|Nuclear Weaponry]] against the entity is especially forbidden due to the effect closely mimicking the original event of expansion. 
+
+- The creature is assumed to be in constant pain due to it's existence, and it has absorbed the [[Soul]]s of the 47 other individuals in the area, incorporating parts of their [[Body]] into the biomass, and achieving partially the effect of [[Incorruptible Saints|a saint]], causing the entity to obtain partial understanding of [[Magic]], as well as the ability to execute some simple enchantments and spells, now having larger areas of effect due to the area of the caster itself. 
+
+- A group that has been stationed near the entity has repeatedly reported "Fireworks", as well as the sky above the entity "being set ablaze."
+- If a [[Human]] or a similar creature touches the mass, it experiences rapid tumor growth, following up by a quick death. If they remain near the mass, they will be absorbed into the entity, and their soul will be used as an additional [[Mana]] battery. 
+
+- There are several documented cases of "Limbs" extending from the mass, trying to grab at nearby creatures, and pulling them into the biomass. These limbs are mostly human hands, usually scaled much larger than the typical human hand, with the largest ones exceeding a length of 20 metres. There have been mentions of other tumorous growths, as well as several feet facing the air expanding into the air. 
+
+- The eyes of the Biomass seem to follow around moving objects, even if they can't differentiate alive from non alive objects. 
+
+- Three seperate cults have been identified to know about the mass itself. 
+	- The [[Illuminati]] is the only cult that is named within this document. 
+
+- [[The MSS]] has attempted:
+    - Incendiary weapons
+    - Chemical agents
+    - Cryogenic freezing 
+    - Precision nuclear strike (proposed, rejected)
+
+- Since every single cell of the entity holds a fragment of the soul of Khuga, it means that he is experiencing all of his cells dying, is in extreme pain, and yet, is [[Immortallity|Immortal]], and unable to do anything about it. 
 
 File: Theory D&D\Concepts\Entities\Cryptids\Ses-Syquamlich.md
 
@@ -119,6 +326,8 @@ Whenever it emerges from it's hiding spot near the bottom of the ocean, a small 
 The only specimen has been discovered by only a seperate few cults:
 - [[The Government]] has redacted all of the accounts of the entity from public records that they could. 
 - [[Illuminati]] has set their interests on eliminating this entity in case it ever tries to attack a human vessel, and one of their autonomous submarines, "[[The Pequod]]" is perpetually monitoring the area where the creature was last spotted, with a mobile [[Nuke|Nuclear Missile]], ready to end the beast for good when they finally spot it again.
+- [[Paleolithic Deep State]] has had several encounters with the Ses-Syquamlich, and due to species preservation purposes for [[The Great Cycle|The Next Great Cycle]], they have granted the creature ageless [[Immortallity]]. 
+
 
 File: Theory D&D\Concepts\Entities\Cryptids\Solar Plexus Clown Glider.md
 
@@ -215,7 +424,7 @@ counts as a [[God]]
 File: Theory D&D\Concepts\Entities\Human Related\Corpse.md
 
 #Concept #Human 
-A corpse is a dead human
+A corpse is a dead [[Human]]
 
 
 File: Theory D&D\Concepts\Entities\Human Related\Human.md
@@ -441,6 +650,12 @@ File: Theory D&D\Concepts\Science\Mutation.md
 #Concept #Medicine 
 A mutation is when an organism develops a change in some aspect, often leading to the [[Death]] of the organism, but sometimes letting the organism be superior to other organisms of it's kind, causing the mutated version to take over the ecosystem as the new standard. This is how evolution works. 
 
+File: Theory D&D\Concepts\Science\Nuclear.md
+
+#Concept 
+Refers to the nucleus of the atom, as well as the energy that is emited upon fusion or fission of atoms. 
+Nuclear engines, Nuclear Reactors and [[Nuke|Nuclear Weapons]] are all great examples of utilization of [[Nuclear]] energy. 
+
 File: Theory D&D\Concepts\Science\Science.md
 
 #Concept 
@@ -455,6 +670,13 @@ File: Theory D&D\Concepts\Science\Vertical Migration.md
 
 #Concept 
 If there is a creature that does not like the light, and prefers the darkness, then as [[The Sun]] goes up, it goes deeper under[[Water|water]], and as the sun goes down, it goes closer to the surface. 
+
+File: Theory D&D\Concepts\Science\Vibrations.md
+
+#Concept 
+A vibration is when particles oscillate at a rate exceeding 1 Hz. 
+
+[[Masaru Emoto]] proved that vibrations in [[The Earth]], and in the [[Wind]] can heal a [[Human]] [[Body]]. This was later expanded upon by [[Esero Khuga]], who achieved partial [[Immortallity]] with a technique based on this basis. 
 
 File: Theory D&D\Concepts\Spiritualism and Soul\Soul.md
 
@@ -742,6 +964,16 @@ Professional Golf tour for [[North America]].
 Who also do shady stuff on the side like eating people. 
 because golf players are [[Cannibal]]s.
 
+File: Theory D&D\Cults\Minor Cults\Political\The CIA.md
+
+#Cult 
+The secret service of [[United States]].
+
+File: Theory D&D\Cults\Minor Cults\Political\The MSS.md
+
+#Cult 
+The MSS is the secret service of [[China]]. 
+
 File: Theory D&D\Cults\Minor Cults\Spiritual\Silent Order.md
 
 
@@ -760,6 +992,11 @@ File: Theory D&D\Cults\Minor Cults\Spiritual\Silent Order.md
 
 - [[Bank of souls]]
 
+File: Theory D&D\Events\Earthquake.md
+
+#Event 
+An Earthquake is created when seismic [[Vibrations]] travel through the ground, causing parts of [[The Earth]] to split open, [[Mountain]]s to form, and holes to open in the ground, as well as extreme shaking. 
+
 File: Theory D&D\Events\MK Ultra.md
 
 #Event 
@@ -769,6 +1006,325 @@ File: Theory D&D\Events\The Great Cycle.md
 
 #Event
 Every time the world ends, a new one begins, and the cycle begins again.
+
+
+File: Theory D&D\Random Encounters\Food Rolls.md
+
+THE D100
+
+**1. The Mystery Can**  
+No label. No idea. Could be soup. Could be cat food. Could be beets. Could be peaches. The only way to know is to open it. (DM decides later, or have them roll again on this table when they open it.)
+
+**2. Warhead Sour Candy (Extreme)**  
+A roll of six. The green ones are the worst. Your face does an involuntary thing. Your mouth will regret this tomorrow. Worth it.
+
+**3. A Single Pickle**  
+In a Ziploc baggie. Still floating in a little juice. Dill. Surprisingly crisp. Who saves one pickle?
+
+**4. Saltine Cracker Sleeve**  
+Crushed to absolute dust. You have a packet of saltine dust. You could make a slurry. You could inhale it. No good options.
+
+**5. Grandma's Oatmeal Cookies**  
+In a tin with flowers on it. Slightly too much cinnamon. They're falling apart a little, crumbs at the bottom. They're perfect. You feel guilty eating the last one.
+
+**6. Gas Station Sushi**  
+A terrible idea. A truly terrible idea. Why did anyone buy this? It's been in the roller case for hours, then sat overnight. The rice is weird. The fish is a suggestion. Con save to keep it down.
+
+**7. Beef Jerky (Peppered)**  
+Aggressively salty, aggressively chewy. Could double as a weapon in a pinch. The pepper flakes get stuck in your teeth for hours.
+
+**8. Protein Bar (Cookies & Cream)**  
+Tastes like candy pretending to be health food. Slightly chalky, but it'll keep you going. The white coating gets on your fingers.
+
+**9. Honey Bun (Glazed)**  
+Individually wrapped, impossibly sweet. Leaves a film of sugar on your fingers. The spiral is perfectly imperfect. A classic.
+
+**10. Tuna Salad Kit**  
+A small can of tuna, a separate packet of mayonnaise, a tiny plastic spoon, and a sleeve of crackers. Requires assembly. Smells exactly as you'd expect. Other party members will know what you're eating from three rooms away.
+
+**11. MRE (Menu Unknown)**  
+The label is gone. The pouch is olive drab. You open it. It's brown. It's fine. Comes with a tiny bottle of Tabasco, a cracker pack, and a spoon. The Tabasco is essential.
+
+**12. Trail Mix (The Good Kind)**  
+M&Ms, peanuts, cashews, raisins, and those little yogurt-covered pretzels. Everyone picks out the M&Ms first. Someone has already picked out the M&Ms. There are none left. You have been betrayed by a stranger.
+
+**13. Peanut Butter Crackers**  
+The kind with six little sandwiches and the plastic spreading knife. The knife is useless. You eat them in three bites. The peanut butter sticks to the roof of your mouth.
+
+**14. An Actual Apple**  
+Red Delicious. Slightly bruised. Real. Fresh. Crisp. This is a treasure beyond measure. You eat the whole thing, core included, like an animal.
+
+**15. Bag of Oranges**  
+Three of them. The net bag is torn. One is slightly soft. One is perfect. The smell alone lifts everyone's spirits. Vitamin C has never been so precious.
+
+**16. Leftover Pizza Box**  
+From two days ago. One slice left. Cheese. It's cold. The cheese has that slightly plasticky texture. It's still pizza. It's still good. You eat it standing up.
+
+**17. A Full Sandwich (Kevin's)**  
+Wrapped in deli paper with a name written in sharpie. "KEVIN." Turkey and Swiss on rye, lettuce, tomato, a little mustard. You don't know Kevin. Thanks, Kevin. You think about Kevin sometimes.
+
+**18. MRE (Chili Mac)**  
+Widely considered one of the better ones. Still brown. Still comes with Tabasco. The noodles are tiny. The chili is more of a suggestion. It's hot. It's food. It's okay.
+
+**19. A Can of Tuna and One Packet of Crackers**  
+The crackers are the kind that come with soup. Four tiny rectangles. You will make this work. You eat the tuna with the crackers, carefully rationing each cracker for maximum coverage.
+
+**20. Freshly Baked Muffins**  
+In a paper bag, still warm. Blueberry. Three of them. How? Why? Who left these? You don't care. You eat one immediately. The blueberries are burst and perfect. This is a sign from God.
+
+**21. Hardboiled Eggs & Salt Packet**  
+Two eggs, pre-peeled and a little sweaty in their baggie. A single salt packet from a fast food restaurant. The eggs smell faintly of sulfur. You eat them anyway. Protein is protein.
+
+**22. Taquitos (Microwaved, Now Cold)**  
+Wrapped in a thin napkin. The grease has soaked through completely. You knew what you were getting into. The outside is chewy. The inside is vaguely chicken. You dip them in the remaining salt packet.
+
+**23. Hostess Fruit Pie (Cherry)**  
+That weird, unnaturally red filling. The crust is a little crumbly, a little greasy. The icing is a thin, cracked shell. It's perfect in every way. You eat it in four bites and immediately want another.
+
+**24. Freeze-Dried Ice Cream Sandwich**  
+A neapolitan brick of impossible crunch. It's not _good_, but it's _interesting_. It dissolves on your tongue into a weird powder. You're not sure if you liked it, but you finished it.
+
+**25. Backpacker's Pantry Pad Thai**  
+Just add boiling water. If you have boiling water. If you don't, you stare at the pouch sadly. Surprisingly serviceable. The peanut packet is crucial. Without the peanut packet, it's just sad noodles.
+
+**26. Clif Bar (Cool Mint Chocolate)**  
+Tastes like a healthier version of a Thin Mint. Acceptable. A little dry. You chew it slowly. It's dense. It sits in your stomach like a friendly brick.
+
+**27. Instant Oatmeal Packets (Variety Pack)**  
+You have Maple & Brown Sugar, Apples & Cinnamon, and the one nobody wants: Plain. You have three of them. They're all Plain. You weep softly.
+
+**28. Dried Mango Slices**  
+Chewy, tart, sweet. Feels fancy, even though it's just dried fruit. The bag is half full of little sugar crystals from where they rubbed together. You pour those into your mouth.
+
+**29. MRE (Menu 4: Beef Stew)**  
+A brown pouch containing a brown substance. The chunks are vaguely meat-shaped. The potatoes are suspiciously cube-like. Comes with a tiny bottle of Tabasco, a cracker pack, and a mysterious spoon. You use the whole Tabasco.
+
+**30. Tactical Bacon**  
+Pre-cooked, shelf-stable bacon. It's... bacon-shaped. It's fine. It's chewy. It's salty. It's not _bacon_, but it's _bacon-adjacent_. You accept this.
+
+**31. Survival Tabs (Chocolate Flavor)**  
+Tastes like compressed chalk and regret. Provides 100% of daily vitamins. One "serving" is four tabs. You will eat two and feel empty. You save the other two for later. Later comes and you dread it.
+
+**32. Ranger Bar (Coconut)**  
+Dense, chewy, and somehow both dry and oily. Designed to pack maximum calories into minimum space. You will only eat half. The other half haunts your pack for days.
+
+**33. Mom's Frozen Enchiladas (Thawed)**  
+Wrapped in foil with a sticky note that says "Don't forget to heat through!" in familiar handwriting. You have no way to heat them. You eat them cold. They're still good. You miss her.
+
+**34. Gas Station Pizza Slices**  
+From the spinning rack under the heat lamp. You bought two yesterday. They're room temperature now. The pepperoni has that slight shine. The cheese is a little stiff. You eat them backwards, crust first, saving the tip for last.
+
+**35. The Last Bag of Chips From Your Apartment**  
+Barbecue. The bag is almost empty, just crumbs and that one perfect small chip at the bottom. You find the chip. You eat it slowly. You pour the crumbs into your mouth. It's over.
+
+**36. A Candy Bar You've Been Saving**  
+A York Peppermint Pattie. It's a little melted and re-hardened. The chocolate is slightly bloomed with white streaks. Still good. Still perfect. You earned this.
+
+**37. "Emergency" Instant Ramen**  
+The cheap square kind. You crunched it up in the package and are eating it raw, shaking the seasoning packet in. You are a gremlin and you know it. Everyone knows it. You own it.
+
+**38. Turkey & Swiss on Rye**  
+Wrapped tightly in deli paper, slightly pressed. A classic. Comes with a tiny packet of mustard that you will inevitably lose in your pocket and find weeks later. The bread is a little stale. Still delicious.
+
+**39. Veggie Wrap**  
+Hummus, shredded carrot, spinach, and bell peppers in a sun-dried tomato tortilla. Gets a little soggy by day two, but still good. The healthiest thing anyone has seen in days. You feel virtuous eating it.
+
+**40. Spicy Nacho Cheese Doritos**  
+The bag is crushed. You will be eating crumbs by the end. Worth it. The cheese dust covers your fingers. You lick them clean. No regrets.
+
+**41. Pop-Tarts (Frosted Strawberry)**  
+Two in a foil pouch. One is broken. The frosting is slightly cracked. You toast them if you can. If you can't, you eat them cold and they're still amazing. The broken one counts as a snack.
+
+**42. Canned Spaghetti-Os with Meatballs**  
+A single can. No can opener. You stare at it. You contemplate your life choices. You find a rock. You make it work. They're cold and delicious and you have never been happier.
+
+**43. A Bag of Baby Carrots**  
+Someone's sad desk lunch. Still cold. Still crunchy. The satisfying snap echoes in the silent room. You feel like a rabbit. A very grateful rabbit.
+
+**44. Granola Bar (Crumbled)**  
+Opened already. Just crumbs in the wrapper. You pour them into your mouth like birdseed. It's fine. It's still oats and honey. You accept your fate.
+
+**45. A Single Beer**  
+Warm. In a brown paper bag. No label. It's some local IPA from a brewery that probably closed months ago. It's bitter. It's warm. It's the best thing you've ever tasted.
+
+**46. Bottled Water (Half Empty)**  
+Found in a cup holder. It's warm. It's been there for days. There's a little dust in the threads. You drink it like it's the finest wine. Hydration is hydration.
+
+**47. A Slightly Melty Snickers**  
+From someone's glove compartment. It's been there since before everything happened. It's soft. Really soft. The nougat gives weirdly. You eat it in two bites. Perfection.
+
+**48. Costco Muffin (Chocolate, Massive)**  
+The size of your face. In a plastic clamshell. It's day-old, which means it's still good for three more days. You will not finish this in one sitting. You will try. You will fail. You will have more for later.
+
+**49. A Ziploc of Mixed Nuts**  
+Shells included. Pistachios, walnuts, a few almonds. Someone packed these with love. You spend an hour cracking them with a rock. Each nut is a tiny victory. The shells pile up around you like a little monument.
+
+**50. Kevin's Lunch**  
+The whole bag. You found Kevin's backpack. Inside: A turkey sandwich (you already ate that), an apple, a bag of chips (crushed, you ate those too), a handwritten note from someone named "Jenna" that says "Have a good day! Love you!" and a slightly sweaty cheese stick. You have consumed Kevin's entire identity. You are Kevin now. This is your life.
+
+**51. A Single Gummy Worm**
+Just one. In a Ziploc. Red. Someone bit the head off already. The bite mark is old. You stare at it for a long time. You eat it. It's chewy. You think about the head.
+
+**52. Monster Energy (The Green One)**
+Warm. Has been rolling around on the floor of someone's car for weeks. The can is dented. You open it. It still fizzes. It tastes like liquid regret and caffeine. You feel alive again.
+
+**53. A Jar of Pickles (Unopened)**
+Full gallon size. Someone's bulk purchase. You have no idea how to carry this. You want to. You really want to. You take three pickles out and leave the jar. You will think about the remaining pickles for days.
+
+**54. Gas Station Hot Dog**
+Found under the heat lamps. It has been there for an unknown duration. The skin is shiny. The bun is steamed into submission. The roller marks are permanent. You add ketchup from a crusty pump. This is a gamble and you know it.
+
+**55. A Single Starburst (Pink)**
+Individually wrapped. Slightly melted. Re-hardened into a weird shape. It's the best one. Someone knew what they were saving. Now it's yours.
+
+**56. Mystery Thermos**
+You open it. You smell it. You make a decision. Roll a d4:
+1. Coffee. Still warm. How?
+2. Soup. Chunky. What kind? The world may never know.
+3. Just water. Disappointing.
+4. Something that used to be alive. You close it. You do not open it again.
+
+**57. Fast Food Ketchup Packets**
+A handful. Like, twenty of them. From five different restaurants. Someone just grabbed a fistful once. You are now the ketchup king. You didn't ask for this power.
+
+**58. A Single Pringle**
+At the bottom of a tube. It's broken. It's the perfect Pringle shape but in three pieces. You assemble them in your mouth. It counts.
+
+**59. Gatorade (Blue, Half Full)**
+Found in a gym bag. The cap is sticky. There's gym dust floating in it. It's warm. It's electric blue. You drink it. It tastes like victory and Staphylococcus.
+
+**60. A Block of Cheese (Still in Wrapper)**
+Like, a full block of cheddar. Someone's grocery run abandoned. It's sweating slightly. It's fine. Cheese is cheese. You cut off the sweaty part. You are now a cheese person.
+
+**61. Canned Bread**
+Yes, this is a real thing. Someone had canned bread. Why? For what purpose? You open it. It's... bread-shaped. In a can. You eat it. It's bread. You have questions you will never get answers to.
+
+**62. A Ziploc of Only Croutons**
+Just croutons. No salad. No soup. Someone packed croutons as a snack. You respect their energy. They're still crunchy. You eat them like chips.
+
+**63. Energy Drink (The One Nobody Likes)**
+Venom. Rip-It. Some off-brand with a skull on it. It costs 99 cents new. It tastes like battery acid and ambition. You drink it anyway. You now have wings made of regret.
+
+**64. A Banana Peel**
+Just the peel. In a bag. Like someone saved it. For what purpose? Compost? A prank? You don't know. You throw it away. You wonder about the person who saved a banana peel.
+
+**65. Slightly Used Gum**
+Still in the wrapper. Only chewed for like, five minutes. Someone's discarded gum. You find it in a backpack pocket. You consider it. You decide against it. Mostly.
+
+**66. A Can of Beets**
+Nobody wants this. Nobody has ever wanted this. You found a can of beets. You carry it for three days before abandoning it. You will find another can of beets later. The universe is mocking you.
+
+**67. French Onion Dip (Only the Dip)**
+A tub of dip. No chips. No vegetables. Just dip. Someone's priorities were clear. You eat it with a spoon. You are them now. You understand them.
+
+**68. Bottle of Hot Sauce**
+Just hot sauce. Like, a full bottle. Someone loved hot sauce. You put it on everything. You become the hot sauce person. You run out in a week. You mourn.
+
+**69. A Single Onion**
+Just an onion. Rolling around in a glove compartment. It's starting to sprout. The green shoot is optimistic. You eat it anyway. It's spicy. It's crunchy. It's trying its best.
+
+**70. Half a Sandwich (Peanut Butter and Fluff)**
+The other half is missing. There are teeth marks. Someone ate the other half and saved this one. For later. Later never came. You finish their journey for them.
+
+**71. Mystery Soda (Store Brand)**
+Dr. Thunder. Mr. Cola. Dr. Perky. Some knockoff. It's flat. It's warm. It tastes like the idea of soda. You drink it and feel nothing.
+
+**72. A Bag of Frozen Peas (Thawed)**
+Someone's ice pack. Now it's just pea soup in a bag. You eat them cold. They're mushy. They're still peas. You have made worse decisions.
+
+**73. A Single Marshmallow**
+Stale. Like, really stale. It's hard. It's crunchy. It's not what a marshmallow should be. You eat it anyway. It crumbles in your mouth like sugary dust.
+
+**74. Fast Food Napkins with Someone's Phone Number**
+Written in pen. "Call me, maybe?" A name: Tiffany. Or maybe it says "Tiffani." The handwriting is hopeful. You keep the napkin. You wonder about Tiffany. You never call.
+
+**75. A Can of Mixed Vegetables**
+The saddest can. The vegetables are tiny cubes. The liquid is viscous. You heat it up. It's still sad. You eat it. You are sad. The vegetables are also sad. It's a whole sad ecosystem.
+
+**76. A Half-Eaten Candy Necklace**
+The string is still there. Someone ate most of the candy discs. The last three are still on the string. They're dusty. They're delicious.
+
+**77. Kombucha (Homemade, Exploded)**
+The bottle is bulging. The cap is stressed. There are bubbles inside. You open it carefully. It fountains everywhere. What's left is vinegary and weird. You drink it. Your gut flora is confused.
+
+**78. A Single Twinkie**
+Individually wrapped. It's ancient. Twinkies are immortal. This one will outlive us all. You eat it. It tastes like the apocalypse. Spongey.
+
+**79. Mystery Meat Stick**
+No label. Waxy exterior. Found in a coat pocket. Is it pepperoni? Is it something else? You sniff it. It smells like meat. It smells like salt. It smells like a question. You eat it. The question remains unanswered.
+
+**80. A Ziploc of Cereal (The Sugary Kind)**
+Froot Loops. Trix. Something colorful. Someone poured cereal into a baggie for the road. It's crushed into dust and colorful crumbs. You pour it into your mouth. It's sugar dust. It's perfect.
+
+**81. Baby Food Pouch (Squished)**
+Apples and blueberries. Someone's toddler food. The pouch is half empty and squished into a backpack. You squeeze the rest into your mouth. It's actually good. You feel weird about it.
+
+**82. A Single Cheese String**
+Already peeled. Like, someone started peeling it and stopped. It's a cheese string tree. You finish the peeling. Each string is a tiny victory. You eat them one by one.
+
+**83. Expired Protein Shake**
+Two months past. "Shake well" it says. You shake it. It's chunky. You open it. You smell it. You decide life is about taking risks. It's fine. It's terrible. You finish it.
+
+**84. A Cookie (Homemade, Burned on the Bottom)**
+Someone tried. They really tried. The top is perfect. The bottom is charcoal. You scrape the black off. The middle is still good. You appreciate the effort.
+
+**85. Bottled Water (Opened, with a Note)**
+"I didn't poison this. Probably. - Dave." You don't know Dave. Dave is a stranger. Dave left you water. You trust Dave. You drink Dave's water. Thanks, Dave.
+
+**86. A Can of Sardines**
+The key is still attached. You wind it. The smell escapes. It's aggressive. It's fishy. It's love at first scent. You eat them with your fingers. Oil everywhere. Worth it.
+
+**87. A Single Oreo (Double Stuf)**
+Double Stuf. The good kind. Someone saved the best for last. It's a little broken. One side has more cream than the other. You twist it. You lick the cream. You eat the cookie. You honor their memory.
+
+**88. Gas Station Cinnamon Roll**
+In plastic. The icing is a separate packet. The roll is dense. The icing is nuclear white. You apply the entire packet. It's too much icing. There's no such thing as too much icing.
+
+**89. A Bag of Salad (Just the Salad)** 
+No dressing. No croutons. No vegetables besides lettuce. It's just leaves. Sad, wilting leaves. You eat them like a disappointed rabbit. You need fiber. You get fiber.
+
+**90. A Single Funyun**
+At the bottom of a bag. The bag is empty except for this one Funyun. It's the last survivor. It's slightly stale. It's perfectly oniony. You salute it before eating.
+
+**91. Mystery Liquid in a Gatorade Bottle**
+The bottle is blue Gatorade. The liquid inside is brown. You open it. You smell it. Roll a d6:
+1. Tea. Sweet tea. Everything's fine.
+2. Gasoline. You almost made a terrible mistake.
+3. Urine. You definitely made a terrible mistake.
+4. Apple juice. Confusing, but fine.
+5. Oil. Motor oil. You close it.
+6. Moonshine. You just found a treasure. Sip carefully.
+
+**92. A Half-Bag of Marshmallows**
+The rest of the bag is empty. Someone ate all the good ones. These are the tiny ones. The ones for hot chocolate. You don't have hot chocolate. You eat them plain. They're fine.
+
+**93. A Can of Spam**
+The whole can. Unopened. Spam is eternal. Spam is love. Spam is life. You open it. The block slides out. It's perfectly pink. You slice it with a pocket knife. You fry it if you can. You eat it raw if you can't. Spam doesn't care.
+
+**94. A Single Packet of Mayo**
+Just one. From a deli. Someone took one mayo packet. For what? One sandwich? One desperate moment? You find it in a pocket. You save it. You never use it. It follows you for weeks.
+
+**95. A Granola Bar (Opened, One Bite Missing)**
+Someone took one bite. Just one. And then put it back. Why? Did they not like it? Were they saving it? Did something happen? You eat the rest. You finish their story. It was pretty good.
+
+**96. A Bottle of Maple Syrup (The Real Kind)**
+Not the corn syrup stuff. The real amber magic. In a glass bottle. Someone's fancy purchase. You put it on everything. Everything. You run out in two days. You grieve.
+
+**97. A Ziploc of Powdered Donut Holes**
+They were donut holes once. Now they're just donut-shaped dust collectors. The powdered sugar has become one with the bag. You reach in. You pull out sugary mush. You eat it. It's still donut.
+
+**98. A Single Cracker (Fish-Shaped)**
+Goldfish. Something like that. One cracker. At the bottom of a backpack. It's crushed but intact. It smiles at you. Its little fish face knows nothing of the horrors. You eat it. It knew everything.
+
+**99. Kevin's Second Lunch**
+You find another backpack. Same brand. Same worn patches. Inside: A sandwich (ham and cheese, slightly moldy on one corner—you cut that part off), a bag of chips (barbecue, mostly crumbs), an apple (bruised but perfect), and a note: "Kev, don't forget we're meeting at 6. - J." Kevin has two backpacks. Kevin lives multiple lives. Kevin is everywhere and nowhere. You eat Kevin's second lunch. You are Kevin's companion now. There are two of you.
+
+**100. The Perfect Item**
+You open the container. You smell it. You see it. It's exactly what you needed right now. Not what you wanted. What you needed. Roll a d4:
+1. A cold bottle of your favorite drink. Condensation running down the sides. It's perfect.
+2. A warm meal that tastes like something from your childhood. Your mom's cooking. Your grandma's recipe. You cry a little.
+3. A piece of fruit so fresh and perfect it feels like a dream. You bite into it. Juice runs down your chin. You close your eyes.
+4. Nothing. The container is empty. But you feel full anyway. Hope, maybe. You'll take it.
 
 
 File: Theory D&D\Realms\Artifact.md
@@ -819,7 +1375,26 @@ Basically everything But the [[Human Realm]]
 File: Theory D&D\Realms\Valhalla.md
 
 #Realm 
-You can get here if you die the correct way.
+You can get here if you [[Death|die]] the correct way.
+
+File: Theory D&D\Theories\Antartica Preservation.md
+
+#Theory 
+The way organizations and [[The Government]] covers up stuff about [[Antartica]] is really weird.  
+#UNFINISHED
+
+
+File: Theory D&D\Theories\Fire is alive..md
+
+#Theory 
+[[Fire]] is [[Life|Alive]].
+Think of the concepts of what constitutes [[Life]], and how many fire is in line with. 
+- Fire reproduces
+- Grows on it's own
+- Retains a temperature for itself
+- It moves on it's own
+- It excretes. 
+The only thing is that it's not made from cells, but perhaps that isn't a requirement for life, and creatures don't neccesarily need to be made up of cells to exist. How Plasma is a constantly replicating source of energy from within the fire, maybe  that  is the secret to other forms of life. 
 
 File: Theory D&D\Theories\Historical\Artifice Predance.md
 
@@ -837,6 +1412,16 @@ File: Theory D&D\Theories\Historical\Cuneiform Language in Technology..md
 
 #Theory 
 This relates to [[Cuneiform Language]], as well as Relearned intelligence. [[Human|People]] thousands and thousands of years ago decided to store knowledge like that, and only recently did the humanity begin to relearn all of that old knowledge. This applies to [[The Great Cycle]], because the first people who wrote in the language learned that from [[The Before]],
+
+File: Theory D&D\Theories\Historical\JFK Shot Himself.md
+
+#Theory 
+This is related to [[Quantum Suicide and Immortality]]. 
+If anything that can happen, will happen in one branching universe, and string theory is to be believed. 
+Every possible output has to exist in one world. 
+This theory is that [[John F. Kennedy]] commited [[Suicide]], and who's to say this isn't that universe.
+That's why [[The CIA]] were so weird about it. At the height of the political turmoil with [[Russia]], it would look awful if a leader commited suicide. [[Lee Harley Oswald]] was the patsy, because they needed an excuse. 
+JFK was under too much pressure, more than enough for him to handle, and he wanted to go out during a parade with the whole world watching. 
 
 File: Theory D&D\Theories\Historical\Paleolithic Deep State.md
 
@@ -963,6 +1548,11 @@ Has ties in with the [[China|chinese]] organ trade, as well as several western e
 # Interpretation
 Oh cool, there are places in the world where cannibals trade with [[Human]] flesh. It adds a lot to the fantasy world, and is in general an interesting concept to add to a world in general.
 
+File: Theory D&D\Theories\Locational\Moai Statues were Rapa Nuians.md
+
+#Theory 
+These are the easter island statues. Once the first settlers arrived to the easter island, the statues were already there. This was to commemorate the Rapa Nuians, or the original founders of the island itself. These founders died, and were set in their place as the statues. These statues are the literal fossilized remains of [[Giant]]s. And the easter island statues were frozen giants. 
+
 File: Theory D&D\Theories\Locational\Secret Gates.md
 
 #Theory 
@@ -970,6 +1560,14 @@ File: Theory D&D\Theories\Locational\Secret Gates.md
 There is a realm of the unseen that we can’t interact with ([[Spiritual Plane]]), and all of the structures like the temples in [[The Pyramids]], caverns of [[Hollow Earth]], tops of [[Mountain]]s, temples in caves, etc,  are gateways to this realm. In these places you can cross over from this realm into the other realm, or communicate with the creatures in there. All of these things are subtly connected as a means of communicating between each other.
 # Interpretation
 I mean, I guess this clears some things up, but it means there is a place where these places communicate to, which is either a new realm, or a higher realm, that unifies the spiritual places. How about you travel to some of the [[Spiritual Plane]]s from the places? That does sound good.
+
+File: Theory D&D\Theories\Locational\Tesseract Earth or Universe.md
+
+#Theory 
+This is reffering to the shape of a tesseract. 
+We understand [[The Universe]] to exist in three dimensions. Height, depth and width. 
+A tesseract is a 4th dimensional cube, and can have an extra dimension that we wouldn't be able to percieve. 
+The world around is is moving a lot more randomly than we wanted to believe. And all the anomalies are things passing in from what's unknown, causing the world to be different. 
 
 File: Theory D&D\Theories\Locational\The Ocean at Night.md
 
@@ -1229,6 +1827,13 @@ There’s a group of new world order type people, [[Goverment Sanctioned Weaponi
 # Interpretation
 Oh okay, so the big soy is like a theory that means that there is someone behind all this, a new new world order type of people, that put soy in products and make regular men more docile. Not really expanding on the magic system, or what one can do, but adds a new faction to the world. Cool.
 
+File: Theory D&D\Theories\Political\Deep Soy.md
+
+#Theory 
+[[Soy]] is used as a weapon against major countries to immobilize their masculine population, and Deep Soy is the idea that [[The Government]] would do this to their own citizens. This leads to everything from the obesity rates going through the roof, and a reliance on law enforcement. 
+People want someone else to take care of their problems, because they do not want to take care of their own problems. 
+Also turns people into [[Femboy]]s.
+
 File: Theory D&D\Theories\Political\Golf Rumors.md
 
 #Theory 
@@ -1266,6 +1871,13 @@ The soyification of society isn’t reliant on [[Soy]], but it’s solely relian
 
 # Interpretation
 I’m sorry, what? I know starting from the end wasn’t the greatest idea, but it seems like there should be some followup to this. Let’s just add this to the… uhmmm… Femboys as a cult? As a regime of subsociety? I know that the main idea is that soy in products makes men more feminine and docile, but idk what to do from here. Let’s just add the femboys as a cult for now, and add some future goals to them.
+
+File: Theory D&D\Theories\Political\War is fake.md
+
+#Theory 
+There were never any motivations for [[War]]s.
+The motivations for wars were never about money or land, or whatever, but instead more important ideas, such as [[Hydrophobia Experiments]]. 
+That does mean that some of the wars were started by [[Illuminati]]. 
 
 File: Theory D&D\Theories\Souls n shit\Adult-Film Stars Leeching your Energy.md
 
@@ -1484,6 +2096,14 @@ Comes from a book known as "Operators and Things."
 This book was written by a woman named Barbara O'Brian, who was writing about her experience with [[Schizophrenia]]. She wrote a book about how she saw [[Human|people]] and existence. 
 There is a small part of the population known as [[Hook Operator]]s who have the ability to spread their core charisma, essence, or [[Soul]] in order to see the world the way that they want them to see it. They can also manipulate the [[Soulless]]. This would mean that the hook operators are each capable of weaving a small cult of people around them, usually the [[Soulless]] ones in order to aid them in a goal of some sort. 
 
+File: Theory D&D\Theories\Spiritual\Mathacker.md
+
+
+numbers are really cool, in the fact that they can be used to quantify everything is really cool. And the way we can make equations to find out how the speed of light interacts with whatever. 
+
+With the use of math, someone could gain the ability in order to manipulate reality itself. 
+You can abuse math to become a [[Pattern Manipulator]]. 
+
 File: Theory D&D\Theories\Spiritual\OLFMA.md
 
 #Theory 
@@ -1692,6 +2312,14 @@ File: Theory D&D\Theories\Useless\Prolepsis.md
 #Theory 
 Prolepsis is a concept within literary works, that is alluding to, or describing an event, before it actually happens. In literature, this is seen in phrases like "He was a dead man, as soon as he came through the door." which implies to us that that character is going to die, even if he hasn't died yet. There are several points of this "foreshadowing" existing in reality. From things like describing which nations will rise, which will fall, and which will take over, to art, only recently discovered, very close to modern art. 
 Either there are inevitable conclusions that all civilizations reach. [[Encorrings]]. This could be related to [[The Great Cycle]]. At some point someone started a trend, and all societies did that afterwards. 
+
+File: Theory D&D\Theories\Useless\Real Meaning of Hybrid RPG.md
+
+
+an RPG called Hybrid, cancelled in 2002. 
+The only existing text file was a ruleset that is roughly 30% completed, and is completely massive, and the rules are really weird, and cross reference each other. 
+Several of the rules are just really long equations of how [[Gravity]] interacts in a sphere, and stuff like that. 
+At one point the author begins to talk about [[The Simulation]], and how important it is to understand the walls of the simulation you're within. That goes back to the theory is that they tried to create a ruleset for the world we exist in. This RPG itself was a look through the cracks for what our reality actually is. 
 
 File: Theory D&D\Theories\Useless\Santiago Interference.md
 
@@ -2090,9 +2718,84 @@ Within the code is hidden the grand truth. If you entered a chemical equation, i
 Super secret. Nobody knows how to get it. 
 
 
+File: Theory D&D\Things\Weapons\Nuke.md
+
+#Thing #Weapon
+A weapon of mass destruction, that operates on the principles of [[Nuclear]] Energy. 
+
+File: Theory D&D\Things\Weapons\The Pequod Specifications.md
+
+#Thing #Document
+## Base Platform: Modified _Komsomolets_-Class (Project 685) Derivative
+
+While the Pequod shares its pressure hull architecture with the deep-diving [[Soviet Union|Soviet]] design, it has been extensively modified for autonomous operation and weaponized deployment.
+
+| Specification              | Value                                                                      |
+| -------------------------- | -------------------------------------------------------------------------- |
+| **Displacement**           | 5,900 tons (surfaced) / 7,200 tons (submerged)                             |
+| **Length**                 | 117.5 meters                                                               |
+| **Beam**                   | 10.2 meters                                                                |
+| **Pressure Hull Material** | Titanium alloy (40% thicker than standard, capable of 1,800m crush depth)  |
+| **Propulsion**             | 1 × OK-650B pressurized water reactor (modified for silent running)        |
+| **Shaft Power**            | 43,000 shp                                                                 |
+| **Speed**                  | 12 knots (silent station-keeping) / 38 knots (maximum)                     |
+| **Endurance**              | Nuclear: unlimited / Crew provisions: 0 (unmanned)                         |
+| **Test Depth**             | 1,400 meters (operational) / 1,700 meters (maximum before hull compromise) |
+| **Complement**             | None - fully autonomous                                                    |
+## Autonomous Systems
+
+### Command Architecture
+
+- **Primary AI**: "Claude Sonnet 4.5"
+- **Backup Systems**: Three independent neural networks running in constant consensus-voting configuration.
+- **Communications**: ELF (Extremely Low Frequency) receive-only for mission updates; no active transmissions permitted.
+### Sensory Suite
+
+| System                           | Purpose                                                                                                                         |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive Sonar Array**          | Towed array extending 1.8km behind vessel - calibrated specifically for sub-10Hz infrasound generation                          |
+| **Seismic Detectors**            | Can register crustal displacement from 0.1 Richter scale                                                                        |
+| **Bioluminescence Scanners**     | Optical sensors tuned to 470nm                                                                                                  |
+| **Pressure Wave Interferometry** | Detects massive displacement currents at ranges up to 40km                                                                      |
+| **Magnetohydrodynamic Sensors**  | The Ses-Syquamlich generates measurable EM fields when moving at depth; these sensors can track it through the seafloor itself. |
+## Armament
+
+### Primary Weapon: Modified W-87 Nuclear Warhead
+
+| Parameter           | Specification                                                               |
+| ------------------- | --------------------------------------------------------------------------- |
+| **Yield**           | 475 kilotons (variable yield - can be reduced to 5kt for precision strikes) |
+| **Delivery System** | Internal launch tube, horizontal ejection                                   |
+| **Warhead Type**    | Enhanced radiation/neutron - optimized for biological targets at depth      |
+| **Fusing**          | Proximity (adaptive) / Contact / Timed                                      |
+## Mission Profile
+
+**Station:** The Pequod maintains a continuous loiter at 1,200 meters depth, approximately 60km from the last confirmed sighting coordinates. It performs a vertical ascent to 600m every 72 hours to refresh sensor sweeps.
+
+**Engagement Criteria:**
+
+1. Detection of seismic signature matching Ses-Syquamlich emergence (0.8-1.2 Richter, unique waveform)
+2. Confirmation via three independent sensor systems
+3. Target identification at >80% confidence
+4. No surface vessels within 200km (collateral avoidance)
+
+**Firing Solution:** The missile is ejected horizontally, ignites at 300m separation, and climbs to intercept trajectory. Detonation occurs at optimal standoff distance determined by real-time analysis of creature's position and depth.
+
+**Post-Detonation Protocol:** The Pequod will immediately dive to maximum depth and maintain silent running for 30 days, then ascend to verify kill via:
+- Absence of seismic signatures
+- Tissue samples in water column
+- Disruption of deep-sea food chain patterns
+## Notable Incidents
+
+- **2010 (Gulf of Aden incident)**: The Pequod tracked the Ses-Syquamlich for 14 hours following the Artificial Sun activation. Firing solution was acquired but overridden by Illuminati High Council when 27 naval vessels entered the area to investigate "piracy." The creature was not seen again for 18 months.
+- **2014**: The submarine detected the creature emerging near the Mid-Atlantic Ridge and tracked it for 6 days before losing the trail in a hydrothermal vent field. Analysis suggests the Ses-Syquamlich may have multiple lairs connected through underwater cave systems.
+- **2019**: A scheduled maintenance window was delayed by 4 months due to "unusual activity" in the patrol zone. When the support vessel arrived, the Pequod's logs showed it had fired a warning shot (5kt yield) to deter the creature from approaching surface shipping lanes. The Illuminati officially "does not confirm" this event.
+
 File: Theory D&D\Things\Weapons\The Pequod.md
 
 #Thing 
-The Pequod is an autonimous submarine owned by the [[Illuminati]], with the single purpose of sending it's [[Nuke|Nuclear Missile]], to kill the [[Ses-Syquamlich]]. 
+The Pequod is an autonimous submarine owned by the [[Illuminati]], with the single purpose of sending it's [[Nuke|Nuclear Missile]], to kill the [[Ses-Syquamlich]]. It remains perpetually motioned around the lower levels of the [[Bermuda Triangle]], awaiting completion of it's purpose. 
+
+To learn more, see [[The Pequod Specifications]]
 
 
