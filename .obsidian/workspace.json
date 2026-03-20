@@ -146,9 +146,21 @@
               "icon": "lucide-file",
               "title": "Antartica Preservation"
             }
+          },
+          {
+            "id": "872ffb397bd4b460",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-20 02.02.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-20 02.02.14.excalidraw"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -304,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,10 +336,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de57df1cfade3cd5",
+  "active": "872ffb397bd4b460",
   "lastOpenFiles": [
-    "Theory D&D/Theories/Souls n shit/Fire is alive..md",
     "Theory D&D/Theories/Antartica Preservation.md",
+    "Excalidraw/Drawing 2026-03-20 02.02.14.excalidraw.md",
+    "Theory D&D/Theories/Souls n shit/Fire is alive..md",
     "Theory D&D/Character Creation/Progression/Soul Path.md",
     "Theory D&D/Character Creation/Soul Mechanic.md",
     "Theory D&D/Character Creation/Progression/Soul Path",
@@ -354,7 +368,6 @@
     "HFY Power Armor/Ch 161 - 170/170.md",
     "Theory D&D/Theories/Souls n shit/Oil and Resources from Humans.md",
     "Theory D&D/Cults/Major Cults/The Government.md",
-    "Theory D&D/Cults/Major Cults/Big Pharma.md",
     "Theory D&D/Concepts/Spiritualism and Soul",
     "Theory D&D/Things/Weapons",
     "Theory D&D/Things/Science",
