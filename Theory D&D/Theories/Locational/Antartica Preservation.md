@@ -1,0 +1,5 @@
+#Theory 
+The way organizations and [[The Government]] covers up stuff about [[Antartica]] is really weird.  The way that there was a person who saw a stone shape, that looks really like [[The Pyramids]], and [[The Government]] just said: "Oh, don't worry, it's just a rock." And then they saw a similar formation nearby, and they were told "That's also a rock. Stop looking at the images. "
+And then you think about if there's a rock, it usually has holes in it, made from all the [[Water]] that it has interacted with. And how after [[World War II]] the goverments banded together to form the atlantic treaty, that nobody gets to go to antartica without goverment approval. 
+And they say that Antartica is just a desolate wasteland, with nothing at all going on there for thousands of kilometers. 
+probably another entrance into the [[Hollow Earth]]. 
