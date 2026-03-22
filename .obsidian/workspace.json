@@ -146,21 +146,9 @@
               "icon": "lucide-file",
               "title": "Antartica Preservation"
             }
-          },
-          {
-            "id": "872ffb397bd4b460",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-20 02.02.14.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-20 02.02.14.excalidraw"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -336,7 +324,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd0f9ea5f1a8f0d4",
+  "active": "de57df1cfade3cd5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-20 02.02.14.excalidraw.md",
     "Theory D&D/Theories/Antartica Preservation.md",
