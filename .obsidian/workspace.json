@@ -165,10 +165,14 @@
             "id": "a30b8137cb0a8aab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Locations/Space/The Earth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Earth"
             }
           }
         ],
@@ -225,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -350,6 +353,7 @@
   },
   "active": "a30b8137cb0a8aab",
   "lastOpenFiles": [
+    "Theory D&D/Things/Locations/Space/The Sun.md",
     "The Elements.md",
     "Apollo.md",
     "Theory D&D/Concepts/Entities/Fire.md",
@@ -379,7 +383,6 @@
     "Theory D&D/Theories/Locational/Tesseract Earth or Universe.md",
     "Theory D&D/Theories/Political/War is fake.md",
     "Theory D&D/Concepts/Entities/Cryptids/Demolotion Elves.md",
-    "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
     "Theory D&D/Concepts/Spiritualism and Soul",
     "Theory D&D/Things/Weapons",
     "Theory D&D/Things/Science",
