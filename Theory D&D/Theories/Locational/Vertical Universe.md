@@ -1,0 +1,2 @@
+#Theory 
+We are moving in a directly straight line through [[The Universe]], with the existence above us and below us being somewhere we can't really reach. [[God]]s are beings that are capable of moving to different times, by using [[Time Travel]].
