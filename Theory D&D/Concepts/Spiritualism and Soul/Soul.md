@@ -37,3 +37,5 @@
     
 
 - Normal souls are invisible when outside of a [[Human]] Body.
+
+A soul can be extacted from a [[Body]] by using [[Degusya Soul Extraction]]. 
