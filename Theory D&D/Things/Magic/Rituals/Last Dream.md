@@ -10,10 +10,19 @@
 		- (1) The caster must speak the phrase three times: 
 			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."
 	- Somatic: 
-		- (2) The following hand sign is to be executed by the caster: 
+		- (2) The following hand sign is to be executed by the caster, while lying on their back: 
 		- ![[Pasted image 20260326145606.png]]
 			- || This allows for the soul to travel to purgatory, where it will begin the contract, and will not be killed for the next 24 hours, only for the individual to die at the next midnight. ||
+		- (3) The caster then falls asleep
 - Edge Cases:
 	- If another ritual of the same kind is cast before the current one resolves. the previous ritual is canceled. 
+- Common Mistakes:
+	- (1.1) The phrase is spoken in the wrong order
+		- Caster can still die from violence, poison, or deliberate harm.
+	- (1.2) The phrase is spoken only once, or twice
+		- Spoken once: Caster recieves 8 hours of protection. They will die after the 8 hours are up
+		- Spoken twice: Caster recieves 16 hours of protection, after which they will die immediately. 
+	- (1.3) The phrase is spoken more than 3 times.
+		- The ritual resets back to 0 after the 3rd time spoken, meaning that the caster has to say the phrase a multiple of 3 times in order for the spell to let them live the full day.
 - Exploits:
-	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and 
+	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to remain eternally alive, as long as they keep sleeping in the same place. 
