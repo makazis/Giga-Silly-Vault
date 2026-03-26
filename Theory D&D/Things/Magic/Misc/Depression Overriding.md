@@ -1,4 +1,4 @@
-#Magic #Action #Thing
+#Magic #Action #Thing 
 [[Theory D&D/Theories/Spiritual/Depression Overriding|Depression Overriding]]
 # Things to note:
 

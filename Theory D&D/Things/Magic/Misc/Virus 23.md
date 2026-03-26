@@ -13,5 +13,5 @@
 
 - This is one of the sources from which ambient mana comes into the world. 
     
-- A mutated, more developed version exists as the absolute [[Hyper Beast]] in the [[Hyper Reality]], that can’t be brought down by [[Theory D&D/Things/Magic/Spells/Depression Overriding|Depression Overriding]]. This beast gives you the ultimate [[Depression]], and causes you to commit [[Suicide]] in the end.
+- A mutated, more developed version exists as the absolute [[Hyper Beast]] in the [[Hyper Reality]], that can’t be brought down by [[Theory D&D/Things/Magic/Misc/Depression Overriding|Depression Overriding]]. This beast gives you the ultimate [[Depression]], and causes you to commit [[Suicide]] in the end.
 This is a [[Memetic Hazard]].

@@ -1,4 +1,4 @@
-#Concept 
+#Concept #Magic
 A ritual is an extended cast of a spell, typically requiring more than a minute, and placing more than just your [[Body]], typically either by making [[Rune]]s on objects, or the enviroment around you, bodily motions, lesser spells cast, manipulation of the forces around the ritual enviroment, as well as manipulation of the elements, and essences, together with specific speech in rituals that demand it, thinking specific thoughts, etc. 
 
 Depending on the ritual at hand, there are different materials that must be used to attain a certain purpose. 

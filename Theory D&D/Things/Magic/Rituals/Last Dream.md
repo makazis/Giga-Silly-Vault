@@ -1,5 +1,19 @@
 #Thing #Ritual #Magic 
 - Desctiption
-	- A ritual that ensures the participant gets one full day, guaranteeing that after the day, they will not wake up in the next morning.
+	- A [[Ritual]] that ensures the participant gets one full day to live without fear of death, guaranteeing that after the day, they will not wake up in the next morning.
 - Components
-	- 
+	- Temporal:
+		- Spell must be cast no more than 3 hours before midnight. 
+	- Locational:
+		- Spell must be cast from a bed, that the subject has slept in for every night for a month.
+	- Verbal:
+		- (1) The caster must speak the phrase three times: 
+			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."
+	- Somatic: 
+		- (2) The following hand sign is to be executed by the caster: 
+		- ![[Pasted image 20260326145606.png]]
+			- || This allows for the soul to travel to purgatory, where it will begin the contract, and will not be killed for the next 24 hours, only for the individual to die at the next midnight. ||
+- Edge Cases:
+	- If another ritual of the same kind is cast before the current one resolves. the previous ritual is canceled. 
+- Exploits:
+	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and 
