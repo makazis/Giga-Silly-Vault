@@ -13,6 +13,7 @@ The rituals are divided into several categories. The categories are as follows:
 - Material (Requires specific materials to be used in the casting of a ritual)
 	- Sacrificial (Requires a sacrifice, a material that is used up during the ceremony, and not retrieved afterwards)
 	- Talismanic (Requires a focus object that accumulates or directs energy during the casting. This object is often destroyed, transformed or enhanced during the ritual)
+	- Magical (Requires for the caster of the ritual to expend some amount of mana to activate the ritual, usually causing a soul or multiple souls to take damage)
 - Runic (Requires specifc runes to be drawn)
 	- Spatial Runic (Requires for runes to be manipulated to touch each other during certain parts of the ritual, requiring for the runes to either be carved on moving objects, or carved on the humans skin. )
 - Conditional (Requires an external condition in order for the ritual to take place)
