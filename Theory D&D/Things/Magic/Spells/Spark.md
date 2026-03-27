@@ -1,14 +1,28 @@
 #Thing #Magic #Spell
 - Description
-	- A simple spell, that converts a piece of a soul into a small spark. 
+	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other fire based concepts. 
 - Components:
 	- Verbal:
 		- (2) "ignis" ||flame in latin||
-	- Somatic:
-		- (1) Execute the following hand sign:
-			- 
+	- Somatic (One Handed):
+		- (1) Execute the following hand sign with one of your hands:
+		- ![[Pasted image 20260327110000.png|153]]
+			- ||This is done to push the space between the fingers small enough for it to produce heat, and a spark can be born. ||
+		- (3) Snap your fingers:
+			- ||Release the energy in the middle of the fingers as a fiery spark.||
 	- Magical: The soul takes 1 damage
+- Mistakes:
+	- (1.1)
 - Variations:
-	- The Magical component is replaced with a small, highly burnable material. 
+	- The Magical component is replaced with a small, highly burnable material, or ambient mana. 
 		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
-	- 
+	- The Magical component is increased to 1d4 soul damage.
+		- The spark turns into a small fire, that burns above your hand for 1 minute, or as long as the caster maintains concentration. 
+	- (2) is replaced with "lumos", and (3) is never executed. 
+		- The spell doesn't ever release the spark, and produces a faint light above the fingers, creating a small, 30ft light. This can persist for 1 minute, or as long as the caster holds concentration. 
+	- (2.1) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red spark, meaning that you've summoned an [[Omega Fire]]. 
+		- If you do not get out of there fast, you get consumed by the Omega Fire too. 
+		- Omega Fire consumes anything and everything, except for [[God]]s and if you haven't perished from the damage to your soul, you'll die really quickly if you linger around. 
+- Exploits:
+	- (3) can be executed whenever the caster snaps their fingers, letting the spark happen whenever it is required to happen. You can use this to prepare the spark for a later spell execution, as an ancillary component. 
+		- The magical cost is paid after the snap is complete. This lets you dead man's switch the soul spark variation, killing both you and another person with you as your snap happens the moment your hand finishes the spell. 
