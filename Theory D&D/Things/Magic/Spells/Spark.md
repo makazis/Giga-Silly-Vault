@@ -11,8 +11,6 @@
 		- (3) Snap your fingers:
 			- ||Release the energy in the middle of the fingers as a fiery spark.||
 	- Magical: The soul takes 1 damage
-- Mistakes:
-	- (1.1)
 - Variations:
 	- The Magical component is replaced with a small, highly burnable material, or ambient mana. 
 		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
@@ -23,6 +21,7 @@
 	- (2.1) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red spark, meaning that you've summoned an [[Omega Fire]]. 
 		- If you do not get out of there fast, you get consumed by the Omega Fire too. 
 		- Omega Fire consumes anything and everything, except for [[God]]s and if you haven't perished from the damage to your soul, you'll die really quickly if you linger around. 
+			- Omega fire doesn't consume the ground or the water, so it will burn out eventually.
 - Exploits:
 	- (3) can be executed whenever the caster snaps their fingers, letting the spark happen whenever it is required to happen. You can use this to prepare the spark for a later spell execution, as an ancillary component. 
 		- The magical cost is paid after the snap is complete. This lets you dead man's switch the soul spark variation, killing both you and another person with you as your snap happens the moment your hand finishes the spell. 

@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "tag:#Magic  ",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -74,6 +74,6 @@
   "repelStrength": 12.9065743944637,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 1.2414543899482846,
+  "scale": 1.2414543899482828,
   "close": false
 }

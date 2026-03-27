@@ -1,4 +1,4 @@
-#Thing #Material #God 
+#Thing #Material #God #Magic 
 # Things to note:
 
 - Water is alive, because water is a part of [[The God]], the same way a [[Human]] with their [[Soul]] is.
@@ -7,11 +7,9 @@
     
 - Water is capable of growing differently based on environments it remains in, and it changes depending on how the people around it function. 
     
-
 - Water can accumulate positive or [[Negative Energy]] around it. 
-    
-
-  
+- Water is one of [[The Elements]]. 
+- Water can be used to put out [[Omega Fire]]
 
 # Related Theories:
 
