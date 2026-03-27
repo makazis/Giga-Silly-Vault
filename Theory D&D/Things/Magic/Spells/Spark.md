@@ -1,0 +1,14 @@
+#Thing #Magic #Spell
+- Description
+	- A simple spell, that converts a piece of a soul into a small spark. 
+- Components:
+	- Verbal:
+		- (2) "ignis" ||flame in latin||
+	- Somatic:
+		- (1) Execute the following hand sign:
+			- 
+	- Magical: The soul takes 1 damage
+- Variations:
+	- The Magical component is replaced with a small, highly burnable material. 
+		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
+	- 
