@@ -1,6 +1,6 @@
 #Thing #Magic #Spell
 - Description
-	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other fire based concepts. 
+	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other [[Fire]] based concepts. 
 - Components:
 	- Verbal:
 		- (2) "ignis" ||flame in latin||

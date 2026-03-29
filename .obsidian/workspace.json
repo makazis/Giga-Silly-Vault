@@ -123,14 +123,22 @@
             "id": "af5cc5cba625480f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "49387990c12bd1cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Theory D&D/Character Creation/Soul Mechanic.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Soul Mechanic"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-29 21.22.20.excalidraw"
             }
           },
           {
@@ -148,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -324,31 +332,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af5cc5cba625480f",
+  "active": "49387990c12bd1cb",
   "lastOpenFiles": [
+    "spade.png",
+    "heart.png",
+    "diamond.png",
+    "club.png",
+    "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md",
+    "Excalidraw",
+    "Theory D&D/Concepts/Magic/Elements/Fire.md",
+    "Theory D&D/Things/Magic/Spells/Spark.md",
+    "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
+    "Theory D&D/Things/Magic/Rituals/Last Dream.md",
+    "Theory D&D/Things/Magic/Rituals/Images",
+    "Theory D&D/Things/Magic/Misc/Virus 23.md",
+    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326145606.png",
+    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260327110000.png",
+    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326121711.png",
+    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326120855.png",
+    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326120636.png",
+    "Theory D&D/Character Creation/Soul Mechanic.md",
     "Theory D&D/Character Creation/Main.md",
     "Theory D&D/Character Creation/Progression/Soul Path.md",
     "Theory D&D/Things/Materials/Water.md",
     "Theory D&D/Concepts/Magic/The Elements.md",
     "Theory D&D/Concepts/Magic/Elements/Electricity.md",
-    "Theory D&D/Concepts/Magic/Elements/Fire.md",
     "Theory D&D/Things/Magic/Misc/Omega Fire.md",
     "Theory D&D/Concepts/Life.md",
     "Theory D&D/Things/Magic/Misc/Curse.md",
     "Pasted image 20260326115934.png",
     "Pasted image 20260326115915.png",
-    "Pasted image 20260326120636.png",
-    "Pasted image 20260326120855.png",
-    "Pasted image 20260326121711.png",
-    "Pasted image 20260327110000.png",
-    "Pasted image 20260326145606.png",
-    "Theory D&D/Things/Magic/Spells/Spark.md",
-    "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
     "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
     "Theory D&D/Concepts/Science/Body.md",
     "Theory D&D/Concepts/Magic/Ritual.md",
     "Theory D&D/Concepts/Magic/Negative Energy.md",
-    "Theory D&D/Things/Magic/Rituals/Last Dream.md",
     "Theory D&D/Concepts/Magic/Chakra.md",
     "Theory D&D/Concepts/Magic/Mana.md",
     "Theory D&D/Concepts/Magic/Immortallity.md",
@@ -356,13 +373,6 @@
     "Theory D&D/Things/Magic/Misc/Depression Overriding.md",
     "Theory D&D/Things/Magic/Spells",
     "Theory D&D/Things/Magic/Misc/Despair Code.md",
-    "Theory D&D/Things/Magic/Misc/Virus 23.md",
-    "Theory D&D/Things/Magic/Misc/Forced Soul Removal.md",
-    "Somatic.Gathering.md",
-    "Theory D&D/Theories/Spiritual/1800s Technology.md",
-    "Pasted image 20260326120203.png",
-    "Pasted image 20260326115907.png",
-    "Pasted image 20260326115820.png",
     "Theory D&D/Things/Magic/Rituals",
     "Theory D&D/Concepts/Magic/Elements",
     "Theory D&D/Characters/Gods",
@@ -370,8 +380,6 @@
     "Theory D&D/Character Creation/Progression/Soul Path",
     "Theory D&D/Character Creation/Progression",
     "Theory D&D/Random Encounters",
-    "Theory D&D/Character Creation",
-    "Theory D&D/Concepts/Spiritualism and Soul",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]
