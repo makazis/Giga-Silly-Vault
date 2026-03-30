@@ -7,13 +7,14 @@
 	- Locational:
 		- Spell must be cast from a bed, that the subject has slept in for every night for a month.
 	- Verbal:
-		- (1) The caster must speak the phrase three times: 
+		- (2) The caster must speak the phrase three times: 
 			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."
 	- Somatic: 
-		- (2) The following hand sign is to be executed by the caster, while lying on their back: 
-		- ![[Pasted image 20260326145606.png]]
+		- (1) The following hand sign is to be executed by the caster, while lying on their back: 
+		- ![[Pasted image 20260326145606.png|454]]
 			- || This allows for the soul to travel to purgatory, where it will begin the contract, and will not be killed for the next 24 hours, only for the individual to die at the next midnight. ||
-		- (3) The caster then falls asleep
+		- (3) The Caster claps their hands together
+		- (4) The caster then falls asleep
 - Edge Cases:
 	- If another ritual of the same kind is cast before the current one resolves. the previous ritual is canceled. 
 - Common Mistakes:

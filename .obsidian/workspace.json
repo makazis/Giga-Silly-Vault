@@ -130,18 +130,6 @@
             }
           },
           {
-            "id": "49387990c12bd1cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-29 21.22.20.excalidraw"
-            }
-          },
-          {
             "id": "de57df1cfade3cd5",
             "type": "leaf",
             "state": {
@@ -156,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -331,18 +319,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "49387990c12bd1cb",
+  "active": "af5cc5cba625480f",
   "lastOpenFiles": [
-    "spade.png",
-    "heart.png",
-    "diamond.png",
-    "club.png",
+    "Theory D&D/Concepts/Magic/Negative Energy.md",
+    "Theory D&D/Things/Magic/Rituals/Last Dream.md",
     "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md",
+    "Excalidraw/spade.png",
+    "Excalidraw/heart.png",
+    "Excalidraw/diamond.png",
+    "Excalidraw/club.png",
     "Excalidraw",
     "Theory D&D/Concepts/Magic/Elements/Fire.md",
     "Theory D&D/Things/Magic/Spells/Spark.md",
     "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
-    "Theory D&D/Things/Magic/Rituals/Last Dream.md",
     "Theory D&D/Things/Magic/Rituals/Images",
     "Theory D&D/Things/Magic/Misc/Virus 23.md",
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326145606.png",
@@ -360,11 +349,9 @@
     "Theory D&D/Concepts/Life.md",
     "Theory D&D/Things/Magic/Misc/Curse.md",
     "Pasted image 20260326115934.png",
-    "Pasted image 20260326115915.png",
     "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
     "Theory D&D/Concepts/Science/Body.md",
     "Theory D&D/Concepts/Magic/Ritual.md",
-    "Theory D&D/Concepts/Magic/Negative Energy.md",
     "Theory D&D/Concepts/Magic/Chakra.md",
     "Theory D&D/Concepts/Magic/Mana.md",
     "Theory D&D/Concepts/Magic/Immortallity.md",
