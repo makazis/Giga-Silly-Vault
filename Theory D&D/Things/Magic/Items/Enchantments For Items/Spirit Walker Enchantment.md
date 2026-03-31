@@ -1,0 +1,2 @@
+- Description:
+	- An [[Enchantment]] that allows the wearer of an item to move in a direction while they don't have a tangible form. 
