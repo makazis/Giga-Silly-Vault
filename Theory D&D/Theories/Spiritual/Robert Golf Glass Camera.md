@@ -3,7 +3,7 @@
 # Explanation
 There was an idea between three letter agencies in the [[United States]] to make a sort of viewless recorder or in other words a camera that is not visible. It was called the glass camera because of this. A camera with no evidence of recording something. The details of how to make this camera were never made public. 
 
-It wasn’t built using physical properties, but by using psychic properties. There’s a famed [[psychic]] by the name of [[Robert Golf]], which [[The Government]]  has done a good job at eliminating the record of his existence, who worked with the government on [[Astral Projection]]. 
+It wasn’t built using physical properties, but by using psychic properties. There’s a famed [[psychic]] by the name of [[Robert Golf]], which [[The Government]]  has done a good job at eliminating the record of his existence, who worked with the government on [[Theory D&D/Concepts/Things one can do/Astral Projection]]. 
 
 [[Robert Golf]] would be hooked up to the imagers that attach to his head, and then his thoughts would be put on a screen. Then Robert would astrally project out of his body, and go view something as a ghost or a specter. That was later wired back to his brain, which was wired back to a television, and that’s how the glass camera works. 
 

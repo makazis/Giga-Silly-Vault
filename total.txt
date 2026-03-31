@@ -1,4 +1,16 @@
 
+File: Theory D&D\Things\Magic\Derivative Spells\Absence of Speech.md
+
+#Spell #Magic #Enchantment 
+- Description:
+	- A spell created by using the [[Trigger]] spell on a [[Silence]] spell, and by imbuing additional mana, causing it to stay on the targets body until dispelled. Whenever the target opens their mouth, only silence can come out. 
+	- This is a [[Curse]], that can be [[Enchant Item|imbued onto an item]], producing the [[Curse of Silence]] modifier.  
+- Components:
+	- Ancillary:
+		- (1) The [[Trigger]] spell, targeting the [[Silence]] spell, with an automatic component must be cast on the target. 
+	- Magical:
+		- (2) The caster takes 1d4 soul damage. (Total: 4d4+1)
+
 File: Theory D&D\Concepts\Magic\Chakra.md
 
 #Concept #Magic
@@ -15,10 +27,19 @@ the chakras are inside of your [[Body]].
 - [[Solar Plexus Clown Gliders]]    
 
 
-File: Theory D&D\Things\Magic\Misc\Curse.md
+File: Theory D&D\Things\Magic\Items\Enchantments For Items\Curse of Silence.md
+
+#Magic #Spell #Enchantment
+
+- Description:
+	- The wearer of the item is constantly under the effect of [[Absence of Speech]], that takes their breath away whenever they try to say something. 
+
+File: Theory D&D\Things\Magic\Curse.md
 
 #Concept #Magic 
 A curse is a negative [[Enchantment]] that affects an individual. There are many types of curses, but they aren't categorized as to yet. 
+
+An item imbued with a curse is called a cursed item. 
 
 File: Theory D&D\Things\Magic\Rituals\Degusya Soul Extraction.md
 
@@ -44,17 +65,17 @@ Anywho, a short description of the ritual itself:
 	- Somatic/Verbal: 
 		- (1) The Visitors must make a full circle through all 6 of the sectors. ||This is to divide the maximum people, so that they don't injure each other during the ritual.|| 
 		- (2) The Visitors must point to the middle of the circle, at the closest one of the subjects. Despite this, all humans in the middle of the circle are transported. ||This is to enable a link between the Visitors and the Subjects, so that entities that do not have the ability of pointing does not get sucked into the ritual themselves.||
-		- (4) Visitors must execute this hand sign:
+		- (5) Visitors must execute this hand sign:
 		- ![[Pasted image 20260326120636.png|161]]
 			- ||This is to ensure that the souls of the Visitors are collected into the space between their hands, and so that they are protected during the journey. This is because the Visitors wouldn't usually travel with the subjects after the Gateway ritual is complete.||
-		- (5) Visitors must execute this hand sign: 
+		- (6) Visitors must execute this hand sign: 
 		- ![[Pasted image 20260326120855.png|154]]
 			- ||This is required to send the Visitor's essences and their soul rights into the circle of the subjects, while leaving the Visitors themselves outside of the circle. This also does mean that a Visitor can abuse this by bringing in weapons with themselves, to ensure their way is met. ||
-		- (6) Visitors must execute this hand sign: 
+		- (7) Visitors must execute this hand sign: 
 		- ![[Pasted image 20260326121711.png|328]]
 			- || This is the hand sign to show that the Visitors are ready to be transported, upon what time they will be brought forth into the pocket dimension along with the Subjects. ||
 	- Runic: 
-		- Requires a magic circle drawn on the ground. Must have a sector count that is divisible by 6. Each Visitor must stand on one of the 6 sectors. The magic circle must have a smaller circle in the center, in which all of the Subjects must be thorough the ritual.
+		- (0) Requires a magic circle drawn on the ground. Must have a sector count that is divisible by 6. Each Visitor must stand on one of the 6 sectors. The magic circle must have a smaller circle in the center, in which all of the Subjects must be thorough the ritual.
 			-  ||In the other dimension, the runic circle remains, and if a Subject exits it, they are transported safely back to their home dimension. ||
 	- Role Participatory:
 		- Visitor: Up to 6 people, each standing on one of the sectors of the magic circle at the beginning of the ritual. 
@@ -63,7 +84,7 @@ Anywho, a short description of the ritual itself:
 		- (3) A [[Gateway Ritual]] must be cast after all of the ritual members have taken their place on their selective circles, and in their selective roles. 
 			- ||This is done to establish the connection to the outer dimension. The magic circle below the feet of the Visitors should serve as a destination for the ritual.||
 	- Magical:
-		- Each of the casters souls take 1d6 damage after (3) is performed. 
+		- (4) Each of the casters souls take 1d6 damage. 
 - Edge Cases:
 	- If a subject escapes the circle in the middle before the ritual has taken place, they aren't transported to the pocket dimension. 
 		- If a Visitor begins the ritual with no alive subjects in the middle, and they are transported to the dimension, they are stuck there till they can find another ritual of the same kind, and escape using that ritual. 
@@ -129,6 +150,30 @@ Electricity is the movement of electrons.
 Electricity is one of [[The Elements]]. 
 
 
+File: Theory D&D\Things\Magic\Rituals\Enchant Item.md
+
+#Magic #Ritual 
+- Description:
+	- A [[Ritual]] that allows you to apply an [[Enchantment]] to an item. 
+	- This can be used to apply a [[Curse]] to an item, to make it cursed. 
+- Components:
+	- Ancillary:
+		- (1) The [[Imbue Mana]] spell must be executed enough times to pay for the mana cost of the enchantment. 
+		- (2) The components of the chosen enchantment must be cast, targeting the chosen target while wielding the weapon. If you target yourself, the Enchantment of the item will target yourself. if you target a creature touching the item in a specific spot, then any creature touching the item in that specific spot, will gain the effects of the enchantment on the item.
+			- The Magical component for the enchantment must still be paid. 
+- Mistakes:
+	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
+		- This does only count the space directly inside of the object, closed off from all sides, still allowing you to enchant armor. 
+
+File: Theory D&D\Things\Magic\Enchantment.md
+
+#Magic #Thing 
+An enchantment is a long lasting [[Magic]]al effect, that affects a body, entity, or something else. 
+Enchantments can be cast upon people, objects, entities. Sometimes on concepts by more advanced mages. 
+
+Enchantments can be imbued into items, as well as wearable items, causing the person holding, or wearing the item to have the effect of the enchantment applied to them. 
+	An item can't have more than one enchantment under regular circumstances, unless it gains a higher item tier, which is most commonly achieved via [[Item Tier Increase]]. 
+
 File: Theory D&D\Concepts\Magic\Elements\Fire.md
 
 #Concept #Thing #Magic
@@ -138,6 +183,8 @@ Fire is also [[Life|Alive]], and there are several spirits living within fire, t
 Fire comes from [[The Sun]], and depending on how much sun shines upon you, you can get a different spirit to contact. 
 
 There are three main spirits within fire: [[Helios]], [[Prometheus]], and [[Ra]]. When a flame changes purpose, it can change which spirit is manifested
+
+Fire can be extinguished by [[Water]]
 
 File: Theory D&D\Things\Magic\Misc\Forced Soul Removal.md
 
@@ -152,6 +199,38 @@ File: Theory D&D\Things\Magic\Misc\Forced Soul Removal.md
     
 - You can also push a different soul, or your own soul into their body, which is how [[Lich]]es stay alive over the years.
 
+File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
+
+#Magic #Item #Thing 
+- Description:
+	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]]. This allows them to control the essences, and their flow with just hand motions. 
+- Variations:
+	- Gauntlets of Mu (Very Rare): 
+		- Allows the user to control any and all flows specified in the [[Push]] spell. 
+	- Gauntlets of Fire (Rare): 
+		- Allows the user to only control the flow of [[Fire]]. 
+	- Gauntlets of Souls (Rare):
+		- Allows the user to only control the flow of [[Soul]]s. 
+	- Gauntlets of Wind (Uncommon):
+		- Allow the user to only control the [[Wind]]. This isn't to such a level to allow the user to levitate. 
+	- 
+
+File: Theory D&D\Things\Magic\Primal Spells\Imbue Mana.md
+
+#Magic #Spell
+- Description:
+	- A spell that allows you to imbue the equivalent of one soul HP into an item. 
+- Components:
+	- Ancillary:
+		- (1) The [[Push]] spell must be executed, pouring the ambient [[Mana]] into the item. 
+	- Somatic:
+		- (2) Two hands must be held above the item for at least 3 minutes and 17 seconds. 
+			- ||This is done so that there are no more leaks in the item, and the mana can't escape from it.||
+	- Magical:
+		- The caster takes 1d4-2 soul damage. 
+- Mistakes:
+	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
+
 File: Theory D&D\Concepts\Magic\Immortallity.md
 
 #Concept #Magic
@@ -164,17 +243,18 @@ File: Theory D&D\Things\Magic\Rituals\Last Dream.md
 	- A [[Ritual]] that ensures the participant gets one full day to live without fear of death, guaranteeing that after the day, they will not wake up in the next morning.
 - Components
 	- Temporal:
-		- Spell must be cast no more than 3 hours before midnight. 
+		- (0) Spell must be cast no more than 3 hours before midnight. 
 	- Locational:
-		- Spell must be cast from a bed, that the subject has slept in for every night for a month.
+		- (0) Spell must be cast from a bed, that the subject has slept in for every night for a month.
 	- Verbal:
-		- (1) The caster must speak the phrase three times: 
+		- (2) The caster must speak the phrase three times: 
 			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."
 	- Somatic: 
-		- (2) The following hand sign is to be executed by the caster, while lying on their back: 
-		- ![[Pasted image 20260326145606.png]]
+		- (1) The following hand sign is to be executed by the caster, while lying on their back: 
+		- ![[Pasted image 20260326145606.png|454]]
 			- || This allows for the soul to travel to purgatory, where it will begin the contract, and will not be killed for the next 24 hours, only for the individual to die at the next midnight. ||
-		- (3) The caster then falls asleep
+		- (3) The Caster claps their hands together
+		- (4) The caster then falls asleep
 - Edge Cases:
 	- If another ritual of the same kind is cast before the current one resolves. the previous ritual is canceled. 
 - Common Mistakes:
@@ -186,7 +266,7 @@ File: Theory D&D\Things\Magic\Rituals\Last Dream.md
 	- (1.3) The phrase is spoken more than 3 times.
 		- The ritual resets back to 0 after the 3rd time spoken, meaning that the caster has to say the phrase a multiple of 3 times in order for the spell to let them live the full day.
 - Exploits:
-	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to remain eternally alive, as long as they keep sleeping in the same place. 
+	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to attain [[Immortallity]], as long as they keep sleeping in the same place. 
 
 File: Theory D&D\Concepts\Magic\Magic.md
 
@@ -211,6 +291,29 @@ File: Theory D&D\Things\Magic\Misc\Omega Fire.md
 
 #Magic #Thing #Weapon 
 A variant of [[Fire]], that isn't limited to what the regular fire burns, and can burn anything except the flesh of [[God]]s. 
+
+File: Theory D&D\Things\Magic\Primal Spells\Push.md
+
+#Magic #Spell 
+- Description:
+	- A simple spell, that can push a small element around. This can't affect physical objects due to it being unable to interfere with the force of [[Gravity]] too much. This still works on the following phenomena and their variations:
+		- [[Soul]]s
+		- [[Fire]] 
+		- [[Wind]] (and therefore: sound)
+		- [[Mana]]
+		- [[Electricity]] (but in extremely small quantities)
+- Components:
+	- Verbal:
+		- (1) The caster must say "Mu" aloud. 
+	- Somatic:
+		- (2) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
+- Limitations: 
+	- The spell can't affect essences more than 30ft away from the caster. 
+		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.
+			- Note that this stacks with every movement of the hand, and can very quickly become too much. 
+- Variations:
+	- (2.1) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
+		- This can be used to extinguish the sound, or make a loud action silent, if the caster has both their hands free. 
 
 File: Theory D&D\Concepts\Magic\Ritual.md
 
@@ -283,11 +386,84 @@ Now the main explanation for this is that when two people have sex, their souls 
 
 This also means that there are some people that seduce you to suck out your own [[Soul]] and a part of your [[Mana]]. This is also why regular sex is healthy for your body. 
 
-File: Theory D&D\Things\Magic\Spells\Spark.md
+File: Theory D&D\Things\Magic\Derivative Spells\Silence.md
 
-#Thing #Magic #Spell
+#Magic #Spell
+- Description:
+	- Silence is a spell derived from the [[Push]] spell, that allows a person to suck the words out of another person's mouth, meaning that they can't speak anymore (and can't complete the verbal components to spells).
+- Components:
+	- Ancillary: 
+		- (1) The [[Push]] spell must be cast on the target's mouth. For the next breath, any words that come out of the target's mouth are silent, and don't count as verbal components. Nobody can hear these words. 
+	- Magical:
+		- {2) The spell deals 1 soul damage to the caster. 
+- Exploits:
+	- (1.1) If the spell disrupts a verbal component, and the other caster has already moved onto executing the next component, their spell will be greatly impacted by the absence of a verbal component. 
+		- This does mean that if the caster realises this, and doesn't move onto the next component, the spell doesn't do anything, and they can just say the component with their next breath. 
+
+File: Theory D&D\Character Creation\Soul Mechanic.md
+
+#Magic
+When you play the game, you'll have a second health bar for your soul. You can use your souls hit points in order to cast spells. 
+If a creature runs out of soul hit points, the soul is ejected from the body, and is stunned for a minute. Any soul can enter the body as an action, and take posession of it. 
+
+There are some spells that consume your soul when you use them. There is a limit as to how many you can use per day, but you don't know that limit till you try to cast them, as that will be kept by the DM. 
+
+A soul regains all it's hp during a long rest. 
+Each soul starts with a 1d6 hit die, meaning it gets 6 hp at the first level, and 1d6 more hp each level. 
+
+A soul is the collection of memories accumulated through someone's life. If the soul is damaged, but not all of it's hp is removed, it can regenerate fully during a full rest. 
+
+
+File: Theory D&D\Concepts\Spiritualism and Soul\Soul.md
+
+#Concept #Magic
+# Things to note:
+
+- There’s a limited amount of souls in the world (due to the [[Bank of souls]])
+    
+- A person can be born without a soul, then they become [[Soulless]]
+    
+
+- There are always some spare souls, as when the souls run out, the end of the world will come. 
+    
+
+- There are cults of people with souls, that seek and eliminate other people with souls, to replenish the tree and to ward off the end of the world. 
+    
+
+- [[Methane]] is a byproduct of a soul being in a body, hence there can be no humans without methane, and to revive a soul, the body has to be full of methane, before a soul enters it.
+    
+
+- This means that the reason babies are born is because their mothers body produces some methane upon childbirth. How this could help you, I have no idea.
+    
+
+- When humans consume another entity, such as bread, or meat, that is when their body creates methane, as a way to get rid of the excess parts of the soul. This means that without feeding, you cannot have kids. 
+    
+- The souls have to spend an eternity inside of a heaven, or a hell, which is where the consciousness is left to rest forever, till they succumb to the nothingness, before being returned to the tree of life, for reincarnation. 
+    
+- Souls removed from the body can become ambient mana, if not redirected to heaven or hell. The usage of such mana chips away at them, meaning that mana is a renewable resource, but can run out. 
+    
+
+- Enough souls flying around can also get together to form a cryptid, or a ghost. 
+    
+
+- Souls can be removed from a body, and can enter a body. 
+    
+
+- They can be removed if they pass a certain threshold of damage received.
+    
+- A new soul can enter their place, if they overpower the body’s defenses, as well as the soul within it. Easier to do if the soul is weakened enough or if the body is empty.
+    
+
+- Normal souls are invisible when outside of a [[Human]] Body.
+
+A soul can be extacted from a [[Body]] by using [[Degusya Soul Extraction]]. 
+
+
+File: Theory D&D\Things\Magic\Primal Spells\Spark.md
+
+#Magic #Spell
 - Description
-	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other fire based concepts. 
+	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other [[Fire]] based concepts. 
 - Components:
 	- Verbal:
 		- (2) "ignis" ||flame in latin||
@@ -297,15 +473,16 @@ File: Theory D&D\Things\Magic\Spells\Spark.md
 			- ||This is done to push the space between the fingers small enough for it to produce heat, and a spark can be born. ||
 		- (3) Snap your fingers:
 			- ||Release the energy in the middle of the fingers as a fiery spark.||
-	- Magical: The soul takes 1 damage
+	- Magical: 
+		- (4) The soul takes 1 damage
 - Variations:
-	- The Magical component is replaced with a small, highly burnable material, or ambient mana. 
+	- (4.1) The Magical component is replaced with a small, highly burnable material, or ambient mana. 
 		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
-	- The Magical component is increased to 1d4 soul damage.
+	- (4.2) The Magical component is increased to 1d4 soul damage.
 		- The spark turns into a small fire, that burns above your hand for 1 minute, or as long as the caster maintains concentration. 
 	- (2) is replaced with "lumos", and (3) is never executed. 
 		- The spell doesn't ever release the spark, and produces a faint light above the fingers, creating a small, 30ft light. This can persist for 1 minute, or as long as the caster holds concentration. 
-	- (2.1) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red spark, meaning that you've summoned an [[Omega Fire]]. 
+	- (2.1 and 4.3) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red/orange/yellow spark, meaning that you've summoned an [[Omega Fire]]. 
 		- If you do not get out of there fast, you get consumed by the Omega Fire too. 
 		- Omega Fire consumes anything and everything, except for [[God]]s and if you haven't perished from the damage to your soul, you'll die really quickly if you linger around. 
 			- Omega fire doesn't consume the ground or the water, so it will burn out eventually.
@@ -340,6 +517,43 @@ Water is the ichor of god. [[The Earth]] is it's body. This means that the being
 Since we know that [[Fire]] is alive, and is the manifestation of a soul, it would mean that [[The Sun]] is enshrouded in living beings, the same way that [[The Earth]] is. Making them both gods. 
 The people naming planets after gods wasn't a coincidence. The planets are gods. 
 
+
+File: Theory D&D\Things\Magic\Items\The Life Elixir.md
+
+#Thing #Item #Magic
+If you drink this, you achieve [[Immortallity]], and cannot die. 
+this is an [[Artifact]],
+
+File: Theory D&D\Things\Magic\Primal Spells\Trigger.md
+
+#Spell #Magic #Enchantment
+- Description:
+	- A rather simple spell, that allows you to cast a second spell upon a specific trigger. 
+- Components:
+	- Magical:
+		- (2) The spell deals 1d4 soul damage to the caster.
+	- Ancillary:
+		- (3) The components for the target spell must be cast. 
+	- Mental: 
+		- (1) The caster must think of the word "Gelios"
+		- (4) The trigger for the spell must be selected by the caster from the list below:
+			- There isn't a word specified within 20 seconds of casting the spell:
+				- The spell triggers instantly, whenever it is able to. 
+					- Note that this is very dangerous, and should never be done.
+			- "Varda"
+				- The spell triggers upon a verbal component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a verbal component to this spell and increases the magical component by a bit:
+					- (5) The chosen phrase must be spoken by the caster. 
+					- (2.1) The caster takes 1d4 additional damage. 
+			- "Darba"
+				- The spell triggers upon a somatic component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
+					- (5) The chosen movement must be performed by the caster. 
+					- (2.1) The caster takes 1d4 additional damage. 
+- Variations:
+	- By casting the spell two times on the same target spell, the target spell will be triggered four times.
+	- By casting the spell three times on the same target spell, the target spell will trigger infinitely, until dispelled, or until the trigger spell runs out of ambient [[Mana]] to cast the spell, and breaking this spell in the process. 
+	- The ambient mana to trigger a spell will be sourced from the casters reserves. If the caster is at least 100 ft away from the trigger location of the spell, the spell will not affect 
+- Limitations:
+	- If there is insufficient ambient mana, the target spell won't be recast again, and the trigger spell will end. 
 
 File: Theory D&D\Things\Magic\Misc\Virus 23.md
 

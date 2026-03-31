@@ -263,7 +263,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Things/Magic/Derivative Spells/Absence of Speech.md",
+                "file": "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
                 "mode": "source",
                 "source": false
               },
@@ -291,12 +291,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Things/Magic/Primal Spells/Spark.md",
+                "file": "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spark"
+              "title": "Essence Movement"
             }
           }
         ],
@@ -477,21 +477,24 @@
   },
   "active": "f2192119fc538ba7",
   "lastOpenFiles": [
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments",
+    "Theory D&D/Things/Magic/Derivative Spells/Silence.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
+    "Theory D&D/Things/Magic/Misc/Depression Overriding.md",
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
+    "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
+    "Theory D&D/Things/Magic/Primal Spells/Spark.md",
     "Item Tier Increase.md",
     "Theory D&D/Things/Magic/Enchantment.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
     "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
     "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
     "Theory D&D/Things/Magic/Rituals/Last Dream.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Absence of Speech.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Silence.md",
     "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
     "Theory D&D/Things/Magic/Primal Spells/Imbue Mana.md",
-    "Theory D&D/Things/Magic/Primal Spells/Untitled.md",
     "Theory D&D/Things/Magic/Derivative Spells",
-    "Theory D&D/Things/Magic/Primal Spells/Spark.md",
     "Theory D&D/Things/Magic/Primal Spells/Push.md",
-    "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
     "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
     "Theory D&D/Things/Magic/Curse.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items",
@@ -514,9 +517,6 @@
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326121711.png",
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326120855.png",
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326120636.png",
-    "Theory D&D/Character Creation/Soul Mechanic.md",
-    "Theory D&D/Character Creation/Main.md",
-    "Theory D&D/Character Creation/Progression/Soul Path.md",
     "Pasted image 20260326115934.png",
     "Theory D&D/Things/Magic/Primal Spells",
     "Theory D&D/Things/Magic/Rituals",

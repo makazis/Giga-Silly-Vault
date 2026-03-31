@@ -15,11 +15,23 @@
 			- "Varda"
 				- The spell triggers upon a verbal component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a verbal component to this spell and increases the magical component by a bit:
 					- (5) The chosen phrase must be spoken by the caster. 
-					- (2.1) The caster takes 1d4 additional damage. 
+					- (2.1) The caster takes 1d6 additional soul damage. 
 			- "Darba"
-				- The spell triggers upon a somatic component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
+				- The spell triggers upon a somatic component is fufilled. When a movement is performed by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
 					- (5) The chosen movement must be performed by the caster. 
-					- (2.1) The caster takes 1d4 additional damage. 
+					- (2.1) The caster takes 1d6 additional soul damage. 
+			- "Doma"
+				- The spell triggers upon a mental component is fufilled. When the word/phrase/concept is thought of by the caster, the spell will trigger. This adds a mental component to this spell and increases the magical component by a bit:
+					- (5) The chosen word/phrase/concept must be thought of by the caster. 
+					- (2.1) The caster takes 3d6 additional soul damage. 
+			- "Und"
+				- The spell gains an additional trigger that must be fufilled in order for the spell to be cast. This functions as a logical AND gate.
+					- This increases the Magical component by 1 soul damage
+			- "Esto"
+				- The spell gains an additional trigger that can be completed instead of the current trigger in order for the spell to be cast. This functions as a logical OR gate.
+					- This increases the Magical component by 1 soul damage
+			- "Rotos"
+				- The spell will NOT be completed if the following trigger is active. Functions as a logical NOT gate. 
 - Variations:
 	- By casting the spell two times on the same target spell, the target spell will be triggered four times.
 	- By casting the spell three times on the same target spell, the target spell will trigger infinitely, until dispelled, or until the trigger spell runs out of ambient [[Mana]] to cast the spell, and breaking this spell in the process. 
