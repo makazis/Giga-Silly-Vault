@@ -1,0 +1,13 @@
+#Magic #Spell
+- Description:
+	- A spell that allows you to imbue the equivalent of one soul HP into an item. 
+- Components:
+	- Ancillary:
+		- (1) The [[Push]] spell must be executed, pouring the ambient [[Mana]] into the item. 
+	- Somatic:
+		- (2) Two hands must be held above the item for at least 3 minutes and 17 seconds. 
+			- ||This is done so that there are no more leaks in the item, and the mana can't escape from it.||
+	- Magical:
+		- The caster takes 1d4-2 soul damage. 
+- Mistakes:
+	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 

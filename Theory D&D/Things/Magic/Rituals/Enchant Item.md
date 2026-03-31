@@ -4,9 +4,9 @@
 	- This can be used to apply a [[Curse]] to an item, to make it cursed. 
 - Components:
 	- Ancillary:
-		- (1) The [[Push]] spell must be executed, pouring the ambient [[Mana]] into the cursed item. 
-	- Somatic:
-		- (2) Two hands must be held above the item for at least 3 minutes and 17 seconds. 
-			- ||This is done so that there are no more leaks in the object, and the mana can't escape from it.||
+		- (1) The [[Imbue Mana]] spell must be executed enough times to pay for the mana cost of the enchantment. 
+		- (2) The components of the chosen enchantment must be cast, targeting the chosen target while wielding the weapon. If you target yourself, the Enchantment of the item will target yourself. if you target a creature touching the item in a specific spot, then any creature touching the item in that specific spot, will gain the effects of the enchantment on the item.
+			- The Magical component for the enchantment must still be paid. 
 - Mistakes:
 	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
+		- This does only count the space directly inside of the object, closed off from all sides, still allowing you to enchant armor. 

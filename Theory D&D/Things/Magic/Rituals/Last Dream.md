@@ -26,4 +26,4 @@
 	- (1.3) The phrase is spoken more than 3 times.
 		- The ritual resets back to 0 after the 3rd time spoken, meaning that the caster has to say the phrase a multiple of 3 times in order for the spell to let them live the full day.
 - Exploits:
-	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to remain eternally alive, as long as they keep sleeping in the same place. 
+	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to attain [[Immortallity]], as long as they keep sleeping in the same place. 
