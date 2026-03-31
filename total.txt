@@ -1,5 +1,5 @@
 
-File: Theory D&D\Things\Magic\Derivative Spells\Absence of Speech.md
+File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Absence of Speech.md
 
 #Spell #Magic #Enchantment 
 - Description:
@@ -174,6 +174,16 @@ Enchantments can be cast upon people, objects, entities. Sometimes on concepts b
 Enchantments can be imbued into items, as well as wearable items, causing the person holding, or wearing the item to have the effect of the enchantment applied to them. 
 	An item can't have more than one enchantment under regular circumstances, unless it gains a higher item tier, which is most commonly achieved via [[Item Tier Increase]]. 
 
+File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Essence Movement.md
+
+#Magic #Enchantment #Spell
+- Description:
+	- A combination of [[Push]], used in the [[Trigger]] spell, with a mental trigger AND an always trigger. This allows for you to think of a concept, and while you're imagining that concept, your essence will be pushed around, letting you move while you aren't in your full form.
+	- This is an [[Enchantment]], that can be [[Enchant Item|imbued onto an item]], producing the [[Spirit Walker Enchantment]] modifier. 
+- Exploits:
+	- A [[Soul]] or a person under the [[Store]] spell can use this spell in order to move while intangible, except for this to work with all 6 of the directions (up down left right forward backward), the enchantment must be applied 6 times. 
+		- This can be troublesome to accomplish, as the spell itself requires intense amounts of soul damage to be sustained, with a minimum of 15, average of 42, and a maximum of 69, leading to a theoretical maximum of 413 soul damage. This is achievable by a skilled mage over many moons. 
+
 File: Theory D&D\Concepts\Magic\Elements\Fire.md
 
 #Concept #Thing #Magic
@@ -235,6 +245,12 @@ File: Theory D&D\Concepts\Magic\Immortallity.md
 
 #Concept #Magic
 An immortal entity cannot achieve [[Death]].
+
+File: Theory D&D\Things\Magic\Rituals\Item Tier Increase.md
+
+#Magic #Ritual 
+- Description:
+	- A [[Ritual]] that increases the tier of a [[Magic]] item, allowing you to store more enchantments on it. Has different costs for each tier, getting only more expensive the more enchantments are stacked on the item. 
 
 File: Theory D&D\Things\Magic\Rituals\Last Dream.md
 
@@ -490,6 +506,26 @@ File: Theory D&D\Things\Magic\Primal Spells\Spark.md
 	- (3) can be executed whenever the caster snaps their fingers, letting the spark happen whenever it is required to happen. You can use this to prepare the spark for a later spell execution, as an ancillary component. 
 		- The magical cost is paid after the snap is complete. This lets you dead man's switch the soul spark variation, killing both you and another person with you as your snap happens the moment your hand finishes the spell. 
 
+File: Theory D&D\Things\Magic\Primal Spells\Store.md
+
+#Magic #Spell 
+- Description:
+	- Store is a primal spell that allows for an item to be stored within a pocket dimension, to be released after the concentration on the spell ends. 
+- Components:
+	- Somatic: 
+		- (1) The caster touches the target that is targeted with the spell. 
+		- (4) The caster claps their hands together.
+			- While the target is stored, it is transformed into a concept, and can still be interacted with by the [[Push]] spell, or other essence manipulating spells. 
+				- The target is capable of thought, and can see and hear anything in the real world. This allows it to fufil only the Mental components of spells. 
+		- (5) When the caster takes their hands away from each other, the item reappears. 
+	- Mental:
+		  (2) The caster imagines the object they wish to store. 
+	-  Verbal:
+		- (3) The phrase "" is said
+- Exploits:
+	- If the caster targets themselves with the spell, and disappears into the other dimension, since they don't exist anymore, and have no way to finish the somatic components of the spell, they can't get back into the real world. 
+		- A second cast of the spell can override the original spell, and cause the person to return to the normal world. 
+
 File: Theory D&D\Concepts\Magic\The Elements.md
 
 #Concept #Magic
@@ -543,11 +579,23 @@ File: Theory D&D\Things\Magic\Primal Spells\Trigger.md
 			- "Varda"
 				- The spell triggers upon a verbal component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a verbal component to this spell and increases the magical component by a bit:
 					- (5) The chosen phrase must be spoken by the caster. 
-					- (2.1) The caster takes 1d4 additional damage. 
+					- (2.1) The caster takes 1d6 additional soul damage. 
 			- "Darba"
-				- The spell triggers upon a somatic component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
+				- The spell triggers upon a somatic component is fufilled. When a movement is performed by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
 					- (5) The chosen movement must be performed by the caster. 
-					- (2.1) The caster takes 1d4 additional damage. 
+					- (2.1) The caster takes 1d6 additional soul damage. 
+			- "Doma"
+				- The spell triggers upon a mental component is fufilled. When the word/phrase/concept is thought of by the caster, the spell will trigger. This adds a mental component to this spell and increases the magical component by a bit:
+					- (5) The chosen word/phrase/concept must be thought of by the caster. 
+					- (2.1) The caster takes 3d6 additional soul damage. 
+			- "Und"
+				- The spell gains an additional trigger that must be fufilled in order for the spell to be cast. This functions as a logical AND gate.
+					- This increases the Magical component by 1 soul damage
+			- "Esto"
+				- The spell gains an additional trigger that can be completed instead of the current trigger in order for the spell to be cast. This functions as a logical OR gate.
+					- This increases the Magical component by 1 soul damage
+			- "Rotos"
+				- The spell will NOT be completed if the following trigger is active. Functions as a logical NOT gate. 
 - Variations:
 	- By casting the spell two times on the same target spell, the target spell will be triggered four times.
 	- By casting the spell three times on the same target spell, the target spell will trigger infinitely, until dispelled, or until the trigger spell runs out of ambient [[Mana]] to cast the spell, and breaking this spell in the process. 
