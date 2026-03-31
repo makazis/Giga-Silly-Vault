@@ -1,4 +1,4 @@
-#Concept
+#Concept #Magic
 # Things to note:
 
 - There’s a limited amount of souls in the world (due to the [[Bank of souls]])

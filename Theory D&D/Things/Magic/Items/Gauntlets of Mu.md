@@ -1,0 +1,13 @@
+#Magic #Item #Thing 
+- Description:
+	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]]. This allows them to control the essences, and their flow with just hand motions. 
+- Variations:
+	- Gauntlets of Mu (Very Rare): 
+		- Allows the user to control any and all flows specified in the [[Push]] spell. 
+	- Gauntlets of Fire (Rare): 
+		- Allows the user to only control the flow of [[Fire]]. 
+	- Gauntlets of Souls (Rare):
+		- Allows the user to only control the flow of [[Soul]]s. 
+	- Gauntlets of Wind (Uncommon):
+		- Allow the user to only control the [[Wind]]. This isn't to such a level to allow the user to levitate. 
+	- 

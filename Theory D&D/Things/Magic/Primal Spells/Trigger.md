@@ -1,0 +1,28 @@
+#Spell #Magic #Enchantment
+- Description:
+	- A rather simple spell, that allows you to cast a second spell upon a specific trigger. 
+- Components:
+	- Magical:
+		- (2) The spell deals 1d4 soul damage to the caster.
+	- Ancillary:
+		- (3) The components for the target spell must be cast. 
+	- Mental: 
+		- (1) The caster must think of the word "Gelios"
+		- (4) The trigger for the spell must be selected by the caster from the list below:
+			- There isn't a word specified within 20 seconds of casting the spell:
+				- The spell triggers instantly, whenever it is able to. 
+					- Note that this is very dangerous, and should never be done.
+			- "Varda"
+				- The spell triggers upon a verbal component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a verbal component to this spell and increases the magical component by a bit:
+					- (5) The chosen phrase must be spoken by the caster. 
+					- (2.1) The caster takes 1d4 additional damage. 
+			- "Darba"
+				- The spell triggers upon a somatic component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
+					- (5) The chosen movement must be performed by the caster. 
+					- (2.1) The caster takes 1d4 additional damage. 
+- Variations:
+	- By casting the spell two times on the same target spell, the target spell will be triggered four times.
+	- By casting the spell three times on the same target spell, the target spell will trigger infinitely, until dispelled, or until the trigger spell runs out of ambient [[Mana]] to cast the spell, and breaking this spell in the process. 
+	- The ambient mana to trigger a spell will be sourced from the casters reserves. If the caster is at least 100 ft away from the trigger location of the spell, the spell will not affect 
+- Limitations:
+	- If there is insufficient ambient mana, the target spell won't be recast again, and the trigger spell will end. 

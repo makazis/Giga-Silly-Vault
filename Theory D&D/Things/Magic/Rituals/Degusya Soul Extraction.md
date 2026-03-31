@@ -20,17 +20,17 @@ Anywho, a short description of the ritual itself:
 	- Somatic/Verbal: 
 		- (1) The Visitors must make a full circle through all 6 of the sectors. ||This is to divide the maximum people, so that they don't injure each other during the ritual.|| 
 		- (2) The Visitors must point to the middle of the circle, at the closest one of the subjects. Despite this, all humans in the middle of the circle are transported. ||This is to enable a link between the Visitors and the Subjects, so that entities that do not have the ability of pointing does not get sucked into the ritual themselves.||
-		- (4) Visitors must execute this hand sign:
+		- (5) Visitors must execute this hand sign:
 		- ![[Pasted image 20260326120636.png|161]]
 			- ||This is to ensure that the souls of the Visitors are collected into the space between their hands, and so that they are protected during the journey. This is because the Visitors wouldn't usually travel with the subjects after the Gateway ritual is complete.||
-		- (5) Visitors must execute this hand sign: 
+		- (6) Visitors must execute this hand sign: 
 		- ![[Pasted image 20260326120855.png|154]]
 			- ||This is required to send the Visitor's essences and their soul rights into the circle of the subjects, while leaving the Visitors themselves outside of the circle. This also does mean that a Visitor can abuse this by bringing in weapons with themselves, to ensure their way is met. ||
-		- (6) Visitors must execute this hand sign: 
+		- (7) Visitors must execute this hand sign: 
 		- ![[Pasted image 20260326121711.png|328]]
 			- || This is the hand sign to show that the Visitors are ready to be transported, upon what time they will be brought forth into the pocket dimension along with the Subjects. ||
 	- Runic: 
-		- Requires a magic circle drawn on the ground. Must have a sector count that is divisible by 6. Each Visitor must stand on one of the 6 sectors. The magic circle must have a smaller circle in the center, in which all of the Subjects must be thorough the ritual.
+		- (0) Requires a magic circle drawn on the ground. Must have a sector count that is divisible by 6. Each Visitor must stand on one of the 6 sectors. The magic circle must have a smaller circle in the center, in which all of the Subjects must be thorough the ritual.
 			-  ||In the other dimension, the runic circle remains, and if a Subject exits it, they are transported safely back to their home dimension. ||
 	- Role Participatory:
 		- Visitor: Up to 6 people, each standing on one of the sectors of the magic circle at the beginning of the ritual. 
@@ -39,7 +39,7 @@ Anywho, a short description of the ritual itself:
 		- (3) A [[Gateway Ritual]] must be cast after all of the ritual members have taken their place on their selective circles, and in their selective roles. 
 			- ||This is done to establish the connection to the outer dimension. The magic circle below the feet of the Visitors should serve as a destination for the ritual.||
 	- Magical:
-		- Each of the casters souls take 1d6 damage after (3) is performed. 
+		- (4) Each of the casters souls take 1d6 damage. 
 - Edge Cases:
 	- If a subject escapes the circle in the middle before the ritual has taken place, they aren't transported to the pocket dimension. 
 		- If a Visitor begins the ritual with no alive subjects in the middle, and they are transported to the dimension, they are stuck there till they can find another ritual of the same kind, and escape using that ritual. 

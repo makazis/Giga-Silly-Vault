@@ -3,9 +3,9 @@
 	- A [[Ritual]] that ensures the participant gets one full day to live without fear of death, guaranteeing that after the day, they will not wake up in the next morning.
 - Components
 	- Temporal:
-		- Spell must be cast no more than 3 hours before midnight. 
+		- (0) Spell must be cast no more than 3 hours before midnight. 
 	- Locational:
-		- Spell must be cast from a bed, that the subject has slept in for every night for a month.
+		- (0) Spell must be cast from a bed, that the subject has slept in for every night for a month.
 	- Verbal:
 		- (2) The caster must speak the phrase three times: 
 			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."

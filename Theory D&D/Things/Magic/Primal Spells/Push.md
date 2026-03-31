@@ -1,0 +1,20 @@
+#Magic #Spell 
+- Description:
+	- A simple spell, that can push a small element around. This can't affect physical objects due to it being unable to interfere with the force of [[Gravity]] too much. This still works on the following phenomena and their variations:
+		- [[Soul]]s
+		- [[Fire]] 
+		- [[Wind]] (and therefore: sound)
+		- [[Mana]]
+		- [[Electricity]] (but in extremely small quantities)
+- Components:
+	- Verbal:
+		- (1) The caster must say "Mu" aloud. 
+	- Somatic:
+		- (2) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
+- Limitations: 
+	- The spell can't affect essences more than 30ft away from the caster. 
+		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.
+			- Note that this stacks with every movement of the hand, and can very quickly become too much. 
+- Variations:
+	- (2.1) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
+		- This can be used to extinguish the sound, or make a loud action silent, if the caster has both their hands free. 

@@ -1,0 +1,11 @@
+#Magic #Spell
+- Description:
+	- Silence is a spell derived from the [[Push]] spell, that allows a person to suck the words out of another person's mouth, meaning that they can't speak anymore (and can't complete the verbal components to spells).
+- Components:
+	- Ancillary: 
+		- (1) The [[Push]] spell must be cast on the target's mouth. For the next breath, any words that come out of the target's mouth are silent, and don't count as verbal components. Nobody can hear these words. 
+	- Magical:
+		- {2) The spell deals 1 soul damage to the caster. 
+- Exploits:
+	- (1.1) If the spell disrupts a verbal component, and the other caster has already moved onto executing the next component, their spell will be greatly impacted by the absence of a verbal component. 
+		- This does mean that if the caster realises this, and doesn't move onto the next component, the spell doesn't do anything, and they can just say the component with their next breath. 
