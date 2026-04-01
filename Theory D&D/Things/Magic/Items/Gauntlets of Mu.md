@@ -1,6 +1,7 @@
 #Magic #Item #Thing 
 - Description:
-	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]]. This allows them to control the essences, and their flow with just hand motions. 
+	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]], and allows them to disregard the need to look at the rune completely. This allows them to control the essences, and their flow with just hand motions. 
+	- ![[Pasted image 20260401034542.png|336]]
 - Variations:
 	- Gauntlets of Mu (Very Rare): 
 		- Allows the user to control any and all flows specified in the [[Push]] spell. 

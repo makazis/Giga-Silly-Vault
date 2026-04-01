@@ -179,10 +179,33 @@ File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Essence Movement.md
 #Magic #Enchantment #Spell
 - Description:
 	- A combination of [[Push]], used in the [[Trigger]] spell, with a mental trigger AND an always trigger. This allows for you to think of a concept, and while you're imagining that concept, your essence will be pushed around, letting you move while you aren't in your full form.
+		- This will only allow you to move in the direction of the original direction that was directed at when Push was cast. 
 	- This is an [[Enchantment]], that can be [[Enchant Item|imbued onto an item]], producing the [[Spirit Walker Enchantment]] modifier. 
 - Exploits:
 	- A [[Soul]] or a person under the [[Store]] spell can use this spell in order to move while intangible, except for this to work with all 6 of the directions (up down left right forward backward), the enchantment must be applied 6 times. 
 		- This can be troublesome to accomplish, as the spell itself requires intense amounts of soul damage to be sustained, with a minimum of 15, average of 42, and a maximum of 69, leading to a theoretical maximum of 413 soul damage. This is achievable by a skilled mage over many moons. 
+- Variations:
+	- The trigger of push deals 6d12 more soul damage.
+		- You can choose which direction to move to, as the spell works relative to your origin. This allows you to move omnidirectionally while incorporeal. 
+
+File: Theory D&D\Things\Magic\Items\Face of The Void.md
+
+#Magic #Item #Thing 
+- Description:
+	- A mask that looks like that vvvv
+	- ![[Pasted image 20260401033203.png|270]]
+	- Not only does the mask look absolutely wonderful, but also, upon saying the phrase "Aleph Null", the wearer of the mask can disappear from the [[Human Realm|reality]], as if casting the [[Store]] spell. 
+		- This usually deals 1d4 soul damage to them. 
+	- The caster reappears in the regular reality 22 hours and 53 minutes later. 
+- Variations:
+	- Face of the Void (Very Rare): 
+		- Everything as mentioned above
+	- Face of the Void Monarch (Epic): 
+		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
+	- Crown of the Void King (Legendary): 
+		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
+		- The mask allows you to shift back into reality at will, by thinking "Vastos"
+		- Both shifting in and out of reality deals 1d6 soul damage to the wearer instead. 
 
 File: Theory D&D\Concepts\Magic\Elements\Fire.md
 
@@ -213,7 +236,7 @@ File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
 
 #Magic #Item #Thing 
 - Description:
-	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]]. This allows them to control the essences, and their flow with just hand motions. 
+	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]], and allows them to disregard the need to look at the rune completely. This allows them to control the essences, and their flow with just hand motions. 
 - Variations:
 	- Gauntlets of Mu (Very Rare): 
 		- Allows the user to control any and all flows specified in the [[Push]] spell. 
@@ -319,10 +342,13 @@ File: Theory D&D\Things\Magic\Primal Spells\Push.md
 		- [[Mana]]
 		- [[Electricity]] (but in extremely small quantities)
 - Components:
+	- Mental:
+		- (1) The caster must visualise the following rune:
+			- ![[Pasted image 20260401032919.png]]
 	- Verbal:
-		- (1) The caster must say "Mu" aloud. 
+		- (2) The caster must say "Mu" aloud. 
 	- Somatic:
-		- (2) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
+		- (3) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
 - Limitations: 
 	- The spell can't affect essences more than 30ft away from the caster. 
 		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.
@@ -516,12 +542,12 @@ File: Theory D&D\Things\Magic\Primal Spells\Store.md
 		- (1) The caster touches the target that is targeted with the spell. 
 		- (4) The caster claps their hands together.
 			- While the target is stored, it is transformed into a concept, and can still be interacted with by the [[Push]] spell, or other essence manipulating spells. 
-				- The target is capable of thought, and can see and hear anything in the real world. This allows it to fufil only the Mental components of spells. 
+				- The target is capable of thought, and can see and hear anything in the real world. This allows it to fufill only the Mental components of spells. 
 		- (5) When the caster takes their hands away from each other, the item reappears. 
 	- Mental:
 		  (2) The caster imagines the object they wish to store. 
 	-  Verbal:
-		- (3) The phrase "" is said
+		- (3) The caster says: "Nul"
 - Exploits:
 	- If the caster targets themselves with the spell, and disappears into the other dimension, since they don't exist anymore, and have no way to finish the somatic components of the spell, they can't get back into the real world. 
 		- A second cast of the spell can override the original spell, and cause the person to return to the normal world. 

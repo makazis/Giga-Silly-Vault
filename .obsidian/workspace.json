@@ -305,16 +305,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
+                "file": "Theory D&D/Things/Magic/Items/Face of The Void.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essence Movement"
+              "title": "Face of The Void"
+            }
+          },
+          {
+            "id": "694569dc09f04ae7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20260401032919.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260401032919"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -489,14 +501,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a64a7c8a94ed68c3",
+  "active": "694569dc09f04ae7",
   "lastOpenFiles": [
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Aimed Essence Movement.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
-    "Theory D&D/Things/Magic/Primal Spells/Store.md",
-    "Theory D&D/Things/Magic/Items/Enchantments For Items/Spirit Walker Enchantment.md",
-    "Theory D&D/Things/Untitled.md",
+    "Images/Pasted image 20260401033203.png",
+    "Images/Pasted image 20260401034542.png",
+    "Images/Pasted image 20260401032919.png",
+    "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
+    "Theory D&D/Things/Magic/Items/Face of The Void.md",
+    "Images",
+    "Theory D&D/Things/Magic/Primal Spells/Push.md",
+    "Theory D&D/Things/Magic/Items/The Life Elixir.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
+    "Theory D&D/Things/Magic/Items/Enchantments For Items/Spirit Walker Enchantment.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Aimed Essence Movement.md",
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
+    "Theory D&D/Things/Untitled.md",
     "Theory D&D/Things/Magic/Rituals/Item Tier Increase.md",
     "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
     "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
@@ -505,22 +525,17 @@
     "Theory D&D/Things/Magic/Misc/Depression Overriding.md",
     "Theory D&D/Things/Magic/Primal Spells/Spark.md",
     "Theory D&D/Things/Magic/Enchantment.md",
-    "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
     "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
     "Theory D&D/Things/Magic/Rituals/Last Dream.md",
     "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
     "Theory D&D/Things/Magic/Primal Spells/Imbue Mana.md",
     "Theory D&D/Things/Magic/Derivative Spells",
-    "Theory D&D/Things/Magic/Primal Spells/Push.md",
     "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
     "Theory D&D/Things/Magic/Curse.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items",
     "Theory D&D/Concepts/Life.md",
-    "Theory D&D/Things/Magic/Items/The Life Elixir.md",
     "Theory D&D/Things/Magic/Items",
     "Theory D&D/Concepts/Magic/Ritual.md",
-    "Theory D&D/Concepts/Magic/Negative Energy.md",
-    "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md",
     "Excalidraw/spade.png",
     "Excalidraw/heart.png",
     "Excalidraw/diamond.png",
@@ -530,13 +545,9 @@
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326145606.png",
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260327110000.png",
     "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326121711.png",
-    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326120855.png",
-    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326120636.png",
-    "Pasted image 20260326115934.png",
     "Theory D&D/Things/Magic/Primal Spells",
     "Theory D&D/Things/Magic/Rituals",
     "Theory D&D/Concepts/Magic/Elements",
-    "Theory D&D/Characters/Gods",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]

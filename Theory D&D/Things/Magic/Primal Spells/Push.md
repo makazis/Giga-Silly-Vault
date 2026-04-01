@@ -7,10 +7,13 @@
 		- [[Mana]]
 		- [[Electricity]] (but in extremely small quantities)
 - Components:
+	- Mental:
+		- (1) The caster must visualise the following rune:
+			- ![[Pasted image 20260401032919.png]]
 	- Verbal:
-		- (1) The caster must say "Mu" aloud. 
+		- (2) The caster must say "Mu" aloud. 
 	- Somatic:
-		- (2) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
+		- (3) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
 - Limitations: 
 	- The spell can't affect essences more than 30ft away from the caster. 
 		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.

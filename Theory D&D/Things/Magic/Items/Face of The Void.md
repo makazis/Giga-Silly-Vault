@@ -1,0 +1,16 @@
+#Magic #Item #Thing 
+- Description:
+	- A mask that looks like that vvvv
+	- ![[Pasted image 20260401033203.png|270]]
+	- Not only does the mask look absolutely wonderful, but also, upon saying the phrase "Aleph Null", the wearer of the mask can disappear from the [[Human Realm|reality]], as if casting the [[Store]] spell. 
+		- This usually deals 1d4 soul damage to them. 
+	- The caster reappears in the regular reality 22 hours and 53 minutes later. 
+- Variations:
+	- Face of the Void (Very Rare): 
+		- Everything as mentioned above
+	- Face of the Void Monarch (Epic): 
+		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
+	- Crown of the Void King (Legendary): 
+		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
+		- The mask allows you to shift back into reality at will, by thinking "Vastos"
+		- Both shifting in and out of reality deals 1d6 soul damage to the wearer instead. 
