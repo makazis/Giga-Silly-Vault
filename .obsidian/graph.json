@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Tag:#Race ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 12.9065743944637,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 1.740497823076514,
+  "scale": 0.8854989543150389,
   "close": false
 }
