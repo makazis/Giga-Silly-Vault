@@ -8,128 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8370a35cfa75fd18",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3b2d5fa577231c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D Knowledge/Briareus Kratos Spells/Sacred Flame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sacred Flame"
-            }
-          },
-          {
-            "id": "bdbceb6ef84a4afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Characters/Medieval/Otto III.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Otto III"
-            }
-          },
-          {
-            "id": "46e796f36f0402ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Locations/Countries/Florida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Florida"
-            }
-          },
-          {
-            "id": "2b3422e932cff526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Theories/Medical/Null Compliance Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Null Compliance Security"
-            }
-          },
-          {
-            "id": "2d310ab612977ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phlogiston Theory Resurfacing"
-            }
-          },
-          {
-            "id": "a3a12ccbb7a30aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Theories/Santiago Interference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Santiago Interference"
-            }
-          },
-          {
-            "id": "9c5a3fd4b8f45cee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Concepts/Life.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Life"
-            }
-          },
-          {
-            "id": "af5cc5cba625480f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Primal Spells/Spark.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spark"
-            }
-          },
-          {
             "id": "5b0015208b7bbf69",
             "type": "leaf",
             "state": {
@@ -138,219 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "de57df1cfade3cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Rituals/Last Dream.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Last Dream"
-            }
-          },
-          {
-            "id": "450fc7e70bca2042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gauntlets of Mu"
-            }
-          },
-          {
-            "id": "11125b5c78c9d222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curse of Silence"
-            }
-          },
-          {
-            "id": "9e3a5b2c72b8962e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Enchantment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enchantment"
-            }
-          },
-          {
-            "id": "3eb7509820af1ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enchant Item"
-            }
-          },
-          {
-            "id": "590dcd2caff65740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enchant Item"
-            }
-          },
-          {
-            "id": "9fa2bf9625497e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soul"
-            }
-          },
-          {
-            "id": "47901d6d6ed47b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Derivative Spells/Silence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Silence"
-            }
-          },
-          {
-            "id": "05612593314c09b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Absence of Speech"
-            }
-          },
-          {
-            "id": "e902d376e17af66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Rituals/Last Dream.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Last Dream"
-            }
-          },
-          {
-            "id": "f2192119fc538ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essence Movement"
-            }
-          },
-          {
-            "id": "a64a7c8a94ed68c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Items/Face of The Void.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Face of The Void"
-            }
-          },
-          {
-            "id": "a1235af5fff6b98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Varkus"
-            }
-          },
-          {
-            "id": "056d4bd1512de747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Varkus"
-            }
-          },
-          {
-            "id": "8470edfde72943d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D Knowledge/Briareus Kratos Spells/Guidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guidance"
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -527,50 +194,49 @@
   },
   "active": "5b0015208b7bbf69",
   "lastOpenFiles": [
-    "D&D Knowledge/Briareus Kratos Spells/Guidance.md",
-    "D&D Knowledge/Briareus Kratos Spells/Fireball.md",
-    "D&D Knowledge/Briareus Kratos Spells/Mage Hand.md",
-    "D&D Knowledge/Briareus Kratos Spells/Sacred Flame.md",
+    "D&D Knowledge/Briareus Kratos Spells/Celeritas Dei.md",
+    "Pasted image 20260402165557.png",
+    "D&D Knowledge/Briareus Kratos Spells/Inferno.md",
+    "Pasted image 20260402163837.png",
+    "D&D Knowledge/Briareus Kratos Spells/Will of Brozatu.md",
+    "Pasted image 20260402162932.png",
+    "D&D Knowledge/Briareus Kratos Spells/Grasp of Brozatu.md",
+    "D&D Knowledge/Briareus Kratos Spells/Securis Caeli.md",
+    "Pasted image 20260402161036.png",
+    "Pasted image 20260402160309.png",
+    "D&D Knowledge/Briareus Kratos Spells/Ignis Animae.md",
+    "D&D Knowledge/Briareus Kratos Spells/Gladius Animae.md",
+    "D&D Knowledge/Briareus Kratos Spells/Vestis.md",
+    "Pasted image 20260402153141.png",
+    "Pasted image 20260402153025.png",
+    "D&D Knowledge/Briareus Kratos Spells/Bruka.md",
     "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
-    "Pasted image 20260402142750.png",
+    "D&D Knowledge/Briareus Kratos Spells/Vive.md",
     "Theory D&D/Things/Magic/Primal Spells/Spark.md",
+    "Theory D&D/Concepts/Life.md",
+    "Theory D&D/Theories/Useless/Phlogiston Theory Resurfacing.md",
+    "Theory D&D/Theories/Medical/Null Compliance Security.md",
+    "Theory D&D/Things/Locations/Countries/Florida.md",
+    "Theory D&D/Characters/Medieval/Otto III.md",
+    "D&D Knowledge/Briareus Kratos Spells/Megumi.md",
+    "Theory D&D/Things/Magic/Items/Face of The Void.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
+    "Theory D&D/Things/Magic/Rituals/Last Dream.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Silence.md",
+    "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
+    "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
+    "Pasted image 20260402142750.png",
     "Images/Pasted image 20260401034542.png",
     "Images/Pasted image 20260401033203.png",
-    "Images/Pasted image 20260401032919.png",
-    "Theory D&D/Theories/Historical/Phantom Time.md",
-    "Theory D&D/Concepts/Entities/Cryptids/Vampire.md",
     "D&D Knowledge/Briareus Kratos Spells",
-    "Theory D&D/Things/Magic/Items/Face of The Void.md",
-    "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
-    "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
-    "Theory D&D/Concepts/Entities/Human Related/Human.md",
-    "Theory D&D/Theories/Spiritual/Archontic Genetic Engineered Entities.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
-    "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
     "Images",
-    "Theory D&D/Things/Magic/Primal Spells/Push.md",
-    "Theory D&D/Things/Magic/Items/The Life Elixir.md",
-    "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
-    "Theory D&D/Things/Magic/Items/Enchantments For Items/Spirit Walker Enchantment.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Aimed Essence Movement.md",
-    "Theory D&D/Things/Magic/Primal Spells/Store.md",
-    "Theory D&D/Things/Untitled.md",
-    "Theory D&D/Things/Magic/Rituals/Item Tier Increase.md",
-    "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
     "Theory D&D/Things/Magic/Derivative Spells/Enchantments",
-    "Theory D&D/Things/Magic/Derivative Spells/Silence.md",
     "Theory D&D/Things/Magic/Derivative Spells",
     "Theory D&D/Things/Magic/Items/Enchantments For Items",
     "Theory D&D/Things/Magic/Items",
-    "Excalidraw/spade.png",
-    "Excalidraw/heart.png",
-    "Excalidraw/diamond.png",
-    "Excalidraw/club.png",
     "Excalidraw",
     "Theory D&D/Things/Magic/Rituals/Images",
-    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260326145606.png",
-    "Theory D&D/Things/Magic/Rituals/Images/Pasted image 20260327110000.png",
     "Theory D&D/Things/Magic/Primal Spells",
     "Theory D&D/Things/Magic/Rituals",
     "Theory D&D/Characters/Untitled.canvas",

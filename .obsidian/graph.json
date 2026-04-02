@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:\"D&D Knowledge/Briareus Kratos Spells\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -74,6 +74,6 @@
   "repelStrength": 12.9065743944637,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 0.8854989543150377,
+  "scale": 1.7404978230765789,
   "close": true
 }

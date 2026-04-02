@@ -1,4 +1,0 @@
-- Mechanical Description
-- Components:
-	- Verbal:
-		- "Flectere si nequeo superos, Acheronta movebo." (If I can not bend the will of Heaven, I shall move Hell)

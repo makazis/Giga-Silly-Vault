@@ -1,670 +1,423 @@
 
-File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Absence of Speech.md
-
-#Spell #Magic #Enchantment 
-- Description:
-	- A spell created by using the [[Trigger]] spell on a [[Silence]] spell, and by imbuing additional mana, causing it to stay on the targets body until dispelled. Whenever the target opens their mouth, only silence can come out. 
-	- This is a [[Curse]], that can be [[Enchant Item|imbued onto an item]], producing the [[Curse of Silence]] modifier.  
-- Components:
-	- Ancillary:
-		- (1) The [[Trigger]] spell, targeting the [[Silence]] spell, with an automatic component must be cast on the target. 
-	- Magical:
-		- (2) The caster takes 1d4 soul damage. (Total: 4d4+1)
-
-File: Theory D&D\Concepts\Magic\Chakra.md
-
-#Concept #Magic
-# Things to note:
-
-- The third chakra is stored in your pancreas. 
-    
-- One of the Chakras is in your [[Solar Plexus]]
-the chakras are inside of your [[Body]].  
-
-# Related Theories:
-
-- [[Pancreas Denial]]
-- [[Solar Plexus Clown Gliders]]    
-
-
-File: Theory D&D\Things\Magic\Items\Enchantments For Items\Curse of Silence.md
-
-#Magic #Spell #Enchantment
-
-- Description:
-	- The wearer of the item is constantly under the effect of [[Absence of Speech]], that takes their breath away whenever they try to say something. 
-
-File: Theory D&D\Things\Magic\Curse.md
-
-#Concept #Magic 
-A curse is a negative [[Enchantment]] that affects an individual. There are many types of curses, but they aren't categorized as to yet. 
-
-An item imbued with a curse is called a cursed item. 
-
-File: Theory D&D\Things\Magic\Rituals\Degusya Soul Extraction.md
-
-#Thing #Magic #Ritual
-When a [[Human]] is in need of more [[Soul]]s in order to increase their [[Magic]]al capabilities, they can borrow souls from other people, by the contract of a [[Degusya Soul Extraction]]. 
-
-The soul extraction is a spell that was created by [[The Before||ancients from before our world]], and has persisted through several cycles. It works by there existing a seperate pocket dimension that can be accessed by people, where the souls take physical forms. People can enter this dimension, and can leave that dimension, and the souls that they leave with are the souls that they own now. This also does mean that a person can go into this pocket dimension with weapons, and fight people for their souls, as well as leave people in here without souls, or force them out without souls. Lots of fun stuff you can do in this dimension. 
-
-Other than that a soul will manifest as the most cherished person that the soul has, so that the people in there feel an instinctive urge to protect their soul, and not to give it away. 
-
-The way to enter this realm is by a [[Ritual]], which requires a magical circle, and something, and all the people who are going to be transferred must remain within the circle for 5 minutes, so the best way to transfer them is by having them be asleep. Of course, since the soul and the body must be awake when in the other realm, they are awakened, so they can be at a full consciousness. Then, peaceful conversations can take place, after which the people can leave with the souls of their choosing. 
-
-This also means that since a person is transferred with all of their belongings, a person can enter with a weapon. Dying in this realm means you get pushed back to the regular world without your soul, so the best choices in order to steal a soul is either start the ritual while the person is restrained, or by bringing a gun into the battle while they are asleep. 
-
-Cool tomfoolery. 
-
-
-Anywho, a short description of the ritual itself:
-## Degusya Soul Extraction
-- Description:
-	- A ritual that after (3) sends the visitors and the subjects to a pocket dimension, where the visitors can bind the souls of subjects to their service, being able to draw upon them whenever they are in need of casting a spell. Each visitor can take more than one soul from the subjects. 
-- Components:
-	- Somatic/Verbal: 
-		- (1) The Visitors must make a full circle through all 6 of the sectors. ||This is to divide the maximum people, so that they don't injure each other during the ritual.|| 
-		- (2) The Visitors must point to the middle of the circle, at the closest one of the subjects. Despite this, all humans in the middle of the circle are transported. ||This is to enable a link between the Visitors and the Subjects, so that entities that do not have the ability of pointing does not get sucked into the ritual themselves.||
-		- (5) Visitors must execute this hand sign:
-		- ![[Pasted image 20260326120636.png|161]]
-			- ||This is to ensure that the souls of the Visitors are collected into the space between their hands, and so that they are protected during the journey. This is because the Visitors wouldn't usually travel with the subjects after the Gateway ritual is complete.||
-		- (6) Visitors must execute this hand sign: 
-		- ![[Pasted image 20260326120855.png|154]]
-			- ||This is required to send the Visitor's essences and their soul rights into the circle of the subjects, while leaving the Visitors themselves outside of the circle. This also does mean that a Visitor can abuse this by bringing in weapons with themselves, to ensure their way is met. ||
-		- (7) Visitors must execute this hand sign: 
-		- ![[Pasted image 20260326121711.png|328]]
-			- || This is the hand sign to show that the Visitors are ready to be transported, upon what time they will be brought forth into the pocket dimension along with the Subjects. ||
-	- Runic: 
-		- (0) Requires a magic circle drawn on the ground. Must have a sector count that is divisible by 6. Each Visitor must stand on one of the 6 sectors. The magic circle must have a smaller circle in the center, in which all of the Subjects must be thorough the ritual.
-			-  ||In the other dimension, the runic circle remains, and if a Subject exits it, they are transported safely back to their home dimension. ||
-	- Role Participatory:
-		- Visitor: Up to 6 people, each standing on one of the sectors of the magic circle at the beginning of the ritual. 
-		- Subject: Any number of people who begin in the inner magic circle become Subjects. All subjects who remain in the inner circle at the end of the ritual, they are transported over to the other dimension, and can be convinced by the Visitors to give up their souls.
-	-  Ancillary:
-		- (3) A [[Gateway Ritual]] must be cast after all of the ritual members have taken their place on their selective circles, and in their selective roles. 
-			- ||This is done to establish the connection to the outer dimension. The magic circle below the feet of the Visitors should serve as a destination for the ritual.||
-	- Magical:
-		- (4) Each of the casters souls take 1d6 damage. 
-- Edge Cases:
-	- If a subject escapes the circle in the middle before the ritual has taken place, they aren't transported to the pocket dimension. 
-		- If a Visitor begins the ritual with no alive subjects in the middle, and they are transported to the dimension, they are stuck there till they can find another ritual of the same kind, and escape using that ritual. 
-	- If multiple Visitors enter the ritual, they are capable of taking each others souls if they defeat each other in combat. 
-- Common Mistakes:
-	- (1.1) The Visitors only travel through 3 of the sectors instead of all 6.
-		- The Visitors are only able to take back one soul each. 
-	- (1.2) The Visitors walk the circle counterclockwise instead of clockwise.
-		- The Visitors arrive 1d4-1 rounds after the subjects do, giving the subjects a bit of time to make sense of their surroundings, and perhaps escape. 
-	- (2.1) The Visitors point at each other instead of the Subjects. 
-		- Subjects aren't transported to the other dimension. Nobody can leave until they've either aqquired someone's soul, or lost their own. 
-	- (3.1) The Gateway ritual is cast before the Visitors take their places. 
-		- The ritual functions, but since the Visitors weren't the only ones to stand in the middle of the circle at the beginning, they aren't the only ones transported to the other side. Any individual that enters the circle in the next 17 hours is transported to the pocket dimension too, as a visitor, and can remain trapped in there, if they do not retrieve a soul. 
-		- This only happens if they walk to the middle of the circle. If they stand in the visitor section, they can see the souls that used to stand in the visitor places, pointing at the centre. 
-	- (4.1) The hand signs are performed in the wrong order.
-		- if (6) is executed before (4) and (5), then the soul of the visitor appears besides them, and can be attacked while they are within the pocket dimension, causing their real soul to take that much damage. If their soul dies in here, it is destroyed in the real world
-		- if (5) is performed before (4), then the soul isn't the only thing brought forward, and the caster itself flies into the middle circle with a large force, often either pushing other Subjects out, or causing the Visitor to remain in the middle of the circle at the starting, causing them to become a Subject themselves. 
-	- (4.2) A visitor closes their eyes after the last step of the ritual. 
-		- The visitor is blind for the entirety of the time they remain in the pocket dimension
-- Redundancies: 
-	- (3.4) The Visitors tap their feet three times before casting. 
-		- This isn't required, but some practicioneers insist that it is. 
-- Variations:
-- Exploits:
-	- (4-6) The visitors perform the signs with weapons in hands. 
-		- The visitors get to keep the weapons as they are transported into the pocket dimension
-
-
-File: Theory D&D\Things\Magic\Misc\Depression Overriding.md
-
-#Magic #Action #Thing 
-[[Theory D&D/Theories/Spiritual/Depression Overriding|Depression Overriding]]
-# Things to note:
-
-- You can turn a negative thing into a positive one, if you know how to manipulate patterns, and you can reverse depression. 
-    
-- This means that you can reverse all of the effects on your brain posed by the beasts in the [[Hyper Reality]], letting you stay there for a longer period of time. This will still kill you in the end, as some beasts will not let you free, but you can become a god for longer. 
-    
-- You can also use this to reverse the behaviour of some of the [[Hyper Beast]]s that live within [[Hyper Reality]], getting a memetic companion. 
-    
-- You can reverse the behavior of regular beasts too, turning enemies to friends. 
-    
-- If an attack on your soul is made, you can reverse the [[Negative Energy]], and absorb the [[Soul]] trying to possess you, becoming stronger.
-
-File: Theory D&D\Things\Magic\Misc\Despair Code.md
-
-#Magic #Thing 
-
-A [[Theory D&D/Things/Magic/Misc/Despair Code]] is a universal code for every person on earth that can “Activate them”, which can evoke feelings of [[Depression]] or [[Death]]
-
-This is a [[Cognitohazard]]
-
-
-File: Theory D&D\Concepts\Magic\Drugs.md
-
-#Concept #Magic 
-LSD and whatever, not regular drugs
-
-File: Theory D&D\Concepts\Magic\Elements\Electricity.md
-
-#Concept #Magic
-Electricity is the movement of electrons. 
-Electricity is one of [[The Elements]]. 
-
-
-File: Theory D&D\Things\Magic\Rituals\Enchant Item.md
-
-#Magic #Ritual 
-- Description:
-	- A [[Ritual]] that allows you to apply an [[Enchantment]] to an item. 
-	- This can be used to apply a [[Curse]] to an item, to make it cursed. 
-- Components:
-	- Ancillary:
-		- (1) The [[Imbue Mana]] spell must be executed enough times to pay for the mana cost of the enchantment. 
-		- (2) The components of the chosen enchantment must be cast, targeting the chosen target while wielding the weapon. If you target yourself, the Enchantment of the item will target yourself. if you target a creature touching the item in a specific spot, then any creature touching the item in that specific spot, will gain the effects of the enchantment on the item.
-			- The Magical component for the enchantment must still be paid. 
-- Mistakes:
-	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
-		- This does only count the space directly inside of the object, closed off from all sides, still allowing you to enchant armor. 
-
-File: Theory D&D\Things\Magic\Enchantment.md
-
-#Magic #Thing 
-An enchantment is a long lasting [[Magic]]al effect, that affects a body, entity, or something else. 
-Enchantments can be cast upon people, objects, entities. Sometimes on concepts by more advanced mages. 
-
-Enchantments can be imbued into items, as well as wearable items, causing the person holding, or wearing the item to have the effect of the enchantment applied to them. 
-	An item can't have more than one enchantment under regular circumstances, unless it gains a higher item tier, which is most commonly achieved via [[Item Tier Increase]]. 
-
-File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Essence Movement.md
-
-#Magic #Enchantment #Spell
-- Description:
-	- A combination of [[Push]], used in the [[Trigger]] spell, with a mental trigger AND an always trigger. This allows for you to think of a concept, and while you're imagining that concept, your essence will be pushed around, letting you move while you aren't in your full form.
-		- This will only allow you to move in the direction of the original direction that was directed at when Push was cast. 
-	- This is an [[Enchantment]], that can be [[Enchant Item|imbued onto an item]], producing the [[Spirit Walker Enchantment]] modifier. 
-- Exploits:
-	- A [[Soul]] or a person under the [[Store]] spell can use this spell in order to move while intangible, except for this to work with all 6 of the directions (up down left right forward backward), the enchantment must be applied 6 times. 
-		- This can be troublesome to accomplish, as the spell itself requires intense amounts of soul damage to be sustained, with a minimum of 15, average of 42, and a maximum of 69, leading to a theoretical maximum of 413 soul damage. This is achievable by a skilled mage over many moons. 
-- Variations:
-	- The trigger of push deals 6d12 more soul damage.
-		- You can choose which direction to move to, as the spell works relative to your origin. This allows you to move omnidirectionally while incorporeal. 
-
-File: Theory D&D\Things\Magic\Items\Face of The Void.md
-
-#Magic #Item #Thing 
-- Description:
-	- A mask that looks like that vvvv
-	- ![[Pasted image 20260401033203.png|270]]
-	- Not only does the mask look absolutely wonderful, but also, upon saying the phrase "Aleph Null", the wearer of the mask can disappear from the [[Human Realm|reality]], as if casting the [[Store]] spell. 
-		- This usually deals 1d4 soul damage to them. 
-	- The caster reappears in the regular reality 22 hours and 53 minutes later. 
-- Variations:
-	- Face of the Void (Very Rare): 
-		- Everything as mentioned above
-	- Face of the Void Monarch (Epic): 
-		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
-	- Crown of the Void King (Legendary): 
-		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
-		- The mask allows you to shift back into reality at will, by thinking "Vastos"
-		- Both shifting in and out of reality deals 1d6 soul damage to the wearer instead. 
-
-File: Theory D&D\Concepts\Magic\Elements\Fire.md
-
-#Concept #Thing #Magic
-When something burns very hot, it catches fire.
-Fire is also [[Life|Alive]], and there are several spirits living within fire, that take different forms based on different circumstances. 
-
-Fire comes from [[The Sun]], and depending on how much sun shines upon you, you can get a different spirit to contact. 
-
-There are three main spirits within fire: [[Helios]], [[Prometheus]], and [[Ra]]. When a flame changes purpose, it can change which spirit is manifested
-
-Fire can be extinguished by [[Water]]
-
-File: Theory D&D\Things\Magic\Misc\Forced Soul Removal.md
-
-#Magic #Action #Concept 
-[[Theory D&D/Theories/Souls n shit/Forced Soul Removal|Forced Soul Removal]]
-# Things to note:
-
-- You can force a person's [[Soul]] out of their body, making it exist in the space around.
-    
-
-- You can then use this soul however you’d like, using it for [[Mana]] or other purposes. 
-    
-- You can also push a different soul, or your own soul into their body, which is how [[Lich]]es stay alive over the years.
-
-File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
-
-#Magic #Item #Thing 
-- Description:
-	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]], and allows them to disregard the need to look at the rune completely. This allows them to control the essences, and their flow with just hand motions. 
-- Variations:
-	- Gauntlets of Mu (Very Rare): 
-		- Allows the user to control any and all flows specified in the [[Push]] spell. 
-	- Gauntlets of Fire (Rare): 
-		- Allows the user to only control the flow of [[Fire]]. 
-	- Gauntlets of Souls (Rare):
-		- Allows the user to only control the flow of [[Soul]]s. 
-	- Gauntlets of Wind (Uncommon):
-		- Allow the user to only control the [[Wind]]. This isn't to such a level to allow the user to levitate. 
-	- 
-
-File: Theory D&D\Things\Magic\Primal Spells\Imbue Mana.md
-
-#Magic #Spell
-- Description:
-	- A spell that allows you to imbue the equivalent of one soul HP into an item. 
-- Components:
-	- Ancillary:
-		- (1) The [[Push]] spell must be executed, pouring the ambient [[Mana]] into the item. 
-	- Somatic:
-		- (2) Two hands must be held above the item for at least 3 minutes and 17 seconds. 
-			- ||This is done so that there are no more leaks in the item, and the mana can't escape from it.||
-	- Magical:
-		- The caster takes 1d4-2 soul damage. 
-- Mistakes:
-	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
-
-File: Theory D&D\Concepts\Magic\Immortallity.md
-
-#Concept #Magic
-An immortal entity cannot achieve [[Death]].
-
-File: Theory D&D\Things\Magic\Rituals\Item Tier Increase.md
-
-#Magic #Ritual 
-- Description:
-	- A [[Ritual]] that increases the tier of a [[Magic]] item, allowing you to store more enchantments on it. Has different costs for each tier, getting only more expensive the more enchantments are stacked on the item. 
-
-File: Theory D&D\Things\Magic\Rituals\Last Dream.md
-
-#Thing #Ritual #Magic 
-- Desctiption
-	- A [[Ritual]] that ensures the participant gets one full day to live without fear of death, guaranteeing that after the day, they will not wake up in the next morning.
-- Components
-	- Temporal:
-		- (0) Spell must be cast no more than 3 hours before midnight. 
-	- Locational:
-		- (0) Spell must be cast from a bed, that the subject has slept in for every night for a month.
-	- Verbal:
-		- (2) The caster must speak the phrase three times: 
-			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."
-	- Somatic: 
-		- (1) The following hand sign is to be executed by the caster, while lying on their back: 
-		- ![[Pasted image 20260326145606.png|454]]
-			- || This allows for the soul to travel to purgatory, where it will begin the contract, and will not be killed for the next 24 hours, only for the individual to die at the next midnight. ||
-		- (3) The Caster claps their hands together
-		- (4) The caster then falls asleep
-- Edge Cases:
-	- If another ritual of the same kind is cast before the current one resolves. the previous ritual is canceled. 
-- Common Mistakes:
-	- (1.1) The phrase is spoken in the wrong order
-		- Caster can still die from violence, poison, or deliberate harm.
-	- (1.2) The phrase is spoken only once, or twice
-		- Spoken once: Caster recieves 8 hours of protection. They will die after the 8 hours are up
-		- Spoken twice: Caster recieves 16 hours of protection, after which they will die immediately. 
-	- (1.3) The phrase is spoken more than 3 times.
-		- The ritual resets back to 0 after the 3rd time spoken, meaning that the caster has to say the phrase a multiple of 3 times in order for the spell to let them live the full day.
-- Exploits:
-	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to attain [[Immortallity]], as long as they keep sleeping in the same place. 
-
-File: Theory D&D\Concepts\Magic\Magic.md
-
-#Concept #Magic
-Anything that can't be explained by [[Science]] is [[Magic]]
-
-File: Theory D&D\Concepts\Magic\Mana.md
-
-#Concept #Magic 
-[[Theory D&D/Things/Magic/Misc/Virus 23|Virus 23]]
-
-Energy that can be used to cast spells with. 
-
-The mana that lingers in the air around us is called Ambient mana.
-
-File: Theory D&D\Concepts\Magic\Negative Energy.md
-
-#Magic #Concept 
-????
-
-File: Theory D&D\Things\Magic\Misc\Omega Fire.md
-
-#Magic #Thing #Weapon 
-A variant of [[Fire]], that isn't limited to what the regular fire burns, and can burn anything except the flesh of [[God]]s. 
-
-File: Theory D&D\Things\Magic\Primal Spells\Push.md
-
-#Magic #Spell 
-- Description:
-	- A simple spell, that can push a small element around. This can't affect physical objects due to it being unable to interfere with the force of [[Gravity]] too much. This still works on the following phenomena and their variations:
-		- [[Soul]]s
-		- [[Fire]] 
-		- [[Wind]] (and therefore: sound)
-		- [[Mana]]
-		- [[Electricity]] (but in extremely small quantities)
-- Components:
-	- Mental:
-		- (1) The caster must visualise the following rune:
-			- ![[Pasted image 20260401032919.png]]
-	- Verbal:
-		- (2) The caster must say "Mu" aloud. 
-	- Somatic:
-		- (3) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
-- Limitations: 
-	- The spell can't affect essences more than 30ft away from the caster. 
-		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.
-			- Note that this stacks with every movement of the hand, and can very quickly become too much. 
-- Variations:
-	- (2.1) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
-		- This can be used to extinguish the sound, or make a loud action silent, if the caster has both their hands free. 
-
-File: Theory D&D\Concepts\Magic\Ritual.md
-
-#Concept #Magic
-A ritual is an extended cast of a spell, typically requiring more than a minute, and placing more than just your [[Body]], typically either by making [[Rune]]s on objects, or the enviroment around you, bodily motions, lesser spells cast, manipulation of the forces around the ritual enviroment, as well as manipulation of the elements, and essences, together with specific speech in rituals that demand it, thinking specific thoughts, etc. 
-
-Depending on the ritual at hand, there are different materials that must be used to attain a certain purpose. 
-
-The rituals are divided into several categories. The categories are as follows:
-
-# By Components: 
-- Verbal (Requires the participants to say certain words/phrases/sounds at specific times)
-	- Mental (Requires for the participants in the ritual to think specific thoughts at specific times. )
-- Somatic (Requires bodliy motions, dances, or other bodily movements. )
-	- Ancillary (Requires other spells / rituals to be cast during this ritual. )
-- Material (Requires specific materials to be used in the casting of a ritual)
-	- Sacrificial (Requires a sacrifice, a material that is used up during the ceremony, and not retrieved afterwards)
-	- Talismanic (Requires a focus object that accumulates or directs energy during the casting. This object is often destroyed, transformed or enhanced during the ritual)
-	- Magical (Requires for the caster of the ritual to expend some amount of mana to activate the ritual, usually causing a soul or multiple souls to take damage)
-- Runic (Requires specifc runes to be drawn)
-	- Spatial Runic (Requires for runes to be manipulated to touch each other during certain parts of the ritual, requiring for the runes to either be carved on moving objects, or carved on the humans skin. )
-- Conditional (Requires an external condition in order for the ritual to take place)
-	- Temportal (Requires the ritual to be completed during a certain event)
-	- Locational (Requires the ritual to take place in a certain location for it to work)
-	- Enviromental (Requires for the enviroment around the casting of the ritual to fit certain conditions, such as a specific level of light, temperature, presence of specific natural forces, sound, or absence of the afformentioned)
-- Participatory (Requires a certain specific amount of people to participate in the ritual)
-	- Role Participatory (Requires for different participants of the ritual to execute different roles in the ritual, or by contributing specific energies)
-
-# By Purpose:
-- Invocation (Rituals that call something forth)
-- Transformation (Rituals that change something's nature)
-	- Severing (Rituals that cut connections (extracting souls, removing chakras, breaking pacts))
-	- Binding (Rituals that confine, contain or restrict)
-	- Cleansing and Corrupting (Rituals that change the purity of an object)
-- Divination (Rituals that reveal hidden knowledge)
-- Warding (Rituals that protect a space, object or a person)
-# By Complexity:
-- Simple
-	- Approximate casting time: 1-10 minutes
-	- Components: 1-2 components
-- Standart
-	- Approximate casting time: 10-60 minutes
-	- Components: 3-4 components
-- Complex
-	- Approximate casting time: 1-8 hours
-	- Components: 5-7 components
-- Grand
-	- Approximate casting time: 8-24 hours
-	- Components: 8+
-- Mythical
-	- Approximate casting time: 24+ hours
-	- Components: way too many
-# By Redundancy
-This exists only because a more inexperienced mage will usually use up way too many expensive components, while a master of the arcane arts will know that the ritual can be cast with a stick and 4 shiny rocks, as well as a birds eye. 
-
-| Mage Type      | Approach                                                                                                                        | Ritual Cost | Risk                                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Novice**     | Includes everything they've ever heard is required. Uses expensive materials, elaborate runes, multiple participants.           | Very high   | The ritual works, but they've wasted resources. The extra components might also introduce unintended effects.                                              |
-| **Apprentice** | Follows a known script without understanding why each component exists.                                                         | Medium-high | The ritual works if the script is correct. If the script includes redundant components, they're wasting effort. If it omits something essential, it fails. |
-| **Adept**      | Understands the purpose of each component. Can substitute equivalent components. Knows what can be left out.                    | Medium      | Efficient rituals. They can adapt to circumstances. They know when a "required" component is actually tradition, not necessity.                            |
-| **Master**     | Can reduce a ritual to its minimal viable components. Can perform extraction with a whisper, a single rune, and the right time. | Very low    | The ritual works with almost nothing. But the master knows _why_ it works, and knows the risks of minimal casting.                                         |
-
-
-File: Theory D&D\Theories\Spiritual\Sexual or Erotic Energy.md
-
-#Concept #Magic #Theory
-Whenever someone is aroused, it lets out a tangible, physical force. This is related to [[Adult-Film Stars Leeching your Energy]]. 
-
-Now the main explanation for this is that when two people have sex, their souls intertwine, as a new [[Soul]] is sometimes born. This means that two people can produce [[Mana]] by having sex with each other. 
-
-This also means that there are some people that seduce you to suck out your own [[Soul]] and a part of your [[Mana]]. This is also why regular sex is healthy for your body. 
-
-File: Theory D&D\Things\Magic\Derivative Spells\Silence.md
-
-#Magic #Spell
-- Description:
-	- Silence is a spell derived from the [[Push]] spell, that allows a person to suck the words out of another person's mouth, meaning that they can't speak anymore (and can't complete the verbal components to spells).
-- Components:
-	- Ancillary: 
-		- (1) The [[Push]] spell must be cast on the target's mouth. For the next breath, any words that come out of the target's mouth are silent, and don't count as verbal components. Nobody can hear these words. 
-	- Magical:
-		- {2) The spell deals 1 soul damage to the caster. 
-- Exploits:
-	- (1.1) If the spell disrupts a verbal component, and the other caster has already moved onto executing the next component, their spell will be greatly impacted by the absence of a verbal component. 
-		- This does mean that if the caster realises this, and doesn't move onto the next component, the spell doesn't do anything, and they can just say the component with their next breath. 
-
-File: Theory D&D\Character Creation\Soul Mechanic.md
-
-#Magic
-When you play the game, you'll have a second health bar for your soul. You can use your souls hit points in order to cast spells. 
-If a creature runs out of soul hit points, the soul is ejected from the body, and is stunned for a minute. Any soul can enter the body as an action, and take posession of it. 
-
-There are some spells that consume your soul when you use them. There is a limit as to how many you can use per day, but you don't know that limit till you try to cast them, as that will be kept by the DM. 
-
-A soul regains all it's hp during a long rest. 
-Each soul starts with a 1d6 hit die, meaning it gets 6 hp at the first level, and 1d6 more hp each level. 
-
-A soul is the collection of memories accumulated through someone's life. If the soul is damaged, but not all of it's hp is removed, it can regenerate fully during a full rest. 
-
-
-File: Theory D&D\Concepts\Spiritualism and Soul\Soul.md
-
-#Concept #Magic
-# Things to note:
-
-- There’s a limited amount of souls in the world (due to the [[Bank of souls]])
-    
-- A person can be born without a soul, then they become [[Soulless]]
-    
-
-- There are always some spare souls, as when the souls run out, the end of the world will come. 
-    
-
-- There are cults of people with souls, that seek and eliminate other people with souls, to replenish the tree and to ward off the end of the world. 
-    
-
-- [[Methane]] is a byproduct of a soul being in a body, hence there can be no humans without methane, and to revive a soul, the body has to be full of methane, before a soul enters it.
-    
-
-- This means that the reason babies are born is because their mothers body produces some methane upon childbirth. How this could help you, I have no idea.
-    
-
-- When humans consume another entity, such as bread, or meat, that is when their body creates methane, as a way to get rid of the excess parts of the soul. This means that without feeding, you cannot have kids. 
-    
-- The souls have to spend an eternity inside of a heaven, or a hell, which is where the consciousness is left to rest forever, till they succumb to the nothingness, before being returned to the tree of life, for reincarnation. 
-    
-- Souls removed from the body can become ambient mana, if not redirected to heaven or hell. The usage of such mana chips away at them, meaning that mana is a renewable resource, but can run out. 
-    
-
-- Enough souls flying around can also get together to form a cryptid, or a ghost. 
-    
-
-- Souls can be removed from a body, and can enter a body. 
-    
-
-- They can be removed if they pass a certain threshold of damage received.
-    
-- A new soul can enter their place, if they overpower the body’s defenses, as well as the soul within it. Easier to do if the soul is weakened enough or if the body is empty.
-    
-
-- Normal souls are invisible when outside of a [[Human]] Body.
-
-A soul can be extacted from a [[Body]] by using [[Degusya Soul Extraction]]. 
-
-
-File: Theory D&D\Things\Magic\Primal Spells\Spark.md
-
-#Magic #Spell
-- Description
-	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other [[Fire]] based concepts. 
-- Components:
-	- Verbal:
-		- (2) "ignis" ||flame in latin||
-	- Somatic (One Handed):
-		- (1) Execute the following hand sign with one of your hands:
-		- ![[Pasted image 20260327110000.png|153]]
-			- ||This is done to push the space between the fingers small enough for it to produce heat, and a spark can be born. ||
-		- (3) Snap your fingers:
-			- ||Release the energy in the middle of the fingers as a fiery spark.||
-	- Magical: 
-		- (4) The soul takes 1 damage
-- Variations:
-	- (4.1) The Magical component is replaced with a small, highly burnable material, or ambient mana. 
-		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
-	- (4.2) The Magical component is increased to 1d4 soul damage.
-		- The spark turns into a small fire, that burns above your hand for 1 minute, or as long as the caster maintains concentration. 
-	- (2) is replaced with "lumos", and (3) is never executed. 
-		- The spell doesn't ever release the spark, and produces a faint light above the fingers, creating a small, 30ft light. This can persist for 1 minute, or as long as the caster holds concentration. 
-	- (2.1 and 4.3) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red/orange/yellow spark, meaning that you've summoned an [[Omega Fire]]. 
-		- If you do not get out of there fast, you get consumed by the Omega Fire too. 
-		- Omega Fire consumes anything and everything, except for [[God]]s and if you haven't perished from the damage to your soul, you'll die really quickly if you linger around. 
-			- Omega fire doesn't consume the ground or the water, so it will burn out eventually.
-- Exploits:
-	- (3) can be executed whenever the caster snaps their fingers, letting the spark happen whenever it is required to happen. You can use this to prepare the spark for a later spell execution, as an ancillary component. 
-		- The magical cost is paid after the snap is complete. This lets you dead man's switch the soul spark variation, killing both you and another person with you as your snap happens the moment your hand finishes the spell. 
-
-File: Theory D&D\Things\Magic\Primal Spells\Store.md
-
-#Magic #Spell 
-- Description:
-	- Store is a primal spell that allows for an item to be stored within a pocket dimension, to be released after the concentration on the spell ends. 
+File: D&D Knowledge\Briareus Kratos Spells\Bruka.md
+
+- Mechanical Description:
+	- Silvery Barbs
+
+		Source: Strixhaven: A Curriculum of Chaos
+		
+		_1st-level Enchantment_
+		
+		**Casting Time:** 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw  
+		**Range:** 60 feet  
+		**Components:** V  
+		**Duration:** Instantaneous
+		
+		You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.
+		
+		You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 - Components:
 	- Somatic: 
-		- (1) The caster touches the target that is targeted with the spell. 
-		- (4) The caster claps their hands together.
-			- While the target is stored, it is transformed into a concept, and can still be interacted with by the [[Push]] spell, or other essence manipulating spells. 
-				- The target is capable of thought, and can see and hear anything in the real world. This allows it to fufill only the Mental components of spells. 
-		- (5) When the caster takes their hands away from each other, the item reappears. 
-	- Mental:
-		  (2) The caster imagines the object they wish to store. 
-	-  Verbal:
-		- (3) The caster says: "Nul"
-- Exploits:
-	- If the caster targets themselves with the spell, and disappears into the other dimension, since they don't exist anymore, and have no way to finish the somatic components of the spell, they can't get back into the real world. 
-		- A second cast of the spell can override the original spell, and cause the person to return to the normal world. 
-
-File: Theory D&D\Concepts\Magic\The Elements.md
-
-#Concept #Magic
-The elements are the naturally ocurring elements, that are often used in [[Magic]] due to their simplicity. 
-
-The elements so far are:
-- [[Electricity]]
-- [[Water]]
-- [[Fire]]
-- [[Wind]]
-- [[Soul]]
-- [[Light]]
-- Earth 
-
-Now, these are conceptually very simple, and most of them are related to [[Life]] itself, making them essential in learning magic. 
-
-And [[God]] said: "Let there be [[Light]]!" and it was lit. 
-Water came second, right after the [[Death]] of [[The God]]. 
-Then, a [[Soul]] flowed into every living being. 
-As the first sparks of thought appeared in a creatures brain, [[Electricity]] was born. 
-And the first embers that lit up a [[Fire]] were the ashes of the first man who died. 
-
-Water is the ichor of god. [[The Earth]] is it's body. This means that the being we know as mother nature was god itself. This does also mean that other planets are gods themselves. Dead or alive, we do not know, perhaps not functioning enough to have will, or too highly functioning for us to comprehend. 
-
-Since we know that [[Fire]] is alive, and is the manifestation of a soul, it would mean that [[The Sun]] is enshrouded in living beings, the same way that [[The Earth]] is. Making them both gods. 
-The people naming planets after gods wasn't a coincidence. The planets are gods. 
-
-
-File: Theory D&D\Things\Magic\Items\The Life Elixir.md
-
-#Thing #Item #Magic
-If you drink this, you achieve [[Immortallity]], and cannot die. 
-this is an [[Artifact]],
-
-File: Theory D&D\Things\Magic\Primal Spells\Trigger.md
-
-#Spell #Magic #Enchantment
-- Description:
-	- A rather simple spell, that allows you to cast a second spell upon a specific trigger. 
-- Components:
-	- Magical:
-		- (2) The spell deals 1d4 soul damage to the caster.
+		- (1) the caster extends their hand towards the effect they wish to stop. 
+	- Verbal:
+		- (2) "Bruka!"
 	- Ancillary:
-		- (3) The components for the target spell must be cast. 
-	- Mental: 
-		- (1) The caster must think of the word "Gelios"
-		- (4) The trigger for the spell must be selected by the caster from the list below:
-			- There isn't a word specified within 20 seconds of casting the spell:
-				- The spell triggers instantly, whenever it is able to. 
-					- Note that this is very dangerous, and should never be done.
-			- "Varda"
-				- The spell triggers upon a verbal component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a verbal component to this spell and increases the magical component by a bit:
-					- (5) The chosen phrase must be spoken by the caster. 
-					- (2.1) The caster takes 1d6 additional soul damage. 
-			- "Darba"
-				- The spell triggers upon a somatic component is fufilled. When a movement is performed by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
-					- (5) The chosen movement must be performed by the caster. 
-					- (2.1) The caster takes 1d6 additional soul damage. 
-			- "Doma"
-				- The spell triggers upon a mental component is fufilled. When the word/phrase/concept is thought of by the caster, the spell will trigger. This adds a mental component to this spell and increases the magical component by a bit:
-					- (5) The chosen word/phrase/concept must be thought of by the caster. 
-					- (2.1) The caster takes 3d6 additional soul damage. 
-			- "Und"
-				- The spell gains an additional trigger that must be fufilled in order for the spell to be cast. This functions as a logical AND gate.
-					- This increases the Magical component by 1 soul damage
-			- "Esto"
-				- The spell gains an additional trigger that can be completed instead of the current trigger in order for the spell to be cast. This functions as a logical OR gate.
-					- This increases the Magical component by 1 soul damage
-			- "Rotos"
-				- The spell will NOT be completed if the following trigger is active. Functions as a logical NOT gate. 
+		- (3) [[Varkus]] makes a rune appear on the caster's hand, and for two small illusory horns to appear on the caster's head. The hand of the caster begins to hurt a bit where the rune is. The rune can be removed by licking your hand, (bonus action) causing the pain and the soreness to also disappear. The caster has disadvantage on concentration checks while the rune remains. 
+
+File: D&D Knowledge\Briareus Kratos Spells\Divide.md
+
+- Mechanical Descriptioin:
+		Source: Player's Handbook
+		_Conjuration cantrip_
+		
+		**Casting Time:** 1 action  
+		**Range:** 30 feet  
+		**Components:** V, S  
+		**Duration:** 1 minute
+		
+		A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+		
+		You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+		
+		The hand can’t attack, activate magical items, or carry more than 10 pounds.
+- Components:
+	- Verbal:
+		- (1) "Divide et impera"
+	- Somatic:
+		- (2) The caster claps their hands together, upon which, from the side of the right hand, the spectral mage hand splits off of the regular hand. 
+- Added stuff:
+	- The spell can be used to create a singular hand motion as an ancillary or an extra somatic component for a larger spell, in the same turn as it is cast, before it automatically is dismissed. 
+
+File: D&D Knowledge\Briareus Kratos Spells\Gladius Animae.md
+
+Gladius Animae
+(Magic Missle)
+- Mechanical Description
+	- Magic Missile
+
+		Source: Player's Handbook
+		
+		_1st-level evocation_
+		
+		**Casting Time:** 1 action  
+		**Range:** 120 feet  
+		**Components:** V, S  
+		**Duration:** Instantaneous
+		
+		You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
+		
+		**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+- Components:
+	- Ancillary:
+		- (2) [[Varkus]] creates a white heart above the palm of the caster. 
+	- Verbal
+		- (3) "Optimum est pati quod emendare non possis" (It is best to endure what you cannot change.)
+	- Somatic
+		- (1) The caster must put their palm up, 
+		- (4) The palm is squeezed into a fist, causing three white, spectral knives to go through the body of the target/s, usually causing them to scream out in pain, as this is quite painful. 
+			- The white heart bursts into a white cloud of smoke as it is squeezed. 
+
+File: D&D Knowledge\Briareus Kratos Spells\Grasp of Brozatu.md
+
+Grasp of Brozatu
+a derivative spell of [[Divide]] and [[Will of Brozatu]]
+(Hold Person)
+- Mechanical Description:
+	- Hold Person
+	
+	Source: Player's Handbook
+	
+	_2nd-level enchantment_
+	
+	**Casting Time:** 1 action  
+	**Range:** 60 feet  
+	**Components:** V, S, M (a small, straight piece of iron)  
+	**Duration:** Concentration, up to 1 minute
+	
+	Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+	
+	**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+- Components:
+	- Somatic:
+		- (1) The following hand sign must be made by the caster, between their eyes, and the creature they're trying to target. ![[Pasted image 20260402161036.png]]
+		- (3) Two large, spectral hands appear around the target, with strings woven around them, and the target, immoblizing the target in place, paralyzing them. (only if the wisdom save fails). The hands remain even after the caster takes their hands away. 
+	- Verbal:
+		- "**Sedit qui timuit ne non succederet**" (He who feared that he would not succeed sat still)
+
+File: D&D Knowledge\Briareus Kratos Spells\Ignis Animae.md
+
+- Mechanical Description:
+	- _Evocation cantrip_
+		**Casting Time:** 1 action  
+		**Range:** 60 feet  
+		**Components:** V, S  
+		**Duration:** Instantaneous
+		
+		Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+		
+		**_At Higher Levels._** The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+- Components:
+	- Ancillary:
+		- (1) Use [[Varkus]] to create the image of a white glowing eye above your palm, that stares at the target of the spell. 
+	- Somatic:
+		- (2) The palm must be put together like this:
+			-![[Pasted image 20260402142750.png|253]]
+		- (4) The snap must be completed, dispelling the eye into a cloud of sparks, and igniting the target, causing for the dexterity roll to be rolled, as a cloud of sparks rains down upon the target itself. 
+	- Verbal:
+		- (3) "Igne natura renovatur integra"
+
+File: D&D Knowledge\Briareus Kratos Spells\Inferno.md
+
+Inferno
+(Fireball)
+- Mechanical Description
+- Components:
+	- Ancillary:
+		- (1) [[Divide]] must be used. 
+		- (3) [[Ignis Animae]] must be executed with the third hand, but the verbal component must be replaced with (3.1)
+	- Verbal:
+		- (3.1) "Flectere si nequeo superos, Acheronta movebo." (If I can not bend the will of Heaven, I shall move Hell)
+	- Somatic:
+		- (2) The following hand sign must be made with the two real hands, while the third hand levitates above them.
+		- ![[Pasted image 20260402163837.png|188]]
+- Effect:
+	- Instead of a shower of sparks coming down from the sky above the target, from the earth a fiery trident emerges to about eye height, and explodes. This is when the dex save is rolled, and everyone takes damage. 
+
+File: D&D Knowledge\Briareus Kratos Spells\Megumi.md
+
+
+- Mechanical Description:
+	- Guidance
+	
+	Source: Player's Handbook
+	
+	_Divination cantrip_
+	
+	**Casting Time:** 1 action  
+	**Range:** Touch  
+	**Components:** V, S  
+	**Duration:** Concentration, up to 1 minute
+	
+	You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+- Components:
+	- Ancillary:
+		- (3) [[Varkus]] is cast to make the eyes of the caster black, with small yellow pupils, with a lighter orange ring around the smaller yellow pupil. 
+	- Somatic:
+		- (1) The hands must be put together in a prayer, and the eyes of the caster must be closed. 
+		- (4) The first person on who the eyes look upon gets the effect of the spell. The eyes remain in such a color as long as guidance is active. 
+	- Verbal:
+		- (2) "Aequam servare mentem"
+
+File: D&D Knowledge\Briareus Kratos Spells\Securis Caeli.md
+
+Securis Caeli
+| Axe of Heaven |
+A derivative spell of [[Ignis Animae]] and [[Gladius Animae]]
+(Spiritual Weapon)
+- Mechanical Description
+	- Spiritual Weapon
+		Source: Player's Handbook
+		
+		_2nd-level evocation_
+		
+		**Casting Time:** 1 bonus action  
+		**Range:** 60 feet  
+		**Components:** V, S  
+		**Duration:** 1 minute
+		
+		You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.
+		
+		When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.
+		
+		As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
+		
+		The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell’s effect resemble that weapon.
+		
+		**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.
+- Components:
+	- Ancillary:
+		- (3) [[Varkus]] creates the following rune on the caster's hand, as a spiritual, glowing, white greataxe materializes in the hand. 
+	- Verbal:
+		- (2) "Omne quod movetur ab alio movetur"
+	- Somatic:
+		- (1) The caster extends their hand to the side, and closes their fingers around it a bit. 
+		- (4) The caster let's go of the weapon, and does a swinging motion of their hand against an enemy. this is when the spell attack is made. 
+		- (5-11) The caster may make a swinging action of their hand again, causing the axe to fly and swing through whoever they're currently seeing as their enemy, causing the spell to deal it's damage again. 
+
+File: D&D Knowledge\Briareus Kratos Spells\Untitled.md
+
+- Mechanical Description:
+	Haste
+	
+	Source: Player's Handbook
+	
+	_3rd-level transmutation_
+	
+	**Casting Time:** 1 action  
+	**Range:** 30 feet  
+	**Components:** V, S, M (a shaving of licorice root)  
+	**Duration:** Concentration, up to 1 minute
+	
+	Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+	
+	When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.
+- Components:
+	- Somatic:
+	- Verbal:
+
+File: D&D Knowledge\Briareus Kratos Spells\Varkus.md
+
+- Spell name: Verkus
+- Mechanical Descriptions:
+	- Thaumaturgy
+		Source: Player's Handbook
+
+		_Transmutation cantrip_
+		
+		**Casting Time:** 1 action  
+		**Range:** 30 feet  
+		**Components:** V  
+		**Duration:** Up to 1 minute
+		
+		You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
+		
+		- Your voice booms up to three times as loud as normal for 1 minute.
+		
+		- You cause flames to flicker, brighten, dim, or change color for 1 minute.
+		
+		- You cause harmless tremors in the ground for 1 minute.
+		
+		- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+		
+		- You instantaneously cause an unlocked door or window to fly open or slam shut.
+		
+		- You alter the appearance of your eyes for 1 minute.
+		
+		If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+	- Prestidigitation
+		_Transmutation cantrip_
+
+		**Casting Time:** 1 action  
+		**Range:** 10 feet  
+		**Components:** V, S  
+		**Duration:** Up to 1 hour
+		
+		This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+		
+		- You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+		
+		- You instantaneously light or snuff out a candle, a torch, or a small campfire.
+		
+		- You instantaneously clean or soil an object no larger than 1 cubic foot.
+		
+		- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+		
+		- You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+		
+		- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+		
+		If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+	- Druidcraft
+		Source: Player's Handbook
+
+		_Transmutation cantrip_
+		
+		**Casting Time:** 1 action  
+		**Range:** 30 feet  
+		**Components:** V, S  
+		**Duration:** Instantaneous
+		
+		Whispering to the spirits of nature, you create one of the following effects within range:
+		
+		- You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+		
+		- You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+		
+		- You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+		
+		- You instantly light or snuff out a candle, a torch, or a small campfire.
+		
+- Components:
+	- Mental:
+		- (1) The person must imagine the effect they wish to perform with the spell. 
+	- Verbal:
+		- (3) A sharp exhale must be made with the mouth, while pronouncing the "zuh", "guh" or "muh" sound. 
+	- Somatic: 
+		- (2) One of the hands must be held up to the face, to perform a hand sign. The hand sign doesn't matter, but same hand signs for same effects.  
+- Uses:
+	- Self:
+		- Alter the appearance of eyes
+		- Makes your voice go up to three times louder than normal
+	- Create something within 10ft:
+		- instantaneous harmless sensory effect such as:
+			- a shower of sparks
+			- a puff of wind
+			- faint musical notes
+			- odd odor
+		- make a nonmagical trinket or illusory image that can fit in hand and that lasts until the end of your next turn. 
+		- make a color, a small mark, or a symbol appear on an object or a surface for one hour
+	- Alter something within 10ft:
+		- instantaneously clean or soil an object no larger than 1 cubic foot
+		- Chill, warm, or flavour up to 1 cubic foot of nonliving material for 1 hour
+	- Create something within 30ft:
+		- Instantaneous sound that originates from a point of my choice. 
+		- Sensory effect that predicts the weather in location for the next 24 hours. A golden orb for clear skies, a cloud for rain, falling snowflakes for snow etc. persists for 1 round
+		- instantaneous harmless sensory effect such as:
+			- falling leaves
+			- a pull of wind
+			- the sound of a small animal
+			- the faint odor of a skunk. 
+	- Alter Something within 30ft:
+		- Flames flicker, brighten, dim or change color for one minute
+		- harmless tremors in the ground
+		- Unlocked door or window flies open, or slams shut. 
+		- Instantly light or snuff out a candle, a torch or a small campfire
+		- Instantly make a flower blossom, a seed pod open, or a leaf bud bloom within 30ft
+
+File: D&D Knowledge\Briareus Kratos Spells\Vestis.md
+
+Vestis
+(Mage armor)
+- Mechanical Description
+	Mage Armor
+
+	Source: Player's Handbook
+	
+	_1st-level abjuration_
+	
+	**Casting Time:** 1 action  
+	**Range:** Touch  
+	**Components:** V, S, M (a piece of cured leather)  
+	**Duration:** 8 hours
+	
+	You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+- Components:
+	- Ancillary:
+		- (3) [[Varkus]] creates the following pattern on the target's body:
+			- ![[Pasted image 20260402153141.png|206]] (Where the black is the pattern created) This persists for the duration of the spell, and the markings visibly harden when hit. 
+	- Verbal:
+		- (1) "Vestis virum reddit" (the clothes make the man)
+	- Somatic: 
+		- (2) The hands of the caster must hover all over the body, during which (3) slowly creates the markings beneath them, as they weave themselves together, causing the flowers on the skin to first emerge closed, then blooming after a while. 
+- Altered Visual:
+	- The tattoos on the skin are animated, and respond to movement/touch of the skin. 
+		- (please do not test this though, this is just mage armor flavor, do not touch my character)
 - Variations:
-	- By casting the spell two times on the same target spell, the target spell will be triggered four times.
-	- By casting the spell three times on the same target spell, the target spell will trigger infinitely, until dispelled, or until the trigger spell runs out of ambient [[Mana]] to cast the spell, and breaking this spell in the process. 
-	- The ambient mana to trigger a spell will be sourced from the casters reserves. If the caster is at least 100 ft away from the trigger location of the spell, the spell will not affect 
-- Limitations:
-	- If there is insufficient ambient mana, the target spell won't be recast again, and the trigger spell will end. 
+	- [[Divide]] can be performed to make the spell more visually interesting. 
 
-File: Theory D&D\Things\Magic\Misc\Virus 23.md
+File: D&D Knowledge\Briareus Kratos Spells\Vive.md
 
-#Magic #Thing #Entity
-[[Theory D&D/Theories/Spiritual/Virus 23|Virus 23]]
+- Mechanical Description:
+		Healing Word
+		
+		Source: Player's Handbook
+		
+		_1st-level evocation_
+		
+		**Casting Time:** 1 bonus action  
+		**Range:** 60 feet  
+		**Components:** V  
+		**Duration:** Instantaneous
+		
+		A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+		
+		**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+- Components:
+	- Ancillary:
+		- (1) [[Divide]] is cast by hitting the left hand from pushing the right hand into it and clapping them together, sending the spectral hand forward. The spectral hand shoots to the target, wrapping around their hand, leg or another place on their body. 
+		- (3) the spell triggers, the hit points are restored, and the hand from [[Divide]] comes off, revealing a mark on their body left by [[Varkus]]. 
+	- Verbal:
+		- (2) "Vive memor leti"
 
-**# Things to note:
+File: D&D Knowledge\Briareus Kratos Spells\Will of Brozatu.md
 
-- Can be hidden into anything. 
-    
-- When you observe a material with virus 23 in it, you get virus 23, which means that you get depression, sadness, and perhaps a part of your [[Soul]] is sucked out, and you become [[Soulless]]
-    
+Will of Brozatu
+(Polymorph into a giant ape, who is named Brozatu)
+[Giant Ape - Monsters - D&D Beyond](https://www.dndbeyond.com/monsters/16873-giant-ape?msockid=35627398363560b8130b671037626111)
+-  Mechanical Description
+	- Polymorph
 
-- When your soul is sucked out, it means that it has to go somewhere, so I guess the virus feeds on souls that it sucks from people? Except it doesn’t really grow stronger, so perhaps the souls actually can be harvested from the virus. This explains ambient [[Mana]], and ambient energy. 
-    
-
-- This is one of the sources from which ambient mana comes into the world. 
-    
-- A mutated, more developed version exists as the absolute [[Hyper Beast]] in the [[Hyper Reality]], that can’t be brought down by [[Theory D&D/Things/Magic/Misc/Depression Overriding|Depression Overriding]]. This beast gives you the ultimate [[Depression]], and causes you to commit [[Suicide]] in the end.
-This is a [[Memetic Hazard]].
-
-File: Theory D&D\Things\Materials\Water.md
-
-#Thing #Material #God #Magic 
-# Things to note:
-
-- Water is alive, because water is a part of [[The God]], the same way a [[Human]] with their [[Soul]] is.
-    
-- Water is the ichor coming from the veins of [[The God]]. That’s why every creature with enough water in them has the ability of choice, and free will. 
-    
-- Water is capable of growing differently based on environments it remains in, and it changes depending on how the people around it function. 
-    
-- Water can accumulate positive or [[Negative Energy]] around it. 
-- Water is one of [[The Elements]]. 
-- Water can be used to put out [[Omega Fire]]
-
-# Related Theories:
-
-- [[Dr Emoto's Water Experiments]]
-    
+		Source: Player's Handbook
+		
+		_4th-level transmutation_
+		
+		**Casting Time:** 1 action  
+		**Range:** 60 feet  
+		**Components:** V, S, M (a caterpillar cocoon)  
+		**Duration:** Concentration, up to 1 hour
+		
+		This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.
+		
+		The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target’s (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
+		
+		The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious.
+		
+		The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech.
+		
+		The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment. This spell can’t affect a target that has 0 hit points.
+- Components:
+	- Talismanic: 
+		- (0) the target of the spell must be holding a mineral that fits comfortably in their palm. ![[Pasted image 20260402162932.png]]
+	- Verbal:
+		- (1) "Come forth, king of the sixth realm, leader of the Kraque clan. Brozatu the Mighty."
+			- (You can start this with "With this divine treasure I summon: ", instead of "Come forth")
