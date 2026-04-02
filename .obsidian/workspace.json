@@ -314,15 +314,17 @@
             }
           },
           {
-            "id": "694569dc09f04ae7",
+            "id": "a1235af5fff6b98e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20260401032919.png"
+                "file": "Theory D&D/Concepts/Entities/Cryptids/Vampire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260401032919"
+              "icon": "lucide-file",
+              "title": "Vampire"
             }
           }
         ],
@@ -501,19 +503,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "694569dc09f04ae7",
+  "active": "a1235af5fff6b98e",
   "lastOpenFiles": [
+    "Theory D&D/Things/Magic/Items/Face of The Void.md",
+    "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
+    "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
+    "Theory D&D/Concepts/Entities/Human Related/Human.md",
+    "Theory D&D/Theories/Spiritual/Archontic Genetic Engineered Entities.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
+    "Images/Pasted image 20260401032919.png",
     "Images/Pasted image 20260401033203.png",
     "Images/Pasted image 20260401034542.png",
-    "Images/Pasted image 20260401032919.png",
     "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
-    "Theory D&D/Things/Magic/Items/Face of The Void.md",
     "Images",
     "Theory D&D/Things/Magic/Primal Spells/Push.md",
     "Theory D&D/Things/Magic/Items/The Life Elixir.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items/Spirit Walker Enchantment.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
     "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Aimed Essence Movement.md",
     "Theory D&D/Things/Magic/Primal Spells/Store.md",
     "Theory D&D/Things/Untitled.md",
@@ -527,15 +533,12 @@
     "Theory D&D/Things/Magic/Enchantment.md",
     "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
     "Theory D&D/Things/Magic/Rituals/Last Dream.md",
-    "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
     "Theory D&D/Things/Magic/Primal Spells/Imbue Mana.md",
     "Theory D&D/Things/Magic/Derivative Spells",
-    "Theory D&D/Concepts/Spiritualism and Soul/Soul.md",
     "Theory D&D/Things/Magic/Curse.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items",
     "Theory D&D/Concepts/Life.md",
     "Theory D&D/Things/Magic/Items",
-    "Theory D&D/Concepts/Magic/Ritual.md",
     "Excalidraw/spade.png",
     "Excalidraw/heart.png",
     "Excalidraw/diamond.png",

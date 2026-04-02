@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Magic ",
+  "search": "Tag:#Race ",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -74,6 +74,6 @@
   "repelStrength": 12.9065743944637,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 1.2414543899482602,
-  "close": true
+  "scale": 1.740497823076514,
+  "close": false
 }
