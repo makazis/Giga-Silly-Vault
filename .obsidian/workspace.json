@@ -11,10 +11,14 @@
             "id": "5b0015208b7bbf69",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Halfling/Basic Stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Stuff"
             }
           }
         ]
@@ -194,6 +198,9 @@
   },
   "active": "5b0015208b7bbf69",
   "lastOpenFiles": [
+    "Notes/Halfling/Basic Stuff.md",
+    "Notes/Halfling",
+    "Notes",
     "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
     "D&D Knowledge/Briareus Kratos Spells/Celeritas Dei.md",
     "Pasted image 20260402165557.png",
@@ -237,8 +244,6 @@
     "Theory D&D/Things/Magic/Items",
     "Excalidraw",
     "Theory D&D/Things/Magic/Rituals/Images",
-    "Theory D&D/Things/Magic/Primal Spells",
-    "Theory D&D/Things/Magic/Rituals",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]
