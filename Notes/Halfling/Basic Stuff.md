@@ -21,7 +21,7 @@ Adjectives:
 Verbs:
 	aimes (to like)
 	parles (to speak)
-Those things:
+Other:
 	dans - in
 	
 
