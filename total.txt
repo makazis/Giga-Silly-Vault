@@ -11,6 +11,11 @@ File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Absence of Speech.m
 	- Magical:
 		- (2) The caster takes 1d4 soul damage. (Total: 4d4+1)
 
+File: Theory D&D\Characters\Ancient Era\Cain.md
+
+#Character #Biblical 
+The son of Adam and Eve. Was killed by his brother Abel. 
+
 File: Theory D&D\Concepts\Magic\Chakra.md
 
 #Concept #Magic
@@ -27,6 +32,25 @@ the chakras are inside of your [[Body]].
 - [[Solar Plexus Clown Gliders]]    
 
 
+File: Theory D&D\Characters\Ancient Era\Charlemagne.md
+
+#Character 
+A person who never existed. They were thought of by [[Otto III]].
+
+File: Theory D&D\Concepts\Entities\Gods\Christian God.md
+
+#Character #God #Biblical 
+We know he exists, because there exist [[Incorruptible Saints]]
+Father of [[Jesus]]
+he is a [[God]]
+
+File: Theory D&D\Concepts\Entities\Gods\Christian God.md
+
+#Character #God #Biblical 
+We know he exists, because there exist [[Incorruptible Saints]]
+Father of [[Jesus]]
+he is a [[God]]
+
 File: Theory D&D\Things\Magic\Items\Enchantments For Items\Curse of Silence.md
 
 #Magic #Spell #Enchantment
@@ -34,7 +58,7 @@ File: Theory D&D\Things\Magic\Items\Enchantments For Items\Curse of Silence.md
 - Description:
 	- The wearer of the item is constantly under the effect of [[Absence of Speech]], that takes their breath away whenever they try to say something. 
 
-File: Theory D&D\Things\Magic\Curse.md
+File: Theory D&D\Things\Magic\Misc\Curse.md
 
 #Concept #Magic 
 A curse is a negative [[Enchantment]] that affects an individual. There are many types of curses, but they aren't categorized as to yet. 
@@ -165,7 +189,7 @@ File: Theory D&D\Things\Magic\Rituals\Enchant Item.md
 	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
 		- This does only count the space directly inside of the object, closed off from all sides, still allowing you to enchant armor. 
 
-File: Theory D&D\Things\Magic\Enchantment.md
+File: Theory D&D\Things\Magic\Misc\Enchantment.md
 
 #Magic #Thing 
 An enchantment is a long lasting [[Magic]]al effect, that affects a body, entity, or something else. 
@@ -173,6 +197,19 @@ Enchantments can be cast upon people, objects, entities. Sometimes on concepts b
 
 Enchantments can be imbued into items, as well as wearable items, causing the person holding, or wearing the item to have the effect of the enchantment applied to them. 
 	An item can't have more than one enchantment under regular circumstances, unless it gains a higher item tier, which is most commonly achieved via [[Item Tier Increase]]. 
+
+File: Theory D&D\Characters\Modern\Esero Khuga.md
+
+#Character 
+A man, who created a [[Vibrations|Vibrational]] generator using a [[Nuclear]] engine in his backyard, in such a tone, that his body would get rapidly healed from any and all ailments in a radius around his house. This was thanks to the [[Dr Emoto's Water Experiments]], that he could achieve this. He was encountered by members of [[The Government]] of [[China]] after reports of [[Earthquake]]s reached them. They couldn't apprehend him, as at the time he had perfected his system to work with minimal vibrations. Any shot fired at him would regrow his body after a second, and even prolonged fire didn't seem to matter. Sadly, the continuous pain, and the ample adrenaline in his veins, as well as his madness, inherited from his achievement, caused him to beat 13 members of the [[The MSS]] in hand to hand combat with his fists, before they were forced to retreat from the location. 
+
+Approximately 2 days after the retreat, and evacuation of the nearby city, [[The MSS]] dropped an anti tank shell on the nuclear engine in the backyard, causing it to detonate, and release radiation, as well as raw bits of Uranium in the area, causing the nearby city to be subjected to a massive localized earthquake, that ranked a 8.6 on the Richter Scale. 
+
+Esero Khuga was caught in the reactor meltdown, causing his skin, bones, and other muscles to melt down, while rapidly healing, causing him to undergo extreme [[Mutation]]s, and absorbing the biomass in the area around his house. By the end of the earthquake, a whole city block, and then some was covered in a mass of flesh that was once the [[Body]] of [[Esero Khuga]]. Cancerous tumors, extra sets of eyes and teeth, bones where bones shouldn't be, extremities as high as buildings, as buildings themselves got converted into a part of Esero's new body. 
+
+Esero is now known as [[RAB-Khuga]], a [[Cryptid]] and the only remaining inhabitant of the chinese village. 
+
+
 
 File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Essence Movement.md
 
@@ -266,7 +303,7 @@ File: Theory D&D\Things\Magic\Derivative Spells\Firebolt.md
 			- Talismanic: 
 				- (0) The secondary hand must hold a wooden object. 
 			- Verbal:
-				- (1) "Ainothondorosa"
+				- (1) "The power of the sun in the palm of my hand"
 			- Somatic: 
 				- (2) The primary hand must be moved towards the secondary hand, as if for a clap. Less than a second before the clap happens, the secondary hand must go underneath the primary hand. 
 					- This causes a bolt of fire to fly from the primary hand, towards the target of the spell. 
@@ -284,6 +321,23 @@ File: Theory D&D\Things\Magic\Derivative Spells\Firebolt.md
 				- (2) The casters must cast [[Push]] with both of their hands, forcefully transcending the spark into our world, and launching it against the target. 
 		- Extra Effect:
 			- The damage of the spell is 1d4 for each [[Push]] spell cast.
+	- Satanist:
+		- Description:
+			- A variation of the spell discovered during the rise of satanism, and worship of hell, deeply connected to [[Wrath]]. 
+		- Components:
+			- Sacrificial: 
+				- (0) about 10 ml of human blood, held in the primary hand. 
+			- Verbal:
+				- (1) "Burn in the ravines of hell!" (Has to be yelled out)
+			- Somatic:
+				- (2) The caster pushes the primary hand against an enemy. 
+			- Magical:
+				- (3) Upon contact with the skin, the caster's soul takes 1d6+1 soul damage, and the person hit takes triple that much damage. 
+		- Extra Effect:
+			- The target begins to burn in bright flames, who can't be extinguished with anything other than water for 1d4 turns. 
+		- Exploits:
+			- The soul cost of the spell can be increased by casting the natural version of spark repeatedly afterwards, causing the soul damage of the spark spell to translate to damage of the firebolt on the creature now on fire. 
+	- 
 
 File: Theory D&D\Things\Magic\Misc\Forced Soul Removal.md
 
@@ -315,11 +369,120 @@ File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
 		- Allow the user to only control the [[Wind]]. This isn't to such a level to allow the user to levitate. 
 	- 
 
-File: Theory D&D\Things\Magic\Holy Grail.md
+File: Theory D&D\Concepts\Entities\Gods\God.md
+
+#Concept #God 
+A god is [[Immortallity|Immortal]].
+A god has [[Blood|Ichor]] running through their veins.
+
+
+File: Theory D&D\Characters\Gods\Helios.md
+
+#God #Character 
+Helios is the [[Fire]] spirit that appears during the brightest of days. A shiny creature, all about showing off, and making sure that everyone can see it.
+Helios manifests during the brightest hours of the day, when [[The Sun]] is right above you. Helios can also be manifested by creating explosions, as well as fire that burns bright. 
+
+Helios is the fire that destroys for the sake of destruction. 
+
+# Backstory
+Helios is the primordial fire. The fire with the need to be the brightest, the strongest, the most powerful. Helios is the eldest of the three fire spirits, that were born within [[The Sun]], with it's younger siblings being [[Ra]] and [[Prometheus]]. They appeared on [[The Earth]] very early on, burning bright when it wanted to. 
+
+# Personality
+Helios loves to show off. It loves to burn brighter and brighter always. It exists for only one reason in this world. To be the most looked at thing. Whether worshipped or feared, it wants to burn the brightest. Whenever a flame so great appears, it usually is Helios. A firestorm, a [[Volcano]], an explosion, etc. Helios has taken a bit of a liking for the humans because of how big we sometimes are with our weapons, and Helios has a particular liking for [[Nuke|Nuclear Weaponry]], due to it aligning with it's core concept so much. 
+
+Helios doesn't destroy only to be looked at. It destroys to eclipse, so that nothing is looked at but Helios. Since the sun is above all, every day, Helios sees it as the greatest display of the power of a fire, and what other creatures have to compete with if they wish to manifest a part of Helios's power. [[The Sun]] doesn't care about Helios enough to intervene into it's life. 
+
+Other than champions, Helios sees humans as just another creature of [[The Earth]], sometimes as allies, sometimes as enemies. Depending on which fire it manifests from. Helios still fears and respects the greater gods, such as [[The Earth]] and [[The Sun]], not intervening into their manners too much, and sometimes works as the spear that either of them use for attack against something else. 
+
+Helios fears burning out, disappearing. He despises being put out, and will try to keep burning for as long as he can, sometimes hurting the people who manifested him. 
+# Cults 
+Helios is the [[God|diety of worship]] in many cults. There are also several cults of Helios, specifically devoted to making the grandest explosions. In exchange, Helios grants them power over the explosive nature and the light of fire. This is the in universe way to get a wizards fireball. 
+
+Helios is also connected to several non-Helios centered cults, such as [[Illuminati]], who occasionally offer a sacrifice to Helios, in order to stay on good terms with it, and so it can come help in times of need. 
+
+If a [[Human]] shows enough destructive potential, or accomplishes a fire worthy of Helios's interest, Helios can select that individual as it's champion, giving it prowess over fire. There are different champions of Helios, and there can always be more than one, you just have to live explosively enough. The moment that this human uses fire for anything but destruction and personal gain though, Helios will abandon it, as it has become unworthy of it's attention. 
+
+The fire of passion is also a fire that Helios can appreciate, and it will lend it's power to the most determined people, who have shown they'd do anything to achieve their goals. 
+
+If a [[Human]] rebels against Helios, that human better not have a soul within their [[Human Skin|skin]], that they aren't using. because that is the #1 cause of spontaneous combustion these days. 
+
+> [!quote]- Champion of Helios
+> A man, who arrives at a scene, stepping out of a Porsche. He looks over at the other people, taking off his sunglasses, to reveal a set of eyes, with the flame of passion burning bright. As he walks towards his enemy, he pulls out a card from his pocket, and throws it towards his car, making both the card, and the car ignite into a fiery explosion, as the man walks away from the explosion not even looking back at it. 
+# Manifestation
+Helios can be manifested by imbuing a part of your [[Soul]] inside of a burning flame. Helios will manifest under any of the following conditions:
+- [[The Sun]] is directly above you. 
+- An explosion, or a bright light has just happened, is happening, or is destined to happen soon.
+Helios will not manifest if:
+- The light isn't bright enough, or it is simply too dark.
+- The presence of another fire spirit is stronger. 
+Helios can be extinguished by dimming it's flame, by causing it to transform into one of it's siblings, or by other smaller means. 
+
+When Helios manifests, it will take the form of a dragon, either one of the [[China|chinese]] dragons, or a more mythological dragon. It can also take the form of a sphere, an eye of sauron, or whatever else is associated with power in the community. Sometimes a fiery devil, sometimes a demon. etc. 
+Helios has a deep voice of a booming thunder. 
+
+Helios is effectively drawing power from [[Hell]] itself. I guess this does make Helios one of the devils of the world. 
+# Relationships
+
+
+File: Theory D&D\Characters\Gods\Helios.md
+
+#God #Character 
+Helios is the [[Fire]] spirit that appears during the brightest of days. A shiny creature, all about showing off, and making sure that everyone can see it.
+Helios manifests during the brightest hours of the day, when [[The Sun]] is right above you. Helios can also be manifested by creating explosions, as well as fire that burns bright. 
+
+Helios is the fire that destroys for the sake of destruction. 
+
+# Backstory
+Helios is the primordial fire. The fire with the need to be the brightest, the strongest, the most powerful. Helios is the eldest of the three fire spirits, that were born within [[The Sun]], with it's younger siblings being [[Ra]] and [[Prometheus]]. They appeared on [[The Earth]] very early on, burning bright when it wanted to. 
+
+# Personality
+Helios loves to show off. It loves to burn brighter and brighter always. It exists for only one reason in this world. To be the most looked at thing. Whether worshipped or feared, it wants to burn the brightest. Whenever a flame so great appears, it usually is Helios. A firestorm, a [[Volcano]], an explosion, etc. Helios has taken a bit of a liking for the humans because of how big we sometimes are with our weapons, and Helios has a particular liking for [[Nuke|Nuclear Weaponry]], due to it aligning with it's core concept so much. 
+
+Helios doesn't destroy only to be looked at. It destroys to eclipse, so that nothing is looked at but Helios. Since the sun is above all, every day, Helios sees it as the greatest display of the power of a fire, and what other creatures have to compete with if they wish to manifest a part of Helios's power. [[The Sun]] doesn't care about Helios enough to intervene into it's life. 
+
+Other than champions, Helios sees humans as just another creature of [[The Earth]], sometimes as allies, sometimes as enemies. Depending on which fire it manifests from. Helios still fears and respects the greater gods, such as [[The Earth]] and [[The Sun]], not intervening into their manners too much, and sometimes works as the spear that either of them use for attack against something else. 
+
+Helios fears burning out, disappearing. He despises being put out, and will try to keep burning for as long as he can, sometimes hurting the people who manifested him. 
+# Cults 
+Helios is the [[God|diety of worship]] in many cults. There are also several cults of Helios, specifically devoted to making the grandest explosions. In exchange, Helios grants them power over the explosive nature and the light of fire. This is the in universe way to get a wizards fireball. 
+
+Helios is also connected to several non-Helios centered cults, such as [[Illuminati]], who occasionally offer a sacrifice to Helios, in order to stay on good terms with it, and so it can come help in times of need. 
+
+If a [[Human]] shows enough destructive potential, or accomplishes a fire worthy of Helios's interest, Helios can select that individual as it's champion, giving it prowess over fire. There are different champions of Helios, and there can always be more than one, you just have to live explosively enough. The moment that this human uses fire for anything but destruction and personal gain though, Helios will abandon it, as it has become unworthy of it's attention. 
+
+The fire of passion is also a fire that Helios can appreciate, and it will lend it's power to the most determined people, who have shown they'd do anything to achieve their goals. 
+
+If a [[Human]] rebels against Helios, that human better not have a soul within their [[Human Skin|skin]], that they aren't using. because that is the #1 cause of spontaneous combustion these days. 
+
+> [!quote]- Champion of Helios
+> A man, who arrives at a scene, stepping out of a Porsche. He looks over at the other people, taking off his sunglasses, to reveal a set of eyes, with the flame of passion burning bright. As he walks towards his enemy, he pulls out a card from his pocket, and throws it towards his car, making both the card, and the car ignite into a fiery explosion, as the man walks away from the explosion not even looking back at it. 
+# Manifestation
+Helios can be manifested by imbuing a part of your [[Soul]] inside of a burning flame. Helios will manifest under any of the following conditions:
+- [[The Sun]] is directly above you. 
+- An explosion, or a bright light has just happened, is happening, or is destined to happen soon.
+Helios will not manifest if:
+- The light isn't bright enough, or it is simply too dark.
+- The presence of another fire spirit is stronger. 
+Helios can be extinguished by dimming it's flame, by causing it to transform into one of it's siblings, or by other smaller means. 
+
+When Helios manifests, it will take the form of a dragon, either one of the [[China|chinese]] dragons, or a more mythological dragon. It can also take the form of a sphere, an eye of sauron, or whatever else is associated with power in the community. Sometimes a fiery devil, sometimes a demon. etc. 
+Helios has a deep voice of a booming thunder. 
+
+Helios is effectively drawing power from [[Hell]] itself. I guess this does make Helios one of the devils of the world. 
+# Relationships
+
+
+File: Theory D&D\Things\Magic\Items\Holy Grail.md
 
 #Thing #Magic #Item 
 The chalice from which [[Jesus]] drank during the last supper.
 If anyone drinks from the holy grail, they'll achieve [[Immortallity]], and have more knowledge. 
+
+File: Theory D&D\Concepts\Entities\Cryptids\Hyper Beast.md
+
+#Entity #Race #God #Cryptid 
+A beast that inhabits the [[Hyper Reality]].
+These beasts tend to be [[Cognitohazard]]s or [[Memetic Hazard]]s.
 
 File: Theory D&D\Things\Magic\Primal Spells\Imbue Mana.md
 
@@ -360,6 +523,46 @@ File: Theory D&D\Things\Magic\Rituals\Item Tier Increase.md
 - Description:
 	- A [[Ritual]] that increases the tier of a [[Magic]] item, allowing you to store more enchantments on it. Has different costs for each tier, getting only more expensive the more enchantments are stacked on the item. 
 
+File: Theory D&D\Characters\Ancient Era\Jesus.md
+
+#Character #Biblical 
+The [[Saint]] that got resurrected. Son of [[Christian God]].
+
+
+File: Theory D&D\Characters\Ancient Era\King David.md
+
+#Character 
+Father of King [[Solomon]]
+
+
+File: Theory D&D\Things\Magic\Misc\Language.md
+
+#Magic #Concept 
+A language is what different creatures can communicate with. 
+There are many languages, but based on them, people can perform effects, that help them with magic. 
+
+
+| Effect Category                                     | Primary Magical Effect                                                                                                                                | Secondary / Passive Effect                                                                                                                                                            | Typical Language Type                                                                                                   | Verbal Component Cost                                                                                                      | Risk / Side Effect                                                                                                                                             |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Anchoring** (Latin)                               | Spells last longer, enchantments are harder to dispel.                                                                                                | Long-term exposure slowly makes the caster more resistant to change (mental rigidity, difficulty learning new skills).                                                                | Highly inflected, grammatically complex, "dead" languages (Latin, Sanskrit, Ancient Greek).                             | 1 additional soul damage per hour of intended duration.                                                                    | The caster's DNA stabilizes to the point of _stagnation_—healing slows, adaptability decreases.                                                                |
+| **Resonance** (Italian, living Romance)             | Spells that affect living beings (healing, cursing, charming) are more potent.                                                                        | The caster's DNA becomes more _plastic_—they adapt quickly to new environments, learn languages faster, but are more susceptible to genetic diseases.                                 | Vowel-heavy, melodic, spoken with gestural emphasis (Italian, Brazilian Portuguese, Thai).                              | 1d4 soul damage, but the spell's effect is doubled against living targets.                                                 | Emotional bleed—the caster feels the target's emotions during casting, risking psychic feedback.                                                               |
+| **Precision** (Germanic, Japanese)                  | Spells requiring fine control (telekinetic `Push`, delicate enchantments) gain +2 to accuracy.                                                        | The caster develops excellent fine motor skills and attention to detail, but may become obsessive or rigid in thinking.                                                               | Consonant-cluster heavy, with strict word order (German, Dutch, Japanese, Finnish).                                     | 1 soul damage per precise manipulation.                                                                                    | The spell can _over-succeed_—too much precision can cause unintended exactness (e.g., pushing a flame into a perfect, useless sphere rather than at an enemy). |
+| **Evocation** (Russian, Polish, other Slavic)       | Spells that create, summon, or manifest physical matter (fire, ice, ectoplasm) are easier to cast (reduce soul cost by 1d4).                          | The caster's body becomes more _dense_—they gain a slight resistance to physical damage but lose a corresponding amount of agility.                                                   | Consonant-rich, with palatalization and complex stress patterns (Russian, Polish, Czech).                               | 1 less soul damage than normal (minimum 1).                                                                                | Matter created by the spell is _unstable_—it may revert, mutate, or explode after 1d6 rounds.                                                                  |
+| **Veiling** (Welsh, Irish, Gaelic)                  | Spells of hiding, illusion, or invisibility last longer and are harder to see through.                                                                | The caster becomes naturally unobtrusive—people forget they were in a room, they are hard to notice in crowds. But they may struggle to be taken seriously.                           | Celtic languages, with initial consonant mutations and VSO word order (Irish, Scottish Gaelic, Welsh).                  | 2 soul damage; the spell automatically succeeds against targets with less than 10 Wisdom.                                  | The caster risks _forgetting themselves_—after prolonged use, they may lose their own identity or memories.                                                    |
+| **Binding** (Hungarian, Finnish, Estonian)          | Spells that constrain, trap, or restrict (curses, geases, soul binding) are exceptionally difficult to break.                                         | The caster develops a _stubborn_ personality—hard to persuade, hard to intimidate, but also hard to cooperate with.                                                                   | Finno-Ugric languages, agglutinative with many cases (Hungarian, Finnish, Estonian).                                    | 2d4 soul damage; the binding lasts until a specific condition is met (set by the caster).                                  | The binding can _backfire_—if the target breaks free, the caster is bound in their place for the same duration.                                                |
+| **Whispering** (Mandarin, Cantonese, Vietnamese)    | Spells that transmit information over distance (scrying, messaging, clairaudience) have unlimited range and cannot be intercepted.                    | The caster's hearing becomes unusually acute, but they are sensitive to loud noises and may develop tinnitus.                                                                         | Tonal languages, with monosyllabic roots (Mandarin, Cantonese, Vietnamese, Thai).                                       | 1d6 soul damage per hour of sustained communication.                                                                       | The caster hears _everything_ in the target area—including thoughts, which can be overwhelming (Wisdom save or take 1d4 psychic damage).                       |
+| **Sundering** (Arabic, Hebrew, Aramaic)             | Spells that break, sever, or destroy (dispel magic, break enchantments, destroy objects) are exceptionally effective.                                 | The caster becomes _deconstructive_ in thinking—excellent at finding flaws, weaknesses, and contradictions, but pessimistic and critical.                                             | Semitic languages, with triconsonantal roots and guttural sounds (Arabic, Hebrew, Aramaic).                             | 2 soul damage; the spell automatically dispels any enchantment of lower level.                                             | The spell can _unmake_ things the caster didn't intend—nearby enchantments, bonds between friends, even memories.                                              |
+| **Lulling** (Polynesian languages, Hawaiian, Maori) | Spells that calm, pacify, or put to sleep are nearly irresistible.                                                                                    | The caster radiates a subtle aura of peace—animals trust them, children fall asleep near them. But they may become lethargic or unmotivated.                                          | Vowel-heavy, with few consonants, rhythmic and flowing (Hawaiian, Maori, Samoan).                                       | 1 soul damage; the target sleeps for 8 hours, no save.                                                                     | The caster falls asleep immediately after casting unless they make a Constitution save (DC 15).                                                                |
+| **Igniting** (Spanish, Catalan, Romanian)           | Spells that create fire or heat (like Firebolt) are more volatile—deal +1d4 damage but have a chance to explode.                                      | The caster has a fiery temperament—passionate, quick to anger, quick to forgive. Their body temperature runs slightly hot.                                                            | Romance languages with strong stress accent and open syllables (Spanish, Catalan, Romanian).                            | 1d4 soul damage; the firebolt explodes on a critical hit, dealing half damage to adjacent creatures.                       | The caster may _ignite_ flammable objects near them when angry (GM's discretion).                                                                              |
+| **Stillness** (Tibetan, Burmese, Dzongkha)          | Spells that preserve, protect, or heal are more effective, but take twice as long to cast.                                                            | The caster ages slower, meditates easily, and has extraordinary patience. But they may become detached from worldly concerns.                                                         | Tibetan-Burmese languages, with complex tone systems and evidentiality markers (Tibetan, Burmese).                      | No soul damage, but casting time is doubled. The healing effect is maximized (no dice roll).                               | The caster must maintain absolute silence during casting—any sound disrupts the spell and deals 1d4 soul damage to the caster.                                 |
+| **Fracturing** (German, Yiddish, English)           | Spells that affect probability, luck, or fate (blessing, cursing, rerolling dice) are unpredictable—often more powerful but with random side effects. | The caster becomes _mercurial_—mood swings, sudden insights, erratic behavior. Their DNA shows frequent, harmless mutations.                                                          | Germanic languages, with strong ablaut and complex vowel shifts (German, Yiddish, English).                             | 1d4 soul damage; the spell's effect is doubled but a random secondary effect occurs (roll on a d6 table).                  | The caster may temporarily forget the spell after casting (lose access for 1d4 days).                                                                          |
+| **Echoing** (Classical Greek, Persian, Armenian)    | Spells that create illusions, duplicates, or mirror images are exceptionally convincing and can physically interact with the world.                   | The caster has a weak sense of self—they can mimic others' mannerisms perfectly but struggle to form their own identity.                                                              | Ancient Indo-European languages, with complex aspect systems (Classical Greek, Old Persian, Armenian).                  | 2d4 soul damage; each illusion can deal 1 point of damage before disappearing.                                             | The illusions may become _independent_—they can disobey the caster or even attack them.                                                                        |
+| **Weaving** (Turkish, Azerbaijani, Uzbek)           | Spells that combine multiple effects (like Trigger with AND/OR gates) are easier to construct and maintain.                                           | The caster thinks in _patterns_—excellent at strategy, puzzles, and system design. Poor at spontaneity or improvisation.                                                              | Turkic languages, with vowel harmony and agglutination (Turkish, Azerbaijani, Uzbek).                                   | 1 soul damage per additional effect beyond the first (instead of the usual 1d4).                                           | The woven spell can _tangle_—if one component fails, all components fail simultaneously, and the caster takes 1d6 damage per component.                        |
+| **Devouring** (Sumerian, Akkadian, Hittite)         | Spells that consume, absorb, or steal (soul theft, mana drain, energy vampirism) are terrifyingly effective.                                          | The caster develops an _appetite_—they need to consume more food, more mana, more souls to feel satisfied. Their DNA becomes hungry.                                                  | Dead languages with no living speakers, especially those associated with ancient empires (Sumerian, Akkadian, Hittite). | 1 soul damage; the stolen resource is doubled. But the caster takes 1d4 damage as the stolen energy _burns_ on the way in. | The caster may become _addicted_ to the feeling of devouring—Wisdom save to avoid using the spell again immediately.                                           |
+| **Silence** (Sign languages, ASL, BSL)              | Spells that affect sound, silence, or absence are effortless (no verbal component needed).                                                            | The caster becomes comfortable with silence—they can read lips, sense vibrations, and are immune to auditory illusions. But they may struggle to speak aloud in stressful situations. | Visual-manual languages, no sound component (American Sign Language, British Sign Language, etc.).                      | No soul damage; the silence effect is permanent until dispelled.                                                           | The caster cannot use _any_ verbal components for 1 hour after casting—all spells must be somatic or mental only.                                              |
+
+---
+
 File: Theory D&D\Things\Magic\Rituals\Last Dream.md
 
 #Thing #Ritual #Magic 
@@ -392,6 +595,11 @@ File: Theory D&D\Things\Magic\Rituals\Last Dream.md
 - Exploits:
 	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to attain [[Immortallity]], as long as they keep sleeping in the same place. 
 
+File: Theory D&D\Characters\19th century\Louis Pasteur.md
+
+#Character 
+Inventor of the [[Vaccine]] against [[Rabies]].
+
 File: Theory D&D\Concepts\Magic\Magic.md
 
 #Concept #Magic
@@ -406,6 +614,12 @@ Energy that can be used to cast spells with.
 
 The mana that lingers in the air around us is called Ambient mana.
 
+File: Theory D&D\Concepts\Entities\Human Related\Races\Neanderthal.md
+
+#Concept #Entity #Human #Race #God
+The species that reigned over the earth before Homo sapiens.
+Still [[Human]]s with human [[Soul]]s.
+
 File: Theory D&D\Concepts\Magic\Negative Energy.md
 
 #Magic #Concept 
@@ -415,6 +629,99 @@ File: Theory D&D\Things\Magic\Misc\Omega Fire.md
 
 #Magic #Thing #Weapon 
 A variant of [[Fire]], that isn't limited to what the regular fire burns, and can burn anything except the flesh of [[God]]s. 
+
+File: Theory D&D\Characters\Medieval\Otto III.md
+
+#Character
+A [[The Catholic Church|Holy Roman]] Emperor that thought of 200 years of history, and invented several characters, such as [[Charlemagne]], in order to claim the throne of power in the 1000 AC.
+
+File: Theory D&D\Characters\Gods\Prometheus.md
+
+#God #Character 
+Prometheus is the spirit of [[Fire]], that pushes for [[Science]] and progress. 
+
+# Backstory
+Prometheus was born from the spirit of [[Human]]s pushing for progress. 
+# Personality
+Prometheus wants to see progress. Prometheus wishes to see innovation, he wants to see the world grow. He doesn't see destruction as something needed in his world, and resents [[Helios]] for bringing it. 
+
+Prometheus can become angry if no progress is shown for a while, causing him to transition into [[Helios]] until the [[Human]]s come up with something new. Prometheus fears the end of mankind, as that would symbolize the end of it's existence too. It fears Ra a bit because of this as well, because Ra is the one who is most likely to bring it, 
+
+# Cults
+There are many cults worshipping Prometheus, but the most noteworthy is anything [[Science]] related, like NASA, who named a space vessel after the god, in order for the name of Prometheus to be a part of the solar system once again.
+
+Prometheus doesn't demand much, only that the people under it are curious, and willing to search for new things. 
+
+Prometheus is weaker than the other fire spirits in the sense that it is worshipped by a lot more people, but unknowingly, and it has to spread out his influence to them all equaly, meaning that Prometheus very rarely can do actual fire related stuff in the world. 
+
+Prometheus occasionally chooses a champion, but the only abilities they are given is a burning passion to research, or to come up with something new. 
+
+When a human betrays Prometheus, they do not get smitten down by wrath like other individuals, and they remain safe for most part, causing the humanity to see Prometheus as a pacifist usually. 
+# Manifestation
+Prometheus manifests when any of the following conditions take effect:
+- A person as a good idea, an idea that could change the future. 
+- A mortal created machine is pushing for a goal. Either the internal combustion of an engine, the combustion mechanism of a pistol, or the core of a lightbulb that lights a whole room right up. Anything that can help can manifest Prometheus. 
+- The dawns and dusks of the days, when neither [[Ra]] or [[Helios]] has manifested yet. 
+Prometheus doesn't manifest if:
+- Fire isn't used to achieve anything, or is an accident. 
+- One of the other spirits domains is stronger.
+Prometheus can be manifested by imbuing a part of fire with a soul. 
+When Prometheus manifests, he will take the form of a scientist, an inventor, a set of eyes, observing, staring back at everyone, with a mouth that's always yapping. Prometheus is very excited to be manifested, because it adores talking to people. Prometheus's voice is friendly, and easily understandable. 
+
+# Relationships
+[[Helios]] is a very active nuisance, and should be neutralized, if given the chance, as he almost always goes against Prometheus's core principles of nurturing, and helping the humans. 
+
+[[Ra]] is the entity that brings all the progress down, so Prometheus doesn't really like Ra, but it's more peaceful with it around than Helios, so Prometheus appreciates it's company whenever it can. 
+
+[[The Sun]] is an entity that constantly feeds the plant life, and grants [[Heat]] and warmth to all the other creatures. On sun no life can survive, and no progress can be made. Prometheus likes the sun, but is happy that he's arrived on [[The Earth]] instead. 
+
+[[The Earth]] is where all the progress takes place. And Prometheus loves the [[Human]]s for it, and by extension, has a deep respect for [[The God]] who gave these humans free will, and control over their own fate. 
+
+Prometheus loves [[Human]]ity as a whole, and loves to do anything in order to make them progress faster in the world. Prometheus might not have the explosive capabilities that it's siblings often show off, but it helps with small, controlled explosions and fire wherever it can. 
+
+File: Theory D&D\Characters\Gods\Prometheus.md
+
+#God #Character 
+Prometheus is the spirit of [[Fire]], that pushes for [[Science]] and progress. 
+
+# Backstory
+Prometheus was born from the spirit of [[Human]]s pushing for progress. 
+# Personality
+Prometheus wants to see progress. Prometheus wishes to see innovation, he wants to see the world grow. He doesn't see destruction as something needed in his world, and resents [[Helios]] for bringing it. 
+
+Prometheus can become angry if no progress is shown for a while, causing him to transition into [[Helios]] until the [[Human]]s come up with something new. Prometheus fears the end of mankind, as that would symbolize the end of it's existence too. It fears Ra a bit because of this as well, because Ra is the one who is most likely to bring it, 
+
+# Cults
+There are many cults worshipping Prometheus, but the most noteworthy is anything [[Science]] related, like NASA, who named a space vessel after the god, in order for the name of Prometheus to be a part of the solar system once again.
+
+Prometheus doesn't demand much, only that the people under it are curious, and willing to search for new things. 
+
+Prometheus is weaker than the other fire spirits in the sense that it is worshipped by a lot more people, but unknowingly, and it has to spread out his influence to them all equaly, meaning that Prometheus very rarely can do actual fire related stuff in the world. 
+
+Prometheus occasionally chooses a champion, but the only abilities they are given is a burning passion to research, or to come up with something new. 
+
+When a human betrays Prometheus, they do not get smitten down by wrath like other individuals, and they remain safe for most part, causing the humanity to see Prometheus as a pacifist usually. 
+# Manifestation
+Prometheus manifests when any of the following conditions take effect:
+- A person as a good idea, an idea that could change the future. 
+- A mortal created machine is pushing for a goal. Either the internal combustion of an engine, the combustion mechanism of a pistol, or the core of a lightbulb that lights a whole room right up. Anything that can help can manifest Prometheus. 
+- The dawns and dusks of the days, when neither [[Ra]] or [[Helios]] has manifested yet. 
+Prometheus doesn't manifest if:
+- Fire isn't used to achieve anything, or is an accident. 
+- One of the other spirits domains is stronger.
+Prometheus can be manifested by imbuing a part of fire with a soul. 
+When Prometheus manifests, he will take the form of a scientist, an inventor, a set of eyes, observing, staring back at everyone, with a mouth that's always yapping. Prometheus is very excited to be manifested, because it adores talking to people. Prometheus's voice is friendly, and easily understandable. 
+
+# Relationships
+[[Helios]] is a very active nuisance, and should be neutralized, if given the chance, as he almost always goes against Prometheus's core principles of nurturing, and helping the humans. 
+
+[[Ra]] is the entity that brings all the progress down, so Prometheus doesn't really like Ra, but it's more peaceful with it around than Helios, so Prometheus appreciates it's company whenever it can. 
+
+[[The Sun]] is an entity that constantly feeds the plant life, and grants [[Heat]] and warmth to all the other creatures. On sun no life can survive, and no progress can be made. Prometheus likes the sun, but is happy that he's arrived on [[The Earth]] instead. 
+
+[[The Earth]] is where all the progress takes place. And Prometheus loves the [[Human]]s for it, and by extension, has a deep respect for [[The God]] who gave these humans free will, and control over their own fate. 
+
+Prometheus loves [[Human]]ity as a whole, and loves to do anything in order to make them progress faster in the world. Prometheus might not have the explosive capabilities that it's siblings often show off, but it helps with small, controlled explosions and fire wherever it can. 
 
 File: Theory D&D\Things\Magic\Primal Spells\Push.md
 
@@ -431,7 +738,7 @@ File: Theory D&D\Things\Magic\Primal Spells\Push.md
 		- (1) The caster must visualise the following rune:
 			- ![[Pasted image 20260401032919.png]]
 	- Verbal:
-		- (2) The caster must say "Mu" aloud. 
+		- (2) The caster must say "Mu" aloud. (There is no arbitrary language that can replace this. Languages have no effect on this spell)
 	- Somatic:
 		- (3) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
 - Limitations: 
@@ -441,6 +748,160 @@ File: Theory D&D\Things\Magic\Primal Spells\Push.md
 - Variations:
 	- (2.1) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
 		- This can be used to extinguish the sound, or make a loud action silent, if the caster has both their hands free. 
+
+File: Theory D&D\Concepts\Entities\Cryptids\RAB-Khuga.md
+
+#Entity #Concept #Character #Cryptid 
+## Things to Note:
+
+- Formerly [[Esero Khuga]], a backyard scientist who achieved regenerative[[Immortallity]] through [[Vibrations|vibrational]] healing based on [[Dr Emoto's Water Experiments]].
+    
+- His original device was a [[Nuclear]]-powered vibrational generator, finely tuned to a frequency that caused rapid cellular regeneration in Esero's organism. 
+    
+- When [[The MSS]] destroyed his generator with an anti-tank shell, the resulting meltdown occurred simultaneously with his active regeneration. His body entered a state of **forced mitosis feedback loop**: cells destroyed by radiation would regenerate, only to be destroyed again, faster and faster, until the very concept of "[[Esero Khuga]]" became a continuous process rather than a discrete entity.
+    
+- The 8.6 magnitude [[Earthquake]] caused by the detonation was caused by his flesh growing faster than sound, and pushing against the earth, as well as the residual energy after the meltdown.
+    
+- Over approximately 47 minutes, his biomass expanded to consume:
+    
+    - His house and backyard (origin point)
+        
+    - 14 residential blocks
+        
+    - 3 schools (all evacuated)
+        
+    - 2 factories
+        
+    - 1 hospital (evacuation incomplete—see [[Missing Person]] files, Changsha Province, 2023)
+        
+    - The first 47 first responders who did not retreat in time
+        
+- The resulting entity is approximately **2.3 kilometers in diameter** at its widest point, though its shape is irregular and **still growing**, albeit at a slowed rate of approximately 1.2 meters per month.
+
+- The Entity has several major arteries in it, perpetually causing a humming tune to emerge from each set of vocal cords, that keeps healing the entity, preventing any physical damage. 
+
+- [[The Government]] of [[China]] has forbidden any further interaction or action against the entity, In a fear of accelerating it's development, or other unexpected mutations.
+	- The usage of [[Nuke|Nuclear Weaponry]] against the entity is especially forbidden due to the effect closely mimicking the original event of expansion. 
+
+- The creature is assumed to be in constant pain due to it's existence, and it has absorbed the [[Soul]]s of the 47 other individuals in the area, incorporating parts of their [[Body]] into the biomass, and achieving partially the effect of [[Incorruptible Saints|a saint]], causing the entity to obtain partial understanding of [[Magic]], as well as the ability to execute some simple enchantments and spells, now having larger areas of effect due to the area of the caster itself. 
+
+- A group that has been stationed near the entity has repeatedly reported "Fireworks", as well as the sky above the entity "being set ablaze."
+- If a [[Human]] or a similar creature touches the mass, it experiences rapid tumor growth, following up by a quick death. If they remain near the mass, they will be absorbed into the entity, and their soul will be used as an additional [[Mana]] battery. 
+
+- There are several documented cases of "Limbs" extending from the mass, trying to grab at nearby creatures, and pulling them into the biomass. These limbs are mostly human hands, usually scaled much larger than the typical human hand, with the largest ones exceeding a length of 20 metres. There have been mentions of other tumorous growths, as well as several feet facing the air expanding into the air. 
+
+- The eyes of the Biomass seem to follow around moving objects, even if they can't differentiate alive from non alive objects. 
+
+- Three seperate cults have been identified to know about the mass itself. 
+	- The [[Illuminati]] is the only cult that is named within this document. 
+
+- [[The MSS]] has attempted:
+    - Incendiary weapons
+    - Chemical agents
+    - Cryogenic freezing 
+    - Precision nuclear strike (proposed, rejected)
+
+- Since every single cell of the entity holds a fragment of the soul of Khuga, it means that he is experiencing all of his cells dying, is in extreme pain, and yet, is [[Immortallity|Immortal]], and unable to do anything about it. 
+
+File: Theory D&D\Characters\Gods\Ra.md
+
+#God #Character 
+Ra is one of the spirits of [[Fire]]. 
+Ra is the fire that consumes and cleanses.
+
+# Backstory
+Ra came into existence when [[The Sun]] shined it's light again after the first night. Ra is the embodiment of fire being used as a tool for cleansing, a tool for consumption, and a tool for a new [[Life]] to be born.
+
+# Personality
+Ra views the sun as a natural phenomenon, a means to an end of it's existence, and what brings it around another time, Without the sun, there would be no meaning for a darkness. So Ra sees sun as a good thing, a being that helps Ra be the Ra that Ra wishes to be. When living on the sun, there is no option to be lesser or greater than others, as the sun is above all. Ra enjoys staying on [[The Earth]] instead of the sun. 
+
+Ra's core drive is not to punish, but to restore balance to the natural order of things. Ra will burn down a forest, so from it's ashes a new can be born. Ra will cleanse the world of evil, so a new evil can take place. Ra will burn a life, to let there be a place for a new life. Ra sees destruction as an inherent thing, but not something that is actively needed in the continuation in the world. Something can be ended without destruction, and some things need to be destroyed for something to end. 
+
+Ra doesn't have a thing it fears. It is content with burning out, as it knows that when the next fire sparkles, it will appear again. And when the last sparkle burns out, Ra will no longer be needed. Death doesn't scare it, as all living entities face death at the end. Ra doesn't also have the ability to be angry, happy, or content. It just has a purpose to fufill. Nothing else. 
+# Cults
+There is a variety of cults that are aware of Ra, but not many actively worship it. 
+The main cult of Ra, is a group that gets together rarely, to bring down powerful figures in [[Society]], or figures that have too much power, in order for a new vessel to take place. From it's followers, Ra demands only balance. No judging people based on whether they're good or evil. but getting rid of everyone equally. The humans that worship Ra believe no longer in their own individuality as humans, and see themselves as instruments to end a cause. 
+
+Ra grants the ability to shine in a darkness. The ability to vanish into shadows, in order to reemerge elsewhere, or the ability to put [[Fear]] into other entities. These are also the main abilities that Champions of Ra possess. Ra usually chooses monks, people with little to no attachment to this world as their champions. People who are ultimately fair, against all other people equally. 
+
+If a [[Human]] is foolish enough to betray Ra, Ra remembers it. And one day, that human catches a fire. Either by accident, or by purpose. And in the end, their body is burnt to a crisp, meeting a slow, fiery demise. 
+
+> [!quote]- Champion of Ra
+> I'm imagining a dimly lit street, with a man, walking through it with an axe, dragging it along the asphalt, making sparks of fire. That right there, that's what a champion of Ra would look like. Walking through the darkness, using the fire from the blade as a tool for intimidation. 
+
+# Manifestation
+Ra manifests when any of the following conditions happen:
+- There is an absence of a visible flame, a dark street, a dimly lit dungeon, etc. 
+- There is visible ash, and fire dying down. 
+Ra doesn't manifest when:
+- The light is too bright, or it is simply too light, like a bright day outside.
+- The presence of another fire spirit is stronger. 
+Ra can be summoned by lighting a small flame in a dark room, and observing the small fire. 
+When Ra manifests, it will take the form of eyes watching from the darkness. A small asleep human, a fiery orb, or a similar form that can stand and observe. 
+Ra can be manifested into a semi physical [[Body]] by imbuing a part of a [[Soul]] into a fire, and granting it [[Life]]. 
+
+Ra's voice can be heard in your mind, even if it can't be heard out loud. Ra is only heard by those it wants to hear it. The voice sounds quiet, dim, but powerful. 
+
+# Relationships
+[[Helios]] is a nuisance. There is no need for a fire to burn that bright. There is no need to show off for just showing off. Helios doesn't know purpose, they're useless. 
+
+[[Prometheus]] is a more understandable spirit, but they don't use their fire in order to keep the world in an order. [[Human]]s were never made to advance, and that annoys Ra, but it keeps silent, as it realizes it's Prometheus's nature to advance the society. 
+
+[[The Sun]] is one of the reasons Ra can even exist. Ra doesn't pay attention to the sun, as on sun Ra has no purpose. And the day night cycle of the sun is the main reason of why Ra exists in the first place. 
+
+[[The Earth]] is a [[God]] whose creatures constantly grow. It's why Ra is here, and it loves this cycle. It views the earth as a very good place to stay, in comparison to the other places in the universe. 
+
+[[Human]]s are just another one of [[The God]]s creations, and other than taking them out when their time has come, Ra sees no great reason to interact with them, unless they show champion worthy capabilities. 
+
+File: Theory D&D\Characters\Gods\Ra.md
+
+#God #Character 
+Ra is one of the spirits of [[Fire]]. 
+Ra is the fire that consumes and cleanses.
+
+# Backstory
+Ra came into existence when [[The Sun]] shined it's light again after the first night. Ra is the embodiment of fire being used as a tool for cleansing, a tool for consumption, and a tool for a new [[Life]] to be born.
+
+# Personality
+Ra views the sun as a natural phenomenon, a means to an end of it's existence, and what brings it around another time, Without the sun, there would be no meaning for a darkness. So Ra sees sun as a good thing, a being that helps Ra be the Ra that Ra wishes to be. When living on the sun, there is no option to be lesser or greater than others, as the sun is above all. Ra enjoys staying on [[The Earth]] instead of the sun. 
+
+Ra's core drive is not to punish, but to restore balance to the natural order of things. Ra will burn down a forest, so from it's ashes a new can be born. Ra will cleanse the world of evil, so a new evil can take place. Ra will burn a life, to let there be a place for a new life. Ra sees destruction as an inherent thing, but not something that is actively needed in the continuation in the world. Something can be ended without destruction, and some things need to be destroyed for something to end. 
+
+Ra doesn't have a thing it fears. It is content with burning out, as it knows that when the next fire sparkles, it will appear again. And when the last sparkle burns out, Ra will no longer be needed. Death doesn't scare it, as all living entities face death at the end. Ra doesn't also have the ability to be angry, happy, or content. It just has a purpose to fufill. Nothing else. 
+# Cults
+There is a variety of cults that are aware of Ra, but not many actively worship it. 
+The main cult of Ra, is a group that gets together rarely, to bring down powerful figures in [[Society]], or figures that have too much power, in order for a new vessel to take place. From it's followers, Ra demands only balance. No judging people based on whether they're good or evil. but getting rid of everyone equally. The humans that worship Ra believe no longer in their own individuality as humans, and see themselves as instruments to end a cause. 
+
+Ra grants the ability to shine in a darkness. The ability to vanish into shadows, in order to reemerge elsewhere, or the ability to put [[Fear]] into other entities. These are also the main abilities that Champions of Ra possess. Ra usually chooses monks, people with little to no attachment to this world as their champions. People who are ultimately fair, against all other people equally. 
+
+If a [[Human]] is foolish enough to betray Ra, Ra remembers it. And one day, that human catches a fire. Either by accident, or by purpose. And in the end, their body is burnt to a crisp, meeting a slow, fiery demise. 
+
+> [!quote]- Champion of Ra
+> I'm imagining a dimly lit street, with a man, walking through it with an axe, dragging it along the asphalt, making sparks of fire. That right there, that's what a champion of Ra would look like. Walking through the darkness, using the fire from the blade as a tool for intimidation. 
+
+# Manifestation
+Ra manifests when any of the following conditions happen:
+- There is an absence of a visible flame, a dark street, a dimly lit dungeon, etc. 
+- There is visible ash, and fire dying down. 
+Ra doesn't manifest when:
+- The light is too bright, or it is simply too light, like a bright day outside.
+- The presence of another fire spirit is stronger. 
+Ra can be summoned by lighting a small flame in a dark room, and observing the small fire. 
+When Ra manifests, it will take the form of eyes watching from the darkness. A small asleep human, a fiery orb, or a similar form that can stand and observe. 
+Ra can be manifested into a semi physical [[Body]] by imbuing a part of a [[Soul]] into a fire, and granting it [[Life]]. 
+
+Ra's voice can be heard in your mind, even if it can't be heard out loud. Ra is only heard by those it wants to hear it. The voice sounds quiet, dim, but powerful. 
+
+# Relationships
+[[Helios]] is a nuisance. There is no need for a fire to burn that bright. There is no need to show off for just showing off. Helios doesn't know purpose, they're useless. 
+
+[[Prometheus]] is a more understandable spirit, but they don't use their fire in order to keep the world in an order. [[Human]]s were never made to advance, and that annoys Ra, but it keeps silent, as it realizes it's Prometheus's nature to advance the society. 
+
+[[The Sun]] is one of the reasons Ra can even exist. Ra doesn't pay attention to the sun, as on sun Ra has no purpose. And the day night cycle of the sun is the main reason of why Ra exists in the first place. 
+
+[[The Earth]] is a [[God]] whose creatures constantly grow. It's why Ra is here, and it loves this cycle. It views the earth as a very good place to stay, in comparison to the other places in the universe. 
+
+[[Human]]s are just another one of [[The God]]s creations, and other than taking them out when their time has come, Ra sees no great reason to interact with them, unless they show champion worthy capabilities. 
 
 File: Theory D&D\Concepts\Magic\Ritual.md
 
@@ -455,6 +916,7 @@ The rituals are divided into several categories. The categories are as follows:
 - Verbal (Requires the participants to say certain words/phrases/sounds at specific times)
 	- Mental (Requires for the participants in the ritual to think specific thoughts at specific times. )
 	- Religious (Requires for the caster to show devotion towards a specific diety, or a group of dieties)
+	- (Note that changing the [[Language]] in which the verbal component is performed in, can change the casting of the spell. )
 - Somatic (Requires bodliy motions, dances, or other bodily movements. )
 	- Ancillary (Requires other spells / rituals to be cast during this ritual. )
 - Material (Requires specific materials to be used in the casting of a ritual)
@@ -528,6 +990,12 @@ File: Theory D&D\Things\Magic\Derivative Spells\Silence.md
 	- (1.1) If the spell disrupts a verbal component, and the other caster has already moved onto executing the next component, their spell will be greatly impacted by the absence of a verbal component. 
 		- This does mean that if the caster realises this, and doesn't move onto the next component, the spell doesn't do anything, and they can just say the component with their next breath. 
 
+File: Theory D&D\Characters\Ancient Era\Solomon.md
+
+#Character 
+Son of [[King David]]
+Founded the [[Templars Order]] in order to protect the secrets of [[The Before]]
+
 File: Theory D&D\Character Creation\Soul Mechanic.md
 
 #Magic
@@ -587,6 +1055,20 @@ File: Theory D&D\Concepts\Spiritualism and Soul\Soul.md
 A soul can be extacted from a [[Body]] by using [[Degusya Soul Extraction]]. 
 
 
+File: Theory D&D\Concepts\Entities\Human Related\Soul Related\Soulless.md
+
+#Race #Human #Entity #God
+A creature is [[Soulless]] if it does not possess a [[Soul]].
+
+Such a person has no free will, and is controlled by the system, or whatever power at hand. 
+
+Some Soulless people have the ability to decide whether or not a soul is worthy to enter [[Heaven]] or [[Hell]]. They are called the [[Empty Saints]].
+
+Soulless people also have a collective consciousness, that allows them to band together and think as one, creating [[The Simulation]] we call life. There are some cults that worship this [[Hivemind|collective consciousness]]
+, and try to lose their [[Soul]]s to achieve this.
+
+They are also not a part of [[The God]]
+
 File: Theory D&D\Things\Magic\Primal Spells\Spark.md
 
 #Magic #Spell
@@ -594,7 +1076,7 @@ File: Theory D&D\Things\Magic\Primal Spells\Spark.md
 	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other [[Fire]] based concepts. 
 - Components:
 	- Verbal:
-		- (2) "ignis" ||flame in latin||
+		- (2) "flame"
 	- Somatic (One Handed):
 		- (1) Execute the following hand sign with one of your hands:
 		- ![[Pasted image 20260327110000.png|153]]
@@ -633,12 +1115,36 @@ File: Theory D&D\Things\Magic\Primal Spells\Store.md
 	- Mental:
 		  (2) The caster imagines the object they wish to store. 
 	-  Verbal:
-		- (3) The caster says: "Nul"
+		- (3) The caster says: "Void" 
 - Notes:
 	- When cast, the entity that is targeted can simply choose not to get teleported, if the spell happened without their consent. 
 - Exploits:
 	- If the caster targets themselves with the spell, and disappears into the other dimension, since they don't exist anymore, and have no way to finish the somatic components of the spell, they can't get back into the real world. 
 		- A second cast of the spell can override the original spell, and cause the person to return to the normal world. 
+
+File: Theory D&D\Concepts\Entities\Gods\The Before.md
+
+#God #Cult 
+# Things to note:
+
+- A collection of people that have left their strongest [[Artifact]]s to the new world, just so that they can aid the new cycle to be better than the last.
+    
+- The [[Human Realm]] will progress faster for each thing they add, but if they add too much, we will get too powerful too quick to kill ourselves over stuff like this. 
+    
+- King [[Solomon]] had access to this knowledge, either because he was an alien, a creature from the old cycle that survived, or something equally.
+    
+- They made [[The Pyramids]] in the previous cycle. 
+    
+- The [[Templars Order]] has this knowledge. 
+    
+
+
+- [[Artifice Predance]]
+    
+- [[Pyramids built by the Templars Order]]
+
+[[The Great Cycle]]
+
 
 File: Theory D&D\Concepts\Magic\The Elements.md
 
@@ -667,6 +1173,44 @@ Water is the ichor of god. [[The Earth]] is it's body. This means that the being
 Since we know that [[Fire]] is alive, and is the manifestation of a soul, it would mean that [[The Sun]] is enshrouded in living beings, the same way that [[The Earth]] is. Making them both gods. 
 The people naming planets after gods wasn't a coincidence. The planets are gods. 
 
+
+File: Theory D&D\Concepts\Entities\Gods\The God.md
+
+#Character #God 
+# Things to note:
+
+- Is the embodiment of EVERYTHING. EVERYTHING is ULTIMATE GOD. 
+    
+- Wrote the laws of the universe, can rewrite the laws of the universe. 
+    
+- People proficient with [[Pattern Manipulation]] can perceive this entity for what it truly is. They can use this ability to perform acts of [[Magic]]. 
+    
+- Inhabits the [[Hyper Reality]].
+    
+- HE DOESN’T EXIST, as he gave a part of himself to create everything, as everything other than him is imperfect. If you combine everything in the world, you still get him, but has to be everything
+- The [[Blood|Ichor]] running through his veins is [[Water]]
+
+
+counts as a [[God]]
+
+File: Theory D&D\Concepts\Entities\Gods\The God.md
+
+#Character #God 
+# Things to note:
+
+- Is the embodiment of EVERYTHING. EVERYTHING is ULTIMATE GOD. 
+    
+- Wrote the laws of the universe, can rewrite the laws of the universe. 
+    
+- People proficient with [[Pattern Manipulation]] can perceive this entity for what it truly is. They can use this ability to perform acts of [[Magic]]. 
+    
+- Inhabits the [[Hyper Reality]].
+    
+- HE DOESN’T EXIST, as he gave a part of himself to create everything, as everything other than him is imperfect. If you combine everything in the world, you still get him, but has to be everything
+- The [[Blood|Ichor]] running through his veins is [[Water]]
+
+
+counts as a [[God]]
 
 File: Theory D&D\Things\Magic\Items\The Life Elixir.md
 
@@ -736,6 +1280,26 @@ File: Theory D&D\Things\Magic\Misc\Virus 23.md
     
 - A mutated, more developed version exists as the absolute [[Hyper Beast]] in the [[Hyper Reality]], that can’t be brought down by [[Theory D&D/Things/Magic/Misc/Depression Overriding|Depression Overriding]]. This beast gives you the ultimate [[Depression]], and causes you to commit [[Suicide]] in the end.
 This is a [[Memetic Hazard]].
+
+File: Theory D&D\Things\Materials\Water.md
+
+#Thing #Material #God #Magic 
+# Things to note:
+
+- Water is alive, because water is a part of [[The God]], the same way a [[Human]] with their [[Soul]] is.
+    
+- Water is the ichor coming from the veins of [[The God]]. That’s why every creature with enough water in them has the ability of choice, and free will. 
+    
+- Water is capable of growing differently based on environments it remains in, and it changes depending on how the people around it function. 
+    
+- Water can accumulate positive or [[Negative Energy]] around it. 
+- Water is one of [[The Elements]]. 
+- Water can be used to put out [[Omega Fire]]
+
+# Related Theories:
+
+- [[Dr Emoto's Water Experiments]]
+    
 
 File: Theory D&D\Things\Materials\Water.md
 

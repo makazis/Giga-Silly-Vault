@@ -13,9 +13,15 @@ for root,dirs,files in os.walk(path1):
             with open(path,"r",encoding="UTF-8") as fs:
                 data[file]=f"\nFile: {path}\n\n{fs.read()}\n"
                 #total+=f"\nFile: {path}\n\n{fs.read()}\n"
+relevant_tags=[
+    "Magic",
+    "God",
+    "Character",
+]
 for key in sorted(list(data.keys())):
-    if "#Magic" in data[key]:# or 1:
-        total+=data[key]
-        print(key)
+    for tag in relevant_tags:
+        if "#"+tag in data[key]:# or 1:
+            total+=data[key]
+            print(key)
 with open("total.txt","w",encoding="UTF-8") as f:
     f.write(total)
