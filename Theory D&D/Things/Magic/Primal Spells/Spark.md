@@ -3,7 +3,7 @@
 	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other [[Fire]] based concepts. 
 - Components:
 	- Verbal:
-		- (2) "ignis" ||flame in latin||
+		- (2) "flame"
 	- Somatic (One Handed):
 		- (1) Execute the following hand sign with one of your hands:
 		- ![[Pasted image 20260327110000.png|153]]

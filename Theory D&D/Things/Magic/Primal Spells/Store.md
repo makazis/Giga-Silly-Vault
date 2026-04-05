@@ -11,7 +11,7 @@
 	- Mental:
 		  (2) The caster imagines the object they wish to store. 
 	-  Verbal:
-		- (3) The caster says: "Nul"
+		- (3) The caster says: "Void" 
 - Notes:
 	- When cast, the entity that is targeted can simply choose not to get teleported, if the spell happened without their consent. 
 - Exploits:

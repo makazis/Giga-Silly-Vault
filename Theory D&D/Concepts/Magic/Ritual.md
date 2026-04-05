@@ -9,6 +9,7 @@ The rituals are divided into several categories. The categories are as follows:
 - Verbal (Requires the participants to say certain words/phrases/sounds at specific times)
 	- Mental (Requires for the participants in the ritual to think specific thoughts at specific times. )
 	- Religious (Requires for the caster to show devotion towards a specific diety, or a group of dieties)
+	- (Note that changing the [[Language]] in which the verbal component is performed in, can change the casting of the spell. )
 - Somatic (Requires bodliy motions, dances, or other bodily movements. )
 	- Ancillary (Requires other spells / rituals to be cast during this ritual. )
 - Material (Requires specific materials to be used in the casting of a ritual)

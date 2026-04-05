@@ -11,7 +11,7 @@
 		- (1) The caster must visualise the following rune:
 			- ![[Pasted image 20260401032919.png]]
 	- Verbal:
-		- (2) The caster must say "Mu" aloud. 
+		- (2) The caster must say "Mu" aloud. (There is no arbitrary language that can replace this. Languages have no effect on this spell)
 	- Somatic:
 		- (3) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
 - Limitations: 

@@ -43,7 +43,7 @@
 			- Talismanic: 
 				- (0) The secondary hand must hold a wooden object. 
 			- Verbal:
-				- (1) "Ainothondorosa"
+				- (1) "The power of the sun in the palm of my hand"
 			- Somatic: 
 				- (2) The primary hand must be moved towards the secondary hand, as if for a clap. Less than a second before the clap happens, the secondary hand must go underneath the primary hand. 
 					- This causes a bolt of fire to fly from the primary hand, towards the target of the spell. 
@@ -61,3 +61,10 @@
 				- (2) The casters must cast [[Push]] with both of their hands, forcefully transcending the spark into our world, and launching it against the target. 
 		- Extra Effect:
 			- The damage of the spell is 1d4 for each [[Push]] spell cast.
+	- Satanist:
+		- Description:
+			- A variation of the spell discovered during the rise of satanism, and worship of hell, deeply connected to [[Wrath]]. 
+		- Components:
+			- Sacrificial: 
+				- (0) about 10 ml of human blood, held in the primary hand. 
+			- 
