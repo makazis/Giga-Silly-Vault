@@ -67,4 +67,14 @@
 		- Components:
 			- Sacrificial: 
 				- (0) about 10 ml of human blood, held in the primary hand. 
-			- 
+			- Verbal:
+				- (1) "Burn in the ravines of hell!" (Has to be yelled out)
+			- Somatic:
+				- (2) The caster pushes the primary hand against an enemy. 
+			- Magical:
+				- (3) Upon contact with the skin, the caster's soul takes 1d6+1 soul damage, and the person hit takes triple that much damage. 
+		- Extra Effect:
+			- The target begins to burn in bright flames, who can't be extinguished with anything other than water for 1d4 turns. 
+		- Exploits:
+			- The soul cost of the spell can be increased by casting the natural version of spark repeatedly afterwards, causing the soul damage of the spark spell to translate to damage of the firebolt on the creature now on fire. 
+	- 

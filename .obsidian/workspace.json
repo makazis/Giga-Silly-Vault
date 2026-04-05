@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b0015208b7bbf69",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "fd4f7c88dd023a27",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://obsidian.md/help/plugins/search",
-                "title": "Search - Obsidian Help",
-                "mode": "webview"
+                "file": "Theory D&D/Things/Magic/Derivative Spells/Firebolt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Search - Obsidian Help"
+              "icon": "lucide-file",
+              "title": "Firebolt"
             }
           }
         ]
@@ -207,8 +197,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5b0015208b7bbf69",
+  "active": "fd4f7c88dd023a27",
   "lastOpenFiles": [
+    "D&D Knowledge/Briareus Kratos Spells/Will of Brozatu.md",
+    "D&D Knowledge/Briareus Kratos Spells/Grasp of Brozatu.md",
+    "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
     "Theory D&D/Things/Magic/Misc/Language.md",
     "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
     "Theory D&D/Things/Magic/Rituals/Item Tier Increase.md",
@@ -233,9 +226,6 @@
     "Theory D&D/Realms/Hyper Reality.md",
     "Theory D&D/Things/Magic/Misc/Curse.md",
     "Theory D&D/Theories/Holy Grail Found Centuries Ago.md",
-    "Theory D&D/Concepts/Science/Time Travel.md",
-    "Theory D&D/Concepts/Science/The Natural Forces.md",
-    "Theory D&D/Concepts/Science/Time.md",
     "Theory D&D/Theories/Proven by Other Theories already",
     "Pasted image 20260404221134.png",
     "Notes/Halfling",
