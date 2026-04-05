@@ -5,7 +5,7 @@ path2="Wendigoon D&D/HFY Power Armor"
 path3="Theory D&D/Things/Magic"
 path4="D&D Knowledge"
 data={}
-for root,dirs,files in os.walk(path4):
+for root,dirs,files in os.walk(path1):
     for file in files:
         if file.endswith(".md"):
             path=os.path.join(root,file)

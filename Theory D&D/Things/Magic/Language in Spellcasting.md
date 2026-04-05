@@ -1,0 +1,3 @@
+As one would assume, there are many ways that allow for a spell to be manipulated during casting, but the most common are changing the language in which the spell's verbal component is pronounced in. Here are some examples of what different languages for casting imply
+- Latin: Very precise and articulate, your spell will work exactly as intended, very useful for casting inrtricate large rituals with lots of components. 
+- French: I don't know yet, I haven't thought this out, and will have to consult the orb, when the net appears again. 

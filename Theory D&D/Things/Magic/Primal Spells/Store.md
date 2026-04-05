@@ -12,6 +12,8 @@
 		  (2) The caster imagines the object they wish to store. 
 	-  Verbal:
 		- (3) The caster says: "Nul"
+- Notes:
+	- When cast, the entity that is targeted can simply choose not to get teleported, if the spell happened without their consent. 
 - Exploits:
 	- If the caster targets themselves with the spell, and disappears into the other dimension, since they don't exist anymore, and have no way to finish the somatic components of the spell, they can't get back into the real world. 
 		- A second cast of the spell can override the original spell, and cause the person to return to the normal world. 

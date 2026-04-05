@@ -11,10 +11,14 @@
             "id": "5b0015208b7bbf69",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Magic/Primal Spells/Store.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Store"
             }
           },
           {
@@ -209,6 +213,9 @@
   },
   "active": "5b0015208b7bbf69",
   "lastOpenFiles": [
+    "Theory D&D/Things/Magic/Derivative Spells/Firebolt.md",
+    "Theory D&D/Things/Magic/Language in Spellcasting.md",
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
     "Theory D&D/Theories/Holy Grail Found Centuries Ago.md",
     "Theory D&D/Concepts/Science/Time Travel.md",
     "Theory D&D/Concepts/Science/The Natural Forces.md",
@@ -236,10 +243,7 @@
     "Notes/Halfling/Basic Stuff.md",
     "Notes/Halfling",
     "Notes",
-    "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
-    "D&D Knowledge/Briareus Kratos Spells/Celeritas Dei.md",
     "Pasted image 20260402165557.png",
-    "D&D Knowledge/Briareus Kratos Spells/Inferno.md",
     "Pasted image 20260402163837.png",
     "Pasted image 20260402162932.png",
     "Pasted image 20260402161036.png",
