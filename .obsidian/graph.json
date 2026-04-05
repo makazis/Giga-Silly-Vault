@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Magic",
+  "search": "tag:#Magic  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -57,10 +57,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"D&D Knowledge/Briareus Kratos Spells\"  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 60250
       }
     }
   ],
@@ -74,6 +74,6 @@
   "repelStrength": 12.9065743944637,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 0.885498954315033,
-  "close": false
+  "scale": 0.6316046762907447,
+  "close": true
 }

@@ -1,0 +1,2 @@
+#Theory 
+Many historical paintings on cave walls have shown many people standing around a single upside down person. The weirdness is in how many cultures this appears in a similar way. In the north east, people go from the soil to [[Sky]], which obviously means these people are from [[Hollow Earth]]. 
