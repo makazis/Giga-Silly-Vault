@@ -13,13 +13,13 @@
 	- Magical: 
 		- (4) The soul takes 1 damage
 - Variations:
-	- (4.1) The Magical component is replaced with a small, highly burnable material, or ambient mana. 
+	- (4.1 - Materios) The Magical component is replaced with a small, highly burnable material, or ambient mana. 
 		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
-	- (4.2) The Magical component is increased to 1d4 soul damage.
+	- (4.2 - Hestia) The Magical component is increased to 1d4 soul damage.
 		- The spark turns into a small fire, that burns above your hand for 1 minute, or as long as the caster maintains concentration. 
-	- (2) is replaced with "lumos", and (3) is never executed. 
+	- (2 - Lumos) is replaced with "lumos", and (3) is never executed. 
 		- The spell doesn't ever release the spark, and produces a faint light above the fingers, creating a small, 30ft light. This can persist for 1 minute, or as long as the caster holds concentration. 
-	- (2.1 and 4.3) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red/orange/yellow spark, meaning that you've summoned an [[Omega Fire]]. 
+	- (2.1 and 4.3 - Anima) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red/orange/yellow spark, meaning that you've summoned an [[Omega Fire]]. 
 		- If you do not get out of there fast, you get consumed by the Omega Fire too. 
 		- Omega Fire consumes anything and everything, except for [[God]]s and if you haven't perished from the damage to your soul, you'll die really quickly if you linger around. 
 			- Omega fire doesn't consume the ground or the water, so it will burn out eventually.

@@ -1,5 +1,63 @@
 #Magic #Spell 
 - Description:
-	- A bolt of fiery energy that can be used as an offensive attack against a physical enemy. A bolt thrown this way deals 1d10 fire damage to the creature it hits. 
-- Components:
-	- 
+	- A bolt of fiery energy that can be used as an offensive attack against a physical enemy. A bolt thrown this way deals 1d10 fire damage to the creature it hits. Now, it must be said that even for a spell like this, there are many ways to achieve the same result, hence there are multiple sets of components. 
+- Variations:
+	- Purist:
+		- Description:
+			- Invented by the scholars, the purest way to achieve the spells effect, using only primal spells. 
+		- Components:
+			- Ancillary: 
+				- (1) the [[Spark]] (Hestia variation) spell is cast, generating a small flame above the hand of the caster. 
+				- (2) the [[Push]] spell is cast on the spark, sending it towards the target creature. 
+		- Extra effect:
+			- Both the accuracy and the damage of the spell are increased by 1d4. 
+		- Exploits:
+			- Each additional simultaneous casting of [[Push]] increases the damage of the spell by an additional 1d4. 
+	- Infernal:
+		- Description:
+			- A common variation for non-educated mages, that imbues fire with the calling of [[Helios]], in order for the spell to not consume their own mana during casting. 
+		- Components:
+			-  Religious: 
+				- (1) A call must be made to [[Helios]], asking for their bright flames to destroy an enemy. 
+			- Ancillary:
+				- (2) A different [[Firebolt]]'s variation is cast, without the magical component. Their extra effect is removed. 
+		- Extra effect:
+			- The magical component for the Ancillary components are removed (recursively), meaning that the spell can be cast without expending your own mana. 
+	- Hellenic:
+		- Description:
+			- A variation of the spell commonly utilised by cultists during the hellenic period of greece. Very inexpensive, but the caster must think fast. 
+		- Components:
+			- Material:
+				- (0) A small, burnable material must be held in the primary hand during casting.
+			- Ancillary:
+				- (1-1) [[Spark]] is cast with the secondary hand. 
+				- (2) [[Push]] is cast with the secondary hand, directing the [[Fire]] from the secondary material away from the hand, as well as making the [[Wind]] push the small object further away. 
+			- Somatic:
+				- (1-2) The material component must be pushed through the spark during it's ignition, causing the material to catch on fire too. 
+		- Extra Effect:
+			- None. It's already an offensive spell that consumes only a singular point of soul damage when cast. 
+	- Neo-magical:
+		- Description:
+			- A variation that was achieved during the hippie era, when a hippie cult created a brand new way to cast this spell without the knowledge of primal spells. 
+		- Components:
+			- Talismanic: 
+				- (0) The secondary hand must hold a wooden object. 
+			- Verbal:
+				- (1) "Ainothondorosa"
+			- Somatic: 
+				- (2) The primary hand must be moved towards the secondary hand, as if for a clap. Less than a second before the clap happens, the secondary hand must go underneath the primary hand. 
+					- This causes a bolt of fire to fly from the primary hand, towards the target of the spell. 
+		- Extra Effect:
+			- None, it's just a cool way to cast the spell without the magical component. 
+	- Romanesque:
+		- Description:
+			- While discovered much earlier, was more popularized during the Romanesque era, a variation of the spell that requires the contact of two individuals who have a deep lust for one another. 
+		- Components:
+			- Role Participatory:
+				- Lover: One of the people who have participated in the relationship. Exactly two individuals must take up this role during casting. 
+			- Mental:
+				- (1) The casters must both visualise the spark that burns bright between them. This is enough to produce a physical, but non-visible spark within [[Hyper Reality]].
+			- Ancillary:
+				- (2) The casters must cast [[Push]] with both of their hands, forcefully transcending the spark into our world, and launching it against the target. 
+		- Extra Effect:
+			- The damage of the spell is 1d4 for each [[Push]] spell cast.
