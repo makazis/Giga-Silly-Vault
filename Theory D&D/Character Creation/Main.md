@@ -33,7 +33,7 @@ Tier I
 - Gun Training: You gain a gun proficiency. 
 - Bow Training: You gain proficiency with longbows and crossbows. 
 - Advanced Weapon Training: You gain proficiency with four martial weapons of your choice. 
-- Healthy: Increase your hit dice to 1d10.
+- Tough: Increase your hit dice to 1d10.
 Tier II
 - Mighty: You fain +2 to any one ability of your choice. 
 - Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -43,7 +43,7 @@ Tier II
 - Weaponsmith: You can take one hour to create a simple weapon out of materials specifically gathered for the cause, worth at least 20 euros, as well as a toolbox. You can create a martial weapon within 10 hours, and by using materials worth at least 100 euros. You still need a toolbox.
 - Expert I: You gain expertise in one skill of your choice. 
 - Tumbler: Your training allows you to move through hostile creatures' spaces without penalty. Their square is not difficult terrain for you.
-- Healthy II: Increase your hit dice to 1d12
+- Tough II: Increase your hit dice to 1d12
 
 Tier III
 - Built Different: You gain +1 to all abilities. 
@@ -71,7 +71,7 @@ Tier -I
 - Unlucky: You must reroll the first natural 20 you roll on a skill check, attack roll or saving throw each long rest. 
 - Frail I: Your hit point maximum is reduced by 1 every level. 
 - Illiterate: You cannot read or write any language. You can still speak languages you would normally know. You have disadvantage on all Intelligence Ability checks. 
-- Anathema: Choose one creature type (e.g., undead, fiends, beasts). You have disadvantage on all attack rolls and saving throws against creatures of that type.
+- Anathema: Choose one creature type from this list: undead, fiends, beasts. You have disadvantage on all attack rolls and saving throws against creatures of that type.
 
 Tier -II
 - Slow II: Your speed is reduced by 15 feet.
