@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c0a423964efb6c5",
+  "active": "fd4f7c88dd023a27",
   "lastOpenFiles": [
     "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
     "Theory D&D/Things/Magic/Items/Enchantments For Items/Spirit Walker Enchantment.md",
