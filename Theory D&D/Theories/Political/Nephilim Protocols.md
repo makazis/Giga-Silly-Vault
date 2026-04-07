@@ -1,0 +1,4 @@
+#Theory 
+[[Nephilim]] protocols are the secret files that exist on [[The Dark Web]], that over time are collecting data for an unknown reason. All of these files are encrypted, and they are each given a specific encryption key that if a certain event takes place, they will become open. Any time some public scandal comes out, they seem to compile mode data. These servers are compiling a lot of data about [[Elitist]]s, or secret stuff, and one day they will come open, and people will find out what's happening behind the scenes. Also this is hosted by the [[Illuminati]], who will release the files when the time comes for it. 
+
+The [[Jeffery Epstein|Epstein]] files were a good example of these. 

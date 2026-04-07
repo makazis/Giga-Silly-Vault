@@ -1,0 +1,2 @@
+#Theory 
+This has to do with your individual experience as a human on earth. Of course, related to [[Your Red is not My Red]], and all of those senses have been programmed into you over a period of time. But something has taught those things to you over the years, but it is not known what is it that programs this into you. So every person has a completely random experience due to the experience around them. 
