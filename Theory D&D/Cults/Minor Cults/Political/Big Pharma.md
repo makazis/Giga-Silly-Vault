@@ -8,7 +8,7 @@
     
 - None of the [[Medicine]] they give us actually help us in life, and are all given us with trade offs that outweigh their healing, keeping us docile and subservient. 
 
-They may or may not be a part of [[The Government]].
+They are just a subsection of [[The Government]]
 
 # Related Theories:
 

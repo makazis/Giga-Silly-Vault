@@ -1,4 +1,4 @@
 #Concept 
 The idea of a society where people can exchange goods and services for money. 
 
-This is very prevalent in the modern society, where now we exchange a lot of goods and services for [[Money]]. Makes you wonder if energy such as [[Electricity]] and [[Heat]] can be exchanged for money, it would mean that higher concepts such as [[Soul]]s and [[Body|Bodies]] can be exchanged for cash too, given the right seller. Now, of course, a normal shop like ebay won't sell you a soul, (They actually have rules against that, lmao), but you can buy a soul in some other places, like [[Bhutanese Shadow Market]], and [[Web]]
+This is very prevalent in the modern society, where now we exchange a lot of goods and services for [[Money]]. Makes you wonder if energy such as [[Electricity]] and [[Heat]] can be exchanged for money, it would mean that higher concepts such as [[Soul]]s and [[Body|Bodies]] can be exchanged for cash too, given the right seller. Now, of course, a normal shop like ebay won't sell you a soul, (They actually have rules against that, lmao), but you can buy a soul in some other places, like [[Bhutanese Shadow Market]], and [[The Dark Web]]. 

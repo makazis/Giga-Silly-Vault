@@ -1,0 +1,2 @@
+#Cult 
+A group of Nazi's, lead by A. H. who retreated into the [[Hollow Earth]] after world war 2, and now are a part of the [[Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]], 

@@ -1,0 +1,2 @@
+#Thing #CompSci 
+A subsection of [[Internet]], that allows for the user to browse any and all sites, letting you access things that normally couldn't be accessed. This can lead the user to many places, letting them purchase forbidden items, magical items, hire services, etc. 
