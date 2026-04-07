@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Language"
             }
+          },
+          {
+            "id": "a324b26556014333",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-07 19.36.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-07 19.36.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +209,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8aaf6603494bca63",
+  "active": "a324b26556014333",
   "lastOpenFiles": [
+    "Theory D&D/Things/Magic/Misc/Language.md",
+    "Excalidraw/Drawing 2026-04-07 19.36.56.excalidraw.md",
     "Theory D&D/Character Creation/Main.md",
     "Theory D&D/Things/Magic/Misc/Curse.md",
-    "Theory D&D/Things/Magic/Misc/Language.md",
     "Theory D&D/Character Creation/Soul Mechanic.md",
     "Theory D&D/Character Creation/Progression/Soul Path.md",
     "Theory D&D/Things/Magic/Items/The Life Elixir.md",
@@ -223,7 +237,6 @@
     "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
     "Theory D&D/Things/Magic/Rituals/Item Tier Increase.md",
     "Theory D&D/Things/Magic/Rituals/Last Dream.md",
-    "Theory D&D/Things/Magic/Rituals/Enchant Item.md",
     "total.txt",
     "Theory D&D/Theories/Proven by Other Theories already",
     "Pasted image 20260404221134.png",
