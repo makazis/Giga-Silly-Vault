@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Things/Magic/Misc/Language.md",
+                "file": "Theory D&D/Concepts/Science/Capitalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Language"
+              "title": "Capitalism"
             }
           },
           {
-            "id": "a324b26556014333",
+            "id": "33d874e4df273c70",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-07 19.36.56.excalidraw.md"
+                "file": "Theory D&D/Characters/Medieval/Otto III.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-07 19.36.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "Otto III"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,34 +210,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3bf0c3059b3d52e",
+  "active": "13a8ba90d3b911ec",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-07 19.36.56.excalidraw.md",
-    "Theory D&D/Things/Magic/Misc/Language.md",
-    "Theory D&D/Character Creation/Main.md",
-    "Theory D&D/Things/Magic/Misc/Curse.md",
-    "Theory D&D/Character Creation/Soul Mechanic.md",
-    "Theory D&D/Character Creation/Progression/Soul Path.md",
-    "Theory D&D/Things/Magic/Items/The Life Elixir.md",
-    "Theory D&D/Things/Magic/Items/Enchantments For Items/Curse of Silence.md",
-    "Theory D&D/Things/Magic/Items/Enchantments For Items/Spirit Walker Enchantment.md",
-    "Theory D&D/Things/Magic/Items/Holy Grail.md",
-    "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
-    "Theory D&D/Things/Magic/Items/Face of The Void.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
-    "Theory D&D/Things/Magic/Primal Spells/Push.md",
-    "Theory D&D/Things/Magic/Primal Spells/Spark.md",
-    "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
-    "Theory D&D/Things/Magic/Primal Spells/Imbue Mana.md",
-    "Theory D&D/Things/Magic/Primal Spells/Store.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Firebolt.md",
-    "D&D Knowledge/Briareus Kratos Spells/Will of Brozatu.md",
-    "D&D Knowledge/Briareus Kratos Spells/Grasp of Brozatu.md",
-    "D&D Knowledge/Briareus Kratos Spells/Varkus.md",
-    "Theory D&D/Things/Magic/Rituals/Degusya Soul Extraction.md",
-    "Theory D&D/Things/Magic/Rituals/Item Tier Increase.md",
-    "Theory D&D/Things/Magic/Rituals/Last Dream.md",
+    "Theory D&D/Things/Artifact.md",
+    "Theory D&D/Theories/Useless/Senses Programming.md",
+    "Theory D&D/Theories/Useless/Paradigm Recalescence.md",
+    "Theory D&D/Theories/Useless/Animal-plant Hybrids.md",
+    "Theory D&D/Theories/Spiritual/XRA Psyops.md",
+    "Theory D&D/Theories/Spiritual/Lunapark-train Fire Demon.md",
+    "Theory D&D/Theories/Spiritual/Enchanted Websites.md",
+    "Theory D&D/Theories/Spiritual/Diseases Worship.md",
+    "Theory D&D/Theories/Spiritual/Air is Poison.md",
+    "Theory D&D/Theories/Proven by Other Theories already/Neanderthal Superiority.md",
+    "Theory D&D/Theories/Proven by Other Theories already/Forest Stairs.md",
+    "Theory D&D/Theories/Political/Nephilim Protocols.md",
+    "Theory D&D/Theories/Political/Erratas.md",
+    "Theory D&D/Theories/Political/Atomic Renovation.md",
+    "Theory D&D/Theories/Philosophical/Upward Causality.md",
+    "Theory D&D/Theories/Medical/Hostile Plants.md",
+    "Theory D&D/Theories/Medical/Bugchasing.md",
+    "Theory D&D/Theories/Locational/Underground Caverns.md",
+    "Theory D&D/Theories/Locational/Space/World Wraps.md",
+    "Theory D&D/Theories/Locational/Space/Welteislehre.md",
+    "Theory D&D/Theories/Locational/Space/Tesseract Earth or Universe.md",
+    "Theory D&D/Theories/Locational/Space/Vertical Universe.md",
+    "Theory D&D/Theories/Locational/Space/The Sky is Alive.md",
+    "Theory D&D/Theories/Locational/Space/Expanding Earth.md",
+    "Theory D&D/Theories/Locational/Space/Sun Collapse.md",
+    "Theory D&D/Theories/Locational/Space/Cosmic Censorship Conjecture.md",
+    "Theory D&D/Theories/Locational/Space",
     "total.txt",
     "Theory D&D/Theories/Proven by Other Theories already",
     "Pasted image 20260404221134.png",
@@ -256,7 +258,6 @@
     "Theory D&D/Things/Magic/Derivative Spells/Enchantments",
     "Theory D&D/Things/Magic/Derivative Spells",
     "Theory D&D/Things/Magic/Items/Enchantments For Items",
-    "Theory D&D/Things/Magic/Items",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]
