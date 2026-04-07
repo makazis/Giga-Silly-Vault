@@ -133,7 +133,7 @@ This is related to [[Archons]].
 There is a system within the people, called the gallbladder meridian, which is in your ears, in the middle of your brain, and then zigzags all the way down, ending in your 4th toe, which is the control of your [[Body]]. 
 Archons have developed parasites, that look like jellyfish, that they implant into people through their [[Ear]]s. The jellyfish go to their gallbadder meridian, and start out by suggesting things to people, and then it begins to control tiny muscle movements, and then it takes over the [[Human]] host. This is so that the Archons can one day create a [[Zombie]] army. There was a group of people, called the "[[Star]] People" who, during [[The Orion Wars]]. learned how to reach into someone's gallbladder meridian, and pull out the demon parasite, to keep them from being the zombie army. 
 
-File: Theory D&D\Things\Artifact.md
+File: Theory D&D\Things\Other\Artifact.md
 
 #Thing 
 Just another name for Thing of Interest
@@ -234,6 +234,8 @@ Off the coast of North Carolina, there is an association known as the Bald Head 
 After a Hurricane the association put in resources in re-establishing itself, instead of the society around it, which people weren't that happy about. 
 A lot of money going somewhere, and keeping a federal agent being kept from their duties, and something something, yeah, alright, moving on. 
 
+Yeah, I ain't touching on this anymore. Closed off theory, because I don't want to hurt a group of people. 
+
 File: Theory D&D\Theories\Souls n shit\Bank of souls.md
 
 [[Soul]] [[Soulless]] [[Human]]
@@ -288,7 +290,7 @@ File: Theory D&D\Theories\Extraterrestrial\Biblical Aliens.md
 is the idea that several things in the bible that feel like angels are actually [[Alien]]s. There are a lot of things in the bible that people will worship the [[Star]]s and the things in them. These people may not just be worshipping the constellations, but instead aliens, or [[Hollow Earth]] inhabitants. 
 Also biblically accurate angels are just what aliens look like. 
 
-File: Theory D&D\Cults\Major Cults\Big Pharma.md
+File: Theory D&D\Cults\Minor Cults\Political\Big Pharma.md
 
 #Cult 
 
@@ -300,7 +302,7 @@ File: Theory D&D\Cults\Major Cults\Big Pharma.md
     
 - None of the [[Medicine]] they give us actually help us in life, and are all given us with trade offs that outweigh their healing, keeping us docile and subservient. 
 
-They may or may not be a part of [[The Government]].
+They are just a subsection of [[The Government]]
 
 # Related Theories:
 
@@ -388,6 +390,8 @@ File: Theory D&D\Concepts\Science\Capitalism.md
 #Concept 
 The idea of a society where people can exchange goods and services for money. 
 
+This is very prevalent in the modern society, where now we exchange a lot of goods and services for [[Money]]. Makes you wonder if energy such as [[Electricity]] and [[Heat]] can be exchanged for money, it would mean that higher concepts such as [[Soul]]s and [[Body|Bodies]] can be exchanged for cash too, given the right seller. Now, of course, a normal shop like ebay won't sell you a soul, (They actually have rules against that, lmao), but you can buy a soul in some other places, like [[Bhutanese Shadow Market]], and [[The Dark Web]]. 
+
 File: Theory D&D\Theories\Spiritual\Chakra Removal.md
 
 #Theory #Concept #Action
@@ -415,6 +419,7 @@ File: Theory D&D\Characters\Ancient Era\Charlemagne.md
 
 #Character 
 A person who never existed. They were thought of by [[Otto III]].
+Their actual record in history was created as a farce, in order to make the new version of history more believable. Charlemagne is based off of some other historical figures who are now lost to time. 
 
 File: Theory D&D\Things\Locations\Countries\China.md
 
@@ -1667,7 +1672,7 @@ Tier I
 - Gun Training: You gain a gun proficiency. 
 - Bow Training: You gain proficiency with longbows and crossbows. 
 - Advanced Weapon Training: You gain proficiency with four martial weapons of your choice. 
-- Healthy: Increase your hit dice to 1d10.
+- Tough: Increase your hit dice to 1d10.
 Tier II
 - Mighty: You fain +2 to any one ability of your choice. 
 - Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -1677,7 +1682,7 @@ Tier II
 - Weaponsmith: You can take one hour to create a simple weapon out of materials specifically gathered for the cause, worth at least 20 euros, as well as a toolbox. You can create a martial weapon within 10 hours, and by using materials worth at least 100 euros. You still need a toolbox.
 - Expert I: You gain expertise in one skill of your choice. 
 - Tumbler: Your training allows you to move through hostile creatures' spaces without penalty. Their square is not difficult terrain for you.
-- Healthy II: Increase your hit dice to 1d12
+- Tough II: Increase your hit dice to 1d12
 
 Tier III
 - Built Different: You gain +1 to all abilities. 
@@ -1705,7 +1710,7 @@ Tier -I
 - Unlucky: You must reroll the first natural 20 you roll on a skill check, attack roll or saving throw each long rest. 
 - Frail I: Your hit point maximum is reduced by 1 every level. 
 - Illiterate: You cannot read or write any language. You can still speak languages you would normally know. You have disadvantage on all Intelligence Ability checks. 
-- Anathema: Choose one creature type (e.g., undead, fiends, beasts). You have disadvantage on all attack rolls and saving throws against creatures of that type.
+- Anathema: Choose one creature type from this list: undead, fiends, beasts. You have disadvantage on all attack rolls and saving throws against creatures of that type.
 
 Tier -II
 - Slow II: Your speed is reduced by 15 feet.
@@ -1855,6 +1860,11 @@ File: Theory D&D\Theories\Extraterrestrial\Nano-UFO's, and Giga-UFO's.md
 
 #Theory 
 Nano-[[UFO]]'s can be small enough to fit into your bloodstream. They can go inside of [[Human]]s, and cause them to do whatever they want, effectively turning them into [[Sleeper Agent]]s. Giga-UFO's can be clouds, [[Star]]s or the entire [[Sky]] itself. The Giga-UFO's exist all around us as a [[Surveilance System]]. This is because we live in [[The Simulation|A Simulation]]. Or we're maybe just really small. 
+
+File: Theory D&D\Cults\Minor Cults\Historical\Nazi Germany.md
+
+#Cult 
+A group of Nazi's, lead by A. H. who retreated into the [[Hollow Earth]] after world war 2, and now are a part of the [[Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]], 
 
 File: Theory D&D\Theories\Proven by Other Theories already\Neanderthal Superiority.md
 
@@ -2517,6 +2527,11 @@ The roman empire never collapsed and several of its senators made a proto-secret
 # Interpretation:
 Okay, that’s more of a history one, I'm not that proficient in history, but I do like the idea that by finding the [[Hollow Earth]] they found a way to become immortal, and to possess people down the line, in order to blend into other secret societies down the line.
 
+
+Alright, so, going back on this. Not that they really rule the world, they just fused with the population of [[Neanderthal]]s in the [[Hollow Earth]], and became a part of their population, and are now [[Immortallity|Immortal]]. I think it would be a great idea that they would have found the [[Holy Grail]], letting them live for a theorethical infinity, which is the gift they brought downstairs, realised everyone had it, and just became a part of the neanderthal society. 
+
+Sooo, yeah, a subsection of [[Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]] is the small group of old [[Roman Senators]]. 
+
 File: Theory D&D\Cults\Minor Cults\Historical\Roman Senators.md
 
 #Cult 
@@ -3083,6 +3098,11 @@ File: Theory D&D\Cults\Major Cults\The Catholic Church.md
 # Related Theories:
 
 -  [[Robert Golf Glass Camera]]
+
+File: Theory D&D\Things\Other\The Dark Web.md
+
+#Thing #CompSci 
+A subsection of [[Internet]], that allows for the user to browse any and all sites, letting you access things that normally couldn't be accessed. This can lead the user to many places, letting them purchase forbidden items, magical items, hire services, etc. 
 
 File: Theory D&D\Things\Locations\Space\The Earth.md
 

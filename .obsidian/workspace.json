@@ -11,10 +11,14 @@
             "id": "8aaf6603494bca63",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Medicine/Diseases/Rabies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rabies"
             }
           },
           {
@@ -208,6 +212,7 @@
   },
   "active": "8aaf6603494bca63",
   "lastOpenFiles": [
+    "Theory D&D/Theories/Useless/Bald Society.md",
     "Theory D&D/Cults/Minor Cults/Historical/Nazi Germany.md",
     "Theory D&D/Theories/Historical/Paleolithic Deep State.md",
     "Theory D&D/Cults/Major Cults/Paleolithic Deep State.md",
@@ -233,7 +238,6 @@
     "Theory D&D/Theories/Spiritual/XRA Psyops.md",
     "Theory D&D/Theories/Spiritual/Lunapark-train Fire Demon.md",
     "Theory D&D/Theories/Spiritual/Enchanted Websites.md",
-    "Theory D&D/Theories/Spiritual/Diseases Worship.md",
     "Theory D&D/Theories/Locational/Space",
     "total.txt",
     "Theory D&D/Theories/Proven by Other Theories already",
