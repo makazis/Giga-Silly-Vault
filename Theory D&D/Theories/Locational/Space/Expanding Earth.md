@@ -1,0 +1,2 @@
+#Theory 
+Over time the earth is slowly getting bigger. This is due to the things in our atmosphere falling down to earth, and making [[The Earth]]. This also explains stuff like continental drift. The earth was small, and as it is expanding, the continents fly further apart from one another. Also global warming is because we are getting bigger, we are quite literally getting closer to [[The Sun]]. The earth is expanding from the inside out. Also it means that the inside of the earth was [[Hollow Earth|hollow]]. 

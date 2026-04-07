@@ -1,0 +1,2 @@
+#Theory 
+There are some cultures that literally worshipped diseases. There is sopono from older cultures that was the god of smallpox. Tie in [[Aliens Caused the Bubonic Plague]], and diseases that wiped out massive parts of the society are worshipped, and have become a sort of pagan [[God]], and diseases are punishments of gods or higher beings. 

@@ -1,0 +1,2 @@
+#Theory 
+Air is a drug. Oxygen is a hallucinogenic, and if you take 100% oxygen, you might pass out, or get lightheaded. all the trace particles create a sort of blurred idea of what reality really is. If light causes these long sort of psycho events, then what would reality really look like? [[Hyper Reality]] referenced of course, yoo. Also some supernatural things are hidden by the fog that is oxygen. 

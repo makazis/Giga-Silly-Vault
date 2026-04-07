@@ -1,0 +1,3 @@
+#Theory 
+This is both about the idea of the atomic family in the 50s was part of a docility program, for people to percieve this as the only way of living.
+Also about the idea of atomic weapons were created as a way for [[The Government]] reclaiming populace. So if a country is rebelling, the goverment can just reset the whole fucking city from the ground up with a [[Nuke]], and everything goes back to normal. 

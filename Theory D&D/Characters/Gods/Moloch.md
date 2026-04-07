@@ -1,0 +1,2 @@
+#God 
+One of the gods of the canaanites mentioned in the old testament of the bible. Moloch is always depicted as a golden bull with horns, whose primary form of worship was burning kids at their altar, leading to horrifying statues of golden bulls with fires underneat them, and people throwing babies into the fire.  
