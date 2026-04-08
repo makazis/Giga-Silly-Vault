@@ -1,0 +1,4 @@
+#Theory 
+In reference to the idea that the Mongolian Empire never existed. Mongolian empire was the only empire who had no linguistic or cultural effects on the world after they disappeared. There is also no architecture to show signs of them existing. And even though they were noted as a nomadic society, they should still have some signs of where they lived and what they did. 
+There is no mongolian folklore, form of religion, etc. Seems like they just appeared and disappeared. 
+[[Ghengis Khan]] did exist though. He made another government or society that would continue to exist in the modern world, so they could make the mongolian empire seem less barbaric over the long term, to cover it up. 

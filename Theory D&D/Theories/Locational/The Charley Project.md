@@ -1,0 +1,3 @@
+#Theory 
+This is started by Megan Good. 
+A database of every cold case [[Missing Person]]s file in the [[United States]]. usually existing more than 14'000 and not much that the site can do about this, but after a while the police stop the search for the missing person. So Megan created this site as a means of maintaining some form of information about them. The cold cases go as far back as 1910. You can also go and read them. 

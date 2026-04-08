@@ -1,0 +1,3 @@
+#Theory 
+On a massive scale we've created plants that are resistant to everything: pesticide, insects, dehydration, natural competition.
+A certain grass plant could start growing out more and more where it begins dominating not only their own ecosystem, but the ecosystem around it as well. And eventually eats up smaller species, and starts famines, [[Fire]]s, and even an ice age due to the mix of carbon emissions. 

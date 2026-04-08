@@ -1,0 +1,2 @@
+#Theory 
+Mobs in [[Asia]] have way more power than most people think. In Honk Kong, they have one of the most powerful crime syndicates in the world. By running the connections back, and tracking who pays who, these syndicates control [[The Government]]. They have a sort of symbiotic relationship with the goverment of [[China]], in order to keep honk kong in check. 

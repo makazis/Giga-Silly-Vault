@@ -1,0 +1,2 @@
+#Theory 
+There's a specific protein in the human genome that determines everything about the person. The science done on the protein has been silenced by the [[Big Pharma]]. This is cause the protein can let us connect to the [[Spiritual Plane]]. 

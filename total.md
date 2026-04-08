@@ -7,6 +7,21 @@ The advances listed here are:
 - [[Prana Rays]]
 - Dowsing
 
+File: Theory D&D\Theories\Historical\2006 volleyball incident.md
+
+#Theory 
+A lot of people remember an act of [[Terrorist|Terrorism]] that happened during a volleyball game in 2006, either a school shooting, or a bombing, that came from either the Nebraska or the Dakota's region of the [[United States]]. This is a tragedy that never happened. Several people say it was worse than columbine.
+People remember lots of stuff about this, even though the event never happened. People remember talking about it, and remember weird details about it like the gym mascot being blue. 
+
+An extreme example of the [[Mandela Effect]], or a coverup by [[The Government]]. 
+
+
+File: Theory D&D\Theories\Historical\2012 Mayan Prophecy Shift.md
+
+#Theory 
+In reality the Mayan calendar never ended at 2012. 
+It was more like 2028 with how their calendar was built, so we can all still die. 
+
 File: Theory D&D\Theories\Useless\90% of Books Written by One Author.md
 
 #Theory 
@@ -14,6 +29,13 @@ this ties back into [[The Simulation]].
 In a book store, the near infinite amount of paperbacks of books.
 Most of these books are fill ins to make the simulation feel more realistic. Realistically you can't test all of them, because nobody can't read all of them at once. 
 
+
+File: Theory D&D\Theories\Extraterrestrial\Abaka Alignment.md
+
+#Theory 
+This describes the arrangement of [[The Pyramids]]. They were arranged in such a way as a tribute to a [[God]].
+
+From the first onlooking of [[The Moon]], the americans, and the russians saw some shadow structures on the dark side of the moon, which were arranged in the perfect shape of the pyramids in egypt. 
 
 File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Absence of Speech.md
 
@@ -53,6 +75,21 @@ Succubi exist as adult film stars, and they use the internet to leech off your e
 
 
 
+File: Theory D&D\Theories\Spiritual\Advanced Cryptozoology.md
+
+#Theory 
+Advanced levels of standart Cryptozoology. 
+
+This is more of a science about creatures beyond the regular [[Cryptid]]s, things that exist in the esoteric fashion, [[Non-Carbon Life]], and other stuff. 
+
+File: Theory D&D\Theories\Political\Aeromorphist Psyops.md
+
+#Theory
+![[Pasted image 20260408144300.png]]
+Aeromorphist is rule34 for animated planes. 
+The theory is that the images were put online to sexualise aircraft, to make the citizens of the [[United States]], in order to make them more pro-war, and encourage spending on aircraft. 
+
+
 File: Theory D&D\Things\Locations\Afgan Cannibal Caves.md
 
 #Location 
@@ -66,6 +103,15 @@ File: Theory D&D\Theories\Spiritual\Air is Poison.md
 
 #Theory 
 Air is a drug. Oxygen is a hallucinogenic, and if you take 100% oxygen, you might pass out, or get lightheaded. all the trace particles create a sort of blurred idea of what reality really is. If light causes these long sort of psycho events, then what would reality really look like? [[Hyper Reality]] referenced of course, yoo. Also some supernatural things are hidden by the fog that is oxygen. 
+
+File: Theory D&D\Theories\Souls n shit\Akashic Records.md
+
+#Theory 
+The Akashic Records are a means of better understanding psychicness itself. This is a sort of cloud storage, containing memories, thoughts, actions and beliefs of every [[Human]] that has ever existed. Even dreams are stored in there. 
+
+This means that if you can access this place, you can use their [[Soul]] energy. This allows for the Akashic Records to be an endgame location where the being inside has infinite power. 
+
+
 
 File: Theory D&D\Concepts\Entities\Cryptids\Alien.md
 
@@ -86,11 +132,45 @@ The [[Bubonic Plague]] was caused by [[Alien]]s in the 14th century.
 
 This could have happened due to Population control, an attempt at total extermination, who knows. 
 
+File: Theory D&D\Theories\Useless\All Religions are the Same.md
+
+#Theory 
+There was one religious event that happened, and all cultures spread out, and the stories just adapted. This would explain the concepts such as angels, demons, etc, etc. All religions are the same, but just extra steps away from the original one. 
+
+File: Theory D&D\Theories\Historical\Amazon Rain Forest was Built.md
+
+#Theory 
+Unlike most forests or wooded areas, the amazon [[Forest]] is pretty flat. Ancient tribes didn't do agriculture with plants like we do, but they did it with [[Tree]]s with sap and seeds the way we might do it with corn, or something similar. We see this whenever we look at cities within the forest, there is an abundance of biodiversity in the area, and as you leave the cities to go further into the forest, it becomes more and more sparse. 
+
+This implies the existence of garden cities, that used to exist, and that made these trees, and populated the surrounding area. There's a very high chance the rainforest was planted by humans thousands of years ago. 
+
 File: Theory D&D\Concepts\Entities\Human Related\Races\Ancient Egyptians.md
 
 #Race #Human 
 Ancient Egyptians inhabited Ancient Egypt, which is where [[The Pyramids]] were built. They mummified their dead after [[Death]] and harvested their [[Organ]]s in order for the [[Soul]] to pass on into the [[Spiritual Plane|Afterlife]].
 Ancient Egyptians formed around 9000 years ago. 
+
+File: Theory D&D\Theories\Extraterrestrial\Ancient Glyphs on Saturn's Moons.md
+
+#Theory 
+Saturns moons have always been a bit odd. There is a lot of them, and they are incredibly diverse. 
+Two moons have really weird geographic markings on them that [[Science]] can't explain, that look like this:
+![[Pasted image 20260408145638.png]]
+It looks like giant claw marks. 
+
+
+File: Theory D&D\Theories\Historical\Ancient Structure Purpose.md
+
+#Theory 
+[[The Pyramids]] and the Zigurats were the begining of a sort of a mining facility. In other words whatever beings creatred them was doing so in order to stage a way to get inside [[The Earth]] and [[Hollow Earth]]. 
+
+[[Society|Societies]] had this very advanced form of architecture back then that doesn't match up. Like in ancient [[China]] people built palaces in the side of cliffs, which is hard to accomplish by today's means. In persia they also had water systems off of the top of snow-capped [[Mountain]]s, all the way into their cities to have a year round supply of cold [[Water]].
+
+A lot of this goes back into the idea of sacral architecture. which is architecture created for the sake of a sacredness rather than actual purpose, such as temples, and buildings of religious worship. Some special means created them instead of regular people. 
+
+Also the [[Anunaki Puppet Show|tower of Babel was the launching platform for the Anumaki aliens to shoot their spaceship into space]]. 
+
+
 
 File: Theory D&D\Theories\Useless\Animal-plant Hybrids.md
 
@@ -116,6 +196,27 @@ All modern [[Medicine]] is just a means to make you worse, not better. [[Big Pha
 # Interpretation
 Sooo… regular medicine just doesn’t exist anymore, and the only thing that can actually heal you without downsides is magic and forbidden medicine. Checks out. [[Capitalism]].
 
+File: Theory D&D\Theories\Extraterrestrial\Anunaki Puppet Show.md
+
+#Theory 
+Relates to the [[Anunaki]], which were the [[Alien]] [[God]]s of the Babilonians and the Sumerians. They had very weird things when it came to their religion and beliefs. They had very cool statues of these beings that came from the [[Star]]s, and taught them agriculture and science. 
+
+The babilonians were very similar. Whenever they were talking about angels, or god coming down, they were actually the [[Anunaki]]. So much so that people say the tower of babel was a space station to go to the stars, where the Anunaki then confused their languages. 
+
+The puppet show belief is that they did this all as an entertainment. 
+
+Sometime in the future we will develop a [[Time Travel]] machine, where we'll change the things in the past, and we will alter some stuff in the sumerian or the babylonian empire, and watch how the things play out. 
+
+So yeah, the [[Anunaki]] are just [[Human]]s from the future. 
+
+File: Theory D&D\Theories\Medical\Appendix Monkey Tail.md
+
+#Theory 
+Appendix is an organ that we once needed, and now it is useless. 
+Maybe it was a digestive reboot, so we could flush the digestive system, if it needed a reboot. A tailbone was once there because we needed it, and now we don't. 
+
+Cool. 
+
 File: Theory D&D\Theories\Locational\Approaching Stars.md
 
 #Theory 
@@ -133,7 +234,7 @@ This is related to [[Archons]].
 There is a system within the people, called the gallbladder meridian, which is in your ears, in the middle of your brain, and then zigzags all the way down, ending in your 4th toe, which is the control of your [[Body]]. 
 Archons have developed parasites, that look like jellyfish, that they implant into people through their [[Ear]]s. The jellyfish go to their gallbadder meridian, and start out by suggesting things to people, and then it begins to control tiny muscle movements, and then it takes over the [[Human]] host. This is so that the Archons can one day create a [[Zombie]] army. There was a group of people, called the "[[Star]] People" who, during [[The Orion Wars]]. learned how to reach into someone's gallbladder meridian, and pull out the demon parasite, to keep them from being the zombie army. 
 
-File: Theory D&D\Things\Artifact.md
+File: Theory D&D\Things\Other\Artifact.md
 
 #Thing 
 Just another name for Thing of Interest
@@ -149,6 +250,15 @@ In all of human history, there seem to be these pieces of artificial constructio
 
 # Interpretation:
 Some of the [[Magic]]al artifacts were perhaps left behind by the humans from the last cycle. This would explain how we’d have artifacts that nobody knows how to produce or replicate. [[Artifact]]s that have survived the passage of time through either supernatural construction, or [[Time Capsules]].
+
+File: Theory D&D\Theories\Extraterrestrial\Artificial Aliens.md
+
+#Theory 
+[[Alien]]s are not organic in any sense we realise. Radiowaves we hear from space every now and then, are just the communication method these things employ to communicate. And we can't comprehend it. 
+
+This is just another sign that the planets are gods. 
+
+
 
 File: Theory D&D\Theories\Souls n shit\Ascension Blacklist.md
 
@@ -177,6 +287,15 @@ Moving from one realm to another.
 A [[Soul]] can ascend to either [[Heaven]] or [[Hell]] After death. Some souls can get special requirements that allow them to go to other realms:
 - To enter [[Valhalla]] you must die in a glorious battle while wielding a weapon.
 
+File: Theory D&D\Theories\Extraterrestrial\Ashtar High Command.md
+
+#Theory 
+Comes from supposed contact people made with [[Alien]]s from what's known as channels. Basically people who believe they have recieved messages from a higher power, and then they move it further to the general population, or at least those listening. 
+
+George Von Tessel is the most famous example of this, as in 1953 he said he recieved messages from a being known as Ashtar, and started a movement, a centralized hub for people who either believed in [[UFO]]s or had seen them. First George reinterpred the bible based on what Ashtar told him, such as [[Jesus]] being an alien. There is extremely extensive lore. 
+
+But yea.
+
 File: Theory D&D\Things\Locations\Countries\Asia.md
 
 #Location 
@@ -184,6 +303,11 @@ This is where [[Asian]]s live.
 Encompasses several countries, such as:
 [[China]]
 
+
+File: Theory D&D\Theories\Locational\Asian Overlords Triad.md
+
+#Theory 
+Mobs in [[Asia]] have way more power than most people think. In Honk Kong, they have one of the most powerful crime syndicates in the world. By running the connections back, and tracking who pays who, these syndicates control [[The Government]]. They have a sort of symbiotic relationship with the goverment of [[China]], in order to keep honk kong in check. 
 
 File: Theory D&D\Concepts\Entities\Human Related\Races\Asian.md
 
@@ -226,6 +350,12 @@ A primary god and goddess lived in [[Heaven]], and the goddess cast down a knife
 At this time the whole world was covered in darkness, so to stop it, one of the gods said they had to make a sacrifice, where one of the humans walked into a bon[[fire]], and was transformed into [[The Sun]]. 
 
 Aztecs are really far from all the other cultures, and yet they have so many similar features to the christianity religions and stuff, which makes you wonder, how did they think of this so long ago, unless it is all true. 
+
+File: Theory D&D\Theories\Useless\Bacterial Humanity.md
+
+#Theory 
+[[Human]]s themselves exist as a sort of bacteria on [[The Earth]]. 
+We will at one point kill the earth, killing ourselves. 
 
 File: Theory D&D\Theories\Useless\Bald Society.md
 
@@ -288,7 +418,17 @@ File: Theory D&D\Theories\Extraterrestrial\Biblical Aliens.md
 is the idea that several things in the bible that feel like angels are actually [[Alien]]s. There are a lot of things in the bible that people will worship the [[Star]]s and the things in them. These people may not just be worshipping the constellations, but instead aliens, or [[Hollow Earth]] inhabitants. 
 Also biblically accurate angels are just what aliens look like. 
 
-File: Theory D&D\Cults\Major Cults\Big Pharma.md
+File: Theory D&D\Theories\Useless\Bicameralism.md
+
+#Theory 
+comes from a 1976 book. 
+As early as 3000 years ago the first consciousness came to be created. Before that the brain was divided into 2 regions, with one part telling the other what to do, and the other part acting on it. A very literal one side of the brain and other side of the brain. So there is no form of contemplation, decision making or thinking, in the way to think of it now.
+
+None of the characters in the Illiad never thought or decided what they're doing, without any thought behind it. 
+
+
+
+File: Theory D&D\Cults\Minor Cults\Political\Big Pharma.md
 
 #Cult 
 
@@ -300,7 +440,7 @@ File: Theory D&D\Cults\Major Cults\Big Pharma.md
     
 - None of the [[Medicine]] they give us actually help us in life, and are all given us with trade offs that outweigh their healing, keeping us docile and subservient. 
 
-They may or may not be a part of [[The Government]].
+They are just a subsection of [[The Government]]
 
 # Related Theories:
 
@@ -322,6 +462,13 @@ There’s a group of new world order type people, [[Goverment Sanctioned Weaponi
 # Interpretation
 Oh okay, so the big soy is like a theory that means that there is someone behind all this, a new new world order type of people, that put soy in products and make regular men more docile. Not really expanding on the magic system, or what one can do, but adds a new faction to the world. Cool.
 
+File: Theory D&D\Theories\Medical\Bioma over Genoma.md
+
+#Theory 
+The bacteria in your body is more important than genes. In 2007 the human micro bioma project was put together to experiment on this. 
+
+It doesn't matter as much as what you're born rather than what you take in as you keep living in life. 
+
 File: Theory D&D\Things\Materials\Blood.md
 
 #Thing #Material 
@@ -333,7 +480,7 @@ File: Theory D&D\Concepts\Science\Body.md
 #Concept 
 A body is where a [[Soul]] typically resides. A [[Human]] body without a soul is considered [[Soulless]]. 
 
-File: Theory D&D\Theories\Bovine Hormone Conditioning.md
+File: Theory D&D\Theories\Medical\Bovine Hormone Conditioning.md
 
 #Theory
 All of the hormones injected into cows are making people sick. This is due to the growth hormones injected into them, so they can produce more meat. 
@@ -343,6 +490,16 @@ Also [[The Higherups]] have been injecting dangerous toxins into the cows in ord
 This is related to [[Soy]] and the related stuff as well. 
 
 
+
+File: Theory D&D\Theories\Scientific\Broder's Engine.md
+
+#Theory 
+A schematic for an infinite energy machine. 
+If you take a coil of metal, and push it through a magnet, it causes the magnet to change the electrons in the metal to shift, which generates [[Electricity]]. If we got a thousand coils, and put them next to one another, and do some more machinery stuff, and power stuff. etc, etc. 
+We fill an entire warehouse, and we can power an entire city with perpetual motion.
+
+This has worked in closed experiments. 
+But [[The Higherups]] don't want us to know this, so we can't do this.
 
 File: Theory D&D\Theories\Medical\Bugchasing.md
 
@@ -388,6 +545,8 @@ File: Theory D&D\Concepts\Science\Capitalism.md
 #Concept 
 The idea of a society where people can exchange goods and services for money. 
 
+This is very prevalent in the modern society, where now we exchange a lot of goods and services for [[Money]]. Makes you wonder if energy such as [[Electricity]] and [[Heat]] can be exchanged for money, it would mean that higher concepts such as [[Soul]]s and [[Body|Bodies]] can be exchanged for cash too, given the right seller. Now, of course, a normal shop like ebay won't sell you a soul, (They actually have rules against that, lmao), but you can buy a soul in some other places, like [[Bhutanese Shadow Market]], and [[The Dark Web]]. 
+
 File: Theory D&D\Theories\Spiritual\Chakra Removal.md
 
 #Theory #Concept #Action
@@ -411,10 +570,22 @@ the chakras are inside of your [[Body]].
 - [[Solar Plexus Clown Gliders]]    
 
 
+File: Theory D&D\Theories\Spiritual\Chaos Banking.md
+
+#Theory 
+Eventually we will get to a point where we will run out of physical materials to trade with, and we will start trading things like [[electricity]] and energy, and then we will run out of that as well, and we'll start trading temporal anomalies, such as Chaos. 
+
+At that point in the future we'd be able to move back in [[Time]], and would make the big bucks on the chaos that is happening right now. 
+The beings from the future use the chaos that is happening to us in our everyday life as a part of their banking system. 
+All the things such as [[UFO]]s and [[Ghost]]s, and [[Cryptid]]s could just be these beings from the future just mining our time for chaos, to get more money. 
+
+So random things happening to you aren't random, but is instead superpeople in the future doing them to you to get rich. 
+
 File: Theory D&D\Characters\Ancient Era\Charlemagne.md
 
 #Character 
 A person who never existed. They were thought of by [[Otto III]].
+Their actual record in history was created as a farce, in order to make the new version of history more believable. Charlemagne is based off of some other historical figures who are now lost to time. 
 
 File: Theory D&D\Things\Locations\Countries\China.md
 
@@ -437,6 +608,11 @@ Tobacco in cigarettes can cause benefits on curing [[Schizophrenia]], and [[Immu
 
 # Interpretation
 They just  are more useful than we thought, not that big of a deal imo.
+
+File: Theory D&D\Theories\Political\Cloud Farming.md
+
+#Theory 
+There have been cases of [[The Government|goverments]] making clouds to get agricultural benefits they want. Also some cases of this being produced made people sick by using bad chemicals. There are still several countries that create all the clouds in order to control the people living in there. 
 
 File: Theory D&D\Theories\Useless\Codification.md
 
@@ -666,16 +842,51 @@ A [[Theory D&D/Things/Magic/Misc/Despair Code]] is a universal code for every pe
 This is a [[Cognitohazard]]
 
 
+File: Theory D&D\Theories\Historical\Dinosaurs helped build the Pyramids.md
+
+#Theory 
+"A lot less depression, a lot more dinosaur" - Wendigoon
+![[Pasted image 20260408104511.png]]
+A few kilometers from [[The Pyramids]], lesser pyramids have been found that contain papri, that talk about god beasts (giant beasts) that were used in order to build the pyramids. In these descriptions, whoever wrote them, said that the beasts ate the grass of the nile plains, their tail was large enough to kill a whole army with a single sweep, and their head was tall enough to reach the clouds. And contained images of these creatures.
+
+So yeah, the [[Dinosaurs]] built the pyramids. cool. 
+
 File: Theory D&D\Theories\Spiritual\Diseases Worship.md
 
 #Theory 
 There are some cultures that literally worshipped diseases. There is sopono from older cultures that was the god of smallpox. Tie in [[Aliens Caused the Bubonic Plague]], and diseases that wiped out massive parts of the society are worshipped, and have become a sort of pagan [[God]], and diseases are punishments of gods or higher beings. 
+
+File: Theory D&D\Theories\Locational\Disneyland Secret Tunnels.md
+
+#Theory 
+There is an actual system of tunnels underneath Disneyland, called the utilidoors, which allow the workers of the disneyland to make it from one part of the place to another quite quickly. 
+They are storage, security, a cafeteria, and a hair dresser. 
+The tunnels are about 400'000 square feet. 
+There are lots of stuff down there, like [[Illuminati]], etc, etc. 
+
 
 File: Theory D&D\Theories\Useless\Divinities playing card game.md
 
 #Theory 
 The world and the events going on in the world is just the different divinities going around and playing different cards. 
 This doesn't really mean anything, and is really useless of a theory, but it is a meta look on it all. 
+
+File: Theory D&D\Theories\Locational\Dog Suicide Bridge.md
+
+#Theory 
+There's a bridge in Scotland that an absurd amount of dogs have commited [[Suicide]] from. Dogs will jump from this bridge, and dogs that survive will go back up, and try jumping from the top once again, and will kill itself in the process.
+
+This is a [[Demon|demonic]], or a [[Spiritual Plane|spiritual]] site. 
+
+The first reported case happened in 1960. 
+
+File: Theory D&D\Theories\Spiritual\Doom Ecology.md
+
+#Theory 
+We are constantly hurting [[The Earth]]. We need to accelerate the hurting of the earth, so the earth can begin to kill us off, so then we can worry about the next steps.
+^^^^ That is accelerationism.
+Doom ecology is that we need to kill the nature so we can rebuild. 
+
 
 File: Theory D&D\Theories\Souls n shit\Door Dogs.md
 
@@ -686,6 +897,15 @@ When a [[Human]] is going to [[Death|die]], as they're passing through a doorway
 A hunter in africa was very nervous, as when passing through a doorway, he heard a young child ask "What the dog doin", where he couldn't see the dog. The hunter died shortly afterwards. 
 
 This isn't a bad thing, it's more of a peaceful thing. The dog is a guide to [[Heaven]]. 
+
+File: Theory D&D\Theories\Locational\Doveland, Wisconsin.md
+
+#Theory 
+The city that doesn't exist. Supposedly there was a town that disappeared between the 80s and 90s. People still have memories of a small town being killed by either a fire or a gas leak, depending on who is asked. And people supposedly recieved radio transmisions from Doveland all the way into the late 90s. 
+There were like a thousand people that went missing during that period around the area. And supposedly the people who recieved all the radio signals are all dead. So that's fun.
+
+They retreated into the [[Hollow Earth]] of course. 
+
 
 File: Theory D&D\Theories\Spiritual\Dr Emoto's Water Experiments.md
 
@@ -707,12 +927,17 @@ File: Theory D&D\Concepts\Magic\Drugs.md
 #Concept #Magic 
 LSD and whatever, not regular drugs
 
+File: Theory D&D\Theories\Useless\Earth is Bigger than the Sun.md
+
+#Theory 
+The idea is that the sun being bigger than the earth is a psyop, but like nah. why. 
+
 File: Theory D&D\Events\Earthquake.md
 
 #Event 
 An Earthquake is created when seismic [[Vibrations]] travel through the ground, causing parts of [[The Earth]] to split open, [[Mountain]]s to form, and holes to open in the ground, as well as extreme shaking. 
 
-File: Theory D&D\Theories\Spiritual\Eggless Travel.md
+File: Theory D&D\Theories\Scientific\Eggless Travel.md
 
 #Theory 
 This is related to an old conspiracy theory known as Ong's Hat, an abandoned town in New Jersey, that was the place where Ong's Hat took place at. A group of Princeton [[Scientists|professors]] had done enough experimentation on things like [[Quantum Mechanics]] in order to develop a form of [[Ascension|Dimension Travel]], and potentially [[Time Travel]]. They did this with something known as "The Egg" which is a device that allowed them to move through the dimensions. At one point where they didn't need the egg anymore, they could time and dimension hop with no issues. 
@@ -742,6 +967,13 @@ File: Theory D&D\Concepts\Entities\Human Related\Professions and Lifestyles\Elit
 #Human #Concept #Entity 
 The higher eschalon of [[Society]].
 [[Human]]
+
+File: Theory D&D\Theories\Medical\Emergency Broadcast Neuralyzers.md
+
+#Theory 
+The concept of a neuralyzer is that it seeks out, or targets specific brain waves, in order to manipulate memory, thought patterns, and other stuff. 
+
+Emergency Broadcasts are using these nerualyzers in order to forcefully calm you, alter memories, or change perception of events around you. This is how [[The Higherups]] keep us in check. 
 
 File: Theory D&D\Concepts\Entities\Human Related\Soul Related\Empty Saints.md
 
@@ -861,6 +1093,15 @@ File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Essence Movement.md
 	- The trigger of push deals 6d12 more soul damage.
 		- You can choose which direction to move to, as the spell works relative to your origin. This allows you to move omnidirectionally while incorporeal. 
 
+File: Theory D&D\Theories\Locational\Everest Cover-Ups.md
+
+#Theory 
+This is about the deaths that occur on the [[Mount Everest]]. If someone dies on there, they don't recover the body. It is way too dangerous to recover something that high up. Also the cold perfectly preserves [[Death|dead]] [[Body|bodies]] all over the [[Mountain]], which are used as trail markers by other climbers. They talk about reaching the green boots cave, which is named that, because there is a [[Corpse]] out front with green boots. Almost all these deaths are attributed to exhaustion. There are nearly 200 bodies on the mountain. 
+
+Some of the bodies do decompose. Some of them decompose immediately next to bodies that don't. So you can have 2 bodies next to each other, one decomposing to a skeleton, and the other being left completely intact. 
+
+And some hikers have reported finding bodies where they aren't supposed to be. And then combine that with the legends of the sherpas, and the [[Himalayan Zombies]]. And this becomes an entrance to the [[Hollow Earth]]. 
+
 File: Theory D&D\Theories\Locational\Space\Expanding Earth.md
 
 #Theory 
@@ -885,6 +1126,13 @@ File: Theory D&D\Things\Magic\Items\Face of The Void.md
 		- The mask allows you to shift back into reality at will, by thinking "Vastos"
 		- Both shifting in and out of reality deals 1d6 soul damage to the wearer instead. 
 
+File: Theory D&D\Theories\Spiritual\Faust non-Fiction.md
+
+#Theory 
+Faust is not fiction. 
+
+Johan Faust was an [[Alchemist]] and a [[Necromancer]]. He accomplished this by making a deal with the [[Demon|Devil]]. A lot of stories came together to make Faust, but some of the works were real, so Faust was also from a shared experience.
+
 File: Theory D&D\Theories\Useless\Feelings Auto Supression.md
 
 #Theory 
@@ -906,6 +1154,25 @@ File: Theory D&D\Concepts\Entities\Human Related\Professions and Lifestyles\Femb
 
 #Human #Entity #Concept 
 A male that expresses feminine aspects. 
+
+File: Theory D&D\Theories\Useless\Field Consciousness.md
+
+#Theory 
+Consciousness is kind of an anomaly in science. Nobody knows where it comes from. 
+
+There is no space in brain for a memory, or no place we can find. 
+Field consciousness is a field around our head where we pull the thoughts from around us. 
+
+File: Theory D&D\Theories\Locational\Finland Doesn't exist.md
+
+#Theory 
+Have you ever met anyone from Finland?
+Have you ever been to Finland?
+Well then Finland just simply never existed. 
+
+If you're from Finland, you're a fed. If you know anyone from Finland, they're a Fed. And if you've ever visited Finland, the feds tricked you. 
+
+There are allegedly around 6.5 millions Finns, right? That’s out of 7.125 billion humans. That means Finns make up 0.0912% of the planet. Thats not 9%—that’s point zero nine percent, less than a percent. To put it another way, 99.9% of the planet are not Finns. How do we know this? Government censuses. Now, the best government censuses have a margin of error of at least 1%. So Finns make up 0.0912% of the planet, plus or minus one percent In conclusion: there is a 50/50 chance Finland doesn’t exist.
 
 File: Theory D&D\Theories\Souls n shit\Fire is alive..md
 
@@ -1080,6 +1347,18 @@ The disaster was purposeful in order to reach [[Spiritual Plane]], by [[The Gove
 Now, this does also mean that all the [[Soul]]s that vanished from [[The Earth]] near here, during the disaster might have collected into a larger [[Cryptid]]. 
 
 
+File: Theory D&D\Theories\Useless\Gatekeepers' Remorse.md
+
+#Theory 
+Gatekeeper is an individual who is claiming to look for the truth, but is actually pushing people to the side, not caring about truth. 
+Like a person writing a book about evolution, while the real way we came into the 
+reality was aliens and lizard people. 
+
+Several of these authors have had a change of heart, or felt guilty about it, and made a book, or a text, to guide people back in the right way. So gatekeeper's remorse is a collection of books that these people made. 
+
+![[Pasted image 20260408081140.png]]
+The reading list ^^^
+
 File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
 
 #Magic #Item #Thing 
@@ -1096,6 +1375,13 @@ File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
 	- Gauntlets of Wind (Uncommon):
 		- Allow the user to only control the [[Wind]]. This isn't to such a level to allow the user to levitate. 
 	- 
+
+File: Theory D&D\Theories\Scientific\Geometric Algorithmic Shortcuts.md
+
+#Theory 
+In geometry there are certain patterns that show up more and more often. 
+If you try to graph the pattern that energy will react in a vacuum enviroment, it comes out in an elipsis shape. This is cause our universe is shaped to be like a thermodynamic reaction. or the entire solar system itself is made to look like a man, and this all goes back to the idea of [[Sacred Geometry]]. 
+
 
 File: Theory D&D\Theories\Philosophical\God's Ego Death.md
 
@@ -1178,6 +1464,12 @@ File: Theory D&D\Cults\Minor Cults\Political\Goverment Sanctioned Weaponized Fem
 
 - [[Soy Grand Theory]]
 
+File: Theory D&D\Theories\Scientific\Grain Situation.md
+
+#Theory 
+On a massive scale we've created plants that are resistant to everything: pesticide, insects, dehydration, natural competition.
+A certain grass plant could start growing out more and more where it begins dominating not only their own ecosystem, but the ecosystem around it as well. And eventually eats up smaller species, and starts famines, [[Fire]]s, and even an ice age due to the mix of carbon emissions. 
+
 File: Theory D&D\Concepts\Science\Gravity.md
 
 #Concept 
@@ -1186,6 +1478,13 @@ Gravity is the force that brings all the things down to [[The Earth]].
 This is of course not completely true, as [[God]]s use gravity to pull [[Soul]]s towards them. 
 Since there are only two states for a soul to be in: on earth, and not on earth, also known as [[Hell]] and [[Heaven]]. 
 Since the earth is pulling towards it all the souls that it likes, it means that to get into heaven, you gotta make [[The God]] like you. This is usually done by doing things that lengthen the span of [[Human]] kind. Once you die, then your soul is sucked into the center of the earth, where heaven is, so that you can be reborn as a new entity, with no memories. This also means that your soul passes through [[Hollow Earth]], where all of it's [[Mana]] can be sucked out, and placed into the ambient sources. 
+
+File: Theory D&D\Theories\Political\Greider's Endgame.md
+
+#Theory 
+This is in reference to the journalist William Grider. Who wrote from everyone from washington times, to the rolling stones. but this is about the book: "Secrets of the TEMPLE, how the federal reserve runs the country", 1987. 
+
+The book is about how there is a secret society underneath [[The Government]], and the federal reserve is building up a plan in order to enact a new world order. Banking circles are actually running the country. 
 
 File: Theory D&D\Concepts\Science\Heat.md
 
@@ -1263,6 +1562,11 @@ File: Theory D&D\Theories\Useless\Hiring a Hitman on Yourself.md
 You’re fucked up if you do this, but hey, a cheat code into heaven if you’re feeling down. Also means that you can do a lot more funny stuff with this, such as transcending into [[Valhalla]] if you hire multiple hitmen.
 
 [[Ascension]]
+
+File: Theory D&D\Theories\Philosophical\Hivemind Induction.md
+
+#Theory 
+	We are currently laying a groundwork for being in a [[Hivemind]]. The way the modern society has evolved, with the media pushing us into knowing everything that's going on. The next step is an unified thought, and inevitably we will become a hivemind. 
 
 File: Theory D&D\Concepts\Entities\Hivemind.md
 
@@ -1401,6 +1705,21 @@ File: Theory D&D\Realms\Hyper Reality.md
 
 #Realm 
 Inhabited by [[Hyper Beast]]s
+
+File: Theory D&D\Theories\Spiritual\Hypersigils.md
+
+#Theory 
+Sigils are made to bind or summon certain entities/[[Soul|spirits]]. One can be made to call forth an angel, or [[Demon]], or whatever, and another to force it to do your bidding. 
+
+A hypersigil is made to transform someone's own life by remaking it with alterations. 
+
+Let's say you made a book series about someone you knew, and that book series started very close to that persons livelyhood. You could then tie the two of them in as the same person. You can then make minor alterations to the book, and change the individual too. This means that you can do Voodoo with things like this. 
+
+This is the origin of [[Voodoo]]. 
+If two things have a very similar essence, then changing one, changes the other. Quantum Entanglement, but explained with Voodoo and [[Magic|witchcraft]], so that's really cool. 
+
+If you change your online persona, it also changes you as a person.
+We as a humanity have made millions, or bilions of hypersigils without even knowing it, therefore changing the course of [[Human]] history. 
 
 File: Theory D&D\Theories\Political\Illuminati are the good guys..md
 
@@ -1581,6 +1900,15 @@ File: Theory D&D\Concepts\Life.md
 #Concept 
 The opposite of [[Death]], an alive [[Human]] has their [[Soul]] inside of their [[Body]]. 
 
+File: Theory D&D\Theories\Medical\Limbic Brain.md
+
+#Theory 
+Whenever we are comfortable, happy, and accepted in a situation, we think using our prefrontal cortex. This allows us to do complex thought patterns and reasoning. Right before the prefrontal cortex we have a part of the brain called the "limpic Brain", which is where we mostly rely on emotions instead. 
+
+Whenever you're happy, part of a group, you're thinking logically, and when you're depressed, you're thinking more instinctively instead. 
+
+Part of the reason people do evil things is because they want to not be brought back to their limbic brains. 
+
 File: Theory D&D\Theories\Locational\Lithuanian Poems.md
 
 #Theory 
@@ -1591,6 +1919,14 @@ Several of these influences of Lithuania come from sanskrit text.
 [[Alien]] influenced society (sanskrit) influenced lithuanians, who predicted the holocaust. 
 
 I guess there is an oracle in lithuania which can see like 30 years into the future. and is partially an alien. cool. 
+
+File: Theory D&D\Theories\Useless\Looking at Dark Energy.md
+
+#Theory 
+Known matter makes up like 20%, and dark energy makes up 25% percent. 
+Dark energy exists everywhere and doesn't conform to our knowledge of physics, [[Science]], electrodynamics, kinematics, or anything we can use to prove it's existence. We are on the fringe of technology to detect it. We will be able to use it to gain infinite energy. 
+
+We can't see it because we're not supposed to. 
 
 File: Theory D&D\Theories\Useless\Lottery Exists to Catch Time Travellers.md
 
@@ -1667,7 +2003,7 @@ Tier I
 - Gun Training: You gain a gun proficiency. 
 - Bow Training: You gain proficiency with longbows and crossbows. 
 - Advanced Weapon Training: You gain proficiency with four martial weapons of your choice. 
-- Healthy: Increase your hit dice to 1d10.
+- Tough: Increase your hit dice to 1d10.
 Tier II
 - Mighty: You fain +2 to any one ability of your choice. 
 - Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -1677,7 +2013,7 @@ Tier II
 - Weaponsmith: You can take one hour to create a simple weapon out of materials specifically gathered for the cause, worth at least 20 euros, as well as a toolbox. You can create a martial weapon within 10 hours, and by using materials worth at least 100 euros. You still need a toolbox.
 - Expert I: You gain expertise in one skill of your choice. 
 - Tumbler: Your training allows you to move through hostile creatures' spaces without penalty. Their square is not difficult terrain for you.
-- Healthy II: Increase your hit dice to 1d12
+- Tough II: Increase your hit dice to 1d12
 
 Tier III
 - Built Different: You gain +1 to all abilities. 
@@ -1705,7 +2041,7 @@ Tier -I
 - Unlucky: You must reroll the first natural 20 you roll on a skill check, attack roll or saving throw each long rest. 
 - Frail I: Your hit point maximum is reduced by 1 every level. 
 - Illiterate: You cannot read or write any language. You can still speak languages you would normally know. You have disadvantage on all Intelligence Ability checks. 
-- Anathema: Choose one creature type (e.g., undead, fiends, beasts). You have disadvantage on all attack rolls and saving throws against creatures of that type.
+- Anathema: Choose one creature type from this list: undead, fiends, beasts. You have disadvantage on all attack rolls and saving throws against creatures of that type.
 
 Tier -II
 - Slow II: Your speed is reduced by 15 feet.
@@ -1754,6 +2090,16 @@ Flavours:
 - **A Candy Bar You've Been Saving:** A York Peppermint Pattie. It's a little melted and re-hardened. Still good.
 - **"Emergency" Instant Ramen:** The cheap square kind. You crunched it up in the package and are eating it raw, shaking the seasoning packet in. You are a gremlin and you know it.
 
+File: Theory D&D\Theories\Philosophical\Malerei Diespirale.md
+
+#Theory
+It's the idea that straight lines are awful in art, and should never be used. This relates back to [[Sacred Geometry]]. 
+If you imagine free flowing lines as an expression of [[Life]] and Carelesness. In his work the spiral was the symbol of [[Death]], and end of it all. 
+And how in his works you could see that spirals were incorporated more and more into his works. He recognised more and more where he'd end up. The spiral was not only a symbol of death and the inevitable, but also an omen of evil itself. 
+So yeah, spirals are bad in themselves, etc. 
+
+But since the milky way is a spiral galaxy, makes you wonder.
+
 File: Theory D&D\Things\Biological\Mammal.md
 
 #Thing 
@@ -1776,7 +2122,7 @@ File: Theory D&D\Cults\Minor Cults\Historical\Masons.md
 #Cult 
 A group of knights that were brought together by King [[Solomon]], to build a temple, and to protect his secrets that later turned into [[Templars Order]],
 
-File: Theory D&D\Theories\Spiritual\Mathacker.md
+File: Theory D&D\Theories\Scientific\Mathacker.md
 
 
 numbers are really cool, in the fact that they can be used to quantify everything is really cool. And the way we can make equations to find out how the speed of light interacts with whatever. 
@@ -1841,6 +2187,28 @@ File: Theory D&D\Concepts\Science\Money.md
 #Concept 
 A currency to exchange goods with other people. 
 
+File: Theory D&D\Theories\Extraterrestrial\Moon built by Aliens.md
+
+#Theory
+[[Alien]]s building [[The Moon]]. 
+Given the size of our planet, our moon should be like 40 km wide, but is instead like 2000km. There are also shadow monoliths on the moon, that are artificial structures on top of the Moon. 
+Seismic testing on the moon has shown that it takes up about 2% of the earth's volume, which is way less than it should given it's size, hence, the moon is hollow. 
+
+The Zulu people had a legend of the moon being a great egg, that was brought down, cracked open, from which [[Human]]s came out, and then it flew back up into the [[Sky]], and was closed off again. 
+
+
+
+File: Theory D&D\Theories\Proven by Other Theories already\Most Drugs are Benevolent.md
+
+#Theory 
+Most, if not all [[Drugs]] are poisoned by [[Big Pharma]], to make the [[Human]]s weak. 
+This is cuz they don't want us to achieve our higher order, and want to keep us subjugated. 
+Yep, this was proven later down the line. Cool. 
+
+This goes back to the Stoned Ape theory, which is that monkeys found out how to do hallucinogenics, which opened up new brain pathways, which created us. 
+This is quite related to the theory of [[Proto-Humans]].
+
+
 File: Theory D&D\Things\Locations\Mountain.md
 
 #Location 
@@ -1855,6 +2223,11 @@ File: Theory D&D\Theories\Extraterrestrial\Nano-UFO's, and Giga-UFO's.md
 
 #Theory 
 Nano-[[UFO]]'s can be small enough to fit into your bloodstream. They can go inside of [[Human]]s, and cause them to do whatever they want, effectively turning them into [[Sleeper Agent]]s. Giga-UFO's can be clouds, [[Star]]s or the entire [[Sky]] itself. The Giga-UFO's exist all around us as a [[Surveilance System]]. This is because we live in [[The Simulation|A Simulation]]. Or we're maybe just really small. 
+
+File: Theory D&D\Cults\Minor Cults\Historical\Nazi Germany.md
+
+#Cult 
+A group of Nazi's, lead by A. H. who retreated into the [[Hollow Earth]] after world war 2, and now are a part of the [[Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]], 
 
 File: Theory D&D\Theories\Proven by Other Theories already\Neanderthal Superiority.md
 
@@ -1895,10 +2268,43 @@ File: Theory D&D\Concepts\Entities\Cryptids\Nephilim.md
 Nephilim is the biblical representation of a [[Giant]]. 
 
 
+File: Theory D&D\Theories\Locational\New Zealand 8th Continent.md
+
+#Theory 
+The country of New Zealand is a part of a different continent than Australia. This has been proven by analysis of underwater structure. New Zealand is one of the only structures of an older continent that sunk long ago. And the sunken continents is where the different societies moved, and now they are living underground in the [[Hollow Earth]]. 
+
+File: Theory D&D\Theories\Souls n shit\Non-Carbon Life.md
+
+#Theory 
+Not only non-carbon, but also non-physical. 
+Think about something that doesn't exist on the [[Spiritual Plane|same plane of existence as us]] then think about what they feed on are auras and [[Soul]]s themselves. Haunted places are just these things feeding grounds. Whenever we experience fear, these things gather that fear, and eat it. [[UFO]] and [[Cryptid]] sightings are mind alterations made by these beings to preserve energy. 
+
+File: Theory D&D\Theories\Scientific\Non-Space.md
+
+#Theory 
+A reverse black hole. 
+A black hole is a gravitational center that pulls everything in. 
+What if we made a space that pushed everything out with a vacuum? We've done that before, we've created vacuums in an area. What if we pulled everything out, the atoms, the [[Gravity]], the everything. We will create an absolutely empty part of space. Which will create an implosion where the gravity around it will leap in to fill the space. It will move at a speed so fast we can't comprehend it. 
+And to no change in mass, it will exhume lots of energy. 
+
+This could in theory create a near infinite energy source. 
+And it could harvest gravity as a means of energy. 
+
+It can also create a supermassive black hole and we all instantly die. 
+
 File: Theory D&D\Things\Locations\Countries\North America.md
 
 #Location 
 This is mainly where [[United States]] is.
+
+File: Theory D&D\Theories\Locational\Nuclear Grid Theory.md
+
+#Theory 
+Ancient civilizations placed their structures on the leylines of the magnetic forces flowing around the earth, because it made them more powerful by tapping into the magnetic force of the places. 
+
+At the end of WW2, such a massive expansion of energy as the [[Nuke]]s caused a second set of leylines to be created. We created enough energy to jump up to this new line of existence. On these second leylines, lots of [[Ghost]] sightings have been taking place. supernatural occurences is because we opened the door during WW2. 
+
+
 
 File: Theory D&D\Concepts\Science\Nuclear.md
 
@@ -1916,10 +2322,29 @@ File: Theory D&D\Theories\Medical\Null Compliance Security.md
 #Theory
 in 1997, there was an experiment in a [[Florida]] prison system to find a long term sedation for very violent inmates. After 40 days the subjects suffered from a permanent sense of total compliance, basically turning them into vegetables. This went on for 10 years, and this was conducted on 845 inmates. Most of which are still alive, and still existing within the justice system, of mentally ill patients to this day. 
 
+File: Theory D&D\Theories\Locational\Numbers Stations.md
+
+#Theory 
+Number stations exist as coded radio messages, that are used to send transmissions to foreign intelligence agencies behind the enemy lines. 
+
+A way to communicate by using numbers, instead of words, as a code, so they can't be understood by enemies. This is a very open practice. 
+
+During the cold war it was a very useful method of how to get info out of the country. 
+
+There are several old radio towers right out of saint peterburg, [[Russia]], where a radio signal has been coming out. There is a signal named MDZHP, and it is just one continious droning noise, and every few seconds a fog horn comes out. And every one or two weeks a random man or woman comes on, and says random words in russian, implying it is a code in russian. You can tune into this at any time if you are in the area. This is also a dead mans signal. The monotone tone is keeping something from happening, like a nuclear device. 
+
+This is like a last laugh protocol. If there was any country attacking russia, and the station was destroyed, the nuke would detonate, and they would get blown up too.
+There are way too many number stations as well, all around the world. 
+
 File: Theory D&D\Theories\Spiritual\OLFMA.md
 
 #Theory 
 There is a book about [[Theosophy]] on the amazon book store. The book was written by a man named Rudolph Steiner, who was one of the earliest porponents of theosophy. The readers of the book have left reviews of how great Theosophy works, and how they understand the world, etc. 
+
+File: Theory D&D\Theories\Useless\Ocean Doesn't Exist.md
+
+#Theory 
+Uhhh, no it does. 
 
 File: Theory D&D\Theories\Useless\Oikeosis.md
 
@@ -2133,6 +2558,27 @@ File: Theory D&D\Things\Science\Prana Rays.md
 #Thing #Item 
 A pair of sunglasses, that show you the [[Aura]] of the [[Human]] you're looking at. 
 
+File: Theory D&D\Theories\Locational\Space\Prison Earth.md
+
+#Theory 
+We exist on an earthly prison. Thorough all of human history, there has always been a struggle, and a need, whether it was for food, survival, shelter, [[Heat]], etc. 
+This is just what we know the [[Life]] to be. Perhaps this constant need implies we are supposed to exist in a realm of pure ectasy or pure thriving. 
+
+A lot of these theories say that [[The Moon]] itself was constructed. Geological samples have said that the moon is older than [[The Earth]]. The craters on the moon were sucked in from the inside, rather than craters from the outside. The moon itself is hollow, and whatever structure is inside of it and is causing it to be formed this way. w
+
+Also there is an abnormal amount of titanium on the surface of the moon. And several seismic activities have been reported from the surface of the moon, despite nothing actually causing them. This had lead many to believe that the moon was made as an observatory where we are being watched from. If we ever try to go past the realm of the moon, we'll get shot down, and that's what the 9 minutes of missing apollo mission was. 
+
+Also the moon is a giant space monster egg, that will break out and kill us all. 
+
+File: Theory D&D\Theories\Political\Pro-War Buddhism.md
+
+#Theory 
+There have been many cases of Buddhists becoming pro-war during times of war. Buddhists are devout pacifists, but some are arming for a war, which is strange. 
+
+During the Vietnamese buddhist killings, buddhists began protesting, and shutting down roads, and etc etc. 
+
+Some of the more modern instances are also kinda weird. In thailand in 2004, several buddhist monks were attacked by muslim [[Terrorist]]s, so they began arming themselves in response. A buddhist monk was a part of a kinda military. which was not allowed for buddhist. 
+
 File: Theory D&D\Theories\Useless\Prolepsis.md
 
 #Theory 
@@ -2187,6 +2633,16 @@ File: Theory D&D\Theories\Historical\Prophecies Enforcement Agency.md
 
 #Theory 
 There are organisations throghout the history that have the goal of making sure that prophecies come true. Such organisations include [[Illuminati]] and [[The Free Masons]]. 
+
+File: Theory D&D\Theories\Medical\Protein QRD 1451.md
+
+#Theory 
+There's a specific protein in the human genome that determines everything about the person. The science done on the protein has been silenced by the [[Big Pharma]]. This is cause the protein can let us connect to the [[Spiritual Plane]]. 
+
+File: Theory D&D\Theories\Historical\Proto-Humans.md
+
+#Theory 
+It is the idea that there was more than just one kind of pre-[[human]], than we think. There was more than just the [[neanderthal]]. Depending on what region of the world you're in, the neanderthal genome in you is different. In some parts of the world, in the portion that should be Neanderthal DNA there was a different human type, called the Denisovan human, which means there was probably a lot more violent history to the humans than we assume. and competition too. 
 
 File: Theory D&D\Theories\Useless\Psyops Don't Exist.md
 
@@ -2360,6 +2816,25 @@ It has a [[Vaccine]] that treats it.
 
 There is a proto version of rabies, named "Rambies" created by the [[Russia]]ns during the cold war, that turns the people infected into more agressive and violent creatures, effectively turning them into a kind of a [[Zombie]]. They have created a pathogen for this disease that spreads by contact, meaning that if a person contacts rambies, they can get infected by rambies. This has taken down a small town in Russia, after the virus got out, that had to be incinerated afterwards, to not let the pathogen spread. 
 
+File: Theory D&D\Theories\Historical\Rapture already Happened.md
+
+#Theory 
+This is in reference to the biblical rapture. There is much debate about when it will happen, and what will happen when it happens. 
+
+There is a thing known as the tribulation period, which is a period from where the earth goes from doing really really good, to doing really really bad in the span of 7 years. If someone was of belief that the world was made in 7 days, and it wasn't 7 days, and more 700 years, then the tribulation period would be way longer. 
+
+A 7 year tribulation period might as well be 7000. 
+During this period, [[God]] has no control over [[The Earth]], and evil ran rampant, and the devil had free reign over the world. 
+
+Perhaps rapture happened immediately after [[Jesus]]'s crucifiction, and we're all living in a devil-controlled world, and god won't hear us. 
+
+This can be explained by [[God's Ego Death]], and [[The Sun]] spirits. It will end when the sun ceases to be. 
+
+File: Theory D&D\Theories\Useless\Real Dowsing and Rhabdomancy.md
+
+#Theory 
+[[Dowsing]] is a form of divination, and essentially: [[Magic|witchcraft]]. In historical records people who did dowsing professionally died to an ilness. 
+
 File: Theory D&D\Theories\Historical\Real Humans Died Millenia Ago.md
 
 #Theory 
@@ -2369,6 +2844,21 @@ There used to be a higher form of [[Human]]s millennia ago. [[The Pyramids]] and
 
 # Interpretation:
 There is enough inbreeding between the different original fantasy races that creates the diversity and the unity in modern humans, giving us all the things that we now are. Intellect from the [[Elf]]s, ability to swim from the [[Mermaid]]s, ability to make cool things from the [[Gnome]]s and the [[Giant]]s, etc.
+
+File: Theory D&D\Theories\Political\Real Intentions of Road to Roota.md
+
+#Theory 
+Road to Roota is a comic with a hidden meaning that [[The Higherups]] are trying to return our civilization to a golden standard to leave banking circles. 
+
+This is all because banks and politics have hated each other, and don't shake hands and get along as much as we think. 
+
+The whole game plan is such:
+- 1. In 1970s, the entire worlds banking systems became ran by computers
+- 2. Because of this secret cults around the world got control of what markets got or lost worth, and were able to build wealth by riding off of it. 
+- 3. Ever since the early 1900s, the [[United States]] have been hiding it's actual capabilities and resources so that now in the modern day they can produce false scarcity, causing scarcity among other nations, which then the US can "find" all of these resources, and get themselves back on track.
+	- And the banks are getting in the way of this grand scheme, and markets can be used as a way to subvert things like fossil fuels. 
+- 4. Ever since 9/11 these politicians have wanted bankers out of their inner circles, and have actively been making steps to remove their technological influence. 
+- 5. (We're here) the politicians or the elites are trying to build up crypto, [[Money]], trading, lending to such a degree that it will inevitably crash all around the world, which is when they will step in and create the new gold standart. 
 
 File: Theory D&D\Theories\Useless\Real Meaning of Hybrid RPG.md
 
@@ -2517,6 +3007,25 @@ The roman empire never collapsed and several of its senators made a proto-secret
 # Interpretation:
 Okay, that’s more of a history one, I'm not that proficient in history, but I do like the idea that by finding the [[Hollow Earth]] they found a way to become immortal, and to possess people down the line, in order to blend into other secret societies down the line.
 
+
+Alright, so, going back on this. Not that they really rule the world, they just fused with the population of [[Neanderthal]]s in the [[Hollow Earth]], and became a part of their population, and are now [[Immortallity|Immortal]]. I think it would be a great idea that they would have found the [[Holy Grail]], letting them live for a theorethical infinity, which is the gift they brought downstairs, realised everyone had it, and just became a part of the neanderthal society. 
+
+Sooo, yeah, a subsection of [[Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]] is the small group of old [[Roman Senators]]. 
+
+File: Theory D&D\Theories\Philosophical\Roman Metaphysics.md
+
+#Theory 
+The Roman Metaphysics takes heavy inspiration from greek metaphysics, which is the study of what's real. This was done to better describe [[Life]], or to describe the world around us. Metaphysics was an attempt to describe what was happening in the real world. 
+There were two main ideas in greek metaphysics:
+- That we must always rely on our senses to determine what is real in [[Human Realm|the world around us]]. 
+- We must always rely on logical reasoning, as our senses can lie to us in this specific way. 
+Plato described it one way. cool description. 
+This lead Aristotle to create an idea known as Hylomorphism. The core concept that there are forms of matter, and despite changes, there must always be some constant. 
+
+Lots of fun psychology and philosophy. 
+
+Despite being written in greek times, and in roman times, these are the basic principles of theorethical physics. And how these connections were manipulated. 
+
 File: Theory D&D\Cults\Minor Cults\Historical\Roman Senators.md
 
 #Cult 
@@ -2621,6 +3130,13 @@ File: Theory D&D\Theories\Medical\Secret Human Organs.md
 # Interpretation
 Oh, there are some people out there with more epic organs that the mainstream media hides from us? That’s really cool, it means more diversity, and more reveals when the time comes to reveal someone’s inner body.
 
+File: Theory D&D\Theories\Historical\Secret Mongolian Empire.md
+
+#Theory 
+In reference to the idea that the Mongolian Empire never existed. Mongolian empire was the only empire who had no linguistic or cultural effects on the world after they disappeared. There is also no architecture to show signs of them existing. And even though they were noted as a nomadic society, they should still have some signs of where they lived and what they did. 
+There is no mongolian folklore, form of religion, etc. Seems like they just appeared and disappeared. 
+[[Ghengis Khan]] did exist though. He made another government or society that would continue to exist in the modern world, so they could make the mongolian empire seem less barbaric over the long term, to cover it up. 
+
 File: Theory D&D\Theories\Philosophical\Self Burying Hoses.md
 
 #Theory 
@@ -2660,6 +3176,13 @@ Whenever someone is aroused, it lets out a tangible, physical force. This is rel
 Now the main explanation for this is that when two people have sex, their souls intertwine, as a new [[Soul]] is sometimes born. This means that two people can produce [[Mana]] by having sex with each other. 
 
 This also means that there are some people that seduce you to suck out your own [[Soul]] and a part of your [[Mana]]. This is also why regular sex is healthy for your body. 
+
+File: Theory D&D\Theories\Medical\Shanyna Isom.md
+
+#Theory 
+A woman suffered an Asthma attack while in a hospital, in memphis tenesee. She started to itch all over her body, and she developed things all over her body. Shanyna had a since unknown to humanity. 
+
+Every hair follickle on her body is producing 12 times the skin than it's supposed to. And to this day, doctors have absolutely no clue what it is. They keep testing it, but no clue what's happening. 
 
 File: Theory D&D\Things\Magic\Derivative Spells\Silence.md
 
@@ -2709,6 +3232,12 @@ File: Theory D&D\Theories\Extraterrestrial\Sky-Snag Theory.md
 
 #Theory 
 [[UFO]]s are a result of a chemical reaction in the air. This  means UFO's aren't real, and can also be induced by [[The Government]]. They can do that by manipulating the weather, and they will have the perfect shape and everything else. 
+
+File: Theory D&D\Theories\Souls n shit\Sleep Deprivation Lifestyle.md
+
+#Theory 
+This is what happens if someone undergoes a really long amount of time of sleep deprivation. They will lose the consciousness, as they become fully controlled by the [[Limbic Brain]] instead of the regular thoughts. 
+This also wears down your soul and allows for entities to posess you more easily. 
 
 File: Theory D&D\Concepts\Entities\Human Related\Professions and Lifestyles\Sleeper Agent.md
 
@@ -2860,6 +3389,12 @@ The soyification of society isn’t reliant on [[Soy]], but it’s solely relian
 # Interpretation
 I’m sorry, what? I know starting from the end wasn’t the greatest idea, but it seems like there should be some followup to this. Let’s just add this to the… uhmmm… Femboys as a cult? As a regime of subsociety? I know that the main idea is that soy in products makes men more feminine and docile, but idk what to do from here. Let’s just add the femboys as a cult for now, and add some future goals to them.
 
+File: Theory D&D\Theories\Political\Soy Spraying & Weaponized Soy.md
+
+#Theory 
+These past couple years [[Soy]] has popped up more and more in food products or other things as a supplement. Soy itself is an estrogen supplement. and can lead to testosterone defficiency when ingested in large amounts. And this is done in a mass amount by [[The Government]] in order to demoralize and demasculate the population, who could rebel. 
+With weaponized soy, [[Soy]] is used to demasculate the enemy forces. 
+
 File: Theory D&D\Things\Materials\Soy.md
 
 #Thing #Material 
@@ -2919,6 +3454,13 @@ This is the collection of several smaller realms:
 - [[Valhalla]]
 Basically everything But the [[Human Realm]]
 
+
+File: Theory D&D\Theories\Medical\Staring Anxiety.md
+
+#Theory 
+The most literal form of brain rot. 
+Staring at any electronic device for any amount of time means that your neurons will shut off and die. 
+[[The Higherups]] are able to control us more easily because of this. 
 
 File: Theory D&D\Theories\Useless\Stone Head of Guatemala.md
 
@@ -3083,6 +3625,17 @@ File: Theory D&D\Cults\Major Cults\The Catholic Church.md
 # Related Theories:
 
 -  [[Robert Golf Glass Camera]]
+
+File: Theory D&D\Theories\Locational\The Charley Project.md
+
+#Theory 
+This is started by Megan Good. 
+A database of every cold case [[Missing Person]]s file in the [[United States]]. usually existing more than 14'000 and not much that the site can do about this, but after a while the police stop the search for the missing person. So Megan created this site as a means of maintaining some form of information about them. The cold cases go as far back as 1910. You can also go and read them. 
+
+File: Theory D&D\Things\Other\The Dark Web.md
+
+#Thing #CompSci 
+A subsection of [[Internet]], that allows for the user to browse any and all sites, letting you access things that normally couldn't be accessed. This can lead the user to many places, letting them purchase forbidden items, magical items, hire services, etc. 
 
 File: Theory D&D\Things\Locations\Space\The Earth.md
 
@@ -3312,8 +3865,13 @@ File: Theory D&D\Things\Locations\Structures\The Pyramids.md
 
 #Location
 Exists in the [[Human Realm]].
-Built by a combination of [[Templars Order]],
+Built by a combination of [[Templars Order]], [[Dinosaurs]], 
 There is [[The Sphynx]] right next to the pyramids. 
+
+File: Theory D&D\Theories\Useless\The Simpsons is Real Footage.md
+
+#Theory 
+The Simpsons is a real footage taken from a wormhole, where [[The Government]] radioactively hurt their people, and it is a paralel universe. 
 
 File: Theory D&D\Concepts\The Simulation.md
 
@@ -3393,6 +3951,13 @@ The 4 guardians at the corners of time are:
 	[[Bill Clinton]]
 	![[Pasted image 20260404221134.png|447]]
 
+File: Theory D&D\Theories\Extraterrestrial\Tomoki Uemiya.md
+
+#Theory
+Is one of the people that is a channel, has made contact with [[Alien]]s before and has written many books about meeting a LOT of aliens. 
+There will be great terraforming events by the aliens to do things. 
+
+
 File: Theory D&D\Theories\Locational\Top of Mountains.md
 
 #Theory 
@@ -3404,6 +3969,13 @@ Since [[Jesus]] ascended on the top of a [[Mountain]], it’s the gateway betwee
 
 Some [[Cryptid]]s can use the gateway at the top of the mountains to traverse out of our field of comprehension.
 
+
+File: Theory D&D\Theories\Useless\Towel Conspiracy.md
+
+#Theory 
+The towel dispensers that look like they have a camera in it, definetly has a camera in it. 
+
+When has legality ever stopped certain powers from spying on other people? There would be so many blind spots, unless they aren't blind spots, and you are being spyed on in the toilet. 
 
 File: Theory D&D\Things\Biological\Tree.md
 
@@ -3517,6 +4089,13 @@ File: Theory D&D\Realms\Valhalla.md
 
 #Realm 
 You can get here if you [[Death|die]] the correct way.
+
+File: Theory D&D\Theories\Useless\Valley of Lost Candles.md
+
+#Theory 
+Is in reference to stolen props from the 1967 movie "Valley Of The Dolls."
+Because of the shady stuff that happens in holywood, the film was seen as a look behind the scenes of what happens in there. 
+Several of the props like the candles used in the movie were used in actual [[Magic|witchcraft]] [[ritual]]s, and carried bad spirits with them. Those props were stolen immediately after the movie. 
 
 File: Theory D&D\Concepts\Entities\Cryptids\Vampire.md
 
