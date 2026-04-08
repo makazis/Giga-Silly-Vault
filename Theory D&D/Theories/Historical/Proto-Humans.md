@@ -1,0 +1,2 @@
+#Theory 
+It is the idea that there was more than just one kind of pre-[[human]], than we think. There was more than just the [[neanderthal]]. Depending on what region of the world you're in, the neanderthal genome in you is different. In some parts of the world, in the portion that should be Neanderthal DNA there was a different human type, called the Denisovan human, which means there was probably a lot more violent history to the humans than we assume. and competition too. 

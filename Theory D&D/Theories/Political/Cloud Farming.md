@@ -1,0 +1,2 @@
+#Theory 
+There have been cases of [[The Government|goverments]] making clouds to get agricultural benefits they want. Also some cases of this being produced made people sick by using bad chemicals. There are still several countries that create all the clouds in order to control the people living in there. 

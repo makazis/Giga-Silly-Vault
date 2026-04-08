@@ -1,0 +1,2 @@
+#Theory 
+There was one religious event that happened, and all cultures spread out, and the stories just adapted. This would explain the concepts such as angels, demons, etc, etc. All religions are the same, but just extra steps away from the original one. 
