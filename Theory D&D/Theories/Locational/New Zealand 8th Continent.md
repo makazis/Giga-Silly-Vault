@@ -1,0 +1,2 @@
+#Theory 
+The country of New Zealand is a part of a different continent than Australia. This has been proven by analysis of underwater structure. New Zealand is one of the only structures of an older continent that sunk long ago. And the sunken continents is where the different societies moved, and now they are living underground in the [[Hollow Earth]]. 

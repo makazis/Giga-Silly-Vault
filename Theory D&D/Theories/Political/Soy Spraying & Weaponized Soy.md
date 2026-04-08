@@ -1,0 +1,3 @@
+#Theory 
+These past couple years [[Soy]] has popped up more and more in food products or other things as a supplement. Soy itself is an estrogen supplement. and can lead to testosterone defficiency when ingested in large amounts. And this is done in a mass amount by [[The Government]] in order to demoralize and demasculate the population, who could rebel. 
+With weaponized soy, [[Soy]] is used to demasculate the enemy forces. 

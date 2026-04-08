@@ -1,0 +1,2 @@
+#Theory 
+	We are currently laying a groundwork for being in a [[Hivemind]]. The way the modern society has evolved, with the media pushing us into knowing everything that's going on. The next step is an unified thought, and inevitably we will become a hivemind. 

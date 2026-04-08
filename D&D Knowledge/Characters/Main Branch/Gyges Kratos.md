@@ -1,0 +1,1 @@
+Brother of [[Grunken Kratos]], and [[Briareus Kratos (Soul)]]. 

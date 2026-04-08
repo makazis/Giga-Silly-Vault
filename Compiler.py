@@ -20,10 +20,14 @@ relevant_tags=[
     #"#Theory",
     " "
 ]
+c=0
 for key in sorted(list(data.keys())):
     for tag in relevant_tags:
         if tag in data[key]:# or 1:
             total+=data[key]
             print(key)
-with open("total.txt","w",encoding="UTF-8") as f:
+            c+=1
+            break
+print(c)
+with open("total.md","w",encoding="UTF-8") as f:
     f.write(total)
