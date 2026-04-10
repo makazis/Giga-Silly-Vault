@@ -119,3 +119,10 @@ Flavours:
 - **The Last Bag of Chips From Your Apartment:** Barbecue. The bag is almost empty, just crumbs and that one perfect small chip at the bottom.
 - **A Candy Bar You've Been Saving:** A York Peppermint Pattie. It's a little melted and re-hardened. Still good.
 - **"Emergency" Instant Ramen:** The cheap square kind. You crunched it up in the package and are eating it raw, shaking the seasoning packet in. You are a gremlin and you know it.
+
+
+
+There are three main ways to access magic:
+Aliens: Wisdom (to show devotion)
+Hyper Reality: Intelligence (to carve your own path)
+Souls: Charisma (To convince a soul to leave their body)

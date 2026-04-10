@@ -7,3 +7,4 @@ It means that [[Death]] is not a death of your mind, it is a separation of your 
 
 # Interpretation
 Alright, the humans didn’t need to have their psychology more fucked up, but what this essentially boils down to is that the skin of a [[Human]] can hold a second [[Soul]] within it.
+

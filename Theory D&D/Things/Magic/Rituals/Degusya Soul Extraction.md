@@ -15,7 +15,8 @@ Cool tomfoolery.
 Anywho, a short description of the ritual itself:
 ## Degusya Soul Extraction
 - Description:
-	- A ritual that after (3) sends the visitors and the subjects to a pocket dimension, where the visitors can bind the souls of subjects to their service, being able to draw upon them whenever they are in need of casting a spell. Each visitor can take more than one soul from the subjects. 
+	- A ritual that after (3) sends the visitors and the subjects to a pocket dimension, where the visitors can bind the souls of subjects to their service, being able to draw upon them whenever they are in need of casting a spell. Each visitor can take more than one soul from the subjects.
+	- Derivative of [[Soul Access]]. 
 - Components:
 	- Somatic/Verbal: 
 		- (1) The Visitors must make a full circle through all 6 of the sectors. ||This is to divide the maximum people, so that they don't injure each other during the ritual.|| 

@@ -1,0 +1,3 @@
+#Theory 
+There are several examples of this happening thorough history, such as old freak shows having people with genetic abnormalities, as well as ethnic zoos human zoos, which came in the 1700s and 1800s in brittain, where people came from faraway tribes in order to show off "exotic" [[Human]]s. 
+This is still happening around the world, in lesser amounts. In 2012, certain people were selling out other tribes for tourboat guides. 

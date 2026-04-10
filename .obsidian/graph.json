@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Theory D&D/Theories\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -11,7 +11,7 @@
       "query": "path:\"Theory D&D/Concepts\" ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 6815917
       }
     },
     {
@@ -25,55 +25,55 @@
       "query": "path:\"Theory D&D/Characters\"  ",
       "color": {
         "a": 1,
-        "rgb": 16746496
+        "rgb": 57855
       }
     },
     {
       "query": "path:\"Theory D&D/Things\"  ",
       "color": {
         "a": 1,
-        "rgb": 12058624
+        "rgb": 2752706
       }
     },
     {
       "query": "path:\"Theory D&D/Cults\"  ",
       "color": {
         "a": 1,
-        "rgb": 10048000
+        "rgb": 39838
       }
     },
     {
       "query": "path:\"Theory D&D/Realms\"  ",
       "color": {
         "a": 1,
-        "rgb": 14074880
+        "rgb": 28630
       }
     },
     {
       "query": "path:\"Theory D&D/Events\"  ",
       "color": {
         "a": 1,
-        "rgb": 9405184
+        "rgb": 4760825
       }
     },
     {
-      "query": "path:\"D&D Knowledge/Briareus Kratos Spells\"  ",
+      "query": "path:\"D&D Knowledge\"  ",
       "color": {
         "a": 1,
         "rgb": 60250
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.922318339100346,
+  "lineSizeMultiplier": 0.871453287197232,
   "collapse-forces": false,
   "centerStrength": 0.385813148788927,
   "repelStrength": 7.85467128027682,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.6316046762907456,
-  "close": false
+  "scale": 0.4505081176757723,
+  "close": true
 }
