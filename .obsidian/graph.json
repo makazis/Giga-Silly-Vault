@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"Theory D&D/Theories\"  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Theory D&D/Concepts\" ",
@@ -18,7 +18,7 @@
       "query": "path:\"Theory D&D/Theories\"",
       "color": {
         "a": 1,
-        "rgb": 3342336
+        "rgb": 11934463
       }
     },
     {
@@ -73,7 +73,7 @@
   "centerStrength": 0.385813148788927,
   "repelStrength": 7.85467128027682,
   "linkStrength": 1,
-  "linkDistance": 158,
-  "scale": 0.8854989543150386,
+  "linkDistance": 255,
+  "scale": 0.6316046762907456,
   "close": false
 }
