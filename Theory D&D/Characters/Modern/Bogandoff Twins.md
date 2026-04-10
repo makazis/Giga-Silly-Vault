@@ -1,0 +1,2 @@
+#Character
+Igor and Grichka Bogandoff were two very smart individuals that had achieved a stage of [[Enlightenment]], allowing them to view [[Hyper Reality]], and use it in their favour. Their frontal cortex had decalcified, leading to them having an increased IQ of over 200. They are TV stars, and they have minor reality bending powers. They own a part of [[Big Pharma]] too. 

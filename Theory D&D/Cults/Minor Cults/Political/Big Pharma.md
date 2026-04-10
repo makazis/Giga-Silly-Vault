@@ -3,12 +3,10 @@
 # Things to note:
 
 - They hide most of the forbidden medicine from modern culture in order to sell more of their own medicine and keep themselves going. 
-    
 - They use chemicals in order to keep us less connected to the [[Spiritual Plane]] too. 
-    
 - None of the [[Medicine]] they give us actually help us in life, and are all given us with trade offs that outweigh their healing, keeping us docile and subservient. 
 
-They are just a subsection of [[The Government]]
+They are just a subsection of [[The Government]], but a big bunch of the shares there, and control is by the [[Bogandoff Twins]]. 
 
 # Related Theories:
 
