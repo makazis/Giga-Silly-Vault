@@ -1,2 +1,0 @@
-#Cryptid 
-Angels are entities aware of our existance in [[The Simulation]], and are tasked with the synchronization of [[Time]]lines. There aren't enough Angels to go around, and sometimes some stuff slips by, causing the [[Mandela Effect]] to happen, but major events of world history, such as world [[War]]s, are synchronized across all timelines due to Angels. They also are tasked with preventing people from timeline jumping, as this could damage their whole integrity, and bring the whole simulation down. 
