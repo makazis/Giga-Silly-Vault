@@ -6,6 +6,7 @@
       {
         "id": "e73c6673fd5f4035",
         "type": "tabs",
+        "dimension": 57.93650793650794,
         "children": [
           {
             "id": "8aaf6603494bca63",
@@ -41,40 +42,78 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Theory D&D/Visuals/Maps/Reality Structure.md"
+                "file": "Theory D&D/Visuals/Maps/Ultradrawing.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Reality Structure"
+              "title": "Ultradrawing"
             }
           },
           {
-            "id": "7d8d31fc11d29da4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Theory D&D/Visuals/Maps/Reality Structure.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Reality Structure"
-            }
-          },
-          {
-            "id": "e6d87d7cf43fe22b",
+            "id": "ca6017ae6b55005a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory D&D/Theories/Useless/Entity Merging.md",
+                "file": "Theory D&D/Things/Magic/Misc/Curse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entity Merging"
+              "title": "Curse"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "c7da7ca1f315ab8e",
+        "type": "tabs",
+        "dimension": 42.06349206349206,
+        "children": [
+          {
+            "id": "7d8d31fc11d29da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Magic/Derivative Spells/Firebolt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Firebolt"
+            }
+          },
+          {
+            "id": "ba80436f1f8c424c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Magic/Primal Spells/Store.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Store"
+            }
+          },
+          {
+            "id": "b296a3112b8ee5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory D&D/Things/Magic/Primal Spells/Spark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,38 +288,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d8d31fc11d29da4",
+  "active": "ff625af91270ca5c",
   "lastOpenFiles": [
-    "Theory D&D/Concepts/Entities/Cryptids/Angel.md",
+    "Theory D&D/Visuals/Maps/Ultradrawing.md",
+    "Theory D&D/Visuals/Maps/Magic Structure.md",
+    "Theory D&D/Things/Magic/Misc/Curse.md",
+    "Theory D&D/Visuals/Maps/Solar System.md",
     "Theory D&D/Visuals/Maps/Reality Structure.md",
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
+    "Theory D&D/Things/Magic/Primal Spells/Push.md",
+    "Theory D&D/Things/Magic/Primal Spells/Spark.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Firebolt.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Essence Movement.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Enchantments/Absence of Speech.md",
+    "Theory D&D/Characters/Medieval/Otto III.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Silence.md",
+    "Theory D&D/Things/Magic/Derivative Spells/Imbue Mana.md",
+    "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
+    "Pasted Image 20260410232824_556.png",
+    "Theory D&D/Visuals/Fractal2.md",
+    "Theory D&D/Visuals/Fractal1.md",
+    "Theory D&D/Visuals/Untitled.md",
     "Theory D&D/Theories/Useless/Entity Merging.md",
+    "Theory D&D/Concepts/Entities/Cryptids/Alien.md",
+    "Theory D&D/Things/Weapons/The Pequod Specifications.md",
+    "Theory D&D/Things/Weapons/The Pequod.md",
+    "Theory D&D/Visuals/Maps/Untitled.md",
+    "Theory D&D/Concepts/Entities/Cryptids/Angel.md",
     "Theory D&D/Concepts/Science/The Natural Forces/The Natural Forces.md",
     "Theory D&D/Concepts/Science/The Natural Forces/Time.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Sloth.md",
     "Theory D&D/Concepts/Science/The Natural Forces",
     "Theory D&D/Concepts/Magic/Seven Deadly Sins",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Seven Deadly Sins.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Lust.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Wrath.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Envy.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Pride.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Gluttony.md",
-    "Theory D&D/Concepts/Magic/Seven Deadly Sins/Greed.md",
-    "Theory D&D/Characters/Modern/Bill Clinton.md",
-    "Theory D&D/Theories/Locational/Timecube.md",
-    "Theory D&D/Characters/Ancient Era/Jesus.md",
-    "Theory D&D/Concepts/Science/Timeline Hopping.md",
-    "Theory D&D/Theories/Historical/Phantom Time.md",
-    "Theory D&D/Theories/Philosophical/Retrocausality.md",
-    "Theory D&D/Theories/Scientific/Eggless Travel.md",
-    "Theory D&D/Character Creation/Structure of the World.md",
-    "Theory D&D/Concepts/Entities/Cryptids/Hyper Beast.md",
     "Theory D&D/Visuals/Imagedump/world.svg",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260402142750.png",
-    "Theory D&D/Visuals/Maps/Solar System.md",
-    "Theory D&D/Things/Locations/Space/The Earth.md",
-    "Theory D&D/Things/Locations/Space/The Sun.md",
-    "Theory D&D/Visuals/Maps/Untitled.md",
     "Theory D&D/Visuals/Maps",
     "Theory D&D/Visuals/Imagedump",
     "Theory D&D/Visuals",
@@ -296,7 +336,6 @@
     "Theory D&D/Visuals/Imagedump/Pasted image 20260402162932.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260402161036.png",
     "Pasted image 20260402160309.png",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260402153141.png",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -1,5 +1,5 @@
 #Concept #Magic
-The elements are the naturally ocurring elements, that are often used in [[Magic]] due to their simplicity. 
+The elements are the naturally ocurring elements, that are often used in [[Theory D&D/Concepts/Magic/Magic]] due to their simplicity. 
 
 The elements so far are:
 - [[Electricity]]

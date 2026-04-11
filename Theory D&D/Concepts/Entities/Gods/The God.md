@@ -5,7 +5,7 @@
     
 - Wrote the laws of the universe, can rewrite the laws of the universe. 
     
-- People proficient with [[Pattern Manipulation]] can perceive this entity for what it truly is. They can use this ability to perform acts of [[Magic]]. 
+- People proficient with [[Pattern Manipulation]] can perceive this entity for what it truly is. They can use this ability to perform acts of [[Theory D&D/Concepts/Magic/Magic]]. 
     
 - Inhabits the [[Hyper Reality]].
     

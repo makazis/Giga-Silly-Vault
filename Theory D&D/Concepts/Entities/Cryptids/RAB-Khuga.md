@@ -30,7 +30,7 @@
 - [[The Government]] of [[China]] has forbidden any further interaction or action against the entity, In a fear of accelerating it's development, or other unexpected mutations.
 	- The usage of [[Nuke|Nuclear Weaponry]] against the entity is especially forbidden due to the effect closely mimicking the original event of expansion. 
 
-- The creature is assumed to be in constant pain due to it's existence, and it has absorbed the [[Soul]]s of the 47 other individuals in the area, incorporating parts of their [[Body]] into the biomass, and achieving partially the effect of [[Incorruptible Saints|a saint]], causing the entity to obtain partial understanding of [[Magic]], as well as the ability to execute some simple enchantments and spells, now having larger areas of effect due to the area of the caster itself. 
+- The creature is assumed to be in constant pain due to it's existence, and it has absorbed the [[Soul]]s of the 47 other individuals in the area, incorporating parts of their [[Body]] into the biomass, and achieving partially the effect of [[Incorruptible Saints|a saint]], causing the entity to obtain partial understanding of [[Theory D&D/Concepts/Magic/Magic]], as well as the ability to execute some simple enchantments and spells, now having larger areas of effect due to the area of the caster itself. 
 
 - A group that has been stationed near the entity has repeatedly reported "Fireworks", as well as the sky above the entity "being set ablaze."
 - If a [[Human]] or a similar creature touches the mass, it experiences rapid tumor growth, following up by a quick death. If they remain near the mass, they will be absorbed into the entity, and their soul will be used as an additional [[Mana]] battery. 

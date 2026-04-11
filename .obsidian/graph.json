@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Theory D&D/Concepts\" ",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 60250
       }
+    },
+    {
+      "query": "path:\"Theory D&D/Visuals\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4240958
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 7.85467128027682,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.8854989543150208,
+  "scale": 0.4505081176757704,
   "close": true
 }

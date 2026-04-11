@@ -19,5 +19,5 @@
 		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.
 			- Note that this stacks with every movement of the hand, and can very quickly become too much. 
 - Variations:
-	- (2.1) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
+	- (2.1 - Kosmos) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
 		- This can be used to extinguish the sound, or make a loud action silent, if the caster has both their hands free. 

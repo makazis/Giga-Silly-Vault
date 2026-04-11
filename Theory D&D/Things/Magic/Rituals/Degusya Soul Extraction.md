@@ -1,5 +1,5 @@
 #Thing #Magic #Ritual
-When a [[Human]] is in need of more [[Soul]]s in order to increase their [[Magic]]al capabilities, they can borrow souls from other people, by the contract of a [[Degusya Soul Extraction]]. 
+When a [[Human]] is in need of more [[Soul]]s in order to increase their [[Theory D&D/Concepts/Magic/Magic]]al capabilities, they can borrow souls from other people, by the contract of a [[Degusya Soul Extraction]]. 
 
 The soul extraction is a spell that was created by [[The Before||ancients from before our world]], and has persisted through several cycles. It works by there existing a seperate pocket dimension that can be accessed by people, where the souls take physical forms. People can enter this dimension, and can leave that dimension, and the souls that they leave with are the souls that they own now. This also does mean that a person can go into this pocket dimension with weapons, and fight people for their souls, as well as leave people in here without souls, or force them out without souls. Lots of fun stuff you can do in this dimension. 
 

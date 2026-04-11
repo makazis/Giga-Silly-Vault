@@ -1,5 +1,5 @@
 #Theory 
-Fake success can be bestowed onto some people through the use of [[Magic]]. 
+Fake success can be bestowed onto some people through the use of [[Theory D&D/Concepts/Magic/Magic]]. 
 
 Certain famous people came to the power due to [[Enchantment]]s, which allows you to become famous. 
 

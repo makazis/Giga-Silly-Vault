@@ -1,4 +1,4 @@
 #Cryptid 
 A creature that comes into existence whenever a [[Human]] uses [[Astral Projection]] to force their [[Soul]] out of their [[Body]], causing the soul that resided in their [[Human Skin|Skin]] to take over their body. 
-Since these beings have felt nothing but pain, they are usually wrathful creatures, ready to take down anything in their way. If the soul later returns to their body, they now inhabit the skin, and this gives the skin stealer the ability to use their soul to make [[Magic]] work. 
+Since these beings have felt nothing but pain, they are usually wrathful creatures, ready to take down anything in their way. If the soul later returns to their body, they now inhabit the skin, and this gives the skin stealer the ability to use their soul to make [[Theory D&D/Concepts/Magic/Magic]] work. 
 These usually do nothing but try to take down as much human civilization as possible. 
