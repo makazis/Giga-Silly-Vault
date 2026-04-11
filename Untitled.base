@@ -1,0 +1,19 @@
+views:
+  - type: list
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - file.backlinks
+      - file.links
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 150
+    imageAspectRatio: 1
+    image: file.file
+    markers: number
+    indentProperties: true
+    separator: ", "

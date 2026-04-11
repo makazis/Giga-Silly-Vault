@@ -1,4 +1,4 @@
-#Magic #Spell 
+#Magic #Spell #Lisal 
 - Description:
 	- Store is a primal spell that allows for an item to be stored within a pocket dimension, to be released after the concentration on the spell ends. 
 - Components:

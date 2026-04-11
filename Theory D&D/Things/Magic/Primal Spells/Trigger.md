@@ -1,4 +1,4 @@
-#Spell #Magic #Enchantment
+#Spell #Magic #Enchantment #Lisal 
 - Description:
 	- A rather simple spell, that allows you to cast a second spell upon a specific trigger. 
 - Components:

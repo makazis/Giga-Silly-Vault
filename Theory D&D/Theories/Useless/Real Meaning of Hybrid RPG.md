@@ -1,4 +1,4 @@
-
+#Theory
 an RPG called Hybrid, cancelled in 2002. 
 The only existing text file was a ruleset that is roughly 30% completed, and is completely massive, and the rules are really weird, and cross reference each other. 
 Several of the rules are just really long equations of how [[Gravity]] interacts in a sphere, and stuff like that. 

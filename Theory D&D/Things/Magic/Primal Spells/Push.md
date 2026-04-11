@@ -1,4 +1,4 @@
-#Magic #Spell 
+#Magic #Spell #Lisal #Fractal
 - Description:
 	- A simple spell, that can push a small element around. This can't affect physical objects due to it being unable to interfere with the force of [[Gravity]] too much. This still works on the following phenomena and their variations:
 		- [[Soul]]s
