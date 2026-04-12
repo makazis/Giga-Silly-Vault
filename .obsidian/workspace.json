@@ -54,12 +54,14 @@
             "id": "2477d4a47728f2d0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md"
+                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "The Map"
+              "icon": "lucide-file",
+              "title": "Main Idea"
             }
           },
           {
@@ -302,11 +304,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c0a423964efb6c5",
+  "active": "2477d4a47728f2d0",
   "lastOpenFiles": [
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md",
-    "Theory D&D/Things/Magic/Primal Spells/Store.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick",
     "D&D Knowledge/Oneshots",
     "total.md",
