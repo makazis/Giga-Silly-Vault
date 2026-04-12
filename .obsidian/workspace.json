@@ -40,10 +40,14 @@
             "id": "6271f0d46bc4df15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Idea"
             }
           },
           {
@@ -288,6 +292,10 @@
   },
   "active": "6271f0d46bc4df15",
   "lastOpenFiles": [
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick",
+    "D&D Knowledge/Oneshots",
     "total.md",
     "Untitled.base",
     "Untitled.md",
@@ -305,7 +313,6 @@
     "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
     "Theory D&D/Things/Magic/Items/Face of The Void.md",
     "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
-    "Theory D&D/Things/Magic/Primal Spells/Store.md",
     "Theory D&D/Things/Magic/Primal Spells/Spark.md",
     "Theory D&D/Things/Magic/Primal Spells/Push.md",
     "Theory D&D/Visuals/Maps/Ultradrawing.md",
@@ -313,7 +320,6 @@
     "Theory D&D/Things/Magic/Misc/Curse.md",
     "Theory D&D/Visuals/Maps/Solar System.md",
     "Theory D&D/Visuals/Maps/Reality Structure.md",
-    "Theory D&D/Things/Magic/Derivative Spells/Firebolt.md",
     "Pasted Image 20260410232824_556.png",
     "Theory D&D/Concepts/Science/The Natural Forces",
     "Theory D&D/Concepts/Magic/Seven Deadly Sins",
@@ -325,8 +331,6 @@
     "Excalidraw/diamond.png",
     "Theory D&D/Theories/Scientific",
     "D&D Knowledge/Characters/Main Branch/Briareus Kratos/Briareus Kratos Spells",
-    "D&D Knowledge/Characters/Side Universes/WIld WIld West",
-    "D&D Knowledge/Characters/Main Branch/Briareus Kratos",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260404221134.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260402165557.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260402163837.png",
