@@ -19,7 +19,7 @@ While the Pequod shares its pressure hull architecture with the deep-diving [[So
 
 ### Command Architecture
 
-- **Primary AI**: "Claude Sonnet 4.5"
+- **Primary AI**: "Claude Sonnet 4.5"`
 - **Backup Systems**: Three independent neural networks running in constant consensus-voting configuration.
 - **Communications**: ELF (Extremely Low Frequency) receive-only for mission updates; no active transmissions permitted.
 ### Sensory Suite

@@ -1,0 +1,3 @@
+An african tribe on the south of egypt, and lives alone without taking any advancements from the other world. 
+
+About 400 years ago, a group of people known as the nomos came down to their village, described to descend from a [[UFO|Spinning Ship]]. And gave the Dogon tribe knowledge. They were from the 3rd smallest star of the Sirius system. At the time we only knew of 1 star where Sirius was located. For years the tribe told researchers there was a second star there, and using modern technology we found out they were right. They persist there is a third star in the same area, even if modern technology hasn't found one. Also the orbits of both sirius A and sirius B confirm that a third star indeed should exist over there. 

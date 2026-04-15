@@ -1,3 +1,5 @@
 #Theory 
 [[Vertical Migration]]
-In the gulf of Aiden, in 2010, there was a project for something called the [[The Artificial Sun]]. They set a fake sun on the ocean, and that woke up a very large sea [[Cryptid]]. There were 82 [[Earthquake|earthquake]]s recorded around the area in a 48 hour period. After that, 27 different world navies sent their soldiers to fight "[[Pirate|Pirates]]" around the area. Text log leaks show that there was a giant vortex in the area. There is this giant [[Ses-Syquamlich]] that preys on whales and sharks, and that's a big Lovecraftian monster that just lives in [[The Ocean]].
+In the gulf of Aiden, in 2010, there was a project for something called the [[The Artificial Sun]]. They set a fake sun on the ocean, and that woke up a very large sea [[Cryptid]]. There were 82 [[Earthquake|earthquake]]s recorded around the area in a 48 hour period. After that, 27 different world navies sent their soldiers to fight "[[Pirate|Pirates]]" around the area. Text log leaks show that there was a giant vortex in the area. 
+
+There is this giant [[Ses-Syquamlich]] that preys on whales and sharks, and that's a big Lovecraftian monster that just lives in [[The Ocean]].

@@ -1,24 +1,3 @@
-
-File: Theory D&D\Cults\Major Cults\Paleolithic Deep State.md
-
-#Cult #God 
-
-# Things to note:
-
-- Lead by [[Cain]], who never died. 
-    
-- A group of [[Neanderthal]]s that retreated into the middle of the [[Hollow Earth]] in order to preserve themselves, and to lead the [[Human Realm]] from the shadows. They have achieved the status of [[God]]hood, and have become [[Immortallity|immortal]].
-- They have powers that allow them to stay immortal, and several tribes, and groups of people have joined in with them, and now there is a supercult downstairs. The groups of people that were fused into this group are:
-	- [[Nazi Germany]]
-	- [[Roman Senators]]
-- They attend leadership meetings with the other major cults, such as [[The Masquerade]]. 
-- Since Cain is the son of [[Jesus]], and Jesus is an angel, the neanderthals have the blood of angels in their veins. 
-
-
-[[Theory D&D/Theories/Historical/Paleolithic Deep State|Paleolithic Deep State]]
-
-File: Theory D&D\Cults\Minor Cults\The Family Buisness.md
-
 #Cult 
 A group of "Fathers" and "Mothers", that have banded together in order to take care of all the kids who have been detected to possess [[Magic]]al abilities at a young age. They are mainly making them to be the strongest of the strong, and letting other facilities like [[The Foundation]] to hire them out as hired guns, but with magic. Their services can be accessed by a link to a site on [[The Dark Web]]. 
 
@@ -42,7 +21,7 @@ A [[#Mother]] is the leading role, usually taking up the role of the leader in a
 
 A mother will try to dress as beautifully as she can on formal gatherings, as she is the main representation of the mansion they live in. Once a year the mothers of the world will gather together in a secret event called [[The Masquerade]].
 
-A mother will try to remain in control of their family in all situations. This will mean that if a [[#Child]] tries to rebel, they will often get executed by the mother in one of the ways that the mother chooses. They usually have a way to hurt the children in mind, earning them a name, such as The Mother of Broken Bones, or The Mother of Blazing Flames, which sound very impactful, leading to them being respected more during meetings and events. 
+A mother will try to remain in control of their family in all situations. This will mean that if a [[#Child]] tries to rebel, they will often get executed by the mother in one of the ways that the mother chooses. They usually have a way to hurt the children in mind, earning them a name, such as [[The Mother of Broken Bones]], or The Mother of Blazing Flames, which sound very impactful, leading to them being respected more during meetings and events. 
 - When a child is executed in such a way, they usually die, but there are rare cases where the child is rendered soulless, and they become mindless servants of the mother of the mansion, helping with the menial labour. 
 ## Father
 ![[Pasted image 20260415104836.png|170]]
@@ -61,29 +40,3 @@ The rules that they are forced to obey by the Mothers are such:
 - A servant must obey any and all commands given to them by the mansions inhabitants that don't clash with the previous two rules. 
 
 This leads to sicker thinking individuals such as socio/psychopathic children/guardians/mothers, to make servants kill themselves out of boredness/fun. This isn't a common practice due to the mess left afterwards, the negative impact of someone seeing this activity, the limited amount of servants, and the body left afterward. This can be done though to enforce fear and compliance into the children. 
-
-File: Theory D&D\Cults\Minor Cults\The Foundation.md
-
-#Cult 
-Since there are just so many god darn anomalies out there, the foundation is one of the entities that keep the public in the dark of them. Mainly by taking in anomalous items, and containing them. They do not wish to exterminate anomalies just in case, and are definetly not a ripoff of the SCP foundation (Definetly is though)
-
-The officials get sometimes invited to [[The Masquerade]]. 
-
-Whenever a foundation member encounters a child with [[Magic]]al capabilities, they are given over to [[The Family Buisness]], in exchange for being able to obtain some assistance with magicians back to help in their own operations. 
-
-File: Theory D&D\Events\The Masquerade.md
-
-#Event 
-A yearly event hosted by the family buisness, where the leaders of a mansion, A mother, and sometimes a father, will choose the 4 best children from the mansion, and take them with them to a massive masquerade. The mother will wear a dress that closely resembles her title, often leading to crimson colors in dresses. 
-The children they take with them will not be allowed to wander too far off from the mother, and will be tasked to perform for other parties if asked. They will usually be the strongest of the mansion they come from, so it is a common practice to put them in a gladiator arena, where only the strongest comes out. The goal isn't to kill, but there is a shame in losing, as you aren't invited to further masquerades if you lose. The winners are given recognition, and an additional title in the future masquerades, and this helps you a lot to become a mother on your own. 
-
-A lot of individuals from other cults are invited, with them being on peaceful terms during the masquerade. A child can be asked to perform for one of these guests during a masquerade. This sometimes leads to [[Pedophile]] like behaviour, which is overlooked by the leaders of the masquerade. Some of the parties invited by the masquerade are:
-- [[Angel]]s (including [[Bill Clinton]])
-- [[Demon]]s
-- [[The Government]]
-- [[Illuminati]]
-- [[Cloned/Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]]
-
-A masquerade exists in a different location every year, sometimes happening underneath the sky, sometimes under the ground. Due to the concentration of mothers the masquerade has an intense collection of [[Soul]]s, often exceeding the amounts that appear in the [[Hollow Earth]]. This allows for enchantments, and wards to be placed on the place, not only allowing for some of the greatest magical defenses, but also allowing for the place to be enchanted in some sophisticated way. It isn't uncommon for the place to disobey [[The Natural Forces]], often ending before it begins, allowing the people inside to experience zero [[Gravity]], and creating zones of absolute zero within the building itself. 
-
-

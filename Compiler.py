@@ -9,16 +9,19 @@ for root,dirs,files in os.walk(path1):
     for file in files:
         if file.endswith(".md"):
             path=os.path.join(root,file)
-            #print(path)
             with open(path,"r",encoding="UTF-8") as fs:
-                data[file]=f"\nFile: {path}\n\n{fs.read()}\n"
+                if file in data:
+                    data[str(os.path.join(root,file))]=f"\nFile: {path}\n\n{fs.read()}\n"
+                else:
+                    data[file]=f"\nFile: {path}\n\n{fs.read()}\n"
                 #total+=f"\nFile: {path}\n\n{fs.read()}\n"
 relevant_tags=[
     #"#Magic",
     #"#God",
     #"#Character",
     #"#Theory",
-    " "
+    #" "
+    "Masquerade"
 ]
 c=0
 for key in sorted(list(data.keys())):
