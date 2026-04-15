@@ -42,7 +42,7 @@ A [[#Mother]] is the leading role, usually taking up the role of the leader in a
 
 A mother will try to dress as beautifully as she can on formal gatherings, as she is the main representation of the mansion they live in. Once a year the mothers of the world will gather together in a secret event called [[The Masquerade]].
 
-A mother will try to remain in control of their family in all situations. This will mean that if a [[#Child]] tries to rebel, they will often get executed by the mother in one of the ways that the mother chooses. They usually have a way to hurt the children in mind, earning them a name, such as The Mother of Broken Bones, or The Mother of Blazing Flames, which sound very impactful, leading to them being respected more during meetings and events. 
+A mother will try to remain in control of their family in all situations. This will mean that if a [[#Child]] tries to rebel, they will often get executed by the mother in one of the ways that the mother chooses. They usually have a way to hurt the children in mind, earning them a name, such as [[The Mother of Broken Bones]], or The Mother of Blazing Flames, which sound very impactful, leading to them being respected more during meetings and events. 
 - When a child is executed in such a way, they usually die, but there are rare cases where the child is rendered soulless, and they become mindless servants of the mother of the mansion, helping with the menial labour. 
 ## Father
 ![[Pasted image 20260415104836.png|170]]
@@ -77,13 +77,37 @@ File: Theory D&D\Events\The Masquerade.md
 A yearly event hosted by the family buisness, where the leaders of a mansion, A mother, and sometimes a father, will choose the 4 best children from the mansion, and take them with them to a massive masquerade. The mother will wear a dress that closely resembles her title, often leading to crimson colors in dresses. 
 The children they take with them will not be allowed to wander too far off from the mother, and will be tasked to perform for other parties if asked. They will usually be the strongest of the mansion they come from, so it is a common practice to put them in a gladiator arena, where only the strongest comes out. The goal isn't to kill, but there is a shame in losing, as you aren't invited to further masquerades if you lose. The winners are given recognition, and an additional title in the future masquerades, and this helps you a lot to become a mother on your own. 
 
-A lot of individuals from other cults are invited, with them being on peaceful terms during the masquerade. A child can be asked to perform for one of these guests during a masquerade. This sometimes leads to [[Pedophile]] like behaviour, which is overlooked by the leaders of the masquerade. Some of the parties invited by the masquerade are:
+A lot of individuals from other cults are invited, with them being on peaceful terms during the masquerade. A child can be asked to perform for one of these guests during a masquerade. Some of the parties invited by the masquerade are:
 - [[Angel]]s (including [[Bill Clinton]])
 - [[Demon]]s
 - [[The Government]]
 - [[Illuminati]]
 - [[Cloned/Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]]
 
-A masquerade exists in a different location every year, sometimes happening underneath the sky, sometimes under the ground. Due to the concentration of mothers the masquerade has an intense collection of [[Soul]]s, often exceeding the amounts that appear in the [[Hollow Earth]]. This allows for enchantments, and wards to be placed on the place, not only allowing for some of the greatest magical defenses, but also allowing for the place to be enchanted in some sophisticated way. It isn't uncommon for the place to disobey [[The Natural Forces]], often ending before it begins, allowing the people inside to experience zero [[Gravity]], and creating zones of absolute zero within the building itself. 
+A masquerade exists in a different location every year, sometimes happening underneath the sky, sometimes under the ground. Due to the concentration of mothers the masquerade has an intense collection of [[Soul]]s, often exceeding the amounts that appear in the [[Hollow Earth]]. This allows for enchantments, and wards to be placed on the place, not only allowing for some of the greatest magical defenses, but also allowing for the place to be enchanted in some sophisticated way. It isn't uncommon for the place to disobey [[The Natural Forces]], often ending before it begins, allowing the people inside to experience zero [[Gravity]], and creating zones of absolute zero within the building itself. The masquerade usually lasts a week, but there are some edge cases where it takes less time. 
+
+## The Arena
+In the arena is where the children are placed against each other in a tournament like fashion. Four teams enter, one team leaves. In cases where there aren't enough teams, some of the losing teams are allowed in again, as a chance at a retribution. This is a team based game, where children who are unable to fight anymore are taken out, and the battles remain till only one side is left standing. 
+
+Because of the need to host battles like these, each of the mansions has created a specific arena in their region, that allows for it to be unique to all the other arenas, and they usually have some interesting stuff in them, such as a maze, a labrynth, a sea battle, with warships that the contestants have to navigate. Due to this providing an obvious home advantage, the hosting party of the masquerade is often forbidden to engage in the tournament. 
+
+Sometimes the parties are exposed to a disobeying guardian, child, or whatever else, that must be killed to proceed, leading to the children having to display absolute obedience to their mother, and must kill a human as a show of loyality. If this individual remains the last one standing, they are granted freedom from the force of the masquerades, and they are exiled from there, with their magical force taken, and their memories wiped, letting them spend the rest of their days peacefully in the regular world. If a person dies, they die right there, on the spot, in the arena. 
+
+## The Auction
+There is a seperate corner where magical items can be bought and sold, and stronger and more interesting ones are auctioned off, with the price being paid in [[Money]], [[Soul]] or [[Human]] workforce. 
 
 
+
+
+File: Theory D&D\Characters\Modern\The Mother of Broken Bones.md
+
+#Character 
+A [[The Family Buisness#Mother|Mother]] that is in charge of the mansion located in Latvia. She has earned her title due to her very violent and physical execution methods, often leading to the people she kills to end up with broken bones or severed [[Body]] parts. She was a child of a mansion once, and she won an arena battle during one of [[The Masquerade]]s, with a flawless 4 people victory. She is currently estimated to be around 1.8k [[Soul]] HP, which is on the lower end of mothers of the world, but despite this, she is well respected in the community due to the effectivity of her killing any of her enemies. Whenever she comes along on a mission, you know shit is about to go down, as she is the mother with the second highest mission success ratio. 
+
+## Personality
+This mother is cold, seemingly unfeeling, and extremely precise on what she wants, and will get it, with any means neccessary. 
+
+
+
+The Mother of broken bones wears a dress like seen in the picture to formal meetings, which not only represents the colors of her countries flag, but also very well represents what her children is afraid of becoming if they dare disobey. 
+![[Pasted image 20260415121546.png|318]]
