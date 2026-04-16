@@ -39,12 +39,14 @@
             "id": "6271f0d46bc4df15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Theory D&D/Visuals/Maps/Magic Structure.md"
+                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Magic Structure"
+              "icon": "lucide-file",
+              "title": "Main Idea"
             }
           }
         ],
@@ -220,15 +222,18 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "6271f0d46bc4df15",
   "lastOpenFiles": [
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md",
+    "Theory D&D/Visuals/Maps/Magic Structure.md",
     "Theory D&D/Visuals/Maps/Reality Structure.md",
     "Theory D&D/Visuals/Maps/Solar System.md",
     "Theory D&D/Visuals/Maps/Ultradrawing.md",
-    "Theory D&D/Visuals/Maps/Magic Structure.md",
     "Theory D&D/Concepts/Magic/Negative Energy.md",
     "Theory D&D/Concepts/Magic/Ritual.md",
     "Theory D&D/Concepts/Magic/Seven Deadly Sins/Lust.md",
@@ -249,8 +254,6 @@
     "Theory D&D/Things/Locations/Space/The Universe.md",
     "Theory D&D/Things/Locations/Space/The Sun.md",
     "Theory D&D/Things/Locations/Space/The Moon.md",
-    "Theory D&D/Things/Locations/Space/The Earth.md",
-    "Theory D&D/Things/Locations/Countries/United States.md",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415121546.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415112106.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415105814.png",

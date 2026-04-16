@@ -7,5 +7,7 @@
   "obsidian-importer",
   "obsidian-pandoc",
   "inline-spoilers",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-leaflet-plugin",
+  "obsidian-style-settings"
 ]
