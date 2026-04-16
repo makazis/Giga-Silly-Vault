@@ -17,7 +17,3 @@
 - [[Ascension Blacklist]]
 
   
-
-Thoughts: 
-
-Was [[Jesus]] a saint? Steel ball run reference?

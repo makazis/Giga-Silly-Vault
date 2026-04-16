@@ -16,7 +16,7 @@
 - Since the skin is a separate entity, it means it can house a separate [[Soul]], meaning that humans can hold onto two souls at a time by nature. 
     
 
-- There is smart dust in our system, that can activate under certain light/temperatures, that forces us to activate like sleeper agents, making us sad, aggressive, or forcibly controlling our body. 
+- There is [[Theory D&D/Things/Materials/Smart Dust|Smart Dust]] in our system, that can activate under certain light/temperatures, that forces us to activate like sleeper agents, making us sad, aggressive, or forcibly controlling our body. 
     
 Humans live in a [[Society]].
 

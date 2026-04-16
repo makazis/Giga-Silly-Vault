@@ -18,9 +18,9 @@
 - This means that the reason babies are born is because their mothers body produces some methane upon childbirth. How this could help you, I have no idea.
     
 
-- When humans consume another entity, such as bread, or meat, that is when their body creates methane, as a way to get rid of the excess parts of the soul. This means that without feeding, you cannot have kids. 
+- When humans consume another entity, such as bread, or meat, that is when their body creates methane, as a way to get rid of the excess parts of the soul. This means that without eating, you cannot have kids. 
     
-- The souls have to spend an eternity inside of a heaven, or a hell, which is where the consciousness is left to rest forever, till they succumb to the nothingness, before being returned to the tree of life, for reincarnation. 
+- The souls have to spend an eternity inside of a [[Heaven]], or a [[Hell]], which is where the consciousness is left to rest forever, till they succumb to the nothingness, before being returned to the tree of life, for reincarnation. 
     
 - Souls removed from the body can become ambient mana, if not redirected to heaven or hell. The usage of such mana chips away at them, meaning that mana is a renewable resource, but can run out. 
     

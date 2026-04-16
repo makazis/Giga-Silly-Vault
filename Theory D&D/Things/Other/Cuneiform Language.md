@@ -1,2 +1,2 @@
 #Thing #Language
-This is an old world language, that relied more on symbols and logos, rather than pronounciation and words as we know them today. This is similar to things like old mezopotanian texts, or [[Ancient Egyptians|egyptian]] hieroglyphics. 
+This is an old world [[Language]], that relied more on symbols and logos, rather than pronounciation and words as we know them today. This is similar to things like old mezopotanian texts, or [[Ancient Egyptians|egyptian]] hieroglyphics. 
