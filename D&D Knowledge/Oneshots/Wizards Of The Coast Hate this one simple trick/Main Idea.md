@@ -19,11 +19,19 @@ Some random events that can happen on each spot of the map too maybe. Nah, let's
 		- The party is spawned three hundred feet below the surface of the sea. The wizards cast water breathing on each other, but they are approached by naga, who try to reclaim their territory. The wizards are stuck placing the crystal under the sea, and they need to remain in a fixed place for five minutes as more and more naga approach, trying to kill the party. 
 	- # The Harpy Encounter
 		- The party arrives at the middle of a desert with several harpies circling above them, and several skeletal fossils all around them. The closest fossil is like 200 feet away, and the wizards decide to go in there to make the portal in there, meaning they have to cross the 200 feet by themselves, while the wizards rush with them, and make sure that the wizards aren't targeted by the harpies, as if one of them casts a spell other than the spell needed to make a portal, they won't have enough energy, so this is kind of protect the king mission. 
+	- # The Mimic Colony
+		- The party spawns in what seems like an underground dungeon, with some voices in the distance, and footsteps coming, and when they approach the door, it was a mimic, who was trying to get them to approach the door so it can try to eat it. Also every other item in the room is a mimic, and suddenly becomes a mimic. 
 - Roleplay Encounters:
 	- # Crystal Broke:
 		- During the replacement of the crystal, it breaks, and must be replaced. The crystal breaking creates a nuclear level of explosion, causing for the wizards to sit inside of a protective bubble with a deck of cards. 
 	- # The Happy Gorillas:
 		- Very similar to [[#The Angry Gorillas]]. There is a group of semi sentient, tool using gorillas that approach the party, and try to exchange items. this will ALWAYS lead to the angry gorillas, as they are one dimension apart. 
+	- # Gates of Heaven:
+		- The Party arrives at the gates of heaven, and angels begin to try to explain to them that they aren't getting into heaven, and that this plot was tried before by Otto the III, after he made up history to become a church leader. 
+	- # The Goblin Funeral:
+		- The party is in the middle of a goblin funeral, of many, high society goblins that act like humans, and are in fact just really polite, and very understanding of the whole portal thing, but they ask for the funeral rites to be taken first, so they can pay respects to their fallen comrade. He was a great goblin. 
+	- # The Void:
+		- The party arrives in the middle of the void, where they begin falling, and must grab onto something relatively close, to abandon their vertical momentum. 
 - Removed Encounters:
 	- # Passage Below:
 		- This is an one way portal into the hell dimension, causing for the hell path to be entered, which the party must go through to get back on track, or die trying, remaining in hell eternally. 
