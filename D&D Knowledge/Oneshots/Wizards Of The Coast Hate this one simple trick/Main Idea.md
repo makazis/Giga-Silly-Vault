@@ -34,12 +34,14 @@ Some random events that can happen on each spot of the map too maybe. Nah, let's
 	- # The Elder Cat
 		- The party arrives in the house of a giant cat, who comes home, and decides to play with the party a bit. IF they hurt the cat, or if it becomes too bored, it will try to hunt the party down. 
 	- # The Boy with the bycicle
-		- A peaceful village, where a boy has poured a potion of levitation on his bycicle, and is now floating above the clouds, and the villagers are running up to the party, as they are looking for help. 
+		- A peaceful village, where a boy has poured a potion of levitation on his bycicle, and is now floating above the clouds, and the villagers are running up to the party, as they are looking for help.
+	- # OBJECTIVE: KILL GOD
+		- In the sky, there is a cloud, that the party starts on. On the other side of them, there is a massive wall, like massive, as far as the eye can see wall, on which a massive skull is embedded into the wall, and a message in blood, that says: "Objective: KILL GOD" and massive echoes of footsteps can be heard in the distance on the other side of them. The skull is of a tarrasque. 
 - Trap Encounters:
 	- # The Void:
 		- The party arrives in the middle of the void, where they begin falling, and must grab onto something relatively close, to abandon their vertical momentum. There is a lot of debris, and lots of random furniture and a couple body parts. There is a relatively large metal plate that the party can land on, but they have to either kick off a bit in that direction, or they have to use their resources to move midair. 
 	- # Icy Caverns:
-		- The party spawns in an ice caverns 
+		- The party spawns in an ice caverns, where the temperature is freezing, and they need to light a fireplace, or keep it warm while the wizards make the portal thingy. They must roll a DC 12 con save every minute, and it increases by 1 for every time, or take 1d8 cold damage
 - Removed Encounters:
 	- # Passage Below:
 		- This is an one way portal into the hell dimension, causing for the hell path to be entered, which the party must go through to get back on track, or die trying, remaining in hell eternally. 
