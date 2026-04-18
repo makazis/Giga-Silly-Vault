@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"D&D Knowledge\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,6 +81,6 @@
   "repelStrength": 7.85467128027682,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.16348370567220039,
-  "close": true
+  "scale": 1.7404978230765373,
+  "close": false
 }

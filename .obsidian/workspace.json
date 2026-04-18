@@ -25,12 +25,14 @@
             "id": "33d874e4df273c70",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-07 19.36.56.excalidraw.md"
+                "file": "D&D Knowledge/Analysis/Spells/Cantrips/Booming Blade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-07 19.36.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "Booming Blade"
             }
           }
         ],
@@ -212,7 +214,12 @@
   },
   "active": "33d874e4df273c70",
   "lastOpenFiles": [
+    "D&D Knowledge/Analysis/Spells/Cantrips/Acid Splash.md",
+    "D&D Knowledge/Analysis/Spells/Cantrips/Booming Blade.md",
     "Excalidraw/Drawing 2026-04-07 19.36.56.excalidraw.md",
+    "D&D Knowledge/Analysis/Spells/Cantrips",
+    "D&D Knowledge/Analysis/Spells",
+    "D&D Knowledge/Analysis",
     "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
@@ -236,8 +243,6 @@
     "Theory D&D/Things/Locations/Structures/The Math Vault of Trinidad.md",
     "Theory D&D/Things/Locations/Structures/The Artificial Sun.md",
     "Theory D&D/Things/Locations/Structures/The Pyramids.md",
-    "Theory D&D/Things/Locations/Structures/The Sphynx.md",
-    "Theory D&D/Things/Locations/Structures/Vatican Vault.md",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415121546.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415112106.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415105814.png",
@@ -255,9 +260,6 @@
     "Theory D&D/Concepts/Magic/Seven Deadly Sins",
     "Theory D&D/Visuals/Maps",
     "Theory D&D/Visuals/Imagedump",
-    "Theory D&D/Visuals",
-    "Theory D&D/Theories/Scientific",
-    "D&D Knowledge/Characters/Main Branch/Briareus Kratos/Briareus Kratos Spells",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]
