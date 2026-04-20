@@ -13,8 +13,8 @@ Personality:
 - On the surface, he seems like a regular, polite kid, with a genius intellect. He tries to be as formal and as pleasant as possible. 
 - When he lets his inner self loose, he exhibits the attributes of a sadistic psychopath, hurting people for entertainment, and for his own satisfaction. 
 Relationships:
+- [[The Mother of Broken Bones]]: Sees her as a way to keep the world turning. As one of the only forces keeping him down, in line. He does not hate her, as she allows him to be himself, as long as he is worth keeping around. 
 - [[Linda Dreiblathen]]: Sees her as a rather interesting individual. Foolish, due to trying to serve a system, but determined. A fun toy to mess around with sometimes. To some of her clones that do not see, hear or feel pain, he enjoys torturing them as well. 
-
 Powers:
 - Genius Intellect: Charon posesses an IQ of over 230, causing for him to be mentally 30. He has studied several fields relating to magic, as well as having several doctorates in physics 
 - Vibration Manipulation: Charon possesses the staff if Arotej that allows for him to control [[Vibrations]] around him, which he can use for disrupting enemies, changing terrain to his liking, healing himself and his peers, and, by using the principles of [[RAB-Khuga]], he can melt his enemies into flesh. 
