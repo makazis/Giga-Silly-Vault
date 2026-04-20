@@ -18,10 +18,11 @@ for root,dirs,files in os.walk(path1):
 relevant_tags=[
     #"#Magic",
     #"#God",
-    #"#Character",
+    #"#Cryptid",
     #"#Theory",
-    " "
-    #"Masquerade"
+    #" "
+    "Masquerade",
+    "The Family Buisness"
 ]
 c=0
 for key in sorted(list(data.keys())):

@@ -20,3 +20,10 @@ She has taken many forms, due to her abilities, sometimes including a male, a gi
 
 ## Powers
 Due to her abilities, she can use magic on anyone she can lay her eyes upon, often leading her to take forms with more than a single set of eyes. This can mean she has a swarm of eyes rotating around her head, or she tending to take the form of a biblically accurate [[Angel]]. 
+
+## Champions
+There are 4 children that will be accompanying her to [[The Masquerade]] this year:
+- [[Charon Berzins]]
+- [[Linda Dreiblathen]]
+- [[Jacob Grewich]]
+- [[Ruth Prauline]]
