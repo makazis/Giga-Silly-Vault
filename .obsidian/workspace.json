@@ -42,44 +42,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+                "file": "Theory D&D/Cults/Minor Cults/The Family Buisness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Idea"
-            }
-          },
-          {
-            "id": "2477d4a47728f2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Main Idea"
-            }
-          },
-          {
-            "id": "ca6017ae6b55005a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Misc/Curse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curse"
+              "title": "The Family Buisness"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c7da7ca1f315ab8e",
@@ -101,20 +73,6 @@
             }
           },
           {
-            "id": "ba80436f1f8c424c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory D&D/Things/Magic/Primal Spells/Store.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Store"
-            }
-          },
-          {
             "id": "b296a3112b8ee5a4",
             "type": "leaf",
             "state": {
@@ -127,9 +85,23 @@
               "icon": "lucide-file",
               "title": "Spark"
             }
+          },
+          {
+            "id": "8af00b98cea2b250",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,49 +276,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2477d4a47728f2d0",
+  "active": "8af00b98cea2b250",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Theory D&D/Things/Magic/Primal Spells/Spark.md",
+    "Theory D&D/Things/Magic/Primal Spells/Store.md",
+    "Theory D&D/Cults/Minor Cults/The Family Buisness.md",
+    "Theory D&D/Events/The Masquerade.md",
+    "Theory D&D/Events/The Great Cycle.md",
+    "Theory D&D/Characters/Modern/The Mother of Broken Bones.md",
+    "total.md",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415121546.png",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415112106.png",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415105814.png",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415105739.png",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415105442.png",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415104836.png",
+    "Theory D&D/Things/Locations/Structures/Georgia Guidestones.md",
+    "Theory D&D/Theories/Useless/Empty Internet.md",
+    "Theory D&D/Theories/Useless/Coriander Veins.md",
+    "Theory D&D/Theories/Spiritual/Trepanning.md",
+    "Theory D&D/Theories/Spiritual/Mad Honey.md",
+    "Theory D&D/Theories/Scientific/GGGQEP.md",
+    "Theory D&D/Theories/Scientific/Coronal Heating.md",
+    "Theory D&D/Theories/Political/FWD 7.md",
+    "Theory D&D/Theories/Political/Animal Spying.md",
+    "Theory D&D/Theories/Dogon tribe.md",
+    "Untitled.base",
+    "Theory D&D/Characters/Modern/Bill Clinton.md",
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+    "Theory D&D/Visuals/Imagedump/Pasted image 20260415162005.png",
+    "The Masquerade.md",
+    "Theory D&D/Things/Magic/Misc/Curse.md",
     "Theory D&D/Visuals/Imagedump/a40e020a50df79800734eb1e39365e2a.jpg",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415103731.jpg",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260408145638.png",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260408144300.png",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260408104511.png",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260408091134.png",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260408081140.png",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260407113555.png",
-    "Theory D&D/Visuals/Imagedump/4e5be3c7b4309fecba99b4a0eeb59cc4.jpg",
     "Theory D&D/Cults/Minor Cults/The Foundation.md",
-    "Theory D&D/Cults/Minor Cults/The Family Buisness.md",
     "Theory D&D/Concepts/Magic/Lisal.md",
     "Theory D&D/Concepts/Entities/Cryptids/Demon.md",
-    "Theory D&D/Characters/Modern/The Mother of Broken Bones.md",
-    "Theory D&D/Things/Magic/Primal Spells/Store.md",
-    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick",
     "D&D Knowledge/Oneshots",
-    "total.md",
-    "Untitled.base",
-    "Untitled.md",
-    "Theory D&D/Theories/Souls n shit/Akashic Records.md",
-    "Theory D&D/Theories/Useless/Looking at Dark Energy.md",
-    "Theory D&D/Theories/Useless/Real Meaning of Hybrid RPG.md",
-    "Theory D&D/Things/Locations/Bhutanese Shadow Market.md",
-    "2026-04-11.md",
-    "Theory D&D/Concepts/Things one can do/Decalcification.md",
-    "Theory D&D/Theories/Spiritual/Hook Operators.md",
-    "Theory D&D/Concepts/Science/Mutation.md",
-    "Theory D&D/Concepts/Things one can do/Missing Person.md",
-    "Theory D&D/Things/Magic/Items/The Life Elixir.md",
-    "Theory D&D/Things/Magic/Items/Holy Grail.md",
-    "Theory D&D/Things/Magic/Items/Gauntlets of Mu.md",
-    "Theory D&D/Things/Magic/Items/Face of The Void.md",
-    "Theory D&D/Things/Magic/Primal Spells/Trigger.md",
-    "Theory D&D/Things/Magic/Primal Spells/Spark.md",
-    "Pasted Image 20260410232824_556.png",
     "Theory D&D/Concepts/Science/The Natural Forces",
     "Theory D&D/Concepts/Magic/Seven Deadly Sins",
-    "Theory D&D/Visuals/Imagedump/world.svg",
     "Theory D&D/Visuals/Maps",
     "Theory D&D/Visuals/Imagedump",
     "Theory D&D/Visuals",
