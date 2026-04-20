@@ -18,7 +18,7 @@ for root,dirs,files in os.walk(path1):
 relevant_tags=[
     #"#Magic",
     #"#God",
-    #"#Character",
+    #"#Cryptid",
     #"#Theory",
     #" "
     "Masquerade",
