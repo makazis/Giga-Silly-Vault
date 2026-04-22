@@ -1,0 +1,2 @@
+The Magic Player
+A retro casette player, that allows for the user to cast magical spells by listening to certain tunes in the track. These custom spells do take out the spell slots of the caster when cast, but it has some banger casettes, with banger music. 
