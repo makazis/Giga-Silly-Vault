@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "Custom Magic Items"
             }
+          },
+          {
+            "id": "cd6650b84e84668c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D Knowledge/Random Other stuff/Water Whip, Variant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Water Whip, Variant"
+            }
           }
         ],
         "currentTab": 1
@@ -214,12 +228,19 @@
   },
   "active": "33d874e4df273c70",
   "lastOpenFiles": [
-    "Theory D&D/Things/Medicine/Diseases/Rabies.md",
-    "D&D Knowledge/Obojima/Custom Magic Items.md",
-    "Notes/Halfling/Basic Stuff.md",
-    "D&D Knowledge/Random Encounters/Cool Shit 1.md",
-    "D&D Knowledge/Obojima",
+    "Pasted image 20260422180218.png",
+    "Pasted image 20260422175812.png",
+    "Pasted image 20260422173447.png",
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Show, not tell.md",
+    "D&D Knowledge/Random Other stuff/Water Whip, Variant.md",
+    "D&D Knowledge/Random Encounters/Cool Shit 1.md",
+    "D&D Knowledge/Random Encounters/Food Rolls.md",
+    "D&D Knowledge/Obojima/Custom Magic Items.md",
+    "D&D Knowledge/Random Other stuff",
+    "Theory D&D/Things/Medicine/Diseases/Rabies.md",
+    "Notes/Halfling/Basic Stuff.md",
+    "D&D Knowledge/Obojima",
     "OIP.jpg",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260408144300.png",
@@ -229,9 +250,6 @@
     "Theory D&D/Visuals/Imagedump/Pasted image 20260404221134.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415104836.png",
     "Theory D&D/Visuals/Imagedump/Pasted image 20260415112106.png",
-    "Theory D&D/Visuals/Imagedump/world.svg",
-    "Theory D&D/Visuals/Imagedump/Pasted image 20260415105739.png",
-    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
     "D&D Knowledge/Analysis/Spells/Cantrips/Booming Blade.md",
     "D&D Knowledge/Analysis/Spells/Cantrips/Acid Splash.md",
     "total.md",
@@ -251,15 +269,11 @@
     "Excalidraw/Drawing 2026-03-29 21.22.20.excalidraw.md",
     "Theory D&D/Characters/Medieval/Otto III.md",
     "Theory D&D/Visuals/Maps/Magic Structure.md",
-    "Theory D&D/Visuals/Maps/Reality Structure.md",
-    "Theory D&D/Visuals/Maps/Solar System.md",
-    "Theory D&D/Visuals/Maps/Ultradrawing.md",
     "Untitled.base",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick",
     "D&D Knowledge/Oneshots",
     "Theory D&D/Concepts/Science/The Natural Forces",
     "Theory D&D/Concepts/Magic/Seven Deadly Sins",
-    "Theory D&D/Visuals/Maps",
     "Theory D&D/Characters/Untitled.canvas",
     "Untitled.canvas"
   ]
