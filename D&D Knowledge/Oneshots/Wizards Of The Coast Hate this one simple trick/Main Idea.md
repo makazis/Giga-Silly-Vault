@@ -45,3 +45,42 @@ Some random events that can happen on each spot of the map too maybe. Nah, let's
 - Removed Encounters:
 	- # Passage Below:
 		- This is an one way portal into the hell dimension, causing for the hell path to be entered, which the party must go through to get back on track, or die trying, remaining in hell eternally. 
+
+LasLas: Common, Elf
+
+Green PFP: Common, Halfling, druidic, elven
+
+ToniHalazia: Common, Gnome, Giant
+
+Etnosama: Common, Halfling, Thieves Cant
+
+
+Giant: Outskirts
+After spending three weeks there at an outpost, I have a feeling it isn't as bad as it first looks. Maybe I'll come back with a party one day. 
+
+Druidic: Jungle
+Chill:
+The inhabitants seem way more reasonable than the last place. I even got a really cool stick. Jerry will love this. 
+
+Druidic: Jungle
+Alright, note to self, bring a fireball to this place next time. 
+
+Elvish: Okiri Village
+I bought some cabbages here during the festival. Good cabbages, would recommend. 
+
+Thieves Cant: Little To No Cheese
+This place is looted, no point in going here. 
+
+Halfling: Tree
+Just be very quiet. If that was a hill, I'm afraid of what a mountain is. 
+
+Gnomish: The Walls
+Stealing is punished by death. Good. As it should be. 
+
+Druidic: Shepherds Remorse
+Yeah, i get why it's called that now. I'm not going back there. 
+
+Thieves Cant: It's Very Cold in here
+I buried an ingot of pure gold underneath the tree with the white bark. If this is still here, and I haven't removed this scribbling, good luck. 
+
+
