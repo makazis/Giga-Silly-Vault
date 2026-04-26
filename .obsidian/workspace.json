@@ -51,6 +51,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "93503b3b8c7b0aaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a65afb044f5ee1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Show, not tell.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Show, not tell"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +244,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "33d874e4df273c70",
+  "active": "6f3a4b7d9555bed8",
   "lastOpenFiles": [
-    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Show, not tell.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Main Idea.md",
+    "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/Show, not tell.md",
     "D&D Knowledge/Oneshots/Wizards Of The Coast Hate this one simple trick/The Map.md",
     "Theory D&D/Things/Medicine/Diseases/Rabies.md",
     "D&D Knowledge/Obojima/Things to keep in mind.md",
