@@ -1,1441 +1,174 @@
 
-File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Absence of Speech.md
-
-#Spell #Magic #Enchantment 
-- Description:
-	- A spell created by using the [[Trigger]] spell on a [[Silence]] spell, and by imbuing additional mana, causing it to stay on the targets body until dispelled. Whenever the target opens their mouth, only silence can come out. 
-	- This is a [[Curse]], that can be [[Enchant Item|imbued onto an item]], producing the [[Curse of Silence]] modifier.  
-- Components:
-	- Ancillary:
-		- (1) The [[Trigger]] spell, targeting the [[Silence]] spell, with an automatic component must be cast on the target. 
-	- Magical:
-		- (2) The caster takes 1d4 soul damage. (Total: 4d4+1)
-
-File: Theory D&D\Concepts\Entities\Cryptids\Angel.md
-
-#Cryptid 
-Angels are entities aware of our existence in [[The Simulation]], and are tasked with the synchronization of [[Time]]lines. There aren't enough Angels to go around, and sometimes some stuff slips by, causing the [[Mandela Effect]] to happen, but major events of world history, such as world [[War]]s, are synchronized across all timelines due to Angels. They also are tasked with preventing people from timeline jumping, as this could damage their whole integrity, and bring the whole simulation down. 
-
-People often idolize angels, as when they show up, the more fucked up timelines tend to restructure themselves into regular timelines. 
-
-There are several people on [[The Earth]] who are secretly angels, but the main ones include the guardians of the [[Timecube]]:
-- [[Jesus]] (Good)
-- [[Albert Einstein]] (Intelligent)
-- [[Socrates]] (Wise)
-- [[Bill Clinton]] (Evil)
-The Secret Angels change identities to fit in with the population of the world, but are effectively [[Immortallity|Immortal]] (Due to the everlasting nature of the angels themselves)
-This also means that to upkeep the nature of the timelines, there are 4 entities in each timeline, but all 4 of the same kind across all timelines share knowledge. 
-
-File: Theory D&D\Concepts\Entities\Cryptids\Archons.md
-
-#Entity #Cryptid #Concept 
-[[Demon]]s in the religion of [[Gnosticism]]. 
-
-File: Theory D&D\Concepts\Magic\Aura.md
-
-#Concept #Magic
-Aura is a field that usually is invisible, around a specific creature, or an item. 
-
-When a [[Human]]'s aura is onlooked, it usually takes the color of their [[Soul]], and their prowess in [[Theory D&D/Concepts/Magic/Magic]].
-The more powerful creatures will have wider, and brighter auras. 
-
-[[Soulless]] people have a black aura around them. 
-
-File: Theory D&D\Things\Magic\Rituals\Barksteal Rune.md
-
-#Magic #Thing #Ritual
-A rune that allows it's carver to use the [[Soul]]s energy of the [[Tree]] it's carved in, as their own. 
-TODO: write a description here later on how that would be done. 
-
-A derivative of [[Soul Access]],
-
-File: Theory D&D\Concepts\Magic\Chakra.md
-
-#Concept #Magic
-# Things to note:
-
-- The third chakra is stored in your pancreas. 
-    
-- One of the Chakras is in your [[Solar Plexus]]
-the chakras are inside of your [[Body]].  
-Chakras are the different windows into one's [[Soul]], with them being in different places letting you do different stuff with them, and use them in [[Lisal]] magic. 
-# Related Theories:
-
-- [[Pancreas Denial]]
-- [[Solar Plexus Clown Gliders]]    
-
-
-File: Theory D&D\Characters\Modern\Charon Berzins.md
-
-#Character 
-Nickname: The Broken King
-Age: 13
-Faction: [[The Family Buisness]] (Latvia)
-Rank: 1
-Appearance:
-A small, white haired boy, holding a staff, with a skull on it. Usually prefers wearing clothes similar to those that [[The Mother of Broken Bones]] would wear, but male focused. He usually doesn't let the staff of Arotej go too far from his hands, so he is often seen holding onto that.
-![[Pasted image 20260420095819.png|344]]![[Pasted image 20260420100048.png|220]]
-Backstory:
-- Charon was born in a loving family, where both he, and his brother, Arotej had inherited powers. His brother had always had the stronger abilities, that allowed him to manipulate vibrations, while he was born with a genius intellect. He learned from an early age that people do not understand him, and that they fear his psychopathic tendencies, so he learned to hide them. They were shortly after birth adopted by [[The Family Buisness]], and taken care of there. 
-- At the age of 11, shortly after the begining of the summer break, Charon and Arotej went onto a mission, during which Charon lured Arotej into a trap, and trapped his soul into a staff, creating the staff of Arotej. 
-Personality:
-- On the surface, he seems like a regular, polite kid, with a genius intellect. He tries to be as formal and as pleasant as possible. 
-- When he lets his inner self loose, he exhibits the attributes of a sadistic psychopath, hurting people for entertainment, and for his own satisfaction. 
-Relationships:
-- [[The Mother of Broken Bones]]: Sees her as a way to keep the world turning. As one of the only forces keeping him down, in line. He does not hate her, as she allows him to be himself, as long as he is worth keeping around. 
-- [[Linda Dreiblathen]]: Sees her as a rather interesting individual. Foolish, due to trying to serve a system, but determined. A fun toy to mess around with sometimes. To some of her clones that do not see, hear or feel pain, he enjoys torturing them as well. 
-Powers:
-- Genius Intellect: Charon posesses an IQ of over 230, causing for him to be mentally 30. He has studied several fields relating to magic, as well as having several doctorates in physics 
-- Vibration Manipulation: Charon possesses the staff if Arotej that allows for him to control [[Vibrations]] around him, which he can use for disrupting enemies, changing terrain to his liking, healing himself and his peers, and, by using the principles of [[RAB-Khuga]], he can melt his enemies into flesh. 
-Synergies:
-- [[Linda Dreiblathen]]: He can heal her after her [[Soul]] is exhausted, allowing her to expend more soul than she would normally have, and create more copies. She cannot make more than 32, as that would require her soul to be split more than five times, which is fractured enough for her to lose control of the clone, and the clone going rogue. 
-
-File: Theory D&D\Concepts\Entities\Gods\Christian God.md
-
-#Character #God #Biblical 
-We know he exists, because there exist [[Incorruptible Saints]]
-Father of [[Jesus]]
-he is a [[God]]
-
-File: Theory D&D\Things\Magic\Items\Enchantments For Items\Curse of Silence.md
-
-#Magic #Spell #Enchantment
-
-- Description:
-	- The wearer of the item is constantly under the effect of [[Absence of Speech]], that takes their breath away whenever they try to say something. 
-
-File: Theory D&D\Things\Magic\Misc\Curse.md
-
-#Concept #Magic 
-A curse is a negative [[Enchantment]] that affects an individual. There are many types of curses, but they aren't categorized as to yet. 
-
-An item imbued with a curse is called a cursed item. 
-
-File: Theory D&D\Things\Magic\Rituals\Degusya Soul Extraction.md
-
-#Thing #Magic #Ritual
-When a [[Human]] is in need of more [[Soul]]s in order to increase their [[Theory D&D/Concepts/Magic/Magic]]al capabilities, they can borrow souls from other people, by the contract of a [[Degusya Soul Extraction]]. 
-
-The soul extraction is a spell that was created by [[The Before||ancients from before our world]], and has persisted through several cycles. It works by there existing a seperate pocket dimension that can be accessed by people, where the souls take physical forms. People can enter this dimension, and can leave that dimension, and the souls that they leave with are the souls that they own now. This also does mean that a person can go into this pocket dimension with weapons, and fight people for their souls, as well as leave people in here without souls, or force them out without souls. Lots of fun stuff you can do in this dimension. 
-
-Other than that a soul will manifest as the most cherished person that the soul has, so that the people in there feel an instinctive urge to protect their soul, and not to give it away. 
-
-The way to enter this realm is by a [[Ritual]], which requires a magical circle, and something, and all the people who are going to be transferred must remain within the circle for 5 minutes, so the best way to transfer them is by having them be asleep. Of course, since the soul and the body must be awake when in the other realm, they are awakened, so they can be at a full consciousness. Then, peaceful conversations can take place, after which the people can leave with the souls of their choosing. 
-
-This also means that since a person is transferred with all of their belongings, a person can enter with a weapon. Dying in this realm means you get pushed back to the regular world without your soul, so the best choices in order to steal a soul is either start the ritual while the person is restrained, or by bringing a gun into the battle while they are asleep. 
-
-Cool tomfoolery. 
-
-
-Anywho, a short description of the ritual itself:
-## Degusya Soul Extraction
-- Description:
-	- A ritual that after (3) sends the visitors and the subjects to a pocket dimension, where the visitors can bind the souls of subjects to their service, being able to draw upon them whenever they are in need of casting a spell. Each visitor can take more than one soul from the subjects.
-	- Derivative of [[Soul Access]]. 
-- Components:
-	- Somatic/Verbal: 
-		- (1) The Visitors must make a full circle through all 6 of the sectors. ||This is to divide the maximum people, so that they don't injure each other during the ritual.|| 
-		- (2) The Visitors must point to the middle of the circle, at the closest one of the subjects. Despite this, all humans in the middle of the circle are transported. ||This is to enable a link between the Visitors and the Subjects, so that entities that do not have the ability of pointing does not get sucked into the ritual themselves.||
-		- (5) Visitors must execute this hand sign:
-		- ![[Pasted image 20260326120636.png|161]]
-			- ||This is to ensure that the souls of the Visitors are collected into the space between their hands, and so that they are protected during the journey. This is because the Visitors wouldn't usually travel with the subjects after the Gateway ritual is complete.||
-		- (6) Visitors must execute this hand sign: 
-		- ![[Pasted image 20260326120855.png|154]]
-			- ||This is required to send the Visitor's essences and their soul rights into the circle of the subjects, while leaving the Visitors themselves outside of the circle. This also does mean that a Visitor can abuse this by bringing in weapons with themselves, to ensure their way is met. ||
-		- (7) Visitors must execute this hand sign: 
-		- ![[Pasted image 20260326121711.png|328]]
-			- || This is the hand sign to show that the Visitors are ready to be transported, upon what time they will be brought forth into the pocket dimension along with the Subjects. ||
-	- Runic: 
-		- (0) Requires a magic circle drawn on the ground. Must have a sector count that is divisible by 6. Each Visitor must stand on one of the 6 sectors. The magic circle must have a smaller circle in the center, in which all of the Subjects must be thorough the ritual.
-			-  ||In the other dimension, the runic circle remains, and if a Subject exits it, they are transported safely back to their home dimension. ||
-	- Role Participatory:
-		- Visitor: Up to 6 people, each standing on one of the sectors of the magic circle at the beginning of the ritual. 
-		- Subject: Any number of people who begin in the inner magic circle become Subjects. All subjects who remain in the inner circle at the end of the ritual, they are transported over to the other dimension, and can be convinced by the Visitors to give up their souls.
-	-  Ancillary:
-		- (3) A [[Gateway Ritual]] must be cast after all of the ritual members have taken their place on their selective circles, and in their selective roles. 
-			- ||This is done to establish the connection to the outer dimension. The magic circle below the feet of the Visitors should serve as a destination for the ritual.||
-	- Magical:
-		- (4) Each of the casters souls take 1d6 damage. 
-- Edge Cases:
-	- If a subject escapes the circle in the middle before the ritual has taken place, they aren't transported to the pocket dimension. 
-		- If a Visitor begins the ritual with no alive subjects in the middle, and they are transported to the dimension, they are stuck there till they can find another ritual of the same kind, and escape using that ritual. 
-	- If multiple Visitors enter the ritual, they are capable of taking each others souls if they defeat each other in combat. 
-- Common Mistakes:
-	- (1.1) The Visitors only travel through 3 of the sectors instead of all 6.
-		- The Visitors are only able to take back one soul each. 
-	- (1.2) The Visitors walk the circle counterclockwise instead of clockwise.
-		- The Visitors arrive 1d4-1 rounds after the subjects do, giving the subjects a bit of time to make sense of their surroundings, and perhaps escape. 
-	- (2.1) The Visitors point at each other instead of the Subjects. 
-		- Subjects aren't transported to the other dimension. Nobody can leave until they've either aqquired someone's soul, or lost their own. 
-	- (3.1) The Gateway ritual is cast before the Visitors take their places. 
-		- The ritual functions, but since the Visitors weren't the only ones to stand in the middle of the circle at the beginning, they aren't the only ones transported to the other side. Any individual that enters the circle in the next 17 hours is transported to the pocket dimension too, as a visitor, and can remain trapped in there, if they do not retrieve a soul. 
-		- This only happens if they walk to the middle of the circle. If they stand in the visitor section, they can see the souls that used to stand in the visitor places, pointing at the centre. 
-	- (4.1) The hand signs are performed in the wrong order.
-		- if (6) is executed before (4) and (5), then the soul of the visitor appears besides them, and can be attacked while they are within the pocket dimension, causing their real soul to take that much damage. If their soul dies in here, it is destroyed in the real world
-		- if (5) is performed before (4), then the soul isn't the only thing brought forward, and the caster itself flies into the middle circle with a large force, often either pushing other Subjects out, or causing the Visitor to remain in the middle of the circle at the starting, causing them to become a Subject themselves. 
-	- (4.2) A visitor closes their eyes after the last step of the ritual. 
-		- The visitor is blind for the entirety of the time they remain in the pocket dimension
-- Redundancies: 
-	- (3.4) The Visitors tap their feet three times before casting. 
-		- This isn't required, but some practicioneers insist that it is. 
-- Variations:
-- Exploits:
-	- (4-6) The visitors perform the signs with weapons in hands. 
-		- The visitors get to keep the weapons as they are transported into the pocket dimension
-
-
-File: Theory D&D\Concepts\Entities\Cryptids\Demolotion Elves.md
-
-#Cryptid #Entity #Race
-
-By description, they match Trolls and [[Elf]]s. 
-Short stumpy creatures that don't have human proportions. Or impossibly skinny creatures dancing across whatever building just collapsed.
-
-Before and after disasters, people have seen these creatures show up.
-The most famous examples of this being [[9/11]], and the silver bridge incident, after which both of them several people reported seeing tiny creatures crawling across the rubble. 
-
-These are evil [[Demon]]s that are summoned by the parties that needed the disaster to happen. 
-
-File: Theory D&D\Concepts\Entities\Cryptids\Demon.md
-
-#Cryptid 
-A creature typically described as originating from [[Hell]]. This can describe pretty much any evil [[Cryptid]], and also I guess the devil. 
-
-File: Theory D&D\Concepts\Magic\Drugs.md
-
-#Concept #Magic 
-LSD and whatever, not regular drugs
-
-File: Theory D&D\Concepts\Magic\Elements\Electricity.md
-
-#Concept #Magic
-Electricity is the movement of electrons. 
-Electricity is one of [[The Elements]]. 
-
-
-File: Theory D&D\Things\Magic\Rituals\Enchant Item.md
-
-#Magic #Ritual 
-- Description:
-	- A [[Ritual]] that allows you to apply an [[Enchantment]] to an item. 
-	- This can be used to apply a [[Curse]] to an item, to make it cursed. 
-- Components:
-	- Ancillary:
-		- (1) The [[Imbue Mana]] spell must be executed enough times to pay for the mana cost of the enchantment. 
-		- (2) The components of the chosen enchantment must be cast, targeting the chosen target while wielding the weapon. If you target yourself, the Enchantment of the item will target yourself. if you target a creature touching the item in a specific spot, then any creature touching the item in that specific spot, will gain the effects of the enchantment on the item.
-			- The Magical component for the enchantment must still be paid. 
-- Mistakes:
-	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
-		- This does only count the space directly inside of the object, closed off from all sides, still allowing you to enchant armor. 
-
-File: Theory D&D\Things\Magic\Misc\Enchantment.md
-
-#Magic #Thing 
-An enchantment is a long lasting [[Theory D&D/Concepts/Magic/Magic]]al effect, that affects a body, entity, or something else. 
-Enchantments can be cast upon people, objects, entities. Sometimes on concepts by more advanced mages. 
-
-Enchantments can be imbued into items, as well as wearable items, causing the person holding, or wearing the item to have the effect of the enchantment applied to them. 
-	An item can't have more than one enchantment under regular circumstances, unless it gains a higher item tier, which is most commonly achieved via [[Item Tier Increase]]. 
-
-File: Theory D&D\Things\Magic\Derivative Spells\Enchantments\Essence Movement.md
-
-#Magic #Enchantment #Spell
-- Description:
-	- A combination of [[Push]], used in the [[Trigger]] spell, with a mental trigger AND an always trigger. This allows for you to think of a concept, and while you're imagining that concept, your essence will be pushed around, letting you move while you aren't in your full form.
-		- This will only allow you to move in the direction of the original direction that was directed at when Push was cast. 
-	- This is an [[Enchantment]], that can be [[Enchant Item|imbued onto an item]], producing the [[Spirit Walker Enchantment]] modifier. 
-- Exploits:
-	- A [[Soul]] or a person under the [[Store]] spell can use this spell in order to move while intangible, except for this to work with all 6 of the directions (up down left right forward backward), the enchantment must be applied 6 times. 
-		- This can be troublesome to accomplish, as the spell itself requires intense amounts of soul damage to be sustained, with a minimum of 15, average of 42, and a maximum of 69, leading to a theoretical maximum of 413 soul damage. This is achievable by a skilled mage over many moons. 
-- Variations:
-	- The trigger of push deals 6d12 more soul damage.
-		- You can choose which direction to move to, as the spell works relative to your origin. This allows you to move omnidirectionally while incorporeal. 
-
-File: Theory D&D\Things\Magic\Items\Face of The Void.md
-
-#Magic #Item #Thing 
-- Description:
-	- A mask that looks like that vvvv
-	- ![[Pasted image 20260401033203.png|270]]
-	- Not only does the mask look absolutely wonderful, but also, upon saying the phrase "Aleph Null", the wearer of the mask can disappear from the [[Human Realm|reality]], as if casting the [[Store]] spell. 
-		- This usually deals 1d4 soul damage to them. 
-	- The caster reappears in the regular reality 22 hours and 53 minutes later. 
-- Variations:
-	- Face of the Void (Very Rare): 
-		- Everything as mentioned above
-	- Face of the Void Monarch (Epic): 
-		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
-	- Crown of the Void King (Legendary): 
-		- The mask provides the ability to move while out of this reality, as if under the effects of [[Essence Movement]], variation I. 
-		- The mask allows you to shift back into reality at will, by thinking "Vastos"
-		- Both shifting in and out of reality deals 1d6 soul damage to the wearer instead. 
-
-File: Theory D&D\Concepts\Magic\Elements\Fire.md
-
-#Concept #Thing #Magic
-When something burns very hot, it catches fire.
-Fire is also [[Life|Alive]], and there are several spirits living within fire, that take different forms based on different circumstances. 
-
-Fire comes from [[The Sun]], and depending on how much sun shines upon you, you can get a different spirit to contact. 
-
-There are three main spirits within fire: [[Helios]], [[Prometheus]], and [[Ra]]. When a flame changes purpose, it can change which spirit is manifested
-
-Fire can be extinguished by [[Water]]
-
-File: Theory D&D\Things\Magic\Derivative Spells\Firebolt.md
-
-#Magic #Spell 
-- Description:
-	- A bolt of fiery energy that can be used as an offensive attack against a physical enemy. A bolt thrown this way deals 1d10 fire damage to the creature it hits. Now, it must be said that even for a spell like this, there are many ways to achieve the same result, hence there are multiple sets of components. 
-- Variations:
-	- Purist:
-		- Description:
-			- Invented by the scholars, the purest way to achieve the spells effect, using only primal spells. 
-		- Components:
-			- Ancillary: 
-				- (1) the [[Spark]] (Hestia variation) spell is cast, generating a small flame above the hand of the caster. 
-				- (2) the [[Push]] spell is cast on the spark, sending it towards the target creature. 
-		- Extra effect:
-			- Both the accuracy and the damage of the spell are increased by 1d4. 
-		- Exploits:
-			- Each additional simultaneous casting of [[Push]] increases the damage of the spell by an additional 1d4. 
-	- Infernal:
-		- Description:
-			- A common variation for non-educated mages, that imbues fire with the calling of [[Helios]], in order for the spell to not consume their own mana during casting. 
-		- Components:
-			-  Religious: 
-				- (1) A call must be made to [[Helios]], asking for their bright flames to destroy an enemy. 
-			- Ancillary:
-				- (2) A different [[Firebolt]]'s variation is cast, without the magical component. Their extra effect is removed. 
-		- Extra effect:
-			- The magical component for the Ancillary components are removed (recursively), meaning that the spell can be cast without expending your own mana. 
-	- Hellenic:
-		- Description:
-			- A variation of the spell commonly utilised by cultists during the hellenic period of greece. Very inexpensive, but the caster must think fast. 
-		- Components:
-			- Material:
-				- (0) A small, burnable material must be held in the primary hand during casting.
-			- Ancillary:
-				- (1-1) [[Spark]] is cast with the secondary hand. 
-				- (2) [[Push]] is cast with the secondary hand, directing the [[Fire]] from the secondary material away from the hand, as well as making the [[Wind]] push the small object further away. 
-			- Somatic:
-				- (1-2) The material component must be pushed through the spark during it's ignition, causing the material to catch on fire too. 
-		- Extra Effect:
-			- None. It's already an offensive spell that consumes only a singular point of soul damage when cast. 
-	- Neo-magical:
-		- Description:
-			- A variation that was achieved during the hippie era, when a hippie cult created a brand new way to cast this spell without the knowledge of primal spells. 
-		- Components:
-			- Talismanic: 
-				- (0) The secondary hand must hold a wooden object. 
-			- Verbal:
-				- (1) "The power of the sun in the palm of my hand"
-			- Somatic: 
-				- (2) The primary hand must be moved towards the secondary hand, as if for a clap. Less than a second before the clap happens, the secondary hand must go underneath the primary hand. 
-					- This causes a bolt of fire to fly from the primary hand, towards the target of the spell. 
-		- Extra Effect:
-			- None, it's just a cool way to cast the spell without the magical component. 
-	- Romanesque:
-		- Description:
-			- While discovered much earlier, was more popularized during the Romanesque era, a variation of the spell that requires the contact of two individuals who have a deep lust for one another. 
-		- Components:
-			- Role Participatory:
-				- Lover: One of the people who have participated in the relationship. Exactly two individuals must take up this role during casting. 
-			- Mental:
-				- (1) The casters must both visualise the spark that burns bright between them. This is enough to produce a physical, but non-visible spark within [[Hyper Reality]].
-			- Ancillary:
-				- (2) The casters must cast [[Push]] with both of their hands, forcefully transcending the spark into our world, and launching it against the target. 
-		- Extra Effect:
-			- The damage of the spell is 1d4 for each [[Push]] spell cast.
-	- Satanist:
-		- Description:
-			- A variation of the spell discovered during the rise of satanism, and worship of hell, deeply connected to [[Wrath]]. 
-		- Components:
-			- Sacrificial: 
-				- (0) about 10 ml of human blood, held in the primary hand. 
-			- Verbal:
-				- (1) "Burn in the ravines of hell!" (Has to be yelled out)
-			- Somatic:
-				- (2) The caster pushes the primary hand against an enemy. 
-			- Magical:
-				- (3) Upon contact with the skin, the caster's soul takes 1d6+1 soul damage, and the person hit takes triple that much damage. 
-		- Extra Effect:
-			- The target begins to burn in bright flames, who can't be extinguished with anything other than water for 1d4 turns. 
-		- Exploits:
-			- The soul cost of the spell can be increased by casting the natural version of spark repeatedly afterwards, causing the soul damage of the spark spell to translate to damage of the firebolt on the creature now on fire. 
-	- 
-
-File: Theory D&D\Things\Magic\Items\Gauntlets of Mu.md
-
-#Magic #Item #Thing 
-- Description:
-	- Gauntlets, gloves, or another handwear, that allow the user to use a mental component instead of a verbal component when casting [[Push]], and allows them to disregard the need to look at the rune completely. This allows them to control the essences, and their flow with just hand motions. 
-	- ![[Pasted image 20260401034542.png|336]]
-- Variations:
-	- Gauntlets of Mu (Very Rare): 
-		- Allows the user to control any and all flows specified in the [[Push]] spell. 
-	- Gauntlets of Fire (Rare): 
-		- Allows the user to only control the flow of [[Fire]]. 
-	- Gauntlets of Souls (Rare):
-		- Allows the user to only control the flow of [[Soul]]s. 
-	- Gauntlets of Wind (Uncommon):
-		- Allow the user to only control the [[Wind]]. This isn't to such a level to allow the user to levitate. 
-	- 
-
-File: Theory D&D\Concepts\Entities\Gods\God.md
-
-#Concept #God 
-A god is [[Immortallity|Immortal]].
-A god has [[Blood|Ichor]] running through their veins.
-
-
-File: Theory D&D\Characters\Gods\Helios.md
-
-#God #Character 
-Helios is the [[Fire]] spirit that appears during the brightest of days. A shiny creature, all about showing off, and making sure that everyone can see it.
-Helios manifests during the brightest hours of the day, when [[The Sun]] is right above you. Helios can also be manifested by creating explosions, as well as fire that burns bright. 
-
-Helios is the fire that destroys for the sake of destruction. 
-
-# Backstory
-Helios is the primordial fire. The fire with the need to be the brightest, the strongest, the most powerful. Helios is the eldest of the three fire spirits, that were born within [[The Sun]], with it's younger siblings being [[Ra]] and [[Prometheus]]. They appeared on [[The Earth]] very early on, burning bright when it wanted to. 
-
-# Personality
-Helios loves to show off. It loves to burn brighter and brighter always. It exists for only one reason in this world. To be the most looked at thing. Whether worshipped or feared, it wants to burn the brightest. Whenever a flame so great appears, it usually is Helios. A firestorm, a [[Volcano]], an explosion, etc. Helios has taken a bit of a liking for the humans because of how big we sometimes are with our weapons, and Helios has a particular liking for [[Nuke|Nuclear Weaponry]], due to it aligning with it's core concept so much. 
-
-Helios doesn't destroy only to be looked at. It destroys to eclipse, so that nothing is looked at but Helios. Since the sun is above all, every day, Helios sees it as the greatest display of the power of a fire, and what other creatures have to compete with if they wish to manifest a part of Helios's power. [[The Sun]] doesn't care about Helios enough to intervene into it's life. 
-
-Other than champions, Helios sees humans as just another creature of [[The Earth]], sometimes as allies, sometimes as enemies. Depending on which fire it manifests from. Helios still fears and respects the greater gods, such as [[The Earth]] and [[The Sun]], not intervening into their manners too much, and sometimes works as the spear that either of them use for attack against something else. 
-
-Helios fears burning out, disappearing. He despises being put out, and will try to keep burning for as long as he can, sometimes hurting the people who manifested him. 
-# Cults 
-Helios is the [[God|diety of worship]] in many cults. There are also several cults of Helios, specifically devoted to making the grandest explosions. In exchange, Helios grants them power over the explosive nature and the light of fire. This is the in universe way to get a wizards fireball. 
-
-Helios is also connected to several non-Helios centered cults, such as [[Illuminati]], who occasionally offer a sacrifice to Helios, in order to stay on good terms with it, and so it can come help in times of need. 
-
-If a [[Human]] shows enough destructive potential, or accomplishes a fire worthy of Helios's interest, Helios can select that individual as it's champion, giving it prowess over fire. There are different champions of Helios, and there can always be more than one, you just have to live explosively enough. The moment that this human uses fire for anything but destruction and personal gain though, Helios will abandon it, as it has become unworthy of it's attention. 
-
-The fire of passion is also a fire that Helios can appreciate, and it will lend it's power to the most determined people, who have shown they'd do anything to achieve their goals. 
-
-If a [[Human]] rebels against Helios, that human better not have a soul within their [[Human Skin|skin]], that they aren't using. because that is the #1 cause of spontaneous combustion these days. 
-
-> [!quote]- Champion of Helios
-> A man, who arrives at a scene, stepping out of a Porsche. He looks over at the other people, taking off his sunglasses, to reveal a set of eyes, with the flame of passion burning bright. As he walks towards his enemy, he pulls out a card from his pocket, and throws it towards his car, making both the card, and the car ignite into a fiery explosion, as the man walks away from the explosion not even looking back at it. 
-# Manifestation
-Helios can be manifested by imbuing a part of your [[Soul]] inside of a burning flame. Helios will manifest under any of the following conditions:
-- [[The Sun]] is directly above you. 
-- An explosion, or a bright light has just happened, is happening, or is destined to happen soon.
-Helios will not manifest if:
-- The light isn't bright enough, or it is simply too dark.
-- The presence of another fire spirit is stronger. 
-Helios can be extinguished by dimming it's flame, by causing it to transform into one of it's siblings, or by other smaller means. 
-
-When Helios manifests, it will take the form of a dragon, either one of the [[China|chinese]] dragons, or a more mythological dragon. It can also take the form of a sphere, an eye of sauron, or whatever else is associated with power in the community. Sometimes a fiery devil, sometimes a demon. etc. 
-Helios has a deep voice of a booming thunder. 
-
-Helios is effectively drawing power from [[Hell]] itself. I guess this does make Helios one of the devils of the world. 
-# Relationships
-
-
-File: Theory D&D\Things\Magic\Items\Holy Grail.md
-
-#Thing #Magic #Item 
-The chalice from which [[Jesus]] drank during the last supper.
-If anyone drinks from the holy grail, they'll achieve [[Immortallity]], and have more knowledge. 
-
-File: Theory D&D\Concepts\Entities\Cryptids\Human Skin.md
-
-#Cryptid #Entity #Race 
-The [[Human Skin]] is an [[Alien]] entity that merged with the early [[Human]]s to form a symbiotic relationship. Since it is a separate entity, it can hold a [[Soul]], and it's soul can be expended in small amounts in order to cast spells,, by using it as [[Mana]]. It is also a [[Cryptid]].
-
-The soul within the skin is still conscious. This also means that if a human is born without a soul, but the skin of the human is born with a soul, the soul will automatically transfer into the [[Body]] of the human. This will happen automatically whenever a human body exists without a soul in it, with the skin containing a soul. This means that your body has to be guarded, or the soul from your skin has to be removed before you try [[Astral Projection]], or you aren't getting back into your body. Since you need to go through your skin first, this has lead many people to astrally projecting foolishly, pushing their soul out, getting their body overtaken by the soul in their skin, and then re-entering their own body, becoming the new skin. This usually leads to more powerful, evil mages, called "[[Skin Stealer]]s", as they steal the body from living in the skin. They usually fight a lot more non-chalantly with their magic, as they know that it isn't their soul that is damaged whenever they cast [[Theory D&D/Concepts/Magic/Magic]]. 
-Born in pain, these creatures tend to come to an early grave, or get a lot of power, leading to powerful entities. 
-
-
-
-File: Theory D&D\Concepts\Entities\Cryptids\Hyper Beast.md
-
-#Entity #Race #God #Cryptid 
-A beast that inhabits the [[Hyper Reality]].
-These beasts tend to be [[Cognitohazard]]s or [[Memetic Hazard]]s, as well as [[Non-Carbon Life]]. 
-
-File: Theory D&D\Things\Magic\Derivative Spells\Imbue Mana.md
-
-#Magic #Spell
-- Description:
-	- A spell that allows you to imbue the equivalent of one soul HP into an item. 
-- Components:
-	- Ancillary:
-		- (1) The [[Push]] spell must be executed, pouring the ambient [[Mana]] into the item. 
-	- Somatic:
-		- (2) Two hands must be held above the item for at least 3 minutes and 17 seconds. 
-			- ||This is done so that there are no more leaks in the item, and the mana can't escape from it.||
-	- Magical:
-		- The caster takes 1d4-2 soul damage. 
-- Mistakes:
-	- (2.1) Will not work if there is a different presence of one of [[The Elements]] inside of the item. The spell will just dissipate. 
-
-File: Theory D&D\Concepts\Magic\Immortallity.md
-
-#Concept #Magic
-An immortal entity cannot achieve [[Death]].
-
-File: Theory D&D\Theories\Souls n shit\Italian Languages.md
-
-#Theory 
-People who speak italian have a change in their DNA. Through DNA you can see a difference between [[Human|people]] who move to Italy. 
-[[Language]]s themself have a secret meaning, with different languages having different effects. 
-This is why many chants and spells have been happening in Latin, the language itself has a hidden biological power. 
-
-
-
-#Magic 
-(THIS IS VERY IMPORTANT AND MAGIC SYSTEM DEFINING, FUTURE ME, REMEMBER THIS FOR SPELLCASTING)
-
-File: Theory D&D\Things\Magic\Rituals\Item Tier Increase.md
-
-#Magic #Ritual 
-- Description:
-	- A [[Ritual]] that increases the tier of a [[Theory D&D/Concepts/Magic/Magic]] item, allowing you to store more enchantments on it. Has different costs for each tier, getting only more expensive the more enchantments are stacked on the item. 
-
-File: Theory D&D\Characters\Modern\Jacob Grewich.md
-
-Nickname: Rob Banks
-Age: 16
-Faction: [[The Family Buisness]] (Latvia)
-Rank: 3
-Appearance:
-![[Pasted image 20260420110706.png|272]]
-Young lad, dresses however he feels like, hoodies, jordans, jeans. Usually he tries to dress to blend in with the crowd, so he doesn't really try to go for anything stylish. He does have some aristochratic wear for special occasions, such as [[The Masquerade]].
-
-Backstory:
-- Jacob was born in a poor family, and his father wanted to get rich quick, so he taught his son how to go loot abandoned houses. Only later did Jacob realize the houses were only abandoned during monday to friday 8-5pm. 
-Personality:
-- Loves breaking borders, finding new things in life. He enjoys spending time with friends too, as it is away from his usually depressing time spent at the facility where he has spent most of his life. 
-Relationships: 
-- [[The Mother of Broken Bones]]: Hates captivity, and hates training, so not on the best terms with her, but respects her for all that she is doing, and remains a subject in her mansion. 
-- [[Charon Berzins]]: Fears him, as he knows what kind of monster he can become, but doesn't show the fear openly, instead trying to avoid him when they are in public. 
-Powers:
-- [[Essence Movement]] enchantment placed on him, with the [[Store]] spell, allowing him to freely travel through space when he is reduced to a [[Concept]]. He can move through walls, ceilings, etc. 
-- He has a bone knife carved from his own bone, allowing him to take it with him whenever he vanishes, meaning he can appear, slice someone's neck, and disappear in a blink of an eye. 
-Weaknesses:
-- While reduced to a concept, he is vulnerable to all the things concepts are vulnerable to, such as the [[Push]] spell. This means that walls enhanced with the [[Repellant Enchantment]] can stop him. 
-
-File: Theory D&D\Things\Magic\Misc\Language.md
-
-#Magic #Concept 
-A language is what different creatures can communicate with. 
-There are many languages, but based on them, people can perform effects, that help them with magic. 
-
-
-| Effect Category                                     | Primary Magical Effect                                                                                                                                | Secondary / Passive Effect                                                                                                                                                            | Typical Language Type                                                                                                   | Verbal Component Cost                                                                                                      | Risk / Side Effect                                                                                                                                             |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Anchoring** (Latin)                               | Spells last longer, enchantments are harder to dispel.                                                                                                | Long-term exposure slowly makes the caster more resistant to change (mental rigidity, difficulty learning new skills).                                                                | Highly inflected, grammatically complex, "dead" languages (Latin, Sanskrit, Ancient Greek).                             | 1 additional soul damage per hour of intended duration.                                                                    | The caster's DNA stabilizes to the point of _stagnation_—healing slows, adaptability decreases.                                                                |
-| **Resonance** (Italian, living Romance)             | Spells that affect living beings (healing, cursing, charming) are more potent.                                                                        | The caster's DNA becomes more _plastic_—they adapt quickly to new environments, learn languages faster, but are more susceptible to genetic diseases.                                 | Vowel-heavy, melodic, spoken with gestural emphasis (Italian, Brazilian Portuguese, Thai).                              | 1d4 soul damage, but the spell's effect is doubled against living targets.                                                 | Emotional bleed—the caster feels the target's emotions during casting, risking psychic feedback.                                                               |
-| **Precision** (Germanic, Japanese)                  | Spells requiring fine control (telekinetic `Push`, delicate enchantments) gain +2 to accuracy.                                                        | The caster develops excellent fine motor skills and attention to detail, but may become obsessive or rigid in thinking.                                                               | Consonant-cluster heavy, with strict word order (German, Dutch, Japanese, Finnish).                                     | 1 soul damage per precise manipulation.                                                                                    | The spell can _over-succeed_—too much precision can cause unintended exactness (e.g., pushing a flame into a perfect, useless sphere rather than at an enemy). |
-| **Evocation** (Russian, Polish, other Slavic)       | Spells that create, summon, or manifest physical matter (fire, ice, ectoplasm) are easier to cast (reduce soul cost by 1d4).                          | The caster's body becomes more _dense_—they gain a slight resistance to physical damage but lose a corresponding amount of agility.                                                   | Consonant-rich, with palatalization and complex stress patterns (Russian, Polish, Czech).                               | 1 less soul damage than normal (minimum 1).                                                                                | Matter created by the spell is _unstable_—it may revert, mutate, or explode after 1d6 rounds.                                                                  |
-| **Veiling** (Welsh, Irish, Gaelic)                  | Spells of hiding, illusion, or invisibility last longer and are harder to see through.                                                                | The caster becomes naturally unobtrusive—people forget they were in a room, they are hard to notice in crowds. But they may struggle to be taken seriously.                           | Celtic languages, with initial consonant mutations and VSO word order (Irish, Scottish Gaelic, Welsh).                  | 2 soul damage; the spell automatically succeeds against targets with less than 10 Wisdom.                                  | The caster risks _forgetting themselves_—after prolonged use, they may lose their own identity or memories.                                                    |
-| **Binding** (Hungarian, Finnish, Estonian)          | Spells that constrain, trap, or restrict (curses, geases, soul binding) are exceptionally difficult to break.                                         | The caster develops a _stubborn_ personality—hard to persuade, hard to intimidate, but also hard to cooperate with.                                                                   | Finno-Ugric languages, agglutinative with many cases (Hungarian, Finnish, Estonian).                                    | 2d4 soul damage; the binding lasts until a specific condition is met (set by the caster).                                  | The binding can _backfire_—if the target breaks free, the caster is bound in their place for the same duration.                                                |
-| **Whispering** (Mandarin, Cantonese, Vietnamese)    | Spells that transmit information over distance (scrying, messaging, clairaudience) have unlimited range and cannot be intercepted.                    | The caster's hearing becomes unusually acute, but they are sensitive to loud noises and may develop tinnitus.                                                                         | Tonal languages, with monosyllabic roots (Mandarin, Cantonese, Vietnamese, Thai).                                       | 1d6 soul damage per hour of sustained communication.                                                                       | The caster hears _everything_ in the target area—including thoughts, which can be overwhelming (Wisdom save or take 1d4 psychic damage).                       |
-| **Sundering** (Arabic, Hebrew, Aramaic)             | Spells that break, sever, or destroy (dispel magic, break enchantments, destroy objects) are exceptionally effective.                                 | The caster becomes _deconstructive_ in thinking—excellent at finding flaws, weaknesses, and contradictions, but pessimistic and critical.                                             | Semitic languages, with triconsonantal roots and guttural sounds (Arabic, Hebrew, Aramaic).                             | 2 soul damage; the spell automatically dispels any enchantment of lower level.                                             | The spell can _unmake_ things the caster didn't intend—nearby enchantments, bonds between friends, even memories.                                              |
-| **Lulling** (Polynesian languages, Hawaiian, Maori) | Spells that calm, pacify, or put to sleep are nearly irresistible.                                                                                    | The caster radiates a subtle aura of peace—animals trust them, children fall asleep near them. But they may become lethargic or unmotivated.                                          | Vowel-heavy, with few consonants, rhythmic and flowing (Hawaiian, Maori, Samoan).                                       | 1 soul damage; the target sleeps for 8 hours, no save.                                                                     | The caster falls asleep immediately after casting unless they make a Constitution save (DC 15).                                                                |
-| **Igniting** (Spanish, Catalan, Romanian)           | Spells that create fire or heat (like Firebolt) are more volatile—deal +1d4 damage but have a chance to explode.                                      | The caster has a fiery temperament—passionate, quick to anger, quick to forgive. Their body temperature runs slightly hot.                                                            | Romance languages with strong stress accent and open syllables (Spanish, Catalan, Romanian).                            | 1d4 soul damage; the firebolt explodes on a critical hit, dealing half damage to adjacent creatures.                       | The caster may _ignite_ flammable objects near them when angry (GM's discretion).                                                                              |
-| **Stillness** (Tibetan, Burmese, Dzongkha)          | Spells that preserve, protect, or heal are more effective, but take twice as long to cast.                                                            | The caster ages slower, meditates easily, and has extraordinary patience. But they may become detached from worldly concerns.                                                         | Tibetan-Burmese languages, with complex tone systems and evidentiality markers (Tibetan, Burmese).                      | No soul damage, but casting time is doubled. The healing effect is maximized (no dice roll).                               | The caster must maintain absolute silence during casting—any sound disrupts the spell and deals 1d4 soul damage to the caster.                                 |
-| **Fracturing** (German, Yiddish, English)           | Spells that affect probability, luck, or fate (blessing, cursing, rerolling dice) are unpredictable—often more powerful but with random side effects. | The caster becomes _mercurial_—mood swings, sudden insights, erratic behavior. Their DNA shows frequent, harmless mutations.                                                          | Germanic languages, with strong ablaut and complex vowel shifts (German, Yiddish, English).                             | 1d4 soul damage; the spell's effect is doubled but a random secondary effect occurs (roll on a d6 table).                  | The caster may temporarily forget the spell after casting (lose access for 1d4 days).                                                                          |
-| **Echoing** (Classical Greek, Persian, Armenian)    | Spells that create illusions, duplicates, or mirror images are exceptionally convincing and can physically interact with the world.                   | The caster has a weak sense of self—they can mimic others' mannerisms perfectly but struggle to form their own identity.                                                              | Ancient Indo-European languages, with complex aspect systems (Classical Greek, Old Persian, Armenian).                  | 2d4 soul damage; each illusion can deal 1 point of damage before disappearing.                                             | The illusions may become _independent_—they can disobey the caster or even attack them.                                                                        |
-| **Weaving** (Turkish, Azerbaijani, Uzbek)           | Spells that combine multiple effects (like Trigger with AND/OR gates) are easier to construct and maintain.                                           | The caster thinks in _patterns_—excellent at strategy, puzzles, and system design. Poor at spontaneity or improvisation.                                                              | Turkic languages, with vowel harmony and agglutination (Turkish, Azerbaijani, Uzbek).                                   | 1 soul damage per additional effect beyond the first (instead of the usual 1d4).                                           | The woven spell can _tangle_—if one component fails, all components fail simultaneously, and the caster takes 1d6 damage per component.                        |
-| **Devouring** (Sumerian, Akkadian, Hittite)         | Spells that consume, absorb, or steal (soul theft, mana drain, energy vampirism) are terrifyingly effective.                                          | The caster develops an _appetite_—they need to consume more food, more mana, more souls to feel satisfied. Their DNA becomes hungry.                                                  | Dead languages with no living speakers, especially those associated with ancient empires (Sumerian, Akkadian, Hittite). | 1 soul damage; the stolen resource is doubled. But the caster takes 1d4 damage as the stolen energy _burns_ on the way in. | The caster may become _addicted_ to the feeling of devouring—Wisdom save to avoid using the spell again immediately.                                           |
-| **Silence** (Sign languages, ASL, BSL)              | Spells that affect sound, silence, or absence are effortless (no verbal component needed).                                                            | The caster becomes comfortable with silence—they can read lips, sense vibrations, and are immune to auditory illusions. But they may struggle to speak aloud in stressful situations. | Visual-manual languages, no sound component (American Sign Language, British Sign Language, etc.).                      | No soul damage; the silence effect is permanent until dispelled.                                                           | The caster cannot use _any_ verbal components for 1 hour after casting—all spells must be somatic or mental only.                                              |
-
----
-
-File: Theory D&D\Things\Magic\Rituals\Last Dream.md
-
-#Thing #Ritual #Magic 
-- Desctiption
-	- A [[Ritual]] that ensures the participant gets one full day to live without fear of death, guaranteeing that after the day, they will not wake up in the next morning.
-- Components
-	- Temporal:
-		- (0) Spell must be cast no more than 3 hours before midnight. 
-	- Locational:
-		- (0) Spell must be cast from a bed, that the subject has slept in for every night for a month.
-	- Verbal:
-		- (2) The caster must speak the phrase three times: 
-			- "Per somnum, ad nihil. Per pactum, ad finem. Per manum, ad mortem."
-	- Somatic: 
-		- (1) The following hand sign is to be executed by the caster, while lying on their back: 
-		- ![[Pasted image 20260326145606.png|454]]
-			- || This allows for the soul to travel to purgatory, where it will begin the contract, and will not be killed for the next 24 hours, only for the individual to die at the next midnight. ||
-		- (3) The Caster claps their hands together
-		- (4) The caster then falls asleep
-- Edge Cases:
-	- If another ritual of the same kind is cast before the current one resolves. the previous ritual is canceled. 
-- Common Mistakes:
-	- (1.1) The phrase is spoken in the wrong order
-		- Caster can still die from violence, poison, or deliberate harm.
-	- (1.2) The phrase is spoken only once, or twice
-		- Spoken once: Caster recieves 8 hours of protection. They will die after the 8 hours are up
-		- Spoken twice: Caster recieves 16 hours of protection, after which they will die immediately. 
-	- (1.3) The phrase is spoken more than 3 times.
-		- The ritual resets back to 0 after the 3rd time spoken, meaning that the caster has to say the phrase a multiple of 3 times in order for the spell to let them live the full day.
-- Exploits:
-	- If the caster casts the ritual at the end of the second day, nearing the midnight, then the ritual resets, and they get yet another day of living, during which they can't die. This can be repeated infinitely, causing for the creature to attain [[Immortallity]], as long as they keep sleeping in the same place. 
-
-File: Theory D&D\Characters\Modern\Linda Dreiblathen.md
-
-#Character 
-Nickname: Sister Seven
-Age: 17
-Faction: [[The Family Buisness]] (Latvia)
-Rank: 2
-Appearance: 
-Is walking around in a suit, with sunglasses always. short, black hair too. 
-Her shadow clones usually adopt this appearance too, as she is unable to manifest clothes for them, other than her own current clothes, but they sometimes lack some bodily parts, such as eyes, or ears, to limit.
-![[Pasted image 20260420095445.png|422]]
-
-Backstory:
-- Linda was born in a peaceful family, and she was living a happy life till her parents were taken away by a tragic car accident. After that she was passed from home to home, and ended up staying in an adoption center, where she was constantly pushed to be the best she could be, in order to find a loving family again.
-
-- Linda's powers manifested during a martial arts class, where, after being knocked on her back, she landed on her shadow, causing her to spring back up, onto her opponent, and knock them down. She thought she had achieved a new kind of martial arts move, but after being unable to replicate it for a while, she gave up. Then, one day, she woke up, and there was an exact clone of her sleeping in the bed next to her. She could feel it, and what it felt, and it felt weird to be in two places at once, and look onto yourself with your own eyes. She lost it, and started fighting her clone. Her clone won. When the hospital finally got there, they found the clone, and the main body of Linda passed out atop each other, with the clone fully manifested. The duplicating lady came into custody of [[The Foundation]], which gave her further to [[The Family Buisness]], as it is their department. Now she keeps training under [[The Mother of Broken Bones]], trying to prove to her that she is a 
-
-Powers:
-- Shadow Clones: She can choose to imbue her shadow with a part of her [[Soul]], creating a shadow clone of herself. She can choose how much of her soul HP to imbue, which is translated to regular HP in the clones body. She is able to see and percieve everything that her shadow clone is doing, and she is capable of learning information about an enemy much quicker due to this. This does mean that the amount of per perceptory organs is increased, which sometimes is too much information for a brain to handle, so she tends to create clones incomplete, without eyes or ears, as an option to midigate the stress on her own brain. This is why she usually wears sunglasses: to be able to hide which of her shadow clones do not have eyes. 
-	-  A clone can be created without a combination of it's sensory organs. Linda usually creates clones without eyes, so that she wouldn't have to see the world they see, and her sensory organs weren't overloaded. She does also create them without the ability to feel pain, so she wouldn't have to suffer even more than she usually does. 
-
-Personality:
-- Linda tries to appear as cold and unfeeling as she can, as she believes it's the correct way to stay focused on her own goals. She does not wish to deviate from her goals even a little bit, as she feels she needs to prove herself to [[The Mother of Broken Bones]]. 
-
-File: Theory D&D\Concepts\Magic\Lisal.md
-
-#Concept #Magic 
-Lisal magic is one that uses the power of a [[Soul]] to cast spells using it. 
-
-
-File: Theory D&D\Concepts\Magic\Magic.md
-
-#Concept #Magic
-Anything that can't be explained by [[Science]] is [[Theory D&D/Concepts/Magic/Magic]]
-
-File: Theory D&D\Concepts\Magic\Mana.md
-
-#Concept #Magic 
-[[Theory D&D/Things/Magic/Misc/Virus 23|Virus 23]]
-
-Energy that can be used to cast spells with. 
-
-The mana that lingers in the air around us is called Ambient mana.
-
-File: Theory D&D\Characters\Gods\Moloch.md
-
-#God 
-One of the gods of the canaanites mentioned in the old testament of the bible. Moloch is always depicted as a golden bull with horns, whose primary form of worship was burning kids at their altar, leading to horrifying statues of golden bulls with fires underneat them, and people throwing babies into the fire.  
-
-File: Theory D&D\Concepts\Entities\Human Related\Races\Neanderthal.md
-
-#Concept #Entity #Human #Race #God
-The species that reigned over the earth before Homo sapiens.
-Still [[Human]]s with human [[Soul]]s.
-
-File: Theory D&D\Concepts\Magic\Negative Energy.md
-
-#Magic #Concept 
-????
-
-File: Theory D&D\Concepts\Entities\Cryptids\Nephilim.md
-
-#Cryptid 
-Nephilim is the biblical representation of a [[Giant]]. 
-
-
-File: Theory D&D\Things\Magic\Misc\Omega Fire.md
-
-#Magic #Thing #Weapon 
-A variant of [[Fire]], that isn't limited to what the regular fire burns, and can burn anything except the flesh of [[God]]s. 
-
-File: Theory D&D\Cults\Major Cults\Paleolithic Deep State.md
-
-#Cult #God 
-
-# Things to note:
-
-- Lead by [[Cain]], who never died. 
-    
-- A group of [[Neanderthal]]s that retreated into the middle of the [[Hollow Earth]] in order to preserve themselves, and to lead the [[Human Realm]] from the shadows. They have achieved the status of [[God]]hood, and have become [[Immortallity|immortal]].
-- They have powers that allow them to stay immortal, and several tribes, and groups of people have joined in with them, and now there is a supercult downstairs. The groups of people that were fused into this group are:
-	- [[Nazi Germany]]
-	- [[Roman Senators]]
-- They attend leadership meetings with the other major cults, such as [[The Masquerade]]. 
-- Since Cain is the son of [[Jesus]], and Jesus is an angel, the neanderthals have the blood of angels in their veins. 
-
-
-[[Theory D&D/Theories/Historical/Paleolithic Deep State|Paleolithic Deep State]]
-
-File: Theory D&D\Characters\Gods\Prometheus.md
-
-#God #Character 
-Prometheus is the spirit of [[Fire]], that pushes for [[Science]] and progress. 
-
-# Backstory
-Prometheus was born from the spirit of [[Human]]s pushing for progress. 
-# Personality
-Prometheus wants to see progress. Prometheus wishes to see innovation, he wants to see the world grow. He doesn't see destruction as something needed in his world, and resents [[Helios]] for bringing it. 
-
-Prometheus can become angry if no progress is shown for a while, causing him to transition into [[Helios]] until the [[Human]]s come up with something new. Prometheus fears the end of mankind, as that would symbolize the end of it's existence too. It fears Ra a bit because of this as well, because Ra is the one who is most likely to bring it, 
-
-# Cults
-There are many cults worshipping Prometheus, but the most noteworthy is anything [[Science]] related, like NASA, who named a space vessel after the god, in order for the name of Prometheus to be a part of the solar system once again.
-
-Prometheus doesn't demand much, only that the people under it are curious, and willing to search for new things. 
-
-Prometheus is weaker than the other fire spirits in the sense that it is worshipped by a lot more people, but unknowingly, and it has to spread out his influence to them all equaly, meaning that Prometheus very rarely can do actual fire related stuff in the world. 
-
-Prometheus occasionally chooses a champion, but the only abilities they are given is a burning passion to research, or to come up with something new. 
-
-When a human betrays Prometheus, they do not get smitten down by wrath like other individuals, and they remain safe for most part, causing the humanity to see Prometheus as a pacifist usually. 
-# Manifestation
-Prometheus manifests when any of the following conditions take effect:
-- A person as a good idea, an idea that could change the future. 
-- A mortal created machine is pushing for a goal. Either the internal combustion of an engine, the combustion mechanism of a pistol, or the core of a lightbulb that lights a whole room right up. Anything that can help can manifest Prometheus. 
-- The dawns and dusks of the days, when neither [[Ra]] or [[Helios]] has manifested yet. 
-Prometheus doesn't manifest if:
-- Fire isn't used to achieve anything, or is an accident. 
-- One of the other spirits domains is stronger.
-Prometheus can be manifested by imbuing a part of fire with a soul. 
-When Prometheus manifests, he will take the form of a scientist, an inventor, a set of eyes, observing, staring back at everyone, with a mouth that's always yapping. Prometheus is very excited to be manifested, because it adores talking to people. Prometheus's voice is friendly, and easily understandable. 
-
-# Relationships
-[[Helios]] is a very active nuisance, and should be neutralized, if given the chance, as he almost always goes against Prometheus's core principles of nurturing, and helping the humans. 
-
-[[Ra]] is the entity that brings all the progress down, so Prometheus doesn't really like Ra, but it's more peaceful with it around than Helios, so Prometheus appreciates it's company whenever it can. 
-
-[[The Sun]] is an entity that constantly feeds the plant life, and grants [[Heat]] and warmth to all the other creatures. On sun no life can survive, and no progress can be made. Prometheus likes the sun, but is happy that he's arrived on [[The Earth]] instead. 
-
-[[The Earth]] is where all the progress takes place. And Prometheus loves the [[Human]]s for it, and by extension, has a deep respect for [[The God]] who gave these humans free will, and control over their own fate. 
-
-Prometheus loves [[Human]]ity as a whole, and loves to do anything in order to make them progress faster in the world. Prometheus might not have the explosive capabilities that it's siblings often show off, but it helps with small, controlled explosions and fire wherever it can. 
-
-File: Theory D&D\Things\Magic\Primal Spells\Push.md
-
-#Magic #Spell #Lisal #Fractal
-- Description:
-	- A simple spell, that can push a small element around. This can't affect physical objects due to it being unable to interfere with the force of [[Gravity]] too much. This still works on the following phenomena and their variations:
-		- [[Soul]]s
-		- [[Fire]] 
-		- [[Wind]] (and therefore: sound)
-		- [[Mana]]
-		- [[Electricity]] (but in extremely small quantities)
-- Components:
-	- Mental:
-		- (1) The caster must visualise the following rune:
-			- ![[Pasted image 20260401032919.png]]
-	- Verbal:
-		- (2) The caster must say "Mu" aloud. (There is no arbitrary language that can replace this. Languages have no effect on this spell)
-	- Somatic:
-		- (3) The caster must make a directional movement with one of their hands, which is the direction in which the element will move in. 
-- Limitations: 
-	- The spell can't affect essences more than 30ft away from the caster. 
-		- This can be doubled by adding 1 soul damage as an additional Magical component for the casting of the spell.
-			- Note that this stacks with every movement of the hand, and can very quickly become too much. 
-- Variations:
-	- (2.1 - Kosmos) If the caster begins the movement with an open hand, and closes it during the motion, they can extinguish the element. 
-		- This can be used to extinguish the sound, or make a loud action silent, if the caster has both their hands free. 
-
-File: Theory D&D\Concepts\Entities\Cryptids\RAB-Khuga.md
-
-#Entity #Concept #Character #Cryptid 
-## Things to Note:
-
-- Formerly [[Esero Khuga]], a backyard scientist who achieved regenerative[[Immortallity]] through [[Vibrations|vibrational]] healing based on [[Dr Emoto's Water Experiments]].
-    
-- His original device was a [[Nuclear]]-powered vibrational generator, finely tuned to a frequency that caused rapid cellular regeneration in Esero's organism. 
-    
-- When [[The MSS]] destroyed his generator with an anti-tank shell, the resulting meltdown occurred simultaneously with his active regeneration. His body entered a state of **forced mitosis feedback loop**: cells destroyed by radiation would regenerate, only to be destroyed again, faster and faster, until the very concept of "[[Esero Khuga]]" became a continuous process rather than a discrete entity.
-    
-- The 8.6 magnitude [[Earthquake]] caused by the detonation was caused by his flesh growing faster than sound, and pushing against the earth, as well as the residual energy after the meltdown.
-    
-- Over approximately 47 minutes, his biomass expanded to consume:
-    
-    - His house and backyard (origin point)
-        
-    - 14 residential blocks
-        
-    - 3 schools (all evacuated)
-        
-    - 2 factories
-        
-    - 1 hospital (evacuation incomplete—see [[Missing Person]] files, Changsha Province, 2023)
-        
-    - The first 47 first responders who did not retreat in time
-        
-- The resulting entity is approximately **2.3 kilometers in diameter** at its widest point, though its shape is irregular and **still growing**, albeit at a slowed rate of approximately 1.2 meters per month.
-
-- The Entity has several major arteries in it, perpetually causing a humming tune to emerge from each set of vocal cords, that keeps healing the entity, preventing any physical damage. 
-
-- [[The Government]] of [[China]] has forbidden any further interaction or action against the entity, In a fear of accelerating it's development, or other unexpected mutations.
-	- The usage of [[Nuke|Nuclear Weaponry]] against the entity is especially forbidden due to the effect closely mimicking the original event of expansion. 
-
-- The creature is assumed to be in constant pain due to it's existence, and it has absorbed the [[Soul]]s of the 47 other individuals in the area, incorporating parts of their [[Body]] into the biomass, and achieving partially the effect of [[Incorruptible Saints|a saint]], causing the entity to obtain partial understanding of [[Theory D&D/Concepts/Magic/Magic]], as well as the ability to execute some simple enchantments and spells, now having larger areas of effect due to the area of the caster itself. 
-
-- A group that has been stationed near the entity has repeatedly reported "Fireworks", as well as the sky above the entity "being set ablaze."
-- If a [[Human]] or a similar creature touches the mass, it experiences rapid tumor growth, following up by a quick death. If they remain near the mass, they will be absorbed into the entity, and their soul will be used as an additional [[Mana]] battery. 
-
-- There are several documented cases of "Limbs" extending from the mass, trying to grab at nearby creatures, and pulling them into the biomass. These limbs are mostly human hands, usually scaled much larger than the typical human hand, with the largest ones exceeding a length of 20 metres. There have been mentions of other tumorous growths, as well as several feet facing the air expanding into the air. 
-
-- The eyes of the Biomass seem to follow around moving objects, even if they can't differentiate alive from non alive objects. 
-
-- Three seperate cults have been identified to know about the mass itself. 
-	- The [[Illuminati]] is the only cult that is named within this document. 
-
-- [[The MSS]] has attempted:
-    - Incendiary weapons
-    - Chemical agents
-    - Cryogenic freezing 
-    - Precision nuclear strike (proposed, rejected)
-
-- Since every single cell of the entity holds a fragment of the soul of Khuga, it means that he is experiencing all of his cells dying, is in extreme pain, and yet, is [[Immortallity|Immortal]], and unable to do anything about it. 
-
-File: Theory D&D\Characters\Gods\Ra.md
-
-#God #Character 
-Ra is one of the spirits of [[Fire]]. 
-Ra is the fire that consumes and cleanses.
-
-# Backstory
-Ra came into existence when [[The Sun]] shined it's light again after the first night. Ra is the embodiment of fire being used as a tool for cleansing, a tool for consumption, and a tool for a new [[Life]] to be born.
-
-# Personality
-Ra views the sun as a natural phenomenon, a means to an end of it's existence, and what brings it around another time, Without the sun, there would be no meaning for a darkness. So Ra sees sun as a good thing, a being that helps Ra be the Ra that Ra wishes to be. When living on the sun, there is no option to be lesser or greater than others, as the sun is above all. Ra enjoys staying on [[The Earth]] instead of the sun. 
-
-Ra's core drive is not to punish, but to restore balance to the natural order of things. Ra will burn down a forest, so from it's ashes a new can be born. Ra will cleanse the world of evil, so a new evil can take place. Ra will burn a life, to let there be a place for a new life. Ra sees destruction as an inherent thing, but not something that is actively needed in the continuation in the world. Something can be ended without destruction, and some things need to be destroyed for something to end. 
-
-Ra doesn't have a thing it fears. It is content with burning out, as it knows that when the next fire sparkles, it will appear again. And when the last sparkle burns out, Ra will no longer be needed. Death doesn't scare it, as all living entities face death at the end. Ra doesn't also have the ability to be angry, happy, or content. It just has a purpose to fufill. Nothing else. 
-# Cults
-There is a variety of cults that are aware of Ra, but not many actively worship it. 
-The main cult of Ra, is a group that gets together rarely, to bring down powerful figures in [[Society]], or figures that have too much power, in order for a new vessel to take place. From it's followers, Ra demands only balance. No judging people based on whether they're good or evil. but getting rid of everyone equally. The humans that worship Ra believe no longer in their own individuality as humans, and see themselves as instruments to end a cause. 
-
-Ra grants the ability to shine in a darkness. The ability to vanish into shadows, in order to reemerge elsewhere, or the ability to put [[Fear]] into other entities. These are also the main abilities that Champions of Ra possess. Ra usually chooses monks, people with little to no attachment to this world as their champions. People who are ultimately fair, against all other people equally. 
-
-If a [[Human]] is foolish enough to betray Ra, Ra remembers it. And one day, that human catches a fire. Either by accident, or by purpose. And in the end, their body is burnt to a crisp, meeting a slow, fiery demise. 
-
-> [!quote]- Champion of Ra
-> I'm imagining a dimly lit street, with a man, walking through it with an axe, dragging it along the asphalt, making sparks of fire. That right there, that's what a champion of Ra would look like. Walking through the darkness, using the fire from the blade as a tool for intimidation. 
-
-# Manifestation
-Ra manifests when any of the following conditions happen:
-- There is an absence of a visible flame, a dark street, a dimly lit dungeon, etc. 
-- There is visible ash, and fire dying down. 
-Ra doesn't manifest when:
-- The light is too bright, or it is simply too light, like a bright day outside.
-- The presence of another fire spirit is stronger. 
-Ra can be summoned by lighting a small flame in a dark room, and observing the small fire. 
-When Ra manifests, it will take the form of eyes watching from the darkness. A small asleep human, a fiery orb, or a similar form that can stand and observe. 
-Ra can be manifested into a semi physical [[Body]] by imbuing a part of a [[Soul]] into a fire, and granting it [[Life]]. 
-
-Ra's voice can be heard in your mind, even if it can't be heard out loud. Ra is only heard by those it wants to hear it. The voice sounds quiet, dim, but powerful. 
-
-# Relationships
-[[Helios]] is a nuisance. There is no need for a fire to burn that bright. There is no need to show off for just showing off. Helios doesn't know purpose, they're useless. 
-
-[[Prometheus]] is a more understandable spirit, but they don't use their fire in order to keep the world in an order. [[Human]]s were never made to advance, and that annoys Ra, but it keeps silent, as it realizes it's Prometheus's nature to advance the society. 
-
-[[The Sun]] is one of the reasons Ra can even exist. Ra doesn't pay attention to the sun, as on sun Ra has no purpose. And the day night cycle of the sun is the main reason of why Ra exists in the first place. 
-
-[[The Earth]] is a [[God]] whose creatures constantly grow. It's why Ra is here, and it loves this cycle. It views the earth as a very good place to stay, in comparison to the other places in the universe. 
-
-[[Human]]s are just another one of [[The God]]s creations, and other than taking them out when their time has come, Ra sees no great reason to interact with them, unless they show champion worthy capabilities. 
-
-File: Theory D&D\Things\Repellant Enchantment.md
-
-#Enchantment #Magic #Spell 
-An enchantment that can be placed on solid material to repel any energy that can be manipulated by the [[Push]] spell. 
-
-File: Theory D&D\Concepts\Magic\Ritual.md
-
-#Concept #Magic
-A ritual is an extended cast of a spell, typically requiring more than a minute, and placing more than just your [[Body]], typically either by making [[Rune]]s on objects, or the enviroment around you, bodily motions, lesser spells cast, manipulation of the forces around the ritual enviroment, as well as manipulation of the elements, and essences, together with specific speech in rituals that demand it, thinking specific thoughts, etc. 
-
-Depending on the ritual at hand, there are different materials that must be used to attain a certain purpose. 
-
-The rituals are divided into several categories. The categories are as follows:
-
-# By Components: 
-- Verbal (Requires the participants to say certain words/phrases/sounds at specific times)
-	- Mental (Requires for the participants in the ritual to think specific thoughts at specific times. )
-	- Religious (Requires for the caster to show devotion towards a specific diety, or a group of dieties)
-	- (Note that changing the [[Language]] in which the verbal component is performed in, can change the casting of the spell. )
-- Somatic (Requires bodliy motions, dances, or other bodily movements. )
-	- Ancillary (Requires other spells / rituals to be cast during this ritual. )
-- Material (Requires specific materials to be used in the casting of a ritual)
-	- Sacrificial (Requires a sacrifice, a material that is used up during the ceremony, and not retrieved afterwards)
-	- Talismanic (Requires a focus object that accumulates or directs energy during the casting. This object is often destroyed, transformed or enhanced during the ritual)
-	- Magical (Requires for the caster of the ritual to expend some amount of mana to activate the ritual, usually causing a soul or multiple souls to take damage)
-- Runic (Requires specifc runes to be drawn)
-	- Spatial Runic (Requires for runes to be manipulated to touch each other during certain parts of the ritual, requiring for the runes to either be carved on moving objects, or carved on the humans skin. )
-- Conditional (Requires an external condition in order for the ritual to take place)
-	- Temportal (Requires the ritual to be completed during a certain event)
-	- Locational (Requires the ritual to take place in a certain location for it to work)
-	- Enviromental (Requires for the enviroment around the casting of the ritual to fit certain conditions, such as a specific level of light, temperature, presence of specific natural forces, sound, or absence of the afformentioned)
-- Participatory (Requires a certain specific amount of people to participate in the ritual)
-	- Role Participatory (Requires for different participants of the ritual to execute different roles in the ritual, or by contributing specific energies)
-
-# By Purpose:
-- Invocation (Rituals that call something forth)
-- Transformation (Rituals that change something's nature)
-	- Severing (Rituals that cut connections (extracting souls, removing chakras, breaking pacts))
-	- Binding (Rituals that confine, contain or restrict)
-	- Cleansing and Corrupting (Rituals that change the purity of an object)
-- Divination (Rituals that reveal hidden knowledge)
-- Warding (Rituals that protect a space, object or a person)
-# By Complexity:
-- Simple
-	- Approximate casting time: 1-10 minutes
-	- Components: 1-2 components
-- Standart
-	- Approximate casting time: 10-60 minutes
-	- Components: 3-4 components
-- Complex
-	- Approximate casting time: 1-8 hours
-	- Components: 5-7 components
-- Grand
-	- Approximate casting time: 8-24 hours
-	- Components: 8+
-- Mythical
-	- Approximate casting time: 24+ hours
-	- Components: way too many
-# By Redundancy
-This exists only because a more inexperienced mage will usually use up way too many expensive components, while a master of the arcane arts will know that the ritual can be cast with a stick and 4 shiny rocks, as well as a birds eye. 
-
-| Mage Type      | Approach                                                                                                                        | Ritual Cost | Risk                                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Novice**     | Includes everything they've ever heard is required. Uses expensive materials, elaborate runes, multiple participants.           | Very high   | The ritual works, but they've wasted resources. The extra components might also introduce unintended effects.                                              |
-| **Apprentice** | Follows a known script without understanding why each component exists.                                                         | Medium-high | The ritual works if the script is correct. If the script includes redundant components, they're wasting effort. If it omits something essential, it fails. |
-| **Adept**      | Understands the purpose of each component. Can substitute equivalent components. Knows what can be left out.                    | Medium      | Efficient rituals. They can adapt to circumstances. They know when a "required" component is actually tradition, not necessity.                            |
-| **Master**     | Can reduce a ritual to its minimal viable components. Can perform extraction with a whisper, a single rune, and the right time. | Very low    | The ritual works with almost nothing. But the master knows _why_ it works, and knows the risks of minimal casting.                                         |
-
-
-File: Theory D&D\Concepts\Entities\Cryptids\Ses-Syquamlich.md
-
-#Cryptid #Entity #Concept 
-A [[Cryptid]] that lives in the depths of [[The Ocean]], emerging to the top only at nights due to [[Vertical Migration]]. 
-
-The Ses-Syquamlich is about 400 feet long, causing it to be between 4 and 5 times the length of the blue whale. 
-It feasts on the largest creatures in the sea, and is especially attracted to the light.
-
-Emerges once every month, to once every year, due to having strange metabolism, allowing it to hold on on having to feed for a while.
-Whenever it emerges from it's hiding spot near the bottom of the ocean, a small [[Earthquake]] can be registered in the area around it. 
-The only specimen has been discovered by only a seperate few cults:
-- [[The Government]] has redacted all of the accounts of the entity from public records that they could. 
-- [[Illuminati]] has set their interests on eliminating this entity in case it ever tries to attack a human vessel, and one of their autonomous submarines, "[[The Pequod]]" is perpetually monitoring the area where the creature was last spotted, with a mobile [[Nuke|Nuclear Missile]], ready to end the beast for good when they finally spot it again.
-- [[Paleolithic Deep State]] has had several encounters with the Ses-Syquamlich, and due to species preservation purposes for [[The Great Cycle|The Next Great Cycle]], they have granted the creature ageless [[Immortallity]]. 
-
-
-File: Theory D&D\Theories\Spiritual\Sexual or Erotic Energy.md
-
-#Concept #Magic #Theory
-Whenever someone is aroused, it lets out a tangible, physical force. This is related to [[Adult-Film Stars Leeching your Energy]]. 
-
-Now the main explanation for this is that when two people have sex, their souls intertwine, as a new [[Soul]] is sometimes born. This means that two people can produce [[Mana]] by having sex with each other. 
-
-This also means that there are some people that seduce you to suck out your own [[Soul]] and a part of your [[Mana]]. This is also why regular sex is healthy for your body. 
-
-File: Theory D&D\Things\Magic\Derivative Spells\Silence.md
-
-#Magic #Spell
-- Description:
-	- Silence is a spell derived from the [[Push]] spell, that allows a person to suck the words out of another person's mouth, meaning that they can't speak anymore (and can't complete the verbal components to spells).
-- Components:
-	- Ancillary: 
-		- (1) The [[Push]] spell must be cast on the target's mouth. For the next breath, any words that come out of the target's mouth are silent, and don't count as verbal components. Nobody can hear these words. 
-	- Magical:
-		- {2) The spell deals 1 soul damage to the caster. 
-- Exploits:
-	- (1.1) If the spell disrupts a verbal component, and the other caster has already moved onto executing the next component, their spell will be greatly impacted by the absence of a verbal component. 
-		- This does mean that if the caster realises this, and doesn't move onto the next component, the spell doesn't do anything, and they can just say the component with their next breath. 
-
-File: Theory D&D\Concepts\Entities\Cryptids\Skin Stealer.md
-
-#Cryptid 
-A creature that comes into existence whenever a [[Human]] uses [[Astral Projection]] to force their [[Soul]] out of their [[Body]], causing the soul that resided in their [[Human Skin|Skin]] to take over their body. 
-Since these beings have felt nothing but pain, they are usually wrathful creatures, ready to take down anything in their way. If the soul later returns to their body, they now inhabit the skin, and this gives the skin stealer the ability to use their soul to make [[Theory D&D/Concepts/Magic/Magic]] work. 
-These usually do nothing but try to take down as much human civilization as possible. 
-
-File: Theory D&D\Concepts\Entities\Cryptids\Solar Plexus Clown Glider.md
-
-#Entity #Race #Cryptid
-
-# Things to note:
-
-- Can be let into your mind by saying the phrase “solar plexus clown glider”, or staring at images of it over and over again.
-    
-- When it enters your mind, it can be similar to how it feels to be [[Possession|possessed]] or have your [[Soul]] removed from your body. 
-    
-- It can make faces appear around you and probably some other bad stuff.
-    
-- The more it infects, the more powerful it becomes. 
-    
-- It is a [[Cryptid]] that exists in the [[Hyper Reality]], and one of the things that can be encountered on your trip there. 
-
-  
-
-# Related Theories:
-
-- [[Solar Plexus Clown Gliders]]
-
-
-File: Theory D&D\Things\Magic\Rituals\Soul Access.md
-
-#Ritual #Magic 
-- Description
-	- A [[Ritual]] that allows for 2 entities to see each other's [[Soul]]s, and let the 4 of them (2 entities, 2 souls) talk in a pocket dimension. 
-- Components:
-	- 
-
-File: Theory D&D\Character Creation\Soul Mechanic.md
-
-#Magic
-When you play the game, you'll have a second health bar for your soul. You can use your souls hit points in order to cast spells. 
-If a creature runs out of soul hit points, the soul is ejected from the body, and is stunned for a minute. Any soul can enter the body as an action, and take posession of it. 
-
-There are some spells that consume your soul when you use them. There is a limit as to how many you can use per day, but you don't know that limit till you try to cast them, as that will be kept by the DM. 
-
-A soul regains all it's hp during a long rest. 
-Each soul starts with a 1d6 hit die, meaning it gets 6 hp at the first level, and 1d6 more hp each level. 
-
-A soul is the collection of memories accumulated through someone's life. If the soul is damaged, but not all of it's hp is removed, it can regenerate fully during a full rest. 
-
-
-File: Theory D&D\Concepts\Spiritualism and Soul\Soul.md
-
-#Concept #Magic
-# Things to note:
-
-- There’s a limited amount of souls in the world (due to the [[Bank of souls]])
-    
-- A person can be born without a soul, then they become [[Soulless]]
-    
-
-- There are always some spare souls, as when the souls run out, the end of the world will come. 
-    
-
-- There are cults of people with souls, that seek and eliminate other people with souls, to replenish the tree and to ward off the end of the world. 
-    
-
-- [[Methane]] is a byproduct of a soul being in a body, hence there can be no humans without methane, and to revive a soul, the body has to be full of methane, before a soul enters it.
-    
-
-- This means that the reason babies are born is because their mothers body produces some methane upon childbirth. How this could help you, I have no idea.
-    
-
-- When humans consume another entity, such as bread, or meat, that is when their body creates methane, as a way to get rid of the excess parts of the soul. This means that without feeding, you cannot have kids. 
-    
-- The souls have to spend an eternity inside of a heaven, or a hell, which is where the consciousness is left to rest forever, till they succumb to the nothingness, before being returned to the tree of life, for reincarnation. 
-    
-- Souls removed from the body can become ambient mana, if not redirected to heaven or hell. The usage of such mana chips away at them, meaning that mana is a renewable resource, but can run out. 
-    
-
-- Enough souls flying around can also get together to form a cryptid, or a ghost. 
-    
-
-- Souls can be removed from a body, and can enter a body. 
-    
-
-- They can be removed if they pass a certain threshold of damage received.
-    
-- A new soul can enter their place, if they overpower the body’s defenses, as well as the soul within it. Easier to do if the soul is weakened enough or if the body is empty.
-    
-
-- Normal souls are invisible when outside of a [[Human]] Body.
-
-A soul can be extacted from a [[Body]] by using [[Degusya Soul Extraction]]. 
-
-
-File: Theory D&D\Concepts\Entities\Human Related\Soul Related\Soulless.md
-
-#Race #Human #Entity #God
-A creature is [[Soulless]] if it does not possess a [[Soul]].
-
-Such a person has no free will, and is controlled by the system, or whatever power at hand. 
-
-Some Soulless people have the ability to decide whether or not a soul is worthy to enter [[Heaven]] or [[Hell]]. They are called the [[Empty Saints]].
-
-Soulless people also have a collective consciousness, that allows them to band together and think as one, creating [[The Simulation]] we call life. There are some cults that worship this [[Hivemind|collective consciousness]]
-, and try to lose their [[Soul]]s to achieve this.
-
-They are also not a part of [[The God]]
-
-File: Theory D&D\Things\Magic\Primal Spells\Spark.md
-
-#Magic #Spell #Lisal 
-- Description
-	- A simple spell, that converts a piece of a soul into a small spark, that can serve as an ignition mechanism for other [[Fire]] based concepts. 
-- Components:
-	- Verbal:
-		- (2) "flame"
-	- Somatic (One Handed):
-		- (1) Execute the following hand sign with one of your hands:
-		- ![[Pasted image 20260327110000.png|153]]
-			- ||This is done to push the space between the fingers small enough for it to produce heat, and a spark can be born. ||
-		- (3) Snap your fingers:
-			- ||Release the energy in the middle of the fingers as a fiery spark.||
-	- Magical: 
-		- (4) The soul takes 1 damage
-- Variations:
-	- (4.1 - Materios (+Astral)) The Magical component is replaced with a small, highly burnable material, or ambient mana. 
-		- This is used by mages who have such materials on hand, or young apprentices not willing to lose the power of their souls. 
-	- (4.2 - Hestia) The Magical component is increased to 1d4 soul damage.
-		- The spark turns into a small fire, that burns above your hand for 1 minute, or as long as the caster maintains concentration. 
-	- (2 - Lumos) is replaced with "lumos", and (3) is never executed. 
-		- The spell doesn't ever release the spark, and produces a faint light above the fingers, creating a small, 30ft light. This can persist for 1 minute, or as long as the caster holds concentration. 
-	- (2.1 and 4.3 - Anima (Lisal Only)) The word "anima" ||soul|| is said after "ignis", causing the Magical component to increase to 8d6, and the spark releases a white spark, instead of a red/orange/yellow spark, meaning that you've summoned an [[Omega Fire]]. 
-		- If you do not get out of there fast, you get consumed by the Omega Fire too. 
-		- Omega Fire consumes anything and everything, except for [[God]]s and if you haven't perished from the damage to your soul, you'll die really quickly if you linger around. 
-			- Omega fire doesn't consume the ground or the water, so it will burn out eventually.
-- Exploits:
-	- (3) can be executed whenever the caster snaps their fingers, letting the spark happen whenever it is required to happen. You can use this to prepare the spark for a later spell execution, as an ancillary component. 
-		- The magical cost is paid after the snap is complete. This lets you dead man's switch the soul spark variation, killing both you and another person with you as your snap happens the moment your hand finishes the spell. 
-
-File: Theory D&D\Things\Magic\Primal Spells\Store.md
-
-#Magic #Spell #Lisal 
-- Description:
-	- Store is a primal spell that allows for an item to be stored within a pocket dimension, to be released after the concentration on the spell ends. 
-- Components:
-	- Somatic: 
-		- (1) The caster touches the target that is targeted with the spell. 
-		- (4) The caster claps their hands together.
-			- While the target is stored, it is transformed into a concept, and can still be interacted with by the [[Push]] spell, or other essence manipulating spells. 
-				- The target is capable of thought, and can see and hear anything in the real world. This allows it to fufill only the Mental components of spells. 
-		- (5) When the caster takes their hands away from each other, the item reappears. 
-	- Mental:
-		  (2) The caster imagines the object they wish to store. 
-	-  Verbal:
-		- (3) The caster says: "Void" 
-- Notes:
-	- When cast, the entity that is targeted can simply choose not to get teleported, if the spell happened without their consent. 
-- Exploits:
-	- If the caster targets themselves with the spell, and disappears into the other dimension, since they don't exist anymore, and have no way to finish the somatic components of the spell, they can't get back into the real world. 
-		- A second cast of the spell can override the original spell, and cause the person to return to the normal world. 
-
-File: Theory D&D\Concepts\Entities\Gods\The Before.md
-
-#God #Cult 
-# Things to note:
-
-- A collection of people that have left their strongest [[Artifact]]s to the new world, just so that they can aid the new cycle to be better than the last.
-    
-- The [[Human Realm]] will progress faster for each thing they add, but if they add too much, we will get too powerful too quick to kill ourselves over stuff like this. 
-    
-- King [[Solomon]] had access to this knowledge, either because he was an alien, a creature from the old cycle that survived, or something equally.
-    
-- They made [[The Pyramids]] in the previous cycle. 
-    
-- The [[Templars Order]] has this knowledge. 
-    
-
-
-- [[Artifice Predance]]
-    
-- [[Pyramids built by the Templars Order]]
-
-[[The Great Cycle]]
-
-
-File: Theory D&D\Concepts\Magic\The Elements.md
-
-#Concept #Magic
-The elements are the naturally ocurring elements, that are often used in [[Theory D&D/Concepts/Magic/Magic]] due to their simplicity. 
-
-The elements so far are:
-- [[Electricity]]
-- [[Water]]
-- [[Fire]]
-- [[Wind]]
-- [[Soul]]
-- [[Light]]
-- Earth 
-
-Now, these are conceptually very simple, and most of them are related to [[Life]] itself, making them essential in learning magic. 
-
-And [[God]] said: "Let there be [[Light]]!" and it was lit. 
-Water came second, right after the [[Death]] of [[The God]]. 
-Then, a [[Soul]] flowed into every living being. 
-As the first sparks of thought appeared in a creatures brain, [[Electricity]] was born. 
-And the first embers that lit up a [[Fire]] were the ashes of the first man who died. 
-
-Water is the ichor of god. [[The Earth]] is it's body. This means that the being we know as mother nature was god itself. This does also mean that other planets are gods themselves. Dead or alive, we do not know, perhaps not functioning enough to have will, or too highly functioning for us to comprehend. 
-
-Since we know that [[Fire]] is alive, and is the manifestation of a soul, it would mean that [[The Sun]] is enshrouded in living beings, the same way that [[The Earth]] is. Making them both gods. 
-The people naming planets after gods wasn't a coincidence. The planets are gods. 
-
-
-File: Theory D&D\Cults\Minor Cults\The Family Buisness.md
-
-#Cult 
-A group of "Fathers" and "Mothers", that have banded together in order to take care of all the kids who have been detected to possess [[Magic]]al abilities at a young age. They are mainly making them to be the strongest of the strong, and letting other facilities like [[The Foundation]] to hire them out as hired guns, but with magic. Their services can be accessed by a link to a site on [[The Dark Web]]. 
-
-The family usually resides in a building labeled "The Mansion", and they primarily speak in latin, but they are well versed in many [[Language]]s such as english, french and russian. 
-
-
-# Roles
-
-## Child
-![[Pasted image 20260415105739.png|287]] ![[Pasted image 20260415105814.png|285]]
-A [[#Child]] is a [[Human]] child that was born with a [[Soul]] in their [[Body]], and a soul in their [[Human Skin|Skin]]. This allows them to have inherent access to [[Magic]]. Due to the public not needing to know about this, and entities such as [[The Foundation]] would to be overburdened by the amount of magical children running around, and due to not wanting to discard of all of the magical potential in the world, mothers have banded together places for children like these to learn magic, so they can be re-integrated into the higher eschalon of society as hired guns. Once a child reaches a high enough age, they can choose to leave the mansion, and pursue something in life, as long as they sign a blood contract to give 20%-25% of whatever they earn back to the mansions, and the mothers. This usually is still negligible due to the amounts of [[Money]] that these children being able to carry in, both as spies, hitmen, [[Politician]]s and other needed roles in society. 
-
-A child is told about this contract long before they have decided to leave for the world. They are told that they will be free, and will be able to do anything in the world, which is a wonderful feeling for them, who are born in captivity. In the very, very rare case, where even after growing up, and knowing the price of freedom they choose to disobey and not pay, the mother executes the child. 
-## Guardian
-![[Pasted image 20260415105442.png|282]]
-Usually takes the form of a butler, but also can take the form of a maid, in case the guardian is a female. 
-A [[#Guardian]] is a grown up [[#Child]] that has remained in the mansion, and has taken up the role of caring after other children. A guardian has taken ownership of the children's souls via [[Degusya Soul Extraction]], or a similar soul borrowing ritual. This means that at any point these people are able to exhaust the child's soul energy, making them fall asleep, or hurting them. They have the ability to burn up a child's soul energy too, leaving the child without any left, which usually means the child is kicked from the mansion. In rare cases the guardian is expelled themselves, and their soul energy transferred to the child they stole the energy from. 
-## Mother
-![[Pasted image 20260415103731.jpg|278]]
-A [[#Mother]] is the leading role, usually taking up the role of the leader in a mansion. A good way to think of them is as a kind of a queen bee. They have the ultimate authority in the mansion, and their soul is their own, and nobody can take it. They have taken the souls of all the [[#Guardian]]s of the mansion through [[Degusya Soul Extraction]], or a similar soul borrowing ritual, meaning they have access to all the children's souls too, often leading their soul HP to be in the thousands, making them some of the most consistently powerful magical entities out there. 
-
-A mother will try to dress as beautifully as she can on formal gatherings, as she is the main representation of the mansion they live in. Once a year the mothers of the world will gather together in a secret event called [[The Masquerade]].
-
-A mother will try to remain in control of their family in all situations. This will mean that if a [[#Child]] tries to rebel, they will often get executed by the mother in one of the ways that the mother chooses. They usually have a way to hurt the children in mind, earning them a name, such as [[The Mother of Broken Bones]], or The Mother of Blazing Flames, which sound very impactful, leading to them being respected more during meetings and events. 
-- When a child is executed in such a way, they usually die, but there are rare cases where the child is rendered soulless, and they become mindless servants of the mother of the mansion, helping with the menial labour. 
-## Father
-![[Pasted image 20260415104836.png|170]]
-A [[#Father]] serves the same role as the mother, but they have slightly lesser inherent [[Soul]] storage, due to the biological difference between males and females. They are slightly less respected than mothers due to this. There are some instances where a father and a [[#Mother]] coexist in the same mansion, which happens in larger mansions. In such cases, the mother has taken control of the fathers soul, as mothers have ultimate authority. 
-
-# Servant
-![[Pasted image 20260415112106.png|286]]
-
-Mindless creatures that were previously [[#Child]]ren or [[#Guardian]]s, imbued by the will and the love of a [[#Mother]]. They will wander the halls, and they will try to make sure everyone in the mansion is happy. They will clean the rooms up, and they will try to be as helpful and obey every command that is given to them. 
-
-Since they have no preservation instinct, this means that they will obey even impractical commands, and sometimes commands that will cause self harm/death. 
-
-The rules that they are forced to obey by the Mothers are such:
-- A servant may not allow for the inhabitants of the mansion, other than mothers and fathers, to leave, under any circumstances. 
-- A servant isn't allowed to hurt any of the mansions inhabitants. 
-- A servant must obey any and all commands given to them by the mansions inhabitants that don't clash with the previous two rules. 
-
-This leads to sicker thinking individuals such as socio/psychopathic children/guardians/mothers, to make servants kill themselves out of boredness/fun. This isn't a common practice due to the mess left afterwards, the negative impact of someone seeing this activity, the limited amount of servants, and the body left afterward. This can be done though to enforce fear and compliance into the children. 
-
-File: Theory D&D\Cults\Minor Cults\The Foundation.md
-
-#Cult 
-Since there are just so many god darn anomalies out there, the foundation is one of the entities that keep the public in the dark of them. Mainly by taking in anomalous items, and containing them. They do not wish to exterminate anomalies just in case, and are definetly not a ripoff of the SCP foundation (Definetly is though)
-
-The officials get sometimes invited to [[The Masquerade]]. 
-
-Whenever a foundation member encounters a child with [[Magic]]al capabilities, they are given over to [[The Family Buisness]], in exchange for being able to obtain some assistance with magicians back to help in their own operations. 
-
-File: Theory D&D\Concepts\Entities\Gods\The God.md
-
-#Character #God 
-# Things to note:
-
-- Is the embodiment of EVERYTHING. EVERYTHING is ULTIMATE GOD. 
-    
-- Wrote the laws of the universe, can rewrite the laws of the universe. 
-    
-- People proficient with [[Pattern Manipulation]] can perceive this entity for what it truly is. They can use this ability to perform acts of [[Theory D&D/Concepts/Magic/Magic]]. 
-    
-- Inhabits the [[Hyper Reality]].
-    
-- HE DOESN’T EXIST, as he gave a part of himself to create everything, as everything other than him is imperfect. If you combine everything in the world, you still get him, but has to be everything
-- The [[Blood|Ichor]] running through his veins is [[Water]]
-
-
-counts as a [[God]]
-
-File: Theory D&D\Things\Magic\Items\The Life Elixir.md
-
-#Thing #Item #Magic
-If you drink this, you achieve [[Immortallity]], and cannot die. 
-this is an [[Artifact]],
-
-File: Theory D&D\Events\The Masquerade.md
+File: D&D Knowledge/Obojima\Planned Events in the Future\Cabbage Festival.md
 
 #Event 
-A yearly event hosted by the family buisness, where the leaders of a mansion, A mother, and sometimes a father, will choose the 4 best children from the mansion, and take them with them to a massive masquerade. The mother will wear a dress that closely resembles her title, often leading to crimson colors in dresses. 
-The children they take with them will not be allowed to wander too far off from the mother, and will be tasked to perform for other parties if asked. They will usually be the strongest of the mansion they come from, so it is a common practice to put them in a gladiator arena, where only the strongest comes out. The goal isn't to kill, but there is a shame in losing, as you aren't invited to further masquerades if you lose. The winners are given recognition, and an additional title in the future masquerades, and this helps you a lot to become a mother on your own. 
+Lots of people with lots of cabbages, but the main thing is that the cabbage festival will hold the scuffle between [[Ren Morvu|Ren]] and his son [[Kane Morvu|Kane]]. 
 
-A lot of individuals from other cults are invited, with them being on peaceful terms during the masquerade. A child can be asked to perform for one of these guests during a masquerade. Some of the parties invited by the masquerade are:
-- [[Angel]]s (including [[Bill Clinton]])
-- [[Demon]]s
-- [[The Government]]
-- [[Illuminati]]
-- [[Cloned/Theory D&D/Cults/Major Cults/Paleolithic Deep State|Paleolithic Deep State]]
+### The Timeline
+- Ren and Kane are near the party, attending one of the minigames offered to them within the festival. Ren cheats a bit by using his abilities, which annoys Kane, as he isn't allowed to do so. This leads to the following dialogue: 
+	- Ren: "Come here son, take a look at this plushie"
+	- Kane (Visibly annoyed and angry at his dad): *Grumbles* "No"
+	- Ren(raises voice, is scared that people will pay them attention): "Come here, now!"
+	- Kane(Thinking that his father is evil for doing things he himself isn't allowed to do) *Yells* "NO! YOU NEVER LET ME DO ANYTHING! I HATE YOU!" *And then he runs away, past the party.*
+	- Ren(trying to stay as visibly clueless as possible): *sighs* "Kids. "
+- After Kane storms off, Ren goes to a bar to get drunk and forget about his problems. 
+- After a bit more time, when it gets dark and lanterns are lit to keep the festival going. 
+- Multiple ravens (made of shadows) emerge around the village, and attack the lanterns, extinguishing them or breaking them. 
+- After about an hour, in the middle of the village square, a bunch of shadows flow together into a large blob, and a dark figure of a crying child (Kane) can be seen in the middle. This turns into a large bull, that begins rampaging around the center of the village. It is weakened for each raven killed before. (Actually the ravens also turn into shadows, and merge together with the entity)
+	- If the bull is attacked, it becomes more afraid, and Kane is more afraid, making the bull stronger. It can be killed normally, but it's better to calm Kane down, either by making his dad say he is sorry, or by finding his mom to help him, casually talking to him, or some other way. 
+- After this, Kane emerges from within the bull, fighting against it, and disappears into the shadows on the ground unless light is shined. A big search begins, which ends when they find Kane at his own house, sleeping in his bed, fast asleep. (His mom brought him there)
 
-A masquerade exists in a different location every year, sometimes happening underneath the sky, sometimes under the ground. Due to the concentration of mothers the masquerade has an intense collection of [[Soul]]s, often exceeding the amounts that appear in the [[Hollow Earth]]. This allows for enchantments, and wards to be placed on the place, not only allowing for some of the greatest magical defenses, but also allowing for the place to be enchanted in some sophisticated way. It isn't uncommon for the place to disobey [[The Natural Forces]], often ending before it begins, allowing the people inside to experience zero [[Gravity]], and creating zones of absolute zero within the building itself. The masquerade usually lasts a week, but there are some edge cases where it takes less time. 
+File: D&D Knowledge/Obojima\Custom Magic Items.md
 
-## The Arena
-In the arena is where the children are placed against each other in a tournament like fashion. Four teams enter, one team leaves. In cases where there aren't enough teams, some of the losing teams are allowed in again, as a chance at a retribution. This is a team based game, where children who are unable to fight anymore are taken out, and the battles remain till only one side is left standing. 
+### Arcane Musician
+##### Magic Item, Common
+A retro cassette player, that allows it's holder to cast a spell using their own spell slots based on the song playing. Different cassettes hold different songs in them. 
+Cassette 1:
+- Cantrips:
+	- Africa - [[Water Whip, Variant]]
+- Lv 1 spells:
+	- Rasputin - Shield of Faith
+	- Starman - Healing Word
+### Pocket Trader
+##### Magic Item, Uncommon
+![[Pasted image 20260422173447.png]]
+The bottom half of a gumball machine, with the top half completely removed. If a gold flower is placed in the top part and the nick is turned 180 degrees, an item is produced from the table below, based on a d100 roll. 
+- (1-30) A round rock is produced. 
+- (31-35) A round rock that looks like a green gumball is produced. It tastes similarily, for about 10 seconds, when the taste disappears. 
+- (36-44) A green jawbreaker is produced. 
+- (45-80) A regular green gumball is produced. 
+- (81-96) A gumball with magical properties like those of potions is produced
+	- (81) A yellow gumball with two black lines side by side near the middle, Once you eat it, you can produce an egg, rock, coin, or 2-foot-long string from your mouth. This effect lasts until utilized. This doesn’t count against the number of potions you can have affecting your body at once. 
+	- (82) A red gumball with many black circles on it. Once you eat it for 1 minute, ladybugs fly out of your mouth when open, at a rate of 500 per minute. 
+	- (89) A blue gumball with a hole going all the way through it. When you drink this potion, your mind becomes charged with magical energy. For the next 8 hours, you gain a +2 bonus to Intelligence saving throws, and you gain resis tance to psychic damage. In addition, you can devour whole tomes of text, reading 10 times faster than normal
+	- (93) A orange gumball with a flame pattern. When imbibed, this gumball burns your throat and ignites an ember within you. For 24 hours, you are immune to fire damage. When the potion’s magic finally fades, the fire inside of you burns intensely from within, consuming you in flames and turning your body to ash. 1 hour later you appear in the nearest bonfire, reborn anew. All objects and clothing that were on your person when you were turned to ash are left by your original body.
+	- (96) A white gumball with two black spots on the either side of it. When consumed, you feel a rush of magical inspiration f low through you. You instantly learn a random 3rd-level spell. You can cast it without expending a spell slot, and once you do so, you can’t cast it in this way again until you finish a long rest. This potion’s effect is permanent, and it doesn’t count against the number of potions you can have affecting you at once. You can only cast this when you reach 5th level. 
+- (97) An orb of glass is produced. When looking through this glass, you can look into the spirit realm.
+- (98) An white, marble orb is produced, that becomes a marble bird when airborne. The bird behaves like a regular bird.
+- (99) A blue, transparent orb is produced, that becomes invisible to everyone except for the person who first touched it. If someone else touches the orb, they take 1d6 psychic damage. 
+- (100) An orb of solid gold is produced. It costs about 500 gold flowers. Once this effect is produced, each subsequent time a 100 is rolled, the orb is replaced by an explosive, magma-like ball, that explodes upon touching anything but the gumball machine. (fireball damage)
+Imma write the rest of the potion effects when they appear in the campaign
 
-Because of the need to host battles like these, each of the mansions has created a specific arena in their region, that allows for it to be unique to all the other arenas, and they usually have some interesting stuff in them, such as a maze, a labrynth, a sea battle, with warships that the contestants have to navigate. Due to this providing an obvious home advantage, the hosting party of the masquerade is often forbidden to engage in the tournament. 
+### The Whacking Stick
+##### Magic Item, common. 
+![[Pasted image 20260422175812.png|325]]
+When a creature is hit by this stick, they take 1d8+STR bludgeoning damage must succeed on a DC 12 Strength saving throw or be knocked prone. While prone, they become invisible until the beginning of their turn. 
 
-Sometimes the parties are exposed to a disobeying guardian, child, or whatever else, that must be killed to proceed, leading to the children having to display absolute obedience to their mother, and must kill a human as a show of loyality. If this individual remains the last one standing, they are granted freedom from the force of the masquerades, and they are exiled from there, with their magical force taken, and their memories wiped, letting them spend the rest of their days peacefully in the regular world. If a person dies, they die right there, on the spot, in the arena. 
+### The Immovable Brick
+##### Magic Item, common
+![[Pasted image 20260422180218.png|318]]
+When a foot is placed on this brick, the brick becomes glued to the foot for 1 minute. During this period, turning the brick completely flat like it would lie on a surface, causes it to become immovable in place. After the minute is over, the brick falls apart from the feet, usually causing the individual to fall with the brick
 
-## The Auction
-There is a seperate corner where magical items can be bought and sold, and stronger and more interesting ones are auctioned off, with the price being paid in [[Money]], [[Soul]] or [[Human]] workforce. 
-
-
-
-
-File: Theory D&D\Characters\Modern\The Mother of Broken Bones.md
+File: D&D Knowledge/Obojima\NPCs\Kane Morvu.md
 
 #Character 
-A [[The Family Buisness#Mother|Mother]] that is in charge of the mansion located in Latvia. She has earned her title due to her very violent and physical execution methods, often leading to the people she kills to end up with broken bones or severed [[Body]] parts. She was a child of a mansion once, and she won an arena battle during one of [[The Masquerade]]s, with a flawless 4 people victory. She is currently estimated to be around 1.8k [[Soul]] HP, which is on the lower end of mothers of the world, but despite this, she is well respected in the community due to the effectivity of her killing any of her enemies. Whenever she comes along on a mission, you know shit is about to go down, as she is the mother with the second highest mission success ratio. 
-## Backstory
-Born in 1910, birth name Marta Kalniņa, she was a latvian warrior that participated in ww2, and was later recruited to be experimented upon by [[The Government]], causing her to develop superhuman like abilities, and drastically increase her soul power, due to her body now having an amalgamation of three hearts (And the ability to hold three souls) so they could support her incredibly increased metabolism. She figured out on her own how to manipulate her physical form to such an extent to change the bone and blood structure, letting her reshape her body as needed. This did come at a huge drawback of no longer wanting anything, and having no purpose in life.
+Kane is the son of Ren Morvu. 
 
-She was approached in 1990 by [[The Family Buisness]], with an offering to start a mansion here in latvia, which she accepted. She saw this as a longer plan to keep the world safe, which was her only goal for now, so she devoted her time as much as she could to the training of the new children in the mansion, and perfecting her own skills. 
+### Appearance
+![[Pasted image 20260505112733.png|257]]
 
-## Personality
-This mother is cold, seemingly unfeeling, and extremely precise on what she wants, and will get it, with any means neccessary. This is what the outside world percieves her as. 
+### Backstory
+Kane was born with the ability to summon creatures from the shadows. He was born as the son of a shadow spirit named [[Viiki (Morvu)]] and a human with the ability to fly, named [[Ren Morvu]]. 
 
-Deep down, she is a broken individual, that sees little in life other than her purpose to protect the people. She will try to minimize the casualities, but if she deems it neccesary, she will not hesitate a second to kill a bystander to make herself more powerful. She will spare her own children, but everyone else is under risk. Despite this, deep down, she does feel a bit lonely, and she keeps herself that way, distant from everyone, not wanting her trained side to hurt someone that much. 
+### Abilities
+- Shadow Animism: Kane can turn shadows into creatures, all according to his imagination. This usually happens outside of his control, turning shadows into monsters when he is afraid. he is the only person who can manifest a physical sleep paralysis demon. 
+	- The less light there is, the stronger are his creatures. He keeps a lantern with him so he could always be in light.
+	- Kane can control his ability very slightly, but it is most powerful when he is afraid. 
 
-The Mother of Broken Bones wears a dress like seen in the picture to formal meetings, which not only represents the colors of her countries flag, but also very well represents what her children is afraid of becoming if they dare disobey. 
-![[Pasted image 20260415121546.png|318]]
+### Relationships
+- [[Ren Morvu]] - He feels that his father is limiting him very much. He wants to show off his powers, to be famous, to have many friends, but he thinks his father is limiting him for no reason. He believes his father doesn't know what he's talking about when he is referring to the [[Fish Head Coven|Forces that will take him away]], when he is told to hide his powers. 
+- [[Viiki (Morvu)]] - He can only connect to Viiki rarely. They meet once every six months, once on the winter and on the summer solstice. But he can sometimes hear her voice when he is sleeping. They get to talk in their dreams. He loves his mom, and he enjoys the time they spend together, but it does make him a bit sad that not every night he sees her, so he is happy whenever they are together. 
 
-## Appearance
-Due to her abilities she is able to reshape her body as needed, meaning that her formal dress is also made out of her own flesh and bones. She likes to remain in an average human's stature daily, and changes the shape of her face, and body whenever she wishes. She has a [[Faceless Enchantment]] cast on her, meaning that nobody can look at her true face. 
+File: D&D Knowledge/Obojima\Okiri Village.md
 
-She has taken many forms, due to her abilities, sometimes including a male, a giant, a dragon, flying creatures, fish, walls and waterfalls of blood, a swarm of pidgeons, [[UFO]], and other forms. While she prefers taking an organic form, she can transform into inorganic devices, and even mimic the bodily functions of a transformer. 
+#Location 
 
-## Powers
-Due to her abilities, she can use magic on anyone she can lay her eyes upon, often leading her to take forms with more than a single set of eyes. This can mean she has a swarm of eyes rotating around her head, or she tending to take the form of a biblically accurate [[Angel]]. 
-
-## Champions
-There are 4 children that will be accompanying her to [[The Masquerade]] this year:
-- [[Charon Berzins]]
-- [[Linda Dreiblathen]]
-- [[Jacob Grewich]]
-- [[Ruth Prauline]]
-
-File: Theory D&D\Things\Magic\Misc\Depression Overriding.md
-
-#Magic #Action #Thing 
-[[Theory D&D/Theories/Spiritual/Depression Overriding|Depression Overriding]]
-# Things to note:
-
-- You can turn a negative thing into a positive one, if you know how to manipulate patterns, and you can reverse depression. 
-    
-- This means that you can reverse all of the effects on your brain posed by the beasts in the [[Hyper Reality]], letting you stay there for a longer period of time. This will still kill you in the end, as some beasts will not let you free, but you can become a god for longer. 
-    
-- You can also use this to reverse the behaviour of some of the [[Hyper Beast]]s that live within [[Hyper Reality]], getting a memetic companion. 
-    
-- You can reverse the behavior of regular beasts too, turning enemies to friends. 
-    
-- If an attack on your soul is made, you can reverse the [[Negative Energy]], and absorb the [[Soul]] trying to possess you, becoming stronger.
-
-File: Theory D&D\Things\Magic\Misc\Despair Code.md
-
-#Magic #Thing 
-
-A [[Theory D&D/Things/Magic/Misc/Despair Code]] is a universal code for every person on earth that can “Activate them”, which can evoke feelings of [[Depression]] or [[Death]]
-
-This is a [[Cognitohazard]]
+This is where the [[Cabbage Festival]] will take place during session 2. 
 
 
-File: Theory D&D\Things\Magic\Misc\Forced Soul Removal.md
+File: D&D Knowledge/Obojima\NPCs\Ren Morvu.md
 
-#Magic #Action #Concept 
-[[Theory D&D/Theories/Souls n shit/Forced Soul Removal|Forced Soul Removal]]
-# Things to note:
+#Character 
+Ren is a human male, around the age of 47. He is the husband of a wandering spirit named [[Viiki (Morvu)]] and the father of [[Kane Morvu]] 
 
-- You can force a person's [[Soul]] out of their body, making it exist in the space around.
-    
+### Backstory
+Ren was born in [[Okiri Village]], and has lived his entire life in there. 
 
-- You can then use this soul however you’d like, using it for [[Mana]] or other purposes. 
-    
-- You can also push a different soul, or your own soul into their body, which is how [[Lich]]es stay alive over the years.
+When Ren was 8, he wandered a field, where he encountered a wizard in yellow robes, [[Tex the Wizard|Tex]]. Tex offered Ren a potion that would allow him to fly in exchange for his orange bicycle. He was levitating about 30 feet above the village for about 20 minutes, before he was brought down by a passing group of adventurers (that he to this day believes were good spirits), with a blue spectral mage hand. 
+He was kept inside for days, even weeks, but his ability to fly never ceased. His mother called exorcists, witches, other mages, to try and get her son to stop floating. He didn't. He was accepted into the [[Fish Head Coven]] as a disciple in order to learn to control his powers. 
+He escaped the coven at the age of 20, after mastering his powers, and has since lived in secret in [[Okiri Village]], as a lumberjack.
 
-File: Theory D&D\Things\Magic\Misc\Virus 23.md
+At around the age of 26, he wandered into the [[Spirit Realm]] after a spirit named [[Viiki (Morvu)|Viiki]] took interest in him. She lured him in as a beautiful woman, and they fell in love after some talking. He had a child with her 4 years later. The child became [[Kane Morvu]]. 
 
-#Magic #Thing #Entity
-[[Theory D&D/Theories/Spiritual/Virus 23|Virus 23]]
+### Abilities
+- Gravitational Manipulation: Ren can completely ignore the effects of gravity, if he chooses to. He can also simulate a gravitational field similar to his own pull in any direction. 
+	- If he pushes this gravitational field up, he gets to triple his carrying capacity, which he uses in his job as a lumberjack quite often. This has given him the reputation of the strongest man in the village. 
+- Temporary Flight: for about 60 seconds every hour, Ren can take flight (flying speed 60ft) to go in whichever direction he wishes to. He can't exceed 60 ft above the ground otherwise. He is able to move himself freely in space (like a viltrumite would in invincible), as long as it doesn't exceed 60 ft. He can go above that only a little. 
 
-**# Things to note:
+### Personality
+Ren likes to drink sometimes, and he enjoys to spend time building new things in this world, including making houses, and carpentry. But he also does enjoy the smell of a freshly cut tree in a morning. 
 
-- Can be hidden into anything. 
-    
-- When you observe a material with virus 23 in it, you get virus 23, which means that you get depression, sadness, and perhaps a part of your [[Soul]] is sucked out, and you become [[Soulless]]
-    
+File: D&D Knowledge/Obojima\Player Characters\Sneeze.md
 
-- When your soul is sucked out, it means that it has to go somewhere, so I guess the virus feeds on souls that it sucks from people? Except it doesn’t really grow stronger, so perhaps the souls actually can be harvested from the virus. This explains ambient [[Mana]], and ambient energy. 
-    
+#Character 
+Backstory: Being born shortly before the earthquake sneeze learns about his past self though the memories are foggy they lead them to an old shack that used to belong to the previous dara though its been in better shape all the stuff inside seems to be intaked. Sneeze notices all sorts of inventions and books. They're fascinated and intrigued by all of the stuff and stars exploring the shack. But suddenly the earthquake hits and Sneeze manages to barely escape before the shack collapses. After the ground stops shaking they gather all the items he can salvage from the rack in a sack and being intrigued by the earthquake he starts hedging in a random direction hoping to eventually find out more about the earthquake.
 
-- This is one of the sources from which ambient mana comes into the world. 
-    
-- A mutated, more developed version exists as the absolute [[Hyper Beast]] in the [[Hyper Reality]], that can’t be brought down by [[Theory D&D/Things/Magic/Misc/Depression Overriding|Depression Overriding]]. This beast gives you the ultimate [[Depression]], and causes you to commit [[Suicide]] in the end.
-This is a [[Memetic Hazard]].
+Race: Dara (Red)
+Inventory: 
 
-File: Theory D&D\Things\Magic\Primal Spells\Trigger.md
+- An abacus
+- ball bearings (1000)
+- block and tackle
+- flask of oil
+- an unfinished mechanical trinket
+- and 15 gold flowers. 
+- Pot Lid
+- Frying Pan
+- Leather armor
+- an explorer's pack
+	- a backpack
+	- a bedroll
+	- a mess kit
+	- a tinderbox
+	- 10 torches
+	- 10 days of rations
+	- and a waterskin.
+	- The pack also has 50 feet of hempen rope strapped to the side of it.
+- and a druidic focus
+- [[Custom Magic Items#Arcane Musician|Headphones]]
+- [[Custom Magic Items#Pocket Trader|Gumball Machine]]
+- [[Custom Magic Items#The Whacking Stick|Bat of Invisibility]]
 
-#Spell #Magic #Enchantment #Lisal 
-- Description:
-	- A rather simple spell, that allows you to cast a second spell upon a specific trigger. 
-- Components:
-	- Magical:
-		- (2) The spell deals 1d4 soul damage to the caster.
-	- Ancillary:
-		- (3) The components for the target spell must be cast. 
-	- Mental: 
-		- (1) The caster must think of the word "Gelios"
-		- (4) The trigger for the spell must be selected by the caster from the list below:
-			- There isn't a word specified within 20 seconds of casting the spell:
-				- The spell triggers instantly, whenever it is able to. 
-					- Note that this is very dangerous, and should never be done.
-			- "Varda"
-				- The spell triggers upon a verbal component is fufilled. When the word/phrase is spoken by the caster, the spell will trigger. This adds a verbal component to this spell and increases the magical component by a bit:
-					- (5) The chosen phrase must be spoken by the caster. 
-					- (2.1) The caster takes 1d6 additional soul damage. 
-			- "Darba"
-				- The spell triggers upon a somatic component is fufilled. When a movement is performed by the caster, the spell will trigger. This adds a somatic component to this spell and increases the magical component by a bit:
-					- (5) The chosen movement must be performed by the caster. 
-					- (2.1) The caster takes 1d6 additional soul damage. 
-			- "Doma"
-				- The spell triggers upon a mental component is fufilled. When the word/phrase/concept is thought of by the caster, the spell will trigger. This adds a mental component to this spell and increases the magical component by a bit:
-					- (5) The chosen word/phrase/concept must be thought of by the caster. 
-					- (2.1) The caster takes 3d6 additional soul damage. 
-			- "Und"
-				- The spell gains an additional trigger that must be fufilled in order for the spell to be cast. This functions as a logical AND gate.
-					- This increases the Magical component by 1 soul damage
-			- "Esto"
-				- The spell gains an additional trigger that can be completed instead of the current trigger in order for the spell to be cast. This functions as a logical OR gate.
-					- This increases the Magical component by 1 soul damage
-			- "Rotos"
-				- The spell will NOT be completed if the following trigger is active. Functions as a logical NOT gate. 
-- Variations:
-	- By casting the spell two times on the same target spell, the target spell will be triggered four times.
-	- By casting the spell three times on the same target spell, the target spell will trigger infinitely, until dispelled, or until the trigger spell runs out of ambient [[Mana]] to cast the spell, and breaking this spell in the process. 
-	- The ambient mana to trigger a spell will be sourced from the casters reserves. If the caster is at least 100 ft away from the trigger location of the spell, the spell will not affect 
-- Limitations:
-	- If there is insufficient ambient mana, the target spell won't be recast again, and the trigger spell will end. 
 
-File: Theory D&D\Concepts\Entities\Cryptids\Vampire.md
+Plot Hooks:
+- The Earthquake
+- His old life
 
-#Race #Entity #Cryptid  
-A [[Vampire]] has to either drink [[Blood]] or [[Cannibal|Eat]] [[Human|People]] to stay alive, but they have [[Immortallity]], so that's cool. 
+File: D&D Knowledge/Obojima\NPCs\Tex the Wizard.md
 
-File: Theory D&D\Things\Materials\Water.md
+#Character 
+Tex is a dimensional traveler, that had wandered these lands long before the party was here. He was a part of an elite wizard group called wizards of the coast, and he had appeared in [[Main Idea|this oneshot]] as a mentioned 4th character of the wizard group. He is silly, and he likes trolling people. He will appear once or twice in passing, but the party might encounter his dead body later down the line. 
 
-#Thing #Material #God #Magic 
-# Things to note:
+File: D&D Knowledge/Obojima\Things to keep in mind.md
 
-- Water is alive, because water is a part of [[The God]], the same way a [[Human]] with their [[Soul]] is.
-    
-- Water is the ichor coming from the veins of [[The God]]. That’s why every creature with enough water in them has the ability of choice, and free will. 
-    
-- Water is capable of growing differently based on environments it remains in, and it changes depending on how the people around it function. 
-    
-- Water can accumulate positive or [[Negative Energy]] around it. 
-- Water is one of [[The Elements]]. 
-- Water can be used to put out [[Omega Fire]]
+Passive RP Effects (For Lore writing/story writing):
+- Asher:
+	- Oh and the curse is that they were supposed to be a born a Sorcerrer but there body can't channel magic like a regular Sorcerrer so that's why they use the strings to pull magic from the astral plane, they can controll magic they just can't Chanel it through themselves
+	- If u Wana you can also make it so when I unlock spellcasting at lvl two the curse can disturb the magic similar to wild magic and the less the charecter has colntrol of there emotions the bigger the chance they fuck up trying to pull the magic and it goes wild
+	- You can ofc add stuff to the curse and write yourself exactly how it works as nether me or my charecter would fully understand it so it keeps the mystery alive
 
-# Related Theories:
+Active RP Effects:
+- Asher:
+	- 
+- KingToh:
+	- They have 4 magical items that they do not know the purpose of:
+		- [[Custom Magic Items#Arcane Musician|Arcane Musician]]
+		- [[Custom Magic Items#Pocket Trader|Pocket Trader]]
+		- [[Custom Magic Items#The Whacking Stick|The Whacking Stick]]
+		- [[Custom Magic Items#The Immovable Brick|The Immovable Brick]]
 
-- [[Dr Emoto's Water Experiments]]
-    
-
-File: Theory D&D\Concepts\Entities\Cryptids\Zombie.md
-
-#Entity #Cryptid #Concept 
-A [[Zombie]] is a creature, most usually a [[Human]], that has the ability to spread it's condition of being a [[Zombie]] to other creatures, most usually humans. 
-
-Most of the zombies are agressive, and will try to convert as many people to their side as they are capable of. 
+Random Ideas:
+- Poison: 
+	- When I played with my friends, we had our own homebrew rules. Poisons in each location and from different enemies worked in different ways, so they had to be treated differently. Some, for example, didn’t work at low temperatures, so you had to cool the body down. Others were the opposite. You could also buy antidotes in a nearby village before setting out, but of course we always wanted to save money. Which is why we often ended up running with a wounded teammate over our shoulders while he was dying, with only seconds left to live. There was also this extra mechanic: if an ally was knocked while poisoned, a sort of timer would appear showing roughly when they’d die.
+	- Just be careful with how you implement this. It needs to be introduced into the story properly so it feels natural and cohesive. Ideally, the players shouldn’t know about the poison at all, so they’re constantly worried about whether they might survive or not. Or, on the other hand, if they were in the city before, don’t explicitly tell them about the horrific things that happen to victims of this poison. Then, on-site, you can balance it through mechanics like damage, application method, and effects, so players are genuinely afraid of getting poisoned. Or, alternatively, make them feel relieved and even proud of themselves for buying antidotes but in that case, make the antidotes expensive enough that, due to financial constraints alone, players are still hesitant to get them in the first place.
+	- As many as the DM felt like coming up with at the time. Some were just improvised on the spot. But usually they were designed around a specific location. NPCs would even warn us beforehand, since we were new adventurers in town, that it’d be a good idea to prepare for that kind of poison. And then they’d call us idiots for not bringing antidotes.

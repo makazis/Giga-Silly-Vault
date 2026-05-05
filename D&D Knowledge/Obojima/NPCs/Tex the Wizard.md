@@ -1,0 +1,2 @@
+#Character 
+Tex is a dimensional traveler, that had wandered these lands long before the party was here. He was a part of an elite wizard group called wizards of the coast, and he had appeared in [[Main Idea|this oneshot]] as a mentioned 4th character of the wizard group. He is silly, and he likes trolling people. He will appear once or twice in passing, but the party might encounter his dead body later down the line. 

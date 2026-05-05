@@ -4,8 +4,9 @@ path1="Theory D&D"
 path2="Wendigoon D&D/HFY Power Armor"
 path3="Theory D&D/Things/Magic"
 path4="D&D Knowledge"
+path5="D&D Knowledge/Obojima"
 data={}
-for root,dirs,files in os.walk(path1):
+for root,dirs,files in os.walk(path5):
     for file in files:
         if file.endswith(".md"):
             path=os.path.join(root,file)
@@ -20,9 +21,9 @@ relevant_tags=[
     #"#God",
     #"#Cryptid",
     #"#Theory",
-    #" "
-    "Masquerade",
-    "The Family Buisness"
+    " "
+    #"Masquerade",
+    #"The Family Buisness"
 ]
 c=0
 for key in sorted(list(data.keys())):
